@@ -104,6 +104,37 @@
 
 - 增加了事件绑定
 - 增加了程序逻辑，if /else
+- 增加了数据预处理中心，可以对数据进行预处理和缓存
+
+-这里是使用了 vue2 的部分代码
+
+```html
+<script>
+  let vm = new Vue({
+         el: '#app',
+         data: data,
+         // 資料處理中心
+         computed: {
+           current() {
+             return this.menu[this.index]
+           },
+           total() {
+             return this.menu.length
+           },
+         },
+         methods: {
+           changeIndex(change) {
+             this.index = (this.index + change + this.total) % this.total
+
+             /*
+           this.index += change
+           if (this.index < 0) this.index = 0
+           else if (this.index > this.menu.length - 1) this.index = this.menu.length - 1
+           */
+           },
+         },
+</script>
+```
 
 ## 参考文件
 
