@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "掌握前端技术"
   text: "从零掌握前端技术"
-  tagline: My great project tagline
+  tagline: 了解前端技术，关于产品设计、交互的技术
   actions:
     - theme: brand
       text: Markdown Examples
