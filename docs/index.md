@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "掌握前端技术"
-  text: "前端学习从入门到精通"
+  text: "从零掌握前端技术"
   tagline: My great project tagline
   actions:
     - theme: brand
