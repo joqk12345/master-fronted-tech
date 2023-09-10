@@ -8,18 +8,18 @@ hero:
   tagline: 了解前端技术，关于产品设计、交互的技术
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Vue3
+      link: /guide/vue3/vue3-beginer
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: WebExt
+      link: /guide/webExt/webExt.md
 
 features:
-  - title: Feature A
+  - title: HTML
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: CSS
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: JavaScript
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
