@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "掌握前端技术",
   description: "从零掌握前端技术",
-  // base:"/master-fronted-tech",
+  base:"/master-fronted-tech/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
