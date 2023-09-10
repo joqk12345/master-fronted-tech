@@ -136,6 +136,25 @@
 </script>
 ```
 
+### 3. 表单操作与双向绑定
+
+- v-model： 双向绑定
+
+1. 将属性绑定、和事件绑定合二为一，省去大量冗余代码；
+2. 将 input 的 value 属性绑定到 model 的 modelValue 的 prop
+3. 将 input 的事件触发时，触发一个携带新值的 update：modelValue 的自定义事件
+
+```html
+<input v-model="searchText" />
+// 等价于
+<input :value="searchText" @input="searchText = $event.target.value" />
+// 展开的结果
+<CustomInput
+  :modelValue="searchText"
+  @update:modelValue="newValue => searchText = newValue"
+/>
+```
+
 ## 参考文件
 
 1. [springboot-template-engines](https://www.baeldung.com/spring-template-engines)
