@@ -162,8 +162,8 @@
 - 动画的切换本质是 dom 的切换
 - 需要画出 dom
 - dom 切换的 6 个状态
-  ![dom实现动画效果](anime.png)
-- <transition> 实现动画的组件
+![dom实现动画效果](anime.png)
+<!-- - <transition> 实现动画的组件 -->
 
 -JQuery 做法
 ![Jquery实现动画效果](image.png)
