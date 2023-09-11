@@ -168,6 +168,10 @@
 -JQuery 做法
 ![Jquery实现动画效果](image.png)
 
+### 5. 数据变更之后的事件绑定
+
+watch
+
 ## 参考文件
 
 1. [springboot-template-engines](https://www.baeldung.com/spring-template-engines)
