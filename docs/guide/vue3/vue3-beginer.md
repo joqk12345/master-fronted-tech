@@ -173,6 +173,10 @@
 
 ### 6. Lifecycle Hooks Vue 的生命周期
 
+### 7. 网络请求 axios
+
+### 8. 组件管理
+
 watch
 
 ## 参考文件
