@@ -177,12 +177,18 @@
 
 ### 8. 组件管理
 
-### 9. 路由管理与
+### 9. 路由管理
 
 - 路由管理
   [router-vue](https://router.vuejs.org/zh/guide/)
 - 嵌套路由
+- 动态路
 
+### 10. 状态管理
+
+- 集中式状态管理
+- 手动的状态管理
+- 基于[pinia]的状态管理(https://pinia.vuejs.org/zh/)
   watch
 
 ## 参考文件
