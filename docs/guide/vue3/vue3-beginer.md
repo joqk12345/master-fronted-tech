@@ -177,7 +177,13 @@
 
 ### 8. 组件管理
 
-watch
+### 9. 路由管理与
+
+- 路由管理
+  [router-vue](https://router.vuejs.org/zh/guide/)
+- 嵌套路由
+
+  watch
 
 ## 参考文件
 
