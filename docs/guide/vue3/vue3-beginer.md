@@ -212,6 +212,8 @@
 
 ### 11. 什么是渐进式框架
 
+![渐进时框架](https://miro.medium.com/v2/resize%253Afit%253A720/format%253Awebp/1%252AlpKxCwsYOY2cheoqZYPEnQ.png)
+
 ## 参考文件
 
 1. [springboot-template-engines](https://www.baeldung.com/spring-template-engines)
