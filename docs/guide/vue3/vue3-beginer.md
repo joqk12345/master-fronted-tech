@@ -162,7 +162,7 @@
 - 动画的切换本质是 dom 的切换
 - 需要画出 dom
 - dom 切换的 6 个状态
-  <!-- ![dom实现动画效果](anime.png) -->
+  ![dom实现动画效果](/images/anime.png)
   <!-- - <transition> 实现动画的组件 -->
 
 -JQuery 做法
@@ -209,6 +209,8 @@
   3. 他（菠萝） 也是一种原产于南美洲的热带水果
   4. 他是 MMVC 中的 viewModel 的基础，有点类似于 JavaEE 中的 JavaBean；
      watch
+
+### 11. 什么是渐进式框架
 
 ## 参考文件
 
