@@ -214,6 +214,20 @@
 
 ![渐进时框架](https://miro.medium.com/v2/resize%253Afit%253A720/format%253Awebp/1%252AlpKxCwsYOY2cheoqZYPEnQ.png)
 
+### 12. 服务端渲染 SSR
+
+- Nuxt
+- Next.js
+
+### 13. 静态网站
+
+### 14. 插件
+
+### 15. 其他资源推荐
+
+1. [vue-awesome](https://github.com/vuejs/awesome-vue)
+2. [nuxt-awesome](https://github.com/nuxt/awesome)
+
 ## 参考文件
 
 1. [springboot-template-engines](https://www.baeldung.com/spring-template-engines)
