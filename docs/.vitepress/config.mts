@@ -3,16 +3,21 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'cn-ZH',
-  title: '掌握前端技术',
-  description: '从零掌握前端技术',
+  title: '学习计算机科学',
+  description: '从零掌握编程技术',
   base: '/master-fronted-tech/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    search: {
+      provider: 'local',
+    },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Vue3', link: 'guide/vue3/vue3-beginer' },
       { text: 'WebExt', link: 'guide/webExt/webExt' },
-      { text: 'Bootstrap', link: 'guide/bootstrap/bootstrap-beginer' },
+      {
+        text: 'Bilibili',
+        link: 'https://space.bilibili.com/211794005?spm_id_from=333.1007.0.0',
+      },
     ],
 
     sidebar: [
@@ -29,7 +34,7 @@ export default defineConfig({
         text: 'CSS',
         items: [
           // { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'Bootstrap', link: '/api-examples' },
+          { text: 'Bootstrap', link: 'guide/bootstrap/bootstrap-beginer' },
         ],
       },
       {
@@ -40,12 +45,29 @@ export default defineConfig({
         ],
       },
     ],
-
+    footer: {
+      message:
+        'Released under the <a href="https://github.com/vuejs/vitepress/blob/main/LICENSE">MIT License</a>.',
+      copyright:
+        'Copyright © 2013-present <a href="hhttps://github.com/joqk12345/">Galaxies</a>',
+    },
     socialLinks: [
       {
         icon: 'github',
         link: 'https://github.com/joqk12345/master-fronted-tech',
       },
     ],
+  },
+  markdown: {
+    theme: 'material-theme-palenight',
+    lineNumbers: true,
+
+    // adjust how header anchors are generated,
+    // useful for integrating with tools that use different conventions
+    anchor: {
+      slugify(str) {
+        return encodeURIComponent(str)
+      },
+    },
   },
 })
