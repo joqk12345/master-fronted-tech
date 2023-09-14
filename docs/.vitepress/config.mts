@@ -49,7 +49,7 @@ export default defineConfig({
       message:
         'Released under the <a href="https://github.com/vuejs/vitepress/blob/main/LICENSE">MIT License</a>.',
       copyright:
-        'Copyright © 2013-present <a href="hhttps://github.com/joqk12345/">Galaxies</a>',
+        'Copyright © 2013-present <a href="hhttps://github.com/joqk12345/">Gizmo的小宇宙</a>',
     },
     socialLinks: [
       {
