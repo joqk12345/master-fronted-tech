@@ -63,3 +63,4 @@
 
 ## 参考文章
 1. [Manifest file format](https://developer.chrome.com/docs/extensions/mv3/manifest/)
+2. [跨域网页请求](https://developer.chrome.com/docs/extensions/mv3/network-requests/#interaction-with-csp)
