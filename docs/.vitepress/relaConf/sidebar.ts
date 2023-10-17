@@ -10,11 +10,11 @@ export const sidebar: DefaultTheme.Sidebar = {
       items: [
         {
           text: '栈-深拷贝和浅拷贝',
-          link: '/column/Algorithm/001_Stack'
+          link: '/column/Algorithm/001_stack'
         },
         {
           text: '队列-事件循环',
-          link: '/column/Algorithm/002_Queue'
+          link: '/column/Algorithm/002_queue'
         }
       ]
     },
@@ -24,11 +24,11 @@ export const sidebar: DefaultTheme.Sidebar = {
       items: [
         {
           text: '字典和集合-Set和Map',
-          link: '/column/Algorithm/003_Dictionary'
+          link: '/column/Algorithm/003_dictionary'
         },
         {
           text: '树-深/广度优先遍历',
-          link: '/column/Algorithm/004_Tree'
+          link: '/column/Algorithm/004_tree'
         }
       ]
     }
