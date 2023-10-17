@@ -1,4 +1,6 @@
 import { defineConfig } from 'vitepress'
+import { nav } from './relaConf/navbar';
+import { sidebar } from './relaConf/sidebar';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -8,43 +10,17 @@ export default defineConfig({
   base: '/master-fronted-tech/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/avatar.jpg',
     search: {
       provider: 'local',
     },
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'WebExt', link: 'guide/webExt/webExt' },
-      {
-        text: 'Bilibili',
-        link: 'https://space.bilibili.com/211794005?spm_id_from=333.1007.0.0',
-      },
-    ],
-
-    sidebar: [
-      {
-        text: 'Javascript',
-        items: [
-          // { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'Typescript', link: '/guide/typescript/handbook' },
-          { text: 'Jquery', link: '/api-examples' },
-          { text: 'Vue3', link: 'guide/vue3/vue3-beginer' },
-        ],
-      },
-      {
-        text: 'CSS',
-        items: [
-          // { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'Bootstrap', link: 'guide/bootstrap/bootstrap-beginer' },
-        ],
-      },
-      {
-        text: 'HTML',
-        items: [
-          // { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'HTML5', link: '/api-examples' },
-        ],
-      },
-    ],
+    outline: {
+      level: [2, 6],
+      label: '本页目录',
+    },
+    i18nRouting: true,
+    nav:nav,
+    sidebar: sidebar,
     footer: {
       message:
         'Released under the <a href="https://github.com/vuejs/vitepress/blob/main/LICENSE">MIT License</a>.',
