@@ -2,8 +2,8 @@ export * from './sidebar';
 import { DefaultTheme } from 'vitepress';
 
 export const sidebar: DefaultTheme.Sidebar = {
-  // /column/Algothm/表示对这个文件夹下的所有md文件做侧边栏配置
-  '/column/Algorithm/': [
+  // column/Algothm/表示对这个文件夹下的所有md文件做侧边栏配置
+  'column/Algorithm/': [
      // 第一部分
     {
       text: '栈和队列',
