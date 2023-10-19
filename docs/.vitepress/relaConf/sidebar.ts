@@ -42,7 +42,11 @@ export const sidebar: DefaultTheme.Sidebar = {
       },
   ],
   'guide/':[
-     
+    {
+      text: 'Vue3', items: [
+          {'text': 'Store', link: '/guide/vue3/001-pinia'},
+        ]
+      },
       {
         text: 'CSS',
         items: [
