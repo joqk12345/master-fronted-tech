@@ -12,6 +12,10 @@ export const nav: DefaultTheme.NavItem[] = [
       {
         text: '数据结构与算法',
         link: '/column/Algorithm/' // 对应docs/column/Algorithm下的idnex.md文件
+      },
+      {
+        text: 'JavaScript学习',
+        link: '/gudie/javascript/' // 对应docs/column/Algorithm下的idnex.md文件
       }
     ]
   },
