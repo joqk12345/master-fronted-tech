@@ -15,7 +15,7 @@ export const nav: DefaultTheme.NavItem[] = [
       },
       {
         text: 'JavaScript学习',
-        link: '/gudie/javascript/' // 对应docs/column/Algorithm下的idnex.md文件
+        link: '/guide/javascript/' // 对应docs/column/Algorithm下的idnex.md文件
       }
     ]
   },

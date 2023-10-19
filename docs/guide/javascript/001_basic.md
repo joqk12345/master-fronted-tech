@@ -75,8 +75,9 @@ doSomething()
   })
   .catch(failureCallback);
 
-
 ```
+- 目前看到的是单链的处理
+
 
 
 ## 参考文件

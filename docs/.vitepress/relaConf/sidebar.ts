@@ -33,15 +33,16 @@ export const sidebar: DefaultTheme.Sidebar = {
       ]
     }
   ],
-  'guide/':[
-      {
+  'guide/javascript/': [
+    {
         text: 'Javascript',
         items: [
-          // { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'Typescript', link: '/guide/typescript/handbook' },
-          { text: 'Vue3', link: 'guide/vue3/vue3-beginer' },
+          { text: 'Promise', link: '/guide/javascript/001_basic'},
         ],
       },
+  ],
+  'guide/':[
+     
       {
         text: 'CSS',
         items: [
