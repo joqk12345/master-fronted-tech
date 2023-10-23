@@ -52,6 +52,7 @@ export const sidebar: DefaultTheme.Sidebar = {
         items: [
           // { text: 'Runtime API Examples', link: '/api-examples' },
           { text: 'Bootstrap', link: 'guide/bootstrap/bootstrap-beginer' },
+          { text: 'CSS3', link: 'guide/css/001_layout' },
         ],
       },
       {
