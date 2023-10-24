@@ -31,4 +31,54 @@ npm i
 npm run dev
 ```
 
+```
+
+➜  my-test yarn create vite
+yarn create v1.22.19
+warning package.json: No license field
+[1/4] 🔍  Resolving packages...
+[2/4] 🚚  Fetching packages...
+[3/4] 🔗  Linking dependencies...
+[4/4] 🔨  Building fresh packages...
+
+success Installed "create-vite@4.4.1" with binaries:
+      - create-vite
+      - cva
+✔ Project name: … anything-to-audio-crx-ts
+✔ Select a framework: › Vue
+✔ Select a variant: › TypeScript
+
+Scaffolding project in /Users/kai.qiao/workspace/fonted/my-test/anything-to-audio-crx-ts...
+
+Done. Now run:
+
+  cd anything-to-audio-crx-ts
+  yarn
+  yarn dev
+```
+
+
+## 增加路由
+
+```
+yarn add vue-router@4
+```
+### 集成Element Plus
+
+```
+yarn add element-plus
+```
+在项目中引入组件库
+```
+import ElementPlus from 'element-plus'
+import 'element-plus/dist/index.css'
+import en from 'element-plus/dist/locale/en.mjs'
+createApp(Options)
+  .use(ElementPlus, { locale: en })
+  .use(router)
+  .mount('#app')
+
+```
+
+
 [vite构建多页面程序](https://juejin.cn/post/7106707438900314148)
