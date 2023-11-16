@@ -3,3 +3,6 @@ docs/.vitepress/cache/*
 docs/.vitepress/dist/*
 docs/.vitepress/public/*
 .vitepress/cache/*
+
+
+docs/guide/chrome-ext/*
