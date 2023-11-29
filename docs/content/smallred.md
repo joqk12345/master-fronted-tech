@@ -12,6 +12,15 @@
 | 1122   |  理想汽车  |   |  |
 | 1123   |  海缘时代终结，河流文明回归  | [海缘时代终结，河流文明回归](https://mp.weixin.qq.com/s/ucFXtNxXoLWa6lrOkLPDsA)  |  |
 | 1124   | 王朝只是中国的肉身，文明才是中国的灵魂   | [文明](https://mp.weixin.qq.com/s/vCEnLX6s73-Qlgw7wWWe5g)   |  |
+| 1125   | 阿里巨变，第二季   | 内容6   |  |
+| 1126   | 印尼发现的最古老金字塔   | 内容6   | [Title](https://mp.weixin.qq.com/s/7injQMZGMOeamO7IrIuEzw) |
+| 1127   | 2023年10月的金融统计数据报告显示   | 内容6   |  |
+| 1128   | OpenAI创始人被突击罢免始末   | 内容6   |  |
+| 1129   | 人民币国际化重磅｜中沙（特）签署本币互换协议   | [内容6](https://mp.weixin.qq.com/s/hZuNRVi1xP2D29F8Y_0cWg)   |  |
+| 1130   | 不愿意买房”的进一步分析   | 内容6   |[Title](https://mp.weixin.qq.com/s/z40Ez1ikIbEcFnqa7nDm2w)  |
+| 1201   | 长期复利的力量   | 内容6   |  [done](https://mp.weixin.qq.com/s/x65hOrM50XXVWyf2z3kdPA)|
+| 1202   | 中植系暴雷   | 内容6   | [Title](https://36kr.com/p/2530673905246083) |
+
 
 ### tech
 
@@ -20,9 +29,22 @@
 | 1116   | react开发roadmap   |   twitter |  反响不错|
 | 1117   | vue开发roadmap   | 内容6   |  |
 | 1119   | 内容5   | 内容6   |  |
+| 1120   | DNS工作原理   | 内容6   |  |
+| 1121   | redis-cheatsheet-1   | 内容6   |  |
+| 1122   | redis-cheatsheet-2  | 内容6   |  |
+| 1123   | 自监督表征学习  | 内容6   |  |
+| 1124   | 自监督表征学习2  | 内容6   |  |
+| 1125   | async-io-python-roadmap  | 内容6   |  |
+| 1126   | async-io-java-roadmap  | 内容6   |  |
+| 1127   | async-io-c++-roadmap  | 内容6   |  |
+| 1128   | async-io-JavaScript-roadmap  | 内容6   |  |
+| 1129   | async-io-golang-roadmap  | 内容6   |  |
+| 1130   | AI赋能数据产品价值链变革  | [内容6](https://medium.com/@kyyberi/unlocking-the-future-of-data-products-business-focused-ai-agents-team-99cbfac8fa7a)   | [数据产品](https://waytoagi.feishu.cn/wiki/DaUTwIF1aiMPXlkAZsNcPJJgnsg?table=ldxC51iXCYvGX8D1) |
+| 1201   | functional-imperative-object-oriented-programming-comparison  | [内容6](https://www.digitalocean.com/community/tutorials/functional-imperative-object-oriented-programming-comparison)   |  |
 
 
 ### 抖音
+
 | 计划发布日期 | 内容 | 信息源 |备注|
 |---------|---------|---------|-|
 | 1119   | 大流士大帝（公元前550年-公元前486年）   | 内容6   |  |
