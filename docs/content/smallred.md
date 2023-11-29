@@ -40,7 +40,7 @@
 | 1128   | async-io-JavaScript-roadmap  | 内容6   |  |
 | 1129   | async-io-golang-roadmap  | 内容6   |  |
 | 1130   | AI赋能数据产品价值链变革  | [内容6](https://medium.com/@kyyberi/unlocking-the-future-of-data-products-business-focused-ai-agents-team-99cbfac8fa7a)   | [数据产品](https://waytoagi.feishu.cn/wiki/DaUTwIF1aiMPXlkAZsNcPJJgnsg?table=ldxC51iXCYvGX8D1) |
-| 1201   | functional-imperative-object-oriented-programming-comparison  | [内容6](https://www.digitalocean.com/community/tutorials/functional-imperative-object-oriented-programming-comparison)   |  |
+| 1201   | functional-imperative-object-oriented-programming-comparison  | [编程模式](https://www.digitalocean.com/community/tutorials/functional-imperative-object-oriented-programming-comparison)   |  |
 
 
 ### 抖音
