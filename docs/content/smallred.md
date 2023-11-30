@@ -20,6 +20,14 @@
 | 1130   | 不愿意买房”的进一步分析   | 内容6   |[Title](https://mp.weixin.qq.com/s/z40Ez1ikIbEcFnqa7nDm2w)  |
 | 1201   | 长期复利的力量   | 内容6   |  [done](https://mp.weixin.qq.com/s/x65hOrM50XXVWyf2z3kdPA)|
 | 1202   | 中植系暴雷   | 内容6   | [Title](https://36kr.com/p/2530673905246083) |
+| 1203   | PDD  | 内容6   | [理解拼多多，就是理解消费新趋势](https://mp.weixin.qq.com/s/BnwQlAwp0on0xgkzs3fyfw) |
+| 1204   | 美团  | 内容6   | [美团](https://mp.weixin.qq.com/s/8yLm6yO8N4p9a4oKd2vr_Q)|
+| 1205   | b站  | 内容6   | [B站2023Q3](https://mp.weixin.qq.com/s/2sNxoN23TFbdLrChs4xL5g)|
+| 1206   | 查理  | 内容6   | [ma](https://mp.weixin.qq.com/s/5TCfj2TwgaXNuN8xKcTb-A)|
+| 1207   | 基辛格  | 内容6   | [基辛格](https://mp.weixin.qq.com/s/QJfjtY9sK-l-ukaBDz0heQ)|
+| 1208   | 金融大国 | 内容6   | [金融大国vs金融强国](https://mp.weixin.qq.com/s/G6h5i6QDYUTj-ADd2tY0lA)|
+
+
 
 
 ### tech
@@ -41,6 +49,7 @@
 | 1129   | async-io-golang-roadmap  | 内容6   |  |
 | 1130   | AI赋能数据产品价值链变革  | [内容6](https://medium.com/@kyyberi/unlocking-the-future-of-data-products-business-focused-ai-agents-team-99cbfac8fa7a)   | [数据产品](https://waytoagi.feishu.cn/wiki/DaUTwIF1aiMPXlkAZsNcPJJgnsg?table=ldxC51iXCYvGX8D1) |
 | 1201   | functional-imperative-object-oriented-programming-comparison  | [编程模式](https://www.digitalocean.com/community/tutorials/functional-imperative-object-oriented-programming-comparison)   |  |
+| 1203   | 浏览器插件架构  | 内容6   | [浏览器插件架构](https://medium.com/@yoshi2586/architecture-of-chrome-extension-9188c026c069)|
 
 
 ### 抖音
