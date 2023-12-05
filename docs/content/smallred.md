@@ -26,8 +26,14 @@
 | 1206   | 查理  | 内容6   | [ma](https://mp.weixin.qq.com/s/5TCfj2TwgaXNuN8xKcTb-A)|
 | 1207   | 基辛格  | 内容6   | [基辛格](https://mp.weixin.qq.com/s/QJfjtY9sK-l-ukaBDz0heQ)|
 | 1208   | 芒格的成功秘籍  | 内容6   | [芒格的成功秘籍](https://cn.wsj.com/articles/%E8%8A%92%E6%A0%BC%E7%9A%84%E6%88%90%E5%8A%9F%E7%A7%98%E7%B1%8D-47ecdf8e)|
+| 1209   | 巴菲特对芒格的评价   | 内容6   |  [巴菲特对芒格的评价](https://www.wsj.com/finance/investing/warren-buffett-charlie-munger-berkshire-hathaway-85405dc9?mod=Searchresults_pos11&page=1)|
 | 1209   | 查理·芒格毕生所求远非金钱  | 内容6   | [查理·芒格毕生所求远非金钱](https://cn.wsj.com/articles/%E6%9F%A5%E7%90%86-%E8%8A%92%E6%A0%BC%E6%AF%95%E7%94%9F%E6%89%80%E6%B1%82%E8%BF%9C%E9%9D%9E%E9%87%91%E9%92%B1-9fad4395)|
 | 1210   | 基辛格百岁离世，曾塑造美国外交政策，促成美中恢复全面外交 | 内容6   | [基辛格百岁离世，曾塑造美国外交政策，促成美中恢复全面外交](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%89%8D%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%9F%BA%E8%BE%9B%E6%A0%BC%E5%8E%BB%E4%B8%96-%E7%BB%88%E5%B9%B4100%E5%B2%81-28664d4a)|
+| 1211   | 推荐系统解释   | 内容6   | [推荐系统解释](https://freedium.cfd/a42fc60591ed) |
+| 1212   | 内容5   | 内容6   |  |
+| 1211   | 内容5   | 内容6   |  |
+| 1211   | 内容5   | 内容6   |  |
+| 1211   | 内容5   | 内容6   |  |
 
 | 1208   | 金融大国 | 内容6   | [金融大国vs金融强国](https://mp.weixin.qq.com/s/G6h5i6QDYUTj-ADd2tY0lA)|
 
@@ -52,9 +58,27 @@
 | 1128   | async-io-JavaScript-roadmap  | 内容6   |  |
 | 1129   | async-io-golang-roadmap  | 内容6   |  |
 | 1130   | AI赋能数据产品价值链变革  | [内容6](https://medium.com/@kyyberi/unlocking-the-future-of-data-products-business-focused-ai-agents-team-99cbfac8fa7a)   | [数据产品](https://waytoagi.feishu.cn/wiki/DaUTwIF1aiMPXlkAZsNcPJJgnsg?table=ldxC51iXCYvGX8D1) |
-| 1201   | functional-imperative-object-oriented-programming-comparison  | [编程模式](https://www.digitalocean.com/community/tutorials/functional-imperative-object-oriented-programming-comparison)   |  |
+| 1201   | functional-imperative-object-oriented-programming-comparison  | [编程模式](https://www.digitalocean.com/community/tutorials/functional-imperative-object-oriented-programming-comparison)   |  
+|
+| 1202   | Aws Roadmap   | 内容6   |  |
 | 1203   | 浏览器插件架构  | 内容6   | [浏览器插件架构](https://medium.com/@yoshi2586/architecture-of-chrome-extension-9188c026c069)|
+| 1204   | 理解Restful API  | 内容6   | [Understanding a RESTful API](https://freedium.cfd/136f52b17975)|
+| 1205   | Auth2.0   | 内容6   | [Auth2.0](https://freedium.cfd/https://medium.com/geekculture/oauth2-0-b763f865995) |
+| 1206   | Auth2.0 决策选择   | 内容6   |[Auth2.0 决策选择](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)  |
+| 1207   |  Cookie、会话、令牌   | 内容6   | [cookie、session、token](https://freedium.cfd/https://medium.com/geekculture/cookies-session-token-d9f068cccdc6) |
+| 1208   | 计算机科学学习路线图   | 内容6   | [计算机科学学习路线图](https://roadmap.sh/computer-science)|
+| 1209   | 计算机网络加解密算法   | 内容6   | [计算机网络加解密算法](https://freedium.cfd/https://medium.com/thedevproject/computer-network-encryption-decryption-algorithm-5281f03e512c) |
+| 1210   | JSON web token   | 内容6   |  [SON web token](https://freedium.cfd/https://medium.com/thedevproject/json-web-token-9bd75630b06a)|
+| 1211   | 内容5   | 准备   |  [什么是函数式编程？](https://freedium.cfd/https://javascript.plainenglish.io/what-is-functional-programming-29fb5bbe8dd8)|
+| 1213   | JavaScript For Loops vs. For Each   | 内容6   |  [JavaScript For Loops vs. For Each](https://freedium.cfd/39a1378f14d7)|
+| 1214   | Zero-Shot Text Classification with Hugging Face   | 内容6   | [Zero-Shot Text Classification](https://freedium.cfd/7f533ba83cd6) |
+| 1215   |  迈向市场的第一步   | 内容6   |   [迈向市场的第一步](https://medium.com/@andrewjinkim1988/first-step-to-market-3400a5a9f62d)|
+| 1216   |  迈向市场的第一步   | 内容6   | [迈向市场的第一步 (2)](https://freedium.cfd/5226f8b7d11f) |
+| 1217   | 内容5   | 内容6   |  |
+| 1218   | 内容5   | 内容6   |  |
 
+[编程的好的实践](https://medium.com/@alexzelinsky124/list/programming-best-practices-09ef36a59165)
+[TCP vs UDP: The Differences Explained](https://levelup.gitconnected.com/tcp-vs-udp-the-differences-explained-c2b9a88017d9)
 
 ### 抖音
 
