@@ -33,17 +33,17 @@
 | 1210   | JSON web token   | 内容6   |  [SON web token](https://freedium.cfd/https://medium.com/thedevproject/json-web-token-9bd75630b06a)|
 | 1211   | 内容5   | 准备   |  [什么是函数式编程？](https://freedium.cfd/https://javascript.plainenglish.io/what-is-functional-programming-29fb5bbe8dd8)|
 | 1213   | JavaScript For Loops vs. For Each   | 内容6   |  [JavaScript For Loops vs. For Each](https://freedium.cfd/39a1378f14d7)|
-| 1214   | Zero-Shot Text Classification with Hugging Face   | 内容6   | [Zero-Shot Text Classification](https://freedium.cfd/7f533ba83cd6) |
-
-| 1211   | 推荐系统解释   | 内容6   | [推荐系统解释](https://freedium.cfd/a42fc60591ed) |
-| 1212   | 准确性评估   | 内容6   | [Title](https://freedium.cfd/1e1f5aca182f) |
-
-
-| 1217   | 内容5   | 内容6   |  |
+| 1214   | 一种基于元模型的访问控制策略描述语言   | 内容6   | [一种基于元模型的访问控制策略描述语言](https://www.jos.org.cn/html/2020/2/5624.htm) |
+| 1215   | 推荐系统解释   | 内容6   | [推荐系统解释](https://freedium.cfd/a42fc60591ed) |
+| 1216   | 准确性评估   | 内容6   | [Title](https://freedium.cfd/1e1f5aca182f) |
+| 1217   | Zero-Shot Text Classification with Hugging Face   | 内容6   | [Zero-Shot Text Classification](https://freedium.cfd/7f533ba83cd6) |
+| 1218   | Sonic 简介   | 内容6   | [Sonic 简介](https://github.com/bytedance/sonic/blob/main/docs/INTRODUCTION_ZH_CN.md) |
+| 1218   | 内容5   | 内容6   |  |
 | 1218   | 内容5   | 内容6   |  |
 
 [编程的好的实践](https://medium.com/@alexzelinsky124/list/programming-best-practices-09ef36a59165)
 [TCP vs UDP: The Differences Explained](https://levelup.gitconnected.com/tcp-vs-udp-the-differences-explained-c2b9a88017d9)
+[DaSE数据科学](https://github.com/will-ww/IntroDaSE/blob/master/PPT/00%20%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D.pptx)
 
 ### 抖音
 
