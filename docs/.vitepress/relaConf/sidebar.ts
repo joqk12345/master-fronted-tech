@@ -68,6 +68,10 @@ export const sidebar: DefaultTheme.Sidebar = {
           text: '1113-能源、智能和灵活性如何影响经济',
           link: '/content/English/2024/20240113.md',
         },
+        {
+          text: '1114-有效加速主义',
+          link: '/content/English/2024/20240114.md',
+        },
       ],
     },
   ],
