@@ -36,8 +36,8 @@ export const nav: DefaultTheme.NavItem[] = [
     text: '个人成长',
     items: [
       {
-        text: '大江南北游记',
-        link: '/column/Travel/', // 表示docs/column/Travel/index.md
+        text: '2024年英语学习',
+        link: '/content/English/2024/index.md', // 表示docs/column/Travel/index.md
       },
       {
         text: '所思·所想',

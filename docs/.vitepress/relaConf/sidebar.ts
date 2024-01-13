@@ -44,6 +44,33 @@ export const sidebar: DefaultTheme.Sidebar = {
       ],
     },
   ],
+  'content/English/2024/': [
+    {
+      text: '2024-01',
+      items: [
+        {
+          text: '1109-任务启动',
+          link: '/content/English/2024/20240109.md',
+        },
+        {
+          text: '1110-对高管的看法',
+          link: '/content/English/2024/20240110.md',
+        },
+        {
+          text: '1111-数字重塑人生',
+          link: '/content/English/2024/20240111.md',
+        },
+        {
+          text: '1112-康威定律的应用',
+          link: '/content/English/2024/20240112.md',
+        },
+        {
+          text: '1113-能源、智能和灵活性如何影响经济',
+          link: '/content/English/2024/20240113.md',
+        },
+      ],
+    },
+  ],
   'guide/javascript/': [
     {
       text: 'Javascript',
