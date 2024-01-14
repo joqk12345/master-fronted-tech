@@ -72,6 +72,10 @@ export const sidebar: DefaultTheme.Sidebar = {
           text: '1114-有效加速主义',
           link: '/content/English/2024/20240114.md',
         },
+        {
+          text: '1115-数字化转型',
+          link: '/content/English/2024/20240115.md',
+        },
       ],
     },
   ],
