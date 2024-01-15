@@ -41,7 +41,7 @@ export const nav: DefaultTheme.NavItem[] = [
       },
       {
         text: '所思·所想',
-        link: '/column/Growing/', // 表示docs/column/Growing/index.md
+        link: '/content/creation/index.md', // 表示docs/column/Growing/index.md
       },
       { text: 'WebExt', link: 'guide/webExt/webExt' },
       {

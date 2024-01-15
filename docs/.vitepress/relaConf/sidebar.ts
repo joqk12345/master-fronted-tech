@@ -44,6 +44,47 @@ export const sidebar: DefaultTheme.Sidebar = {
       ],
     },
   ],
+  'content/creation/': [
+    {
+      text: '抖音',
+      items: [
+        {
+          text: '2024',
+          link: '/content/creation/douyin/2024.md',
+        },
+        {
+          text: '2023',
+          link: '/content/creation/douyin/2023.md',
+        },
+      ],
+    },
+    {
+      text: '小红书-科技',
+      items: [
+        {
+          text: '2024',
+          link: '/content/creation/tech/2024.md',
+        },
+        {
+          text: '2023',
+          link: '/content/creation/tech/2023.md',
+        },
+      ],
+    },
+    {
+      text: '小红书-投资',
+      items: [
+        {
+          text: '2024',
+          link: '/content/creation/invest/2024.md',
+        },
+        {
+          text: '2023',
+          link: '/content/creation/invest/2023.md',
+        },
+      ],
+    },
+  ],
   'content/English/2024/': [
     {
       text: '2024-01',
