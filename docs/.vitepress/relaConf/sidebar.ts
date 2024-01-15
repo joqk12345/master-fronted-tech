@@ -117,6 +117,14 @@ export const sidebar: DefaultTheme.Sidebar = {
           text: '1115-数字化转型',
           link: '/content/English/2024/20240115.md',
         },
+        {
+          text: '1116-经济机器的最小结构',
+          link: '/content/English/2024/20240116.md',
+        },
+        {
+          text: '1117-经济增长的三个主要动力',
+          link: '/content/English/2024/20240117.md',
+        },
       ],
     },
   ],
