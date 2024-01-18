@@ -125,6 +125,14 @@ export const sidebar: DefaultTheme.Sidebar = {
           text: '1117-经济增长的三个主要动力',
           link: '/content/English/2024/20240117.md',
         },
+        {
+          text: '1118-债务周期',
+          link: '/content/English/2024/20240118.md',
+        },
+        {
+          text: '1119-现代经济体系',
+          link: '/content/English/2024/20240119.md',
+        },
       ],
     },
   ],
