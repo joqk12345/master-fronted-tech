@@ -141,6 +141,46 @@ export const sidebar: DefaultTheme.Sidebar = {
           text: '1121-软件吞噬世界',
           link: '/content/English/2024/20240121.md',
         },
+        {
+          text: '1122-六大描述技术通缩的定律',
+          link: '/content/English/2024/20240122.md',
+        },
+        {
+          text: '1123-技术的瓶颈',
+          link: '/content/English/2024/20240123.md',
+        },
+        {
+          text: '1124-行业发展的拐点',
+          link: '/content/English/2024/20240124.md',
+        },
+        {
+          text: '1125-GDP的弊端',
+          link: '/content/English/2024/20240125.md',
+        },
+        {
+          text: '1126-经济的价值的核心是什么',
+          link: '/content/English/2024/20240126.md',
+        },
+        {
+          text: '1127-过去的经济与现代的经济增长',
+          link: '/content/English/2024/20240127.md',
+        },
+        {
+          text: '1128-由消费经济到体验经济',
+          link: '/content/English/2024/20240128.md',
+        },
+        {
+          text: '1129-经济如何增长',
+          link: '/content/English/2024/20240129.md',
+        },
+        {
+          text: '1130-Metaverse-构造的数字世界',
+          link: '/content/English/2024/20240130.md',
+        },
+        {
+          text: '1131-富足-通用计算与通用智能',
+          link: '/content/English/2024/20240131.md',
+        },
       ],
     },
   ],
