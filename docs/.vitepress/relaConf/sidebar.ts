@@ -133,6 +133,14 @@ export const sidebar: DefaultTheme.Sidebar = {
           text: '1119-现代经济体系',
           link: '/content/English/2024/20240119.md',
         },
+        {
+          text: '1120-技术是通缩通的',
+          link: '/content/English/2024/20240120.md',
+        },
+        {
+          text: '1121-软件吞噬世界',
+          link: '/content/English/2024/20240121.md',
+        },
       ],
     },
   ],
