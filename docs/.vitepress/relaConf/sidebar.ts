@@ -178,7 +178,7 @@ export const sidebar: DefaultTheme.Sidebar = {
           link: '/content/English/2024/20240130.md',
         },
         {
-          text: '1131-富足-通用计算与通用智能',
+          text: '1131-富足-通用计算与通用智能（软件吞噬世界，人工智能吞噬软件！）',
           link: '/content/English/2024/20240131.md',
         },
       ],
