@@ -180,18 +180,18 @@ export const sidebar: DefaultTheme.Sidebar = {
         {
           text: '0131-富足-通用计算与通用智能（软件吞噬世界，人工智能吞噬软件！）',
           link: '/content/English/2024/20240131.md',
-        }
+        },
       ],
     },
-      {
-          text:'02',
-          items:[
-              {
-                  text: '0201--',
-                  link: '/content/English/2024/20240201.md',
-              }
-          ]
-      }
+    {
+      text: '02',
+      items: [
+        {
+          text: '0201--如果我们不控制 AI，AI 就会控制我们',
+          link: '/content/English/2024/20240201.md',
+        },
+      ],
+    },
   ],
   'guide/javascript/': [
     {
