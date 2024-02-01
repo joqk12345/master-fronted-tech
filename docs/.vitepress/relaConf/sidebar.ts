@@ -190,6 +190,34 @@ export const sidebar: DefaultTheme.Sidebar = {
           text: '0201--如果我们不控制 AI，AI 就会控制我们',
           link: '/content/English/2024/20240201.md',
         },
+        {
+          text: '0202-人工智能将会带来什么生活',
+          link: '/content/English/2024/20240202.md',
+        },
+        {
+          text: '0203-人类被人或者AI操作',
+          link: '/content/English/2024/20240203.md',
+        },
+        {
+          text: '0204-人工智能的降维打击',
+          link: '/content/English/2024/20240204.md',
+        },
+        {
+          text: '0205-AI与人类的邂逅',
+          link: '/content/English/2024/20240205.md',
+        },
+        {
+          text: '0206-AI获取掌控权',
+          link: '/content/English/2024/20240206.md',
+        },
+        {
+          text: '0207-认真思考人工智能',
+          link: '/content/English/2024/20240207.md',
+        },
+        {
+          text: '0208-必须升级智能时代的架构',
+          link: '/content/English/2024/20240208.md',
+        },
       ],
     },
   ],
