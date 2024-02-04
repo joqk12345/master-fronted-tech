@@ -218,6 +218,10 @@ export const sidebar: DefaultTheme.Sidebar = {
           text: '0208-必须升级智能时代的架构',
           link: '/content/English/2024/20240208.md',
         },
+          {
+              text:'0209-命运的态度',
+              link:'/content/English/2024/20240209.md'
+          }
       ],
     },
   ],

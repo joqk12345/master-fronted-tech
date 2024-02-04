@@ -6,3 +6,8 @@ const two = '2';
 const three = '3';
 pancak,PeepOpenotatoes, fruit-juice,
 pancak fruit-juice,
+line one
+line two
+line three
+Delete a word (wordwordword)
+Delete a line (dwordddwordddwordddwordddwordddwordddwordddwordddwordddd)
