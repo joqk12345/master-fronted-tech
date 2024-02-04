@@ -221,7 +221,21 @@ export const sidebar: DefaultTheme.Sidebar = {
           {
               text:'0209-命运的态度',
               link:'/content/English/2024/20240209.md'
-          }
+          },
+
+          {
+              text:'0210-语言模型的进化',
+              link:'/content/English/2024/20240209.md'
+          },
+
+          {
+              text:'0211-ai的三个信念
+              link:'/content/English/2024/20240209.md'
+          },
+          {
+              text:'0212-AI的三个信念',
+              link:'/content/English/2024/20240209.md'
+          },
       ],
     },
   ],
