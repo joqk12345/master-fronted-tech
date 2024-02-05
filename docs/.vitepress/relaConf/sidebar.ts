@@ -238,7 +238,7 @@ export const sidebar: DefaultTheme.Sidebar = {
         },
           {
               text:'0213-顶尖学习高手的能力',
-          link: '/content/English/2024/2024021333.md',
+          link: '/content/English/2024/20240213.md',
           }
       ],
     },
