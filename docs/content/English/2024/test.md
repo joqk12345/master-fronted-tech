@@ -33,3 +33,14 @@ const five = 5;
 One Arkansa, two Arkansa, three Arkansa, four Arkansa, five Arkansa.
 CUDA_VISIBLE_DEVICES=1
 --wav_path='https://cdn2.wavpub.com/hosting.wavpub.cn/wp-content/uploads/sites/28/2024/02/pie-ep99.mp3' --output='./pie-ep99.mp3.srt'
+hello vim
+hola vim
+salve vim
+bonjour vim
+11vim22
+vim22
+11vim
+vim
+foobar
+foobaz
+chocolate donut, strawberry donut, blueberry donut

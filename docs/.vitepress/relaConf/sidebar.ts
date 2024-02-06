@@ -240,10 +240,13 @@ export const sidebar: DefaultTheme.Sidebar = {
               text:'0213-顶尖学习高手的能力',
           link: '/content/English/2024/20240213.md',
           },
-
           {
               text:'0214-sptial-computing',
           link: '/content/English/2024/20240214.md',
+          },
+          {
+           text:'0215-learn vim like new  language',
+          link: '/content/English/2024/20240215.md',
           }
       ],
     },
