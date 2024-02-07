@@ -247,7 +247,17 @@ export const sidebar: DefaultTheme.Sidebar = {
           {
            text:'0215-learn vim like new  language',
           link: '/content/English/2024/20240215.md',
-          }
+          },
+          {
+           text:'0216-动机与效果',
+          link: '/content/English/2024/20240216.md',
+          },
+    
+          {
+           text:'0217-假学习',
+          link: '/content/English/2024/20240217.md',
+          },
+    
       ],
     },
   ],
