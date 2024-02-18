@@ -257,6 +257,14 @@ export const sidebar: DefaultTheme.Sidebar = {
            text:'0217-假学习',
           link: '/content/English/2024/20240217.md',
           },
+          {
+              text:'0218-对待疾病',
+              link:'/content/English/2024/20240218.md'
+          },
+          {
+              text:'0219-中国龙年',
+              link:'/content/English/2024/20240219.md'
+          },
     
       ],
     },
