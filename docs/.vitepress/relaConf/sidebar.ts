@@ -263,7 +263,10 @@ export const sidebar: DefaultTheme.Sidebar = {
               text:'0219-中国龙年',
               link:'/content/English/2024/20240219.md'
           },
-    
+        {
+              text:'0220-语音塑造方法',
+              link:'/content/English/2024/20240220.md'
+          },
       ],
     },
   ],
