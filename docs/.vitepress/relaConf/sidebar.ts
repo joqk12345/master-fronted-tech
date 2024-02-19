@@ -227,7 +227,6 @@ export const sidebar: DefaultTheme.Sidebar = {
           text: '0210-语言模型的进化',
           link: '/content/English/2024/20240210.md',
         },
-
         {
           text: '0211-ai的三个信念',
           link: '/content/English/2024/20240211.md',
@@ -236,32 +235,31 @@ export const sidebar: DefaultTheme.Sidebar = {
           text: '0212-写作的难度',
           link: '/content/English/2024/20240212.md',
         },
-          {
-              text:'0213-顶尖学习高手的能力',
-          link: '/content/English/2024/20240213.md',
-          },
-          {
-              text:'0214-sptial-computing',
+        {
+           text:'0213-顶尖学习高手的能力',
+           link: '/content/English/2024/20240213.md',
+        },
+        {
+          text:'0214-sptial-computing',
           link: '/content/English/2024/20240214.md',
-          },
-          {
-           text:'0215-learn vim like new  language',
+        },
+        {
+          text:'0215-learn vim like new  language',
           link: '/content/English/2024/20240215.md',
-          },
-          {
-           text:'0216-动机与效果',
+        },
+        {
+          text:'0216-动机与效果',
           link: '/content/English/2024/20240216.md',
-          },
-    
-          {
-           text:'0217-假学习',
+        },
+        {
+          text:'0217-假学习',
           link: '/content/English/2024/20240217.md',
-          },
-          {
+         },
+         {
               text:'0218-对待疾病',
               link:'/content/English/2024/20240218.md'
-          },
-          {
+         },
+        {
               text:'0219-中国龙年',
               link:'/content/English/2024/20240219.md'
           },
