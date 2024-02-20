@@ -267,6 +267,10 @@ export const sidebar: DefaultTheme.Sidebar = {
               text:'0220-语音塑造方法',
               link:'/content/English/2024/20240220.md'
           },
+        {
+              text:'0221-节奏和韵律',
+              link:'/content/English/2024/20240221.md'
+          },
       ],
     },
   ],
