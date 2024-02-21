@@ -271,6 +271,10 @@ export const sidebar: DefaultTheme.Sidebar = {
               text:'0221-节奏和韵律',
               link:'/content/English/2024/20240221.md'
           },
+        {
+              text:'0222-糖尿病与高血糖',
+              link:'/content/English/2024/20240222.md'
+          },
       ],
     },
   ],
