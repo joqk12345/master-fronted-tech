@@ -279,7 +279,7 @@ export const sidebar: DefaultTheme.Sidebar = {
           },
         {
               text:'0223-糖尿病与高血糖',
-              link:'/content/English/2024/20240222.md'
+              link:'/content/English/2024/20240223.md'
           },
       ],
     },
