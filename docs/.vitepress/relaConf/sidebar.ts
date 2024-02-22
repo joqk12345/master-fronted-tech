@@ -88,6 +88,7 @@ export const sidebar: DefaultTheme.Sidebar = {
   'content/English/2024/': [
     {
       text: '2024-01',
+      callasible: true,
       items: [
         {
           text: '0109-任务启动',
@@ -185,7 +186,7 @@ export const sidebar: DefaultTheme.Sidebar = {
     },
     {
       text: '02',
-      collapsed:true,
+      collapsed:false,
       items: [
         {
           text: '0201--如果我们不控制 AI，AI 就会控制我们',
