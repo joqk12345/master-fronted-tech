@@ -185,7 +185,7 @@ export const sidebar: DefaultTheme.Sidebar = {
       ],
     },
     {
-      text: '02',
+      text: '2024-02',
       collapsed:false,
       items: [
         {
