@@ -185,6 +185,7 @@ export const sidebar: DefaultTheme.Sidebar = {
     },
     {
       text: '02',
+      collapsed:true,
       items: [
         {
           text: '0201--如果我们不控制 AI，AI 就会控制我们',
