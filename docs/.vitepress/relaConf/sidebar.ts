@@ -272,7 +272,11 @@ export const sidebar: DefaultTheme.Sidebar = {
               link:'/content/English/2024/20240221.md'
           },
         {
-              text:'0222-糖尿病与高血糖',
+              text:'0222-语音的功能',
+              link:'/content/English/2024/20240222.md'
+          },
+        {
+              text:'0223-糖尿病与高血糖',
               link:'/content/English/2024/20240222.md'
           },
       ],
