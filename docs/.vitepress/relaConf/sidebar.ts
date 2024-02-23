@@ -281,6 +281,26 @@ export const sidebar: DefaultTheme.Sidebar = {
               text:'0223-糖尿病与高血糖',
               link:'/content/English/2024/20240223.md'
           },
+        {
+              text:'0224-新的知识分类',
+              link:'/content/English/2024/20240224.md'
+          },
+        {
+              text:'0225-警惕医疗推销',
+              link:'/content/English/2024/20240225.md'
+          },
+        {
+            text:'0226-单词找不到家',
+              link:'/content/English/2024/20240226.md'
+          },
+        {
+            text:'0227-重庆旅游攻略',
+              link:'/content/English/2024/20240227.md'
+          },
+        {
+              text:'0228-网络节点化',
+              link:'/content/English/2024/20240228.md'
+          },
       ],
     },
   ],
