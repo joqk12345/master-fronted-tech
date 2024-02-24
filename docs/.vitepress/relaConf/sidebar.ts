@@ -303,6 +303,14 @@ export const sidebar: DefaultTheme.Sidebar = {
           },
       ],
     },
+    {
+      text: 'topic',
+      collapsed:true,
+      items: [
+        {
+          text:'100-annimal-word', 
+          link: '/content/English/2024/animal.md',
+        },
   ],
   'guide/javascript/': [
     {
