@@ -186,7 +186,7 @@ export const sidebar: DefaultTheme.Sidebar = {
     },
     {
       text: '2024-02',
-      collapsed:false,
+      collapsed: false,
       items: [
         {
           text: '0201--如果我们不控制 AI，AI 就会控制我们',
@@ -238,79 +238,80 @@ export const sidebar: DefaultTheme.Sidebar = {
           link: '/content/English/2024/20240212.md',
         },
         {
-           text:'0213-顶尖学习高手的能力',
-           link: '/content/English/2024/20240213.md',
+          text: '0213-顶尖学习高手的能力',
+          link: '/content/English/2024/20240213.md',
         },
         {
-          text:'0214-sptial-computing',
+          text: '0214-sptial-computing',
           link: '/content/English/2024/20240214.md',
         },
         {
-          text:'0215-learn vim like new  language',
+          text: '0215-learn vim like new  language',
           link: '/content/English/2024/20240215.md',
         },
         {
-          text:'0216-动机与效果',
+          text: '0216-动机与效果',
           link: '/content/English/2024/20240216.md',
         },
         {
-          text:'0217-假学习',
+          text: '0217-假学习',
           link: '/content/English/2024/20240217.md',
-         },
-         {
-              text:'0218-对待疾病',
-              link:'/content/English/2024/20240218.md'
-         },
+        },
         {
-              text:'0219-中国龙年',
-              link:'/content/English/2024/20240219.md'
-          },
+          text: '0218-对待疾病',
+          link: '/content/English/2024/20240218.md',
+        },
         {
-              text:'0220-语音塑造方法',
-              link:'/content/English/2024/20240220.md'
-          },
+          text: '0219-中国龙年',
+          link: '/content/English/2024/20240219.md',
+        },
         {
-              text:'0221-节奏和韵律',
-              link:'/content/English/2024/20240221.md'
-          },
+          text: '0220-语音塑造方法',
+          link: '/content/English/2024/20240220.md',
+        },
         {
-              text:'0222-语音的功能',
-              link:'/content/English/2024/20240222.md'
-          },
+          text: '0221-节奏和韵律',
+          link: '/content/English/2024/20240221.md',
+        },
         {
-              text:'0223-糖尿病与高血糖',
-              link:'/content/English/2024/20240223.md'
-          },
+          text: '0222-语音的功能',
+          link: '/content/English/2024/20240222.md',
+        },
         {
-              text:'0224-新的知识分类',
-              link:'/content/English/2024/20240224.md'
-          },
+          text: '0223-糖尿病与高血糖',
+          link: '/content/English/2024/20240223.md',
+        },
         {
-              text:'0225-警惕医疗推销',
-              link:'/content/English/2024/20240225.md'
-          },
+          text: '0224-新的知识分类',
+          link: '/content/English/2024/20240224.md',
+        },
         {
-            text:'0226-单词找不到家',
-              link:'/content/English/2024/20240226.md'
-          },
+          text: '0225-警惕医疗推销',
+          link: '/content/English/2024/20240225.md',
+        },
         {
-            text:'0227-重庆旅游攻略',
-              link:'/content/English/2024/20240227.md'
-          },
+          text: '0226-单词找不到家',
+          link: '/content/English/2024/20240226.md',
+        },
         {
-              text:'0228-网络节点化',
-              link:'/content/English/2024/20240228.md'
-          },
+          text: '0227-重庆旅游攻略',
+          link: '/content/English/2024/20240227.md',
+        },
+        {
+          text: '0228-网络节点化',
+          link: '/content/English/2024/20240228.md',
+        },
       ],
     },
     {
       text: 'topic',
-      collapsed:true,
+      collapsed: true,
       items: [
         {
-          text:'100-annimal-word', 
-          link: '/content/English/2024/animal.md',
+          text: '100-annimal-word',
+          link: '/content/English/2024/animals.md',
         },
+      ],
     },
   ],
   'guide/javascript/': [

@@ -76,9 +76,7 @@
 76. Spoonbill 勺嘴鹳 /ˈspuːnbɪl/
 77. Ibex 西藏野山羊 /ˈaɪbɛks/
 78. Chamois 羚羊 /ˈʃæmwɑː/
-79. Gazelle
-
- 羚羊 /ɡəˈzɛl/
+79. Gazelle 羚羊 /ɡəˈzɛl/
 80. Antelope 羚羊 /ˈæntɪləʊp/
 81. Bison 野牛 /ˈbaɪsən/
 82. Caribou 北美驯鹿 /ˈkærɪbuː/
