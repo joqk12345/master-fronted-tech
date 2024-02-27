@@ -301,6 +301,11 @@ export const sidebar: DefaultTheme.Sidebar = {
           text: '0228-网络节点化',
           link: '/content/English/2024/20240228.md',
         },
+        {
+          text: '0229-编程的基础概念',
+          link: '/content/English/2024/20240229.md',
+        },
+
       ],
     },
     {
