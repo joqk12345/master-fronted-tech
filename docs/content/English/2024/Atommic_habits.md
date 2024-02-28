@@ -61,4 +61,23 @@ tuned / tjʊnd /adj.  经调谐的；谱好曲的；调好台的
 "each athlete" 中的 "ch" 和 "a" 之间可能会产生一个类似于 "j" 音的发音。
 overlooked / ˌoʊvərˈlʊkt / v.  忽略；不理会；宽恕；（使）落选；俯视；监督；用邪恶的眼睛施魔法于（overlook 的过去式及过去分词）
 
+Tour de France 环法自行车赛
+fare / fer / v.  进展，表现；
+medal / ˈmed(ə)l / n.  奖牌，勋章，纪念章
+bikes /baɪks/n.  自行车；摩托车（bike 的复数） 
+underwhelming/ ˌʌndərˈwelmɪŋ / adj.  未给人留下深刻印象的；未激起人们热情的
+manufacturer/ ˌmænjuˈfæktʃərər / n.  生产商，制造商
+gear / ɡɪr / n. 变速器
+hurt/ hɜːrt / v.  使受伤，使疼痛；感到受伤，
+trajectory/ trəˈdʒektəri / n.  （物体射向或抛向空中形成的）轨道，轨迹；（事业等的）发展轨迹，起落；
+Brailsford Br'ails'ford
+relentless / rɪˈlentləs / adj.  坚韧的，不屈不挠的；残酷无情的，
+commitment/ kəˈmɪtmənt / n.  忠诚，献身；承诺，保证；
+adjustment / əˈdʒʌstmənt / n.  调整，校正；（行为、思想的）调节，适应；调节器
+comfortable  ˈkʌmftəbl; ˈkʌmfərtəbl / 令人舒适的；感到舒服的，安逸的；自信的，自在的；富裕的，
+alcohol / ˈælkəhɔːl / n.  含酒精饮品，酒；酒精，乙醇；醇
+rubbed / rʌbd / v.  擦（rub 的过去式和过去分词）；摩擦；搓
+electrically/ ɪˈlektrɪkli / adv.  电力地；有关电地
+overshort adj．超短的：指长度或时间过短。
+athlete / ˈæθliːt / n.  运动员，体育健将；擅长运动的人
 
