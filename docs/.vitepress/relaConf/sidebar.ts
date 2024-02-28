@@ -308,6 +308,16 @@ export const sidebar: DefaultTheme.Sidebar = {
 
       ],
     },
+      {
+        text:'2024-03',
+        collapsed:true,
+          items:[
+              {
+                  text:'0301-indigo的最新访谈感想',
+                  link:'/content/English/2024/20240301.md',
+              }
+          ],
+      },
     {
       text: 'topic',
       collapsed: true,
