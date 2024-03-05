@@ -44,6 +44,7 @@ export const nav: DefaultTheme.NavItem[] = [
         link: '/content/creation/index.md', // 表示docs/column/Growing/index.md
       },
       { text: 'WebExt', link: 'guide/webExt/webExt' },
+      {text:'writing', link:'/content/writing/homework/index.md'},
       {
         text: 'Bilibili',
         link: 'https://space.bilibili.com/211794005?spm_id_from=333.1007.0.0',

@@ -186,7 +186,7 @@ export const sidebar: DefaultTheme.Sidebar = {
         },
         {
             text: '2024-02',
-            collapsed: false,
+            collapsed: true,
             items: [
                 {
                     text: '0201--如果我们不控制 AI，AI 就会控制我们',
@@ -310,12 +310,68 @@ export const sidebar: DefaultTheme.Sidebar = {
         },
         {
             text:'2024-03',
-            collapsed:true,
+            collapsed:false,
             items:[
                 {
                     text:'0301-indigo的最新访谈感想',
                     link:'/content/English/2024/20240301.md',
-                }
+                },
+                {
+                    text:'0302-伪专家',
+                    link:'/content/English/2024/20240302.md',
+                },
+                {
+                    text:'0303-提升自信力',
+                    link:'/content/English/2024/20240303.md',
+                },
+                {
+                    text:'0304-真正的专家',
+                    link:'/content/English/2024/20240304.md',
+                },
+                {
+                    text:'0305-创作是零门槛',
+                    link:'/content/English/2024/20240305.md',
+                },
+
+                {
+                    text:'0306-你的听众在哪里',
+                    link:'/content/English/2024/20240306.md',
+                },
+
+                {
+                    text:'0307-究竟写什么',
+                    link:'/content/English/2024/20240307.md',
+                },
+
+                {
+                    text:'0308-创作快速入门的方法',
+                    link:'/content/English/2024/20240308.md',
+                },
+
+                {
+                    text:'0309-why的创作难度',
+                    link:'/content/English/2024/20240309.md',
+                },
+
+                {
+                    text:'0310-逻辑差的人干啥都不行',
+                    link:'/content/English/2024/20240310.md',
+                },
+
+                {
+                    text:'0311-how写作的方法论',
+                    link:'/content/English/2024/20240311.md',
+                },
+                {
+                    text:'0312-格式化创作',
+                    link:'/content/English/2024/20240312.md',
+                },
+
+                {
+                    text:'0313-how的升级版',
+                    link:'/content/English/2024/20240313.md',
+                },
+
             ],
         },
         {
@@ -328,6 +384,22 @@ export const sidebar: DefaultTheme.Sidebar = {
                 },
             ],
         },
+    ],
+    'content/writing':[
+        {
+            text: 'homework',
+            items: [
+                { text: '01', link: '/content/writing/homework/01.md'},
+                { text: '02', link: '/content/writing/homework/02.md'},
+                { text: '03', link: '/content/writing/homework/03.md'},
+                { text: '04', link: '/content/writing/homework/04.md'},
+                { text: '05', link: '/content/writing/homework/05.md'},
+                { text: '06', link: '/content/writing/homework/06.md'},
+                { text: '07', link: '/content/writing/homework/07.md'},
+                { text: '08', link: '/content/writing/homework/08.md'},
+            ],
+        },
+
     ],
     'guide/javascript/': [
         {
