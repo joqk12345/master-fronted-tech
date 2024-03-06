@@ -20,7 +20,7 @@ export const nav: DefaultTheme.NavItem[] = [
     ],
   },
   {
-    text: '前端开发',
+    text: '开发',
     items: [
       {
         text: '数据结构与算法',
@@ -29,6 +29,10 @@ export const nav: DefaultTheme.NavItem[] = [
       {
         text: 'JavaScript学习',
         link: '/guide/javascript/', // 对应docs/column/Algorithm下的idnex.md文件
+      },
+      {
+        text: 'Learn Vim',
+        link: '/content/Vim/',
       },
     ],
   },
