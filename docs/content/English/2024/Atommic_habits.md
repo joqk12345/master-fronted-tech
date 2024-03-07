@@ -72,12 +72,40 @@ hurt/ hɜːrt / v.  使受伤，使疼痛；感到受伤，
 trajectory/ trəˈdʒektəri / n.  （物体射向或抛向空中形成的）轨道，轨迹；（事业等的）发展轨迹，起落；
 Brailsford Br'ails'ford
 relentless / rɪˈlentləs / adj.  坚韧的，不屈不挠的；残酷无情的，
-commitment/ kəˈmɪtmənt / n.  忠诚，献身；承诺，保证；
-adjustment / əˈdʒʌstmənt / n.  调整，校正；（行为、思想的）调节，适应；调节器
+commitment/ kəˈmɪtmənt / n.  忠诚，献身；承诺，保证； adjustment / əˈdʒʌstmənt / n.  调整，校正；（行为、思想的）调节，适应；调节器
 comfortable  ˈkʌmftəbl; ˈkʌmfərtəbl / 令人舒适的；感到舒服的，安逸的；自信的，自在的；富裕的，
 alcohol / ˈælkəhɔːl / n.  含酒精饮品，酒；酒精，乙醇；醇
 rubbed / rʌbd / v.  擦（rub 的过去式和过去分词）；摩擦；搓
 electrically/ ɪˈlektrɪkli / adv.  电力地；有关电地
 overshort adj．超短的：指长度或时间过短。
 athlete / ˈæθliːt / n.  运动员，体育健将；擅长运动的人
-
+appreciate / əˈpriːʃieɪt / v.  欣赏，鉴赏；理解，明白；
+in a row 连续：连续不断地或连续地发生或存在。
+rationalizing / ˈræʃnəlaɪzɪŋ / 有理化
+toxic/ ˈtɑːksɪk / adj.  有毒的，引起中毒的；令人极不愉快的，
+decline / dɪˈklaɪn / v.  下降，衰退；拒绝，谢绝；变格，词形变化
+pilot / ˈpaɪlət / n.  飞行员；领航员；（船只的）领航员；
+magnified / ˈmæɡnɪfaɪd / adj.  放大的
+Conversely/ ˈkɑːnvɜːrsli / adv.  相反地，反过来说
+Lagging / ˈlæɡɪŋ / adj.  落后的，发展滞后的
+clutter / ˈklʌtər / n.  杂乱的东西；杂乱
+ally/ ˈælaɪ / v.  与……结盟，与……联合
+procrastinate / prəˈkræstɪneɪt / v.  拖延，耽搁
+frustration / frʌˈstreɪʃ(ə)n / n.  懊恼，沮丧；受阻，挫败；令人懊丧
+jam / dʒæm / n.  果酱；堵塞，拥挤；麻烦，困境；
+parenting / ˈperəntɪŋ / n.  养育子女，育儿；为人父母；
+condition / kənˈdɪʃ(ə)n / v.  训练，使习惯于；控制，制约；护理，保养；影响；
+outrage / ˈaʊtreɪdʒ / n.  愤慨，愤怒；骇人听闻的事，暴行
+unleash / ʌnˈliːʃ / v.  释放出，发泄（力量、感情等）；解开皮带放开（动物）；放开，解除对……的限制
+Cancer / ˈkænsər / 癌症；痼疾，社会恶习
+Bamboo / ˌbæmˈbuː / n.  竹，竹子；（制手杖或家具、器具用的）竹竿，竹筒
+extensive / ɪkˈstensɪv / adj.  广阔的；广泛的；巨大的，大量的；（农业）粗放（经营）的
+exploding / ɪkˈsploʊdɪŋ / n.  爆炸；爆发
+latent / ˈleɪt(ə)nt / adj.  （性质，状态）潜在的，隐藏的；
+plateau / plæˈtoʊ / n.  高原；（发展、增长后的）稳定期，停滞期；高原印第安人；托盘
+THE PLATEAU OF LATENT POTENTIAL “潜在潜力的高原”可能指的是一个人或组织在某个领域具有巨大但尚未被发掘或实现的潜力。这个概念暗示着尽管潜力存在，但在某个时刻可能停滞不前或未被充分利用。这个术语常常用于描述个人、团队或公司在发展过程中遇到的情况，他们可能已经取得了一些进展，但还未达到他们真正的潜力。
+hallmark / ˈhɔːlmɑːrk / v.  给……打金银纯度印记；使具有……特征
+overnight success 一夜成名：指某人或某事物在短时间内突然取得巨大成功，给人一种突然出现的感觉，但实际上是经过长时间的努力和准备。
+equivalent / ɪˈkwɪvələnt / adj.  等同的，等效的
+tectonic/ tekˈtɑːnɪk / [地质] 构造的；建筑的；地壳构造上的
+grind / ɡraɪnd / v.  磨碎，碾碎；使锋利；用力挤压；摩擦（发出刺耳声）
