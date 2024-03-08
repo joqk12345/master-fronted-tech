@@ -85,6 +85,8 @@ athlete / ˈæθliːt / n.  运动员，体育健将；擅长运动的人
 ### WHY SMALL HABITS MAKE A BIG DIFFERENCE
 It is so easy to overestimate the importance of one defining moment and underestimate the value of making small improvements on a daily basis. Too often, we convince ourselves that massive success requires massive action. Whether it is losing weight, building a business, writing a book, winning a championship, or achieving any other goal, we put pressure on ourselves to make some earth-shattering improvement that everyone will talk about.
 
+/ɪt ɪz soʊ ˈizi tuː ˌoʊvərˈɛstəˌmeɪt ðə ɪmˈpɔrtəns ʌv wʌn dɪˈfaɪnɪŋ ˈmoʊmənt ænd ˌʌndərˈɛstəˌmeɪt ðə ˈvæljuː ʌv ˈmeɪkɪŋ smɔl ɪmˈpruːvmənts ɑn ə ˈdeɪli ˈbeɪsɪs. tuː ˈɔfən, wi kənˈvɪns ˈɔrsɛlvz ðæt ˈmæsɪv səkˈsɛs rɪˈkwaɪrz ˈmæsɪv ˈækʃən. ˈwɛðər ɪt ɪz ˈluːzɪŋ weɪt, ˈbɪldɪŋ ə ˈbɪznəs, ˈraɪtɪŋ ə bʊk, ˈwɪnɪŋ ə ˈʧæmpɪənʃɪp, ɔr əˈʧivɪŋ ˈɛni ˈʌðər ɡoʊl, wi pʊt ˈprɛʃər ɑn ˈɔrsɛlvz tuː meɪk səm ˈɜrθˈʃætərɪŋ ɪmˈpruːvmənt ðæt ˈɛvrɪˌwʌn wɪl tɔːk əˈbaʊt./
+
 Meanwhile, improving by 1 percent isn’t particularly notable—sometimes it isn’t even noticeable—but it can be far more meaningful, especially in the long run. The difference a tiny improvement can make over time is astounding. Here’s how the math works out: if you can get 1 percent better each day for one year, you’ll end up thirty-seven times better by the time you’re done. Conversely, if you get 1 percent worse each day for one year, you’ll decline nearly down to zero. What starts as a small win or a minor setback accumulates into something much more.
 
 Habits are the compound interest of self-improvement. The same way that money multiplies through compound interest, the effects of your habits multiply as you repeat them. They seem to make little difference on any given day and yet the impact they deliver over the months and years can be enormous. It is only when looking back two, five, or perhaps ten years later that the value of good habits and the cost of bad ones becomes strikingly apparent.
@@ -109,9 +111,15 @@ Time magnifies the margin between success and failure. It will multiply whatever
 
 Habits are a double-edged sword. Bad habits can cut you down just as easily as good habits can build you up, which is why understanding the details is crucial. You need to know how habits work and how to design them to your liking, so you can avoid the dangerous half of the blade.
 
-
-
-
+overestimate / ˌoʊvərˈestɪmeɪt / v.  过高估计（能力、影响或价值）；过高估计（规格、数量、数字等）
+underestimate / ˌʌndərˈestɪmeɪt / v.  低估，对……估计不足；轻视，小看（某人）
+defining moment决定性时刻：非常清楚地展示某事物真正本质的时刻。
+on a daily basis 每天（指一起共事）
+convince / kənˈvɪns / v.  使确信，使信服；说服，劝服
+championship/ ˈtʃæmpiənʃɪp / n.  锦标赛；冠军称号，冠军地位；捍卫，拥护 
+pressure / ˈpreʃər / n.  压力，挤压；（气体或液体形成的）压力，压强；心理压力，紧张；催促，要求；气压 
+earth-shattering / ˈɜːrθ ʃætərɪŋ / adj.  惊天动地的；极其重大的
+ 
 appreciate / əˈpriːʃieɪt / v.  欣赏，鉴赏；理解，明白；
 in a row 连续：连续不断地或连续地发生或存在。
 rationalizing / ˈræʃnəlaɪzɪŋ / 有理化
