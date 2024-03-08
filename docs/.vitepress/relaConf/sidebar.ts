@@ -372,6 +372,10 @@ export const sidebar: DefaultTheme.Sidebar = {
                     link:'/content/English/2024/20240313.md',
                 },
 
+                {
+                    text:'0314-学习英语的另一层意义',
+                    link:'/content/English/2024/20240314.md',
+                },
             ],
         },
         {
