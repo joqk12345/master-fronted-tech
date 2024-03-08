@@ -83,6 +83,7 @@ athlete / ˈæθliːt / n.  运动员，体育健将；擅长运动的人
 ## chapter 01 The Surprising Power of Atomic Habits
 
 ### WHY SMALL HABITS MAKE A BIG DIFFERENCE
+[0308]
 It is so easy to overestimate the importance of one defining moment and underestimate the value of making small improvements on a daily basis. Too often, we convince ourselves that massive success requires massive action. Whether it is losing weight, building a business, writing a book, winning a championship, or achieving any other goal, we put pressure on ourselves to make some earth-shattering improvement that everyone will talk about.
 
 /ɪt ɪz soʊ ˈizi tuː ˌoʊvərˈɛstəˌmeɪt ðə ɪmˈpɔrtəns ʌv wʌn dɪˈfaɪnɪŋ ˈmoʊmənt ænd ˌʌndərˈɛstəˌmeɪt ðə ˈvæljuː ʌv ˈmeɪkɪŋ smɔl ɪmˈpruːvmənts ɑn ə ˈdeɪli ˈbeɪsɪs. tuː ˈɔfən, wi kənˈvɪns ˈɔrsɛlvz ðæt ˈmæsɪv səkˈsɛs rɪˈkwaɪrz ˈmæsɪv ˈækʃən. ˈwɛðər ɪt ɪz ˈluːzɪŋ weɪt, ˈbɪldɪŋ ə ˈbɪznəs, ˈraɪtɪŋ ə bʊk, ˈwɪnɪŋ ə ˈʧæmpɪənʃɪp, ɔr əˈʧivɪŋ ˈɛni ˈʌðər ɡoʊl, wi pʊt ˈprɛʃər ɑn ˈɔrsɛlvz tuː meɪk səm ˈɜrθˈʃætərɪŋ ɪmˈpruːvmənt ðæt ˈɛvrɪˌwʌn wɪl tɔːk əˈbaʊt./
@@ -119,7 +120,11 @@ convince / kənˈvɪns / v.  使确信，使信服；说服，劝服
 championship/ ˈtʃæmpiənʃɪp / n.  锦标赛；冠军称号，冠军地位；捍卫，拥护 
 pressure / ˈpreʃər / n.  压力，挤压；（气体或液体形成的）压力，压强；心理压力，紧张；催促，要求；气压 
 earth-shattering / ˈɜːrθ ʃætərɪŋ / adj.  惊天动地的；极其重大的
- 
+shattering / ˈʃætərɪŋ/ /ˈʃæt̬.ɚ.ɪŋ/  adj.  破碎的；令人震惊的；令人极度疲劳的；非常响亮的
+earth /ɜːθ/ n.  地球，世界；陆地，地面；泥土，土壤；地线，电线；<英，非正式>一大笔钱；尘世；兽穴
+defining / dɪˈfaɪnɪŋ / adj.  最典型的；起决定性作用的
+
+
 appreciate / əˈpriːʃieɪt / v.  欣赏，鉴赏；理解，明白；
 in a row 连续：连续不断地或连续地发生或存在。
 rationalizing / ˈræʃnəlaɪzɪŋ / 有理化
