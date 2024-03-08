@@ -79,6 +79,39 @@ rubbed / rʌbd / v.  擦（rub 的过去式和过去分词）；摩擦；搓
 electrically/ ɪˈlektrɪkli / adv.  电力地；有关电地
 overshort adj．超短的：指长度或时间过短。
 athlete / ˈæθliːt / n.  运动员，体育健将；擅长运动的人
+
+## chapter 01 The Surprising Power of Atomic Habits
+
+### WHY SMALL HABITS MAKE A BIG DIFFERENCE
+It is so easy to overestimate the importance of one defining moment and underestimate the value of making small improvements on a daily basis. Too often, we convince ourselves that massive success requires massive action. Whether it is losing weight, building a business, writing a book, winning a championship, or achieving any other goal, we put pressure on ourselves to make some earth-shattering improvement that everyone will talk about.
+
+Meanwhile, improving by 1 percent isn’t particularly notable—sometimes it isn’t even noticeable—but it can be far more meaningful, especially in the long run. The difference a tiny improvement can make over time is astounding. Here’s how the math works out: if you can get 1 percent better each day for one year, you’ll end up thirty-seven times better by the time you’re done. Conversely, if you get 1 percent worse each day for one year, you’ll decline nearly down to zero. What starts as a small win or a minor setback accumulates into something much more.
+
+Habits are the compound interest of self-improvement. The same way that money multiplies through compound interest, the effects of your habits multiply as you repeat them. They seem to make little difference on any given day and yet the impact they deliver over the months and years can be enormous. It is only when looking back two, five, or perhaps ten years later that the value of good habits and the cost of bad ones becomes strikingly apparent.
+
+This can be a difficult concept to appreciate in daily life. We often dismiss small changes because they don’t seem to matter very much in the moment. If you save a little money now, you’re still not a millionaire. If you go to the gym three days in a row, you’re still out of shape. If you study Mandarin for an hour tonight, you still haven’t learned the language. We make a few changes, but the results never seem to come quickly and so we slide back into our previous routines.
+
+Unfortunately, the slow pace of transformation also makes it easy to let a bad habit slide. If you eat an unhealthy meal today, the scale doesn’t move much. If you work late tonight and ignore your family, they will forgive you. If you procrastinate and put your project off until tomorrow, there will usually be time to finish it later. A single decision is easy to dismiss.
+
+But when we repeat 1 percent errors, day after day, by replicating poor decisions, duplicating tiny mistakes, and rationalizing little excuses, our small choices compound into toxic results. It’s the accumulation of many missteps—a 1 percent decline here and there—that eventually leads to a problem.
+
+The impact created by a change in your habits is similar to the effect of shifting the route of an airplane by just a few degrees. Imagine you are flying from Los Angeles to New York City. If a pilot leaving from LAX adjusts the heading just 3.5 degrees south, you will land in Washington, D.C., instead of New York. Such a small change is barely noticeable at takeoff—the nose of the airplane moves just a few feet—but when magnified across the entire United States, you end up hundreds of miles apart.*
+
+Similarly, a slight change in your daily habits can guide your life to a very different destination. Making a choice that is 1 percent better or 1 percent worse seems insignificant in the moment, but over the span of moments that make up a lifetime these choices determine the difference between who you are and who you could be. Success is the product of daily habits—not once-in-a-lifetime transformations.
+
+That said, it doesn’t matter how successful or unsuccessful you are right now. What matters is whether your habits are putting you on the path toward success. You should be far more concerned with your current trajectory than with your current results. If you’re a millionaire but you spend more than you earn each month, then you’re on a bad trajectory. If your spending habits don’t change, it’s not going to end well. Conversely, if you’re broke, but you save a little bit every month, then you’re on the path toward financial freedom—even if you’re moving slower than you’d like.
+
+Your outcomes are a lagging measure of your habits. Your net worth is a lagging measure of your financial habits. Your weight is a lagging measure of your eating habits. Your knowledge is a lagging measure of your learning habits. Your clutter is a lagging measure of your cleaning habits. You get what you repeat.
+
+If you want to predict where you’ll end up in life, all you have to do is follow the curve of tiny gains or tiny losses, and see how your daily choices will compound ten or twenty years down the line. Are you spending less than you earn each month? Are you making it into the gym each week? Are you reading books and learning something new each day? Tiny battles like these are the ones that will define your future self.
+
+Time magnifies the margin between success and failure. It will multiply whatever you feed it. Good habits make time your ally. Bad habits make time your enemy.
+
+Habits are a double-edged sword. Bad habits can cut you down just as easily as good habits can build you up, which is why understanding the details is crucial. You need to know how habits work and how to design them to your liking, so you can avoid the dangerous half of the blade.
+
+
+
+
 appreciate / əˈpriːʃieɪt / v.  欣赏，鉴赏；理解，明白；
 in a row 连续：连续不断地或连续地发生或存在。
 rationalizing / ˈræʃnəlaɪzɪŋ / 有理化
