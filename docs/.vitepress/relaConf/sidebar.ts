@@ -386,6 +386,11 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text: '100-annimal-word',
                     link: '/content/English/2024/animals.md',
                 },
+
+                {
+                    text: 'atomic-habits',
+                    link: '/content/English/2024/Atommic_habits.md',
+                },
             ],
         },
     ],
