@@ -376,6 +376,31 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text:'0314-学习英语的另一层意义',
                     link:'/content/English/2024/20240314.md',
                 },
+
+                {
+                    text:'0315-元素之间的逻辑关系',
+                    link:'/content/English/2024/20240315.md',
+                },
+        
+                {
+                    text:'0316-逻辑模板之并列关系',
+                    link:'/content/English/2024/20240316.md',
+                },
+
+                {
+                    text:'0317-如何验证你思考丰富',
+                    link:'/content/English/2024/20240317.md',
+                },
+
+                {
+                    text:'0318-如何验证你思考深入',
+                    link:'/content/English/2024/20240318.md',
+                },
+
+                {
+                    text:'0319-三种常见的逻辑关系',
+                    link:'/content/English/2024/20240319.md',
+                },
             ],
         },
         {
