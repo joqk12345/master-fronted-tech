@@ -88,7 +88,21 @@ It is so easy to overestimate the importance of one defining moment and underest
 
 /ɪt ɪz soʊ ˈizi tuː ˌoʊvərˈɛstəˌmeɪt ðə ɪmˈpɔrtəns ʌv wʌn dɪˈfaɪnɪŋ ˈmoʊmənt ænd ˌʌndərˈɛstəˌmeɪt ðə ˈvæljuː ʌv ˈmeɪkɪŋ smɔl ɪmˈpruːvmənts ɑn ə ˈdeɪli ˈbeɪsɪs. tuː ˈɔfən, wi kənˈvɪns ˈɔrsɛlvz ðæt ˈmæsɪv səkˈsɛs rɪˈkwaɪrz ˈmæsɪv ˈækʃən. ˈwɛðər ɪt ɪz ˈluːzɪŋ weɪt, ˈbɪldɪŋ ə ˈbɪznəs, ˈraɪtɪŋ ə bʊk, ˈwɪnɪŋ ə ˈʧæmpɪənʃɪp, ɔr əˈʧivɪŋ ˈɛni ˈʌðər ɡoʊl, wi pʊt ˈprɛʃər ɑn ˈɔrsɛlvz tuː meɪk səm ˈɜrθˈʃætərɪŋ ɪmˈpruːvmənt ðæt ˈɛvrɪˌwʌn wɪl tɔːk əˈbaʊt./
 
+[0311]
 Meanwhile, improving by 1 percent isn’t particularly notable—sometimes it isn’t even noticeable—but it can be far more meaningful, especially in the long run. The difference a tiny improvement can make over time is astounding. Here’s how the math works out: if you can get 1 percent better each day for one year, you’ll end up thirty-seven times better by the time you’re done. Conversely, if you get 1 percent worse each day for one year, you’ll decline nearly down to zero. What starts as a small win or a minor setback accumulates into something much more.
+
+Here's the phonemic transcription of the provided text:
+
+/miːnˈwaɪl ɪmˈpruːvɪŋ baɪ wʌn pəˈsɛnt ˈɪznt pərˈtɪkjʊlərli ˈnoʊtəbl—ˈsʌmtaɪmz ɪt ˈɪznt ˈivən ˈnoʊtɪsəbl—bət ɪt kæn biː fɑr mɔr ˈmiːnɪŋfəl, ɪsˈpɛʃəli ɪn ðə lɔŋ rʌn. ðə ˈdɪfərəns ə ˈtaɪni ɪmˈpruːvmənt kæn meɪk ˈoʊvər taɪm ɪz əˈstaʊndɪŋ. hɪrz haʊ ðə mæθ wɜrks aʊt: ɪf ju kæn ɡɛt wʌn pəˈsɛnt ˈbɛtər ˈiʧ deɪ fɔr wʌn jɪr, jul ˈɛnd ʌp ˈθɜrti ˈsɛvən taɪmz ˈbɛtər baɪ ðə taɪm jʊr dʌn. ˈkɑnvɝsli, ɪf ju ɡɛt wʌn pəˈsɛnt wɜrs ˈiʧ deɪ fɔr wʌn jɪr, jul dɪˈklaɪn ˈnɪrli daʊn tu ˈziroʊ. wʌt stɑrts əz ə smɔl wɪn ɔr ə ˈmaɪnər ˈsɛtbæk əˈkjumjəˌleɪts ˈɪntu ˈsʌmθɪŋ mʌʧ mɔr./
+
+notable / ˈnoʊtəb(ə)l / adj.  显要的，值得注意的；非常成功的，令人尊敬的
+noticeable / ˈnoʊtɪsəb(ə)l / adj.  显而易见的，明显的；值得注意的
+astounding /əˈstaʊn.dɪŋ/adj.  令人震惊的；令人惊骇的
+decline / dɪˈklaɪn / n.  减少，衰退 v.  下降，衰退；拒绝，谢绝；变格，词形变化
+complement / ˈkɑːmplɪment / n.  补足物，衬托物；足数，足额；补语；余角；补体，防御素
+predicate/ ˈpredɪkət / n.  （语法）谓语；（逻）谓项
+setback/ ˈsetbæk / n.  挫折，阻碍；（建筑）壁阶；<美>（建筑物的）缩进距离
+minor / ˈmaɪnər / adj.  较小的，次要的，轻微的；（疾病）不严重的，
 
 Habits are the compound interest of self-improvement. The same way that money multiplies through compound interest, the effects of your habits multiply as you repeat them. They seem to make little difference on any given day and yet the impact they deliver over the months and years can be enormous. It is only when looking back two, five, or perhaps ten years later that the value of good habits and the cost of bad ones becomes strikingly apparent.
 
