@@ -105,11 +105,36 @@ predicate/ ˈpredɪkət / n.  （语法）谓语；（逻）谓项
 setback/ ˈsetbæk / n.  挫折，阻碍；（建筑）壁阶；<美>（建筑物的）缩进距离
 minor / ˈmaɪnər / adj.  较小的，次要的，轻微的；（疾病）不严重的，
 
+[0312]
 Habits are the compound interest of self-improvement. The same way that money multiplies through compound interest, the effects of your habits multiply as you repeat them. They seem to make little difference on any given day and yet the impact they deliver over the months and years can be enormous. It is only when looking back two, five, or perhaps ten years later that the value of good habits and the cost of bad ones becomes strikingly apparent.
+
+Here's the phonemic transcription of the provided text:
+
+/hæbɪts ɑr ðə ˈkɑmpaʊnd ˈɪntrəst əv ˈsɛlf-ɪmˈpruv.mənt. ðə seɪm weɪ ðæt ˈmʌni ˈmʌltəˌplaɪz θruː ˈkɑmpaʊnd ˈɪntrəst, ðə ɪˈfɛkts əv jʊr ˈhæbɪts ˈmʌltəˌplaɪ æz juː rɪˈpiːt ðɛm. ðeɪ sim tuː meɪk ˈlɪtəl ˈdɪfərəns ɑn ˈɛni ˈɡɪvən ˈdeɪ ænd jɛt ðə ˈɪmpækt ðeɪ dɪˈlɪvər ˈoʊvər ðə ˈmʌnθs ænd jɪrz kæn biː ɪˈnɔr.məs. ɪt ɪz ˈoʊnli wɛn ˈlʊkɪŋ bæk tuː, faɪv, ɔr ˈpɜrhæps tɛn jɪrz ˈleɪtər ðæt ðə ˈvælju əv ɡʊd ˈhæbɪts ænd ðə kɔst əv bæd wənz bɪˈkʌmz ˈstraɪkɪŋli əˈpærənt./
+
+compound/ ˈkɑːmpaʊnd / adj.  复合的，混合的；以复利计算的
+multiplies / ˈmʌltɪplaɪz / 乘、 繁殖
+multiply /ˈmʌl.tə.plaɪ/v.  大大增加，倍增；乘，乘以；繁殖，滋生
+strikingly / ˈstraɪkɪŋli / adv.  显著地，突出地，引人注目地
+apparent/ əˈpærənt / adj.  显而易见的，易懂的；貌似的，表面上的
+
 
 This can be a difficult concept to appreciate in daily life. We often dismiss small changes because they don’t seem to matter very much in the moment. If you save a little money now, you’re still not a millionaire. If you go to the gym three days in a row, you’re still out of shape. If you study Mandarin for an hour tonight, you still haven’t learned the language. We make a few changes, but the results never seem to come quickly and so we slide back into our previous routines.
 
+appreciate / əˈpriːʃieɪt / v. 理解，明白；
+dismiss / dɪsˈmɪs /v.不考虑，不理会；驳回，停止受理
+millionaire /ˌmɪl.jəˈner/ 
+in a row 连续
+Mandarin/ ˈmændərɪn / n.  普通话
+slide / slaɪd / v 滑动
+slide back 滑回
+
 Unfortunately, the slow pace of transformation also makes it easy to let a bad habit slide. If you eat an unhealthy meal today, the scale doesn’t move much. If you work late tonight and ignore your family, they will forgive you. If you procrastinate and put your project off until tomorrow, there will usually be time to finish it later. A single decision is easy to dismiss.
+
+Unfortunately/ʌnˈfɔːr.tʃən.ət.li/
+pace / peɪs /
+procrastinate / prəˈkræstɪneɪt / v.  拖延，耽搁
+
 
 But when we repeat 1 percent errors, day after day, by replicating poor decisions, duplicating tiny mistakes, and rationalizing little excuses, our small choices compound into toxic results. It’s the accumulation of many missteps—a 1 percent decline here and there—that eventually leads to a problem.
 
