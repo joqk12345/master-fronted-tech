@@ -95,6 +95,7 @@ Here's the phonemic transcription of the provided text:
 
 /miːnˈwaɪl ɪmˈpruːvɪŋ baɪ wʌn pəˈsɛnt ˈɪznt pərˈtɪkjʊlərli ˈnoʊtəbl—ˈsʌmtaɪmz ɪt ˈɪznt ˈivən ˈnoʊtɪsəbl—bət ɪt kæn biː fɑr mɔr ˈmiːnɪŋfəl, ɪsˈpɛʃəli ɪn ðə lɔŋ rʌn. ðə ˈdɪfərəns ə ˈtaɪni ɪmˈpruːvmənt kæn meɪk ˈoʊvər taɪm ɪz əˈstaʊndɪŋ. hɪrz haʊ ðə mæθ wɜrks aʊt: ɪf ju kæn ɡɛt wʌn pəˈsɛnt ˈbɛtər ˈiʧ deɪ fɔr wʌn jɪr, jul ˈɛnd ʌp ˈθɜrti ˈsɛvən taɪmz ˈbɛtər baɪ ðə taɪm jʊr dʌn. ˈkɑnvɝsli, ɪf ju ɡɛt wʌn pəˈsɛnt wɜrs ˈiʧ deɪ fɔr wʌn jɪr, jul dɪˈklaɪn ˈnɪrli daʊn tu ˈziroʊ. wʌt stɑrts əz ə smɔl wɪn ɔr ə ˈmaɪnər ˈsɛtbæk əˈkjumjəˌleɪts ˈɪntu ˈsʌmθɪŋ mʌʧ mɔr./
 
+particularly / pərˈtɪkjələrli / adv.  非常，尤其；特别是；清楚地，明确地
 notable / ˈnoʊtəb(ə)l / adj.  显要的，值得注意的；非常成功的，令人尊敬的
 noticeable / ˈnoʊtɪsəb(ə)l / adj.  显而易见的，明显的；值得注意的
 astounding /əˈstaʊn.dɪŋ/adj.  令人震惊的；令人惊骇的
