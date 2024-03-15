@@ -2,6 +2,7 @@
 # 20240223
 
 # title Atomic Habits
+[[toc]]
 
 # chinese 
 
@@ -43,44 +44,41 @@ They even painted the inside of the team truck white, which helped them spot lit
 
 /ðeɪ ˈivən ˈpeɪntɪd ðə ˈɪnˈsaɪd ʌv ðə tim ˈtrʌk waɪt, wɪtʃ hɛlpt ðɛm spɑt ˈlɪtəl bɪts ʌv dʌst ðæt wʊd ˈnɔrməli slɪp baɪ ˌənˈnɵtɪst bət kʊd dɪˈɡreɪd ðə pərˈfɔrməns ʌv ðə ˈfaɪnli ˈtjunz baɪks/
 
-## vocabulary
-massage / məˈsɑːʒ / n.  按摩，推拿
-gels / dʒelz /n.  凝胶剂；定型发胶（gel 的复数）
-fastest / fæstɪst / adj.  最快速的（fast 的最高级）
-surgeon / ˈsɜːrdʒən / n.  外科医生
-catching a cold 意思是患感冒，即受感冒病毒感染。
-pillow / ˈpɪloʊ / n.  枕头；蕾丝枕头（lace pillow的简称）；<美>坐垫，靠垫
-mattress / ˈmætrəs / n.  床垫，褥垫；（工程）垫层，沉排，钢筋网
-spot / spɑːt /v.  看见，注意到；让分，让步；飘了几滴雨；<美，非正式>借（钱）给；使有斑点，使有污迹；稀疏地点缀；在场监护（运动员）；（军）确定敌人的位置；将（球）放在适当位置
-slip / slɪp /
-degrade / dɪˈɡreɪd / v.  侮辱，贬低；降低，削弱（尤指质量）；降解，分解；
-tuned / tjʊnd /adj.  经调谐的；谱好曲的；调好台的
-:wq!
-
-：q
-"each athlete" 中的 "ch" 和 "a" 之间可能会产生一个类似于 "j" 音的发音。
-overlooked / ˌoʊvərˈlʊkt / v.  忽略；不理会；宽恕；（使）落选；俯视；监督；用邪恶的眼睛施魔法于（overlook 的过去式及过去分词）
-
-Tour de France 环法自行车赛
-fare / fer / v.  进展，表现；
-medal / ˈmed(ə)l / n.  奖牌，勋章，纪念章
-bikes /baɪks/n.  自行车；摩托车（bike 的复数） 
-underwhelming/ ˌʌndərˈwelmɪŋ / adj.  未给人留下深刻印象的；未激起人们热情的
-manufacturer/ ˌmænjuˈfæktʃərər / n.  生产商，制造商
-gear / ɡɪr / n. 变速器
-hurt/ hɜːrt / v.  使受伤，使疼痛；感到受伤，
-trajectory/ trəˈdʒektəri / n.  （物体射向或抛向空中形成的）轨道，轨迹；（事业等的）发展轨迹，起落；
-Brailsford Br'ails'ford
-relentless / rɪˈlentləs / adj.  坚韧的，不屈不挠的；残酷无情的，
-commitment/ kəˈmɪtmənt / n.  忠诚，献身；承诺，保证； adjustment / əˈdʒʌstmənt / n.  调整，校正；（行为、思想的）调节，适应；调节器
-comfortable  ˈkʌmftəbl; ˈkʌmfərtəbl / 令人舒适的；感到舒服的，安逸的；自信的，自在的；富裕的，
-alcohol / ˈælkəhɔːl / n.  含酒精饮品，酒；酒精，乙醇；醇
-rubbed / rʌbd / v.  擦（rub 的过去式和过去分词）；摩擦；搓
-electrically/ ɪˈlektrɪkli / adv.  电力地；有关电地
-overshort adj．超短的：指长度或时间过短。
-athlete / ˈæθliːt / n.  运动员，体育健将；擅长运动的人
+vocabulary
+- massage / məˈsɑːʒ / n.  按摩，推拿
+- gels / dʒelz /n.  凝胶剂；定型发胶（gel 的复数）
+- fastest / fæstɪst / adj.  最快速的（fast 的最高级）
+- surgeon / ˈsɜːrdʒən / n.  外科医生
+- catching a cold 意思是患感冒，即受感冒病毒感染。
+- pillow / ˈpɪloʊ / n.  枕头；蕾丝枕头（lace pillow的简称）；<美>坐垫，靠垫
+- mattress / ˈmætrəs / n.  床垫，褥垫；（工程）垫层，沉排，钢筋网
+- spot / spɑːt /v.  看见，注意到；让分，让步；飘了几滴雨；<美，非正式>借（钱）给；使有斑点，使有污迹；稀疏地点缀；在场监护（运动员）；（军）确定敌人的位置；将（球）放在适当位置
+- slip / slɪp /
+- degrade / dɪˈɡreɪd / v.  侮辱，贬低；降低，削弱（尤指质量）；降解，分解；
+- tuned / tjʊnd /adj.  经调谐的；谱好曲的；调好台的
+- "each athlete" 中的 "ch" 和 "a" 之间可能会产生一个类似于 "j" 音的发音。
+- overlooked / ˌoʊvərˈlʊkt / v.  忽略；不理会；宽恕；（使）落选；俯视；监督；用邪恶的眼睛施魔法于（overlook 的过去式及过去分词）
+- Tour de France 环法自行车赛
+- fare / fer / v.  进展，表现；
+- medal / ˈmed(ə)l / n.  奖牌，勋章，纪念章
+- bikes /baɪks/n.  自行车；摩托车（bike 的复数） 
+- underwhelming/ ˌʌndərˈwelmɪŋ / adj.  未给人留下深刻印象的；未激起人们热情的
+- manufacturer/ ˌmænjuˈfæktʃərər / n.  生产商，制造商
+- gear / ɡɪr / n. 变速器
+- hurt/ hɜːrt / v.  使受伤，使疼痛；感到受伤，
+- trajectory/ trəˈdʒektəri / n.  （物体射向或抛向空中形成的）轨道，轨迹；（事业等的）发展轨迹，起落；
+- Brailsford Br'ails'ford
+- relentless / rɪˈlentləs / adj.  坚韧的，不屈不挠的；残酷无情的，
+- commitment/ kəˈmɪtmənt / n.  忠诚，献身；承诺，保证； adjustment / əˈdʒʌstmənt / n.  调整，校正；（行为、思想的）调节，适应；调节器
+- comfortable  ˈkʌmftəbl; ˈkʌmfərtəbl / 令人舒适的；感到舒服的，安逸的；自信的，自在的；富裕的，
+- alcohol / ˈælkəhɔːl / n.  含酒精饮品，酒；酒精，乙醇；醇
+- rubbed / rʌbd / v.  擦（rub 的过去式和过去分词）；摩擦；搓
+- electrically/ ɪˈlektrɪkli / adv.  电力地；有关电地
+- overshort adj．超短的：指长度或时间过短。
+- athlete / ˈæθliːt / n.  运动员，体育健将；擅长运动的人
 
 ## chapter 01 The Surprising Power of Atomic Habits
+
 
 ### WHY SMALL HABITS MAKE A BIG DIFFERENCE
 [0308]
@@ -95,15 +93,15 @@ Here's the phonemic transcription of the provided text:
 
 /miːnˈwaɪl ɪmˈpruːvɪŋ baɪ wʌn pəˈsɛnt ˈɪznt pərˈtɪkjʊlərli ˈnoʊtəbl—ˈsʌmtaɪmz ɪt ˈɪznt ˈivən ˈnoʊtɪsəbl—bət ɪt kæn biː fɑr mɔr ˈmiːnɪŋfəl, ɪsˈpɛʃəli ɪn ðə lɔŋ rʌn. ðə ˈdɪfərəns ə ˈtaɪni ɪmˈpruːvmənt kæn meɪk ˈoʊvər taɪm ɪz əˈstaʊndɪŋ. hɪrz haʊ ðə mæθ wɜrks aʊt: ɪf ju kæn ɡɛt wʌn pəˈsɛnt ˈbɛtər ˈiʧ deɪ fɔr wʌn jɪr, jul ˈɛnd ʌp ˈθɜrti ˈsɛvən taɪmz ˈbɛtər baɪ ðə taɪm jʊr dʌn. ˈkɑnvɝsli, ɪf ju ɡɛt wʌn pəˈsɛnt wɜrs ˈiʧ deɪ fɔr wʌn jɪr, jul dɪˈklaɪn ˈnɪrli daʊn tu ˈziroʊ. wʌt stɑrts əz ə smɔl wɪn ɔr ə ˈmaɪnər ˈsɛtbæk əˈkjumjəˌleɪts ˈɪntu ˈsʌmθɪŋ mʌʧ mɔr./
 
-particularly / pərˈtɪkjələrli / adv.  非常，尤其；特别是；清楚地，明确地
-notable / ˈnoʊtəb(ə)l / adj.  显要的，值得注意的；非常成功的，令人尊敬的
-noticeable / ˈnoʊtɪsəb(ə)l / adj.  显而易见的，明显的；值得注意的
-astounding /əˈstaʊn.dɪŋ/adj.  令人震惊的；令人惊骇的
-decline / dɪˈklaɪn / n.  减少，衰退 v.  下降，衰退；拒绝，谢绝；变格，词形变化
-complement / ˈkɑːmplɪment / n.  补足物，衬托物；足数，足额；补语；余角；补体，防御素
-predicate/ ˈpredɪkət / n.  （语法）谓语；（逻）谓项
-setback/ ˈsetbæk / n.  挫折，阻碍；（建筑）壁阶；<美>（建筑物的）缩进距离
-minor / ˈmaɪnər / adj.  较小的，次要的，轻微的；（疾病）不严重的，
+- particularly / pərˈtɪkjələrli / adv.  非常，尤其；特别是；清楚地，明确地
+- notable / ˈnoʊtəb(ə)l / adj.  显要的，值得注意的；非常成功的，令人尊敬的
+- noticeable / ˈnoʊtɪsəb(ə)l / adj.  显而易见的，明显的；值得注意的
+- astounding /əˈstaʊn.dɪŋ/adj.  令人震惊的；令人惊骇的
+- decline / dɪˈklaɪn / n.  减少，衰退 v.  下降，衰退；拒绝，谢绝；变格，词形变化
+- complement / ˈkɑːmplɪment / n.  补足物，衬托物；足数，足额；补语；余角；补体，防御素
+- predicate/ ˈpredɪkət / n.  （语法）谓语；（逻）谓项
+- setback/ ˈsetbæk / n.  挫折，阻碍；（建筑）壁阶；<美>（建筑物的）缩进距离
+- minor / ˈmaɪnər / adj.  较小的，次要的，轻微的；（疾病）不严重的，
 
 [0312]
 Habits are the compound interest of self-improvement. The same way that money multiplies through compound interest, the effects of your habits multiply as you repeat them. They seem to make little difference on any given day and yet the impact they deliver over the months and years can be enormous. It is only when looking back two, five, or perhaps ten years later that the value of good habits and the cost of bad ones becomes strikingly apparent.
@@ -112,23 +110,23 @@ Here's the phonemic transcription of the provided text:
 
 /hæbɪts ɑr ðə ˈkɑmpaʊnd ˈɪntrəst əv ˈsɛlf-ɪmˈpruv.mənt. ðə seɪm weɪ ðæt ˈmʌni ˈmʌltəˌplaɪz θruː ˈkɑmpaʊnd ˈɪntrəst, ðə ɪˈfɛkts əv jʊr ˈhæbɪts ˈmʌltəˌplaɪ æz juː rɪˈpiːt ðɛm. ðeɪ sim tuː meɪk ˈlɪtəl ˈdɪfərəns ɑn ˈɛni ˈɡɪvən ˈdeɪ ænd jɛt ðə ˈɪmpækt ðeɪ dɪˈlɪvər ˈoʊvər ðə ˈmʌnθs ænd jɪrz kæn biː ɪˈnɔr.məs. ɪt ɪz ˈoʊnli wɛn ˈlʊkɪŋ bæk tuː, faɪv, ɔr ˈpɜrhæps tɛn jɪrz ˈleɪtər ðæt ðə ˈvælju əv ɡʊd ˈhæbɪts ænd ðə kɔst əv bæd wənz bɪˈkʌmz ˈstraɪkɪŋli əˈpærənt./
 
-compound/ ˈkɑːmpaʊnd / adj.  复合的，混合的；以复利计算的
-multiplies / ˈmʌltɪplaɪz / 乘、 繁殖
-multiply /ˈmʌl.tə.plaɪ/v.  大大增加，倍增；乘，乘以；繁殖，滋生
-strikingly / ˈstraɪkɪŋli / adv.  显著地，突出地，引人注目地
-apparent/ əˈpærənt / adj.  显而易见的，易懂的；貌似的，表面上的
+- compound/ ˈkɑːmpaʊnd / adj.  复合的，混合的；以复利计算的
+- multiplies / ˈmʌltɪplaɪz / 乘、 繁殖
+- multiply /ˈmʌl.tə.plaɪ/v.  大大增加，倍增；乘，乘以；繁殖，滋生
+- strikingly / ˈstraɪkɪŋli / adv.  显著地，突出地，引人注目地
+- apparent/ əˈpærənt / adj.  显而易见的，易懂的；貌似的，表面上的
 
 
 This can be a difficult concept to appreciate in daily life. We often dismiss small changes because they don’t seem to matter very much in the moment. If you save a little money now, you’re still not a millionaire. If you go to the gym three days in a row, you’re still out of shape. If you study Mandarin for an hour tonight, you still haven’t learned the language. We make a few changes, but the results never seem to come quickly and so we slide back into our previous routines.
 
-concept / ˈkɑːnsept / n.  概念，观念
-appreciate / əˈpriːʃieɪt / v. 理解，明白；
-dismiss / dɪsˈmɪs /v.不考虑，不理会；驳回，停止受理
-millionaire /ˌmɪl.jəˈner/ /ˌmɪl.jəˈner/
-in a row 连续
-Mandarin/ ˈmændərɪn / n.  普通话
-slide / slaɪd / v 滑动
-slide back 滑回
+- concept / ˈkɑːnsept / n.  概念，观念
+- appreciate / əˈpriːʃieɪt / v. 理解，明白；
+- dismiss / dɪsˈmɪs /v.不考虑，不理会；驳回，停止受理
+- millionaire /ˌmɪl.jəˈner/ /ˌmɪl.jəˈner/
+- in a row 连续
+- Mandarin/ ˈmændərɪn / n.  普通话
+- slide / slaɪd / v 滑动
+- slide back 滑回
 
 Unfortunately, the slow pace of transformation also makes it easy to let a bad habit slide. If you eat an unhealthy meal today, the scale doesn’t move much. If you work late tonight and ignore your family, they will forgive you. If you procrastinate and put your project off until tomorrow, there will usually be time to finish it later. A single decision is easy to dismiss.
 
@@ -139,26 +137,26 @@ procrastinate / prəˈkræstɪneɪt / v.  拖延，耽搁
 [0314]
 But when we repeat 1 percent errors, day after day, by replicating poor decisions, duplicating tiny mistakes, and rationalizing little excuses, our small choices compound into toxic results. It’s the accumulation of many missteps—a 1 percent decline here and there—that eventually leads to a problem.
 
-replicating / ˈreplɪkeɪtɪŋ / n.  八音阶间隔的反复音；复制品 adj.  复制的 v.  复制（replicate 的 ing 形式）；折叠
-poor decision 糟糕的决定：一个不明智或错误的决策，可能导致负面后果。
-duplicating 美 / ˈdjʊpləˌket / v.  复制；重复；复印；使加倍（duplicate 的现在分词）
-rationalizing / ˈræʃnəlaɪzɪŋ / [数] 有理化
-rationalizing little excuses 为小借口找借口
-compound into 合并成：将两个或多个事物合并成一个更大的事物或系统。
-toxic / ˈtɑːksɪk / /ˈtɑːk.sɪk/  adj.  有毒的，引起中毒的；令人极不愉快的，极其有害的，恶毒的；中毒的，中毒性的；（财政）（债务）有毒的，风险高的；（证券）有毒的
-misstep / ˌmɪsˈstep / n.  失足；过失；踏错；失策vi.  失足；走上歧途
-decline / dɪˈklaɪn / v.  下降，衰退；拒绝，谢绝；变格，词形变化 n.  减少，衰退
+- replicating / ˈreplɪkeɪtɪŋ / n.  八音阶间隔的反复音；复制品 adj.  复制的 v.  复制（replicate 的 ing 形式）；折叠
+- poor decision 糟糕的决定：一个不明智或错误的决策，可能导致负面后果。
+- duplicating 美 / ˈdjʊpləˌket / v.  复制；重复；复印；使加倍（duplicate 的现在分词）
+- rationalizing / ˈræʃnəlaɪzɪŋ / [数] 有理化
+- rationalizing little excuses 为小借口找借口
+- compound into 合并成：将两个或多个事物合并成一个更大的事物或系统。
+- toxic / ˈtɑːksɪk / /ˈtɑːk.sɪk/  adj.  有毒的，引起中毒的；令人极不愉快的，极其有害的，恶毒的；中毒的，中毒性的；（财政）（债务）有毒的，风险高的；（证券）有毒的
+- misstep / ˌmɪsˈstep / n.  失足；过失；踏错；失策vi.  失足；走上歧途
+- decline / dɪˈklaɪn / v.  下降，衰退；拒绝，谢绝；变格，词形变化 n.  减少，衰退
 
 The impact created by a change in your habits is similar to the effect of shifting the route of an airplane by just a few degrees. Imagine you are flying from Los Angeles to New York City. If a pilot leaving from LAX adjusts the heading just 3.5 degrees south, you will land in Washington, D.C., instead of New York. Such a small change is barely noticeable at takeoff—the nose of the airplane moves just a few feet—but when magnified across the entire United States, you end up hundreds of miles apart.*
 
-shifting / ˈʃɪftɪŋ / v.  转移，挪动；快速移动；变换，更替；改变观点（或态度、做事方式等）；
-Los Angeles /ˌlɑːs ˈæn.dʒə.ləs/
-pilot /ˈpaɪ.lət/n.  飞行员；领航员；（船只的）领航员；（电视）试播节目；常燃小火；航海手册；<非正式>职业骑师；<古>向导；（火车头前端的）排障器
-heading / ˈhedɪŋ / n.  方向，航向；
-takeoff / ˈteɪkˌɔːf / n.  （飞机、直升机等的）起飞；（经济、生意等的）开始腾飞，迅速发展；
-nose / noʊz / n. (飞机、火箭等的）头部，机首；
-magnified / ˈmæɡnɪfaɪd / adj.  放大的 v.  放大；增大；夸大，夸张（magnify 的过去式和过去分词）
-miles / maɪlz / n.  英里（1英里约合1609米, mile 的复数形式）
+- shifting / ˈʃɪftɪŋ / v.  转移，挪动；快速移动；变换，更替；改变观点（或态度、做事方式等）；
+- Los Angeles /ˌlɑːs ˈæn.dʒə.ləs/
+- pilot /ˈpaɪ.lət/n.  飞行员；领航员；（船只的）领航员；（电视）试播节目；常燃小火；航海手册；<非正式>职业骑师；<古>向导；（火车头前端的）排障器
+- heading / ˈhedɪŋ / n.  方向，航向；
+- takeoff / ˈteɪkˌɔːf / n.  （飞机、直升机等的）起飞；（经济、生意等的）开始腾飞，迅速发展；
+- nose / noʊz / n. (飞机、火箭等的）头部，机首；
+- magnified / ˈmæɡnɪfaɪd / adj.  放大的 v.  放大；增大；夸大，夸张（magnify 的过去式和过去分词）
+- miles / maɪlz / n.  英里（1英里约合1609米, mile 的复数形式）
 
 Similarly, a slight change in your daily habits can guide your life to a very different destination. Making a choice that is 1 percent better or 1 percent worse seems insignificant in the moment, but over the span of moments that make up a lifetime these choices determine the difference between who you are and who you could be. Success is the product of daily habits—not once-in-a-lifetime transformations.
 
@@ -182,54 +180,52 @@ liking/ ˈlaɪkɪŋ / n.  嗜好，爱好，喜好
 blade/ bleɪd / n.  刀片，刀刃；（草，小麦等的）叶片；（船或飞机螺旋桨的）桨叶；（溜冰鞋的）冰刀；<旧>花花公子，时髦男士；<文>剑；肩胛骨，肩胛；舌身
 
 
-overestimate / ˌoʊvərˈestɪmeɪt / v.  过高估计（能力、影响或价值）；过高估计（规格、数量、数字等）
-underestimate / ˌʌndərˈestɪmeɪt / v.  低估，对……估计不足；轻视，小看（某人）
-defining moment决定性时刻：非常清楚地展示某事物真正本质的时刻。
-on a daily basis 每天（指一起共事）
-convince / kənˈvɪns / v.  使确信，使信服；说服，劝服
-championship/ ˈtʃæmpiənʃɪp / n.  锦标赛；冠军称号，冠军地位；捍卫，拥护 
-pressure / ˈpreʃər / n.  压力，挤压；（气体或液体形成的）压力，压强；心理压力，紧张；催促，要求；气压 
-earth-shattering / ˈɜːrθ ʃætərɪŋ / adj.  惊天动地的；极其重大的
-shattering / ˈʃætərɪŋ/ /ˈʃæt̬.ɚ.ɪŋ/  adj.  破碎的；令人震惊的；令人极度疲劳的；非常响亮的
-earth /ɜːθ/ n.  地球，世界；陆地，地面；泥土，土壤；地线，电线；<英，非正式>一大笔钱；尘世；兽穴
-defining / dɪˈfaɪnɪŋ / adj.  最典型的；起决定性作用的
-
-
-appreciate / əˈpriːʃieɪt / v.  欣赏，鉴赏；理解，明白；
-in a row 连续：连续不断地或连续地发生或存在。
-rationalizing / ˈræʃnəlaɪzɪŋ / 有理化
-toxic/ ˈtɑːksɪk / adj.  有毒的，引起中毒的；令人极不愉快的，
-decline / dɪˈklaɪn / v.  下降，衰退；拒绝，谢绝；变格，词形变化
-pilot / ˈpaɪlət / n.  飞行员；领航员；（船只的）领航员；
-magnified / ˈmæɡnɪfaɪd / adj.  放大的
-Conversely/ ˈkɑːnvɜːrsli / adv.  相反地，反过来说
-Lagging / ˈlæɡɪŋ / adj.  落后的，发展滞后的
-clutter / ˈklʌtər / n.  杂乱的东西；杂乱
-ally/ ˈælaɪ / v.  与……结盟，与……联合
-procrastinate / prəˈkræstɪneɪt / v.  拖延，耽搁
-frustration / frʌˈstreɪʃ(ə)n / n.  懊恼，沮丧；受阻，挫败；令人懊丧
-jam / dʒæm / n.  果酱；堵塞，拥挤；麻烦，困境；
-parenting / ˈperəntɪŋ / n.  养育子女，育儿；为人父母；
-condition / kənˈdɪʃ(ə)n / v.  训练，使习惯于；控制，制约；护理，保养；影响；
-outrage / ˈaʊtreɪdʒ / n.  愤慨，愤怒；骇人听闻的事，暴行
-unleash / ʌnˈliːʃ / v.  释放出，发泄（力量、感情等）；解开皮带放开（动物）；放开，解除对……的限制
-Cancer / ˈkænsər / 癌症；痼疾，社会恶习
-Bamboo / ˌbæmˈbuː / n.  竹，竹子；（制手杖或家具、器具用的）竹竿，竹筒
-extensive / ɪkˈstensɪv / adj.  广阔的；广泛的；巨大的，大量的；（农业）粗放（经营）的
-exploding / ɪkˈsploʊdɪŋ / n.  爆炸；爆发
-latent / ˈleɪt(ə)nt / adj.  （性质，状态）潜在的，隐藏的；
-plateau / plæˈtoʊ / n.  高原；（发展、增长后的）稳定期，停滞期；高原印第安人；托盘
-THE PLATEAU OF LATENT POTENTIAL “潜在潜力的高原”可能指的是一个人或组织在某个领域具有巨大但尚未被发掘或实现的潜力。这个概念暗示着尽管潜力存在，但在某个时刻可能停滞不前或未被充分利用。这个术语常常用于描述个人、团队或公司在发展过程中遇到的情况，他们可能已经取得了一些进展，但还未达到他们真正的潜力。
-hallmark / ˈhɔːlmɑːrk / v.  给……打金银纯度印记；使具有……特征
-overnight success 一夜成名：指某人或某事物在短时间内突然取得巨大成功，给人一种突然出现的感觉，但实际上是经过长时间的努力和准备。
-equivalent / ɪˈkwɪvələnt / adj.  等同的，等效的
-tectonic/ tekˈtɑːnɪk / [地质] 构造的；建筑的；地壳构造上的
-grind / ɡraɪnd / v.  磨碎，碾碎；使锋利；用力挤压；摩擦（发出刺耳声）
-
+- overestimate / ˌoʊvərˈestɪmeɪt / v.  过高估计（能力、影响或价值）；过高估计（规格、数量、数字等）
+- underestimate / ˌʌndərˈestɪmeɪt / v.  低估，对……估计不足；轻视，小看（某人）
+- defining moment决定性时刻：非常清楚地展示某事物真正本质的时刻。
+- on a daily basis 每天（指一起共事）
+- convince / kənˈvɪns / v.  使确信，使信服；说服，劝服
+- championship/ ˈtʃæmpiənʃɪp / n.  锦标赛；冠军称号，冠军地位；捍卫，拥护 
+- pressure / ˈpreʃər / n.  压力，挤压；（气体或液体形成的）压力，压强；心理压力，紧张；催促，要求；气压 
+- earth-shattering / ˈɜːrθ ʃætərɪŋ / adj.  惊天动地的；极其重大的
+- shattering / ˈʃætərɪŋ/ /ˈʃæt̬.ɚ.ɪŋ/  adj.  破碎的；令人震惊的；令人极度疲劳的；非常响亮的
+- earth /ɜːθ/ n.  地球，世界；陆地，地面；泥土，土壤；地线，电线；<英，非正式>一大笔钱；尘世；兽穴
+- defining / dɪˈfaɪnɪŋ / adj.  最典型的；起决定性作用的
+- appreciate / əˈpriːʃieɪt / v.  欣赏，鉴赏；理解，明白；
+- in a row 连续：连续不断地或连续地发生或存在。
+- rationalizing / ˈræʃnəlaɪzɪŋ / 有理化
+- toxic/ ˈtɑːksɪk / adj.  有毒的，引起中毒的；令人极不愉快的，
+- decline / dɪˈklaɪn / v.  下降，衰退；拒绝，谢绝；变格，词形变化
+- pilot / ˈpaɪlət / n.  飞行员；领航员；（船只的）领航员；
+- magnified / ˈmæɡnɪfaɪd / adj.  放大的
+- Conversely/ ˈkɑːnvɜːrsli / adv.  相反地，反过来说
+- Lagging / ˈlæɡɪŋ / adj.  落后的，发展滞后的
+- clutter / ˈklʌtər / n.  杂乱的东西；杂乱
+- ally/ ˈælaɪ / v.  与……结盟，与……联合
+- procrastinate / prəˈkræstɪneɪt / v.  拖延，耽搁
+- frustration / frʌˈstreɪʃ(ə)n / n.  懊恼，沮丧；受阻，挫败；令人懊丧
+- jam / dʒæm / n.  果酱；堵塞，拥挤；麻烦，困境；
+- parenting / ˈperəntɪŋ / n.  养育子女，育儿；为人父母；
+- condition / kənˈdɪʃ(ə)n / v.  训练，使习惯于；控制，制约；护理，保养；影响；
+- outrage / ˈaʊtreɪdʒ / n.  愤慨，愤怒；骇人听闻的事，暴行
+- unleash / ʌnˈliːʃ / v.  释放出，发泄（力量、感情等）；解开皮带放开（动物）；放开，解除对……的限制
+- Cancer / ˈkænsər / 癌症；痼疾，社会恶习
+- Bamboo / ˌbæmˈbuː / n.  竹，竹子；（制手杖或家具、器具用的）竹竿，竹筒
+- extensive / ɪkˈstensɪv / adj.  广阔的；广泛的；巨大的，大量的；（农业）粗放（经营）的
+- exploding / ɪkˈsploʊdɪŋ / n.  爆炸；爆发
+- latent / ˈleɪt(ə)nt / adj.  （性质，状态）潜在的，隐藏的；
+- plateau / plæˈtoʊ / n.  高原；（发展、增长后的）稳定期，停滞期；高原印第安人；托盘 THE PLATEAU OF LATENT POTENTIAL “潜在潜力的高原”可能指的是一个人或组织在某个领域具有巨大但尚未被发掘或实现的潜力。这个概念暗示着尽管潜力存在，但在某个时刻可能停滞不前或未被充分利用。这个术语常常用于描述个人、团队或公司在发展过程中遇到的情况，他们可能已经取得了一些进展，但还未达到他们真正的潜力。
+- hallmark / ˈhɔːlmɑːrk / v.  给……打金银纯度印记；使具有……特征
+- overnight success 一夜成名：指某人或某事物在短时间内突然取得巨大成功，给人一种突然出现的感觉，但实际上是经过长时间的努力和准备。
+- equivalent / ɪˈkwɪvələnt / adj.  等同的，等效的
+- tectonic/ tekˈtɑːnɪk / [地质] 构造的；建筑的；地壳构造上的
+- grind / ɡraɪnd / v.  磨碎，碾碎；使锋利；用力挤压；摩擦（发出刺耳声）
 
 ### WHAT PROGRESS IS REALLY LIKE
 
+
 ### THE PLATEAU OF LATENT POTENTIAL
+
 
 ### FORGET ABOUT GOALS, FOCUS ON SYSTEMS INSTEAD
 
