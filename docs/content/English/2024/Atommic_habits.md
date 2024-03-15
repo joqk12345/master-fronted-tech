@@ -225,3 +225,55 @@ overnight success 一夜成名：指某人或某事物在短时间内突然取�
 equivalent / ɪˈkwɪvələnt / adj.  等同的，等效的
 tectonic/ tekˈtɑːnɪk / [地质] 构造的；建筑的；地壳构造上的
 grind / ɡraɪnd / v.  磨碎，碾碎；使锋利；用力挤压；摩擦（发出刺耳声）
+
+
+### WHAT PROGRESS IS REALLY LIKE
+
+### THE PLATEAU OF LATENT POTENTIAL
+
+### FORGET ABOUT GOALS, FOCUS ON SYSTEMS INSTEAD
+
+Prevailing wisdom claims that the best way to achieve what we want in life—getting into better shape, building a successful business, relaxing more and worrying less, spending more time with friends and family—is to set specific, actionable goals.
+
+Prevailing / prɪˈveɪlɪŋ / adj.  现存的，存在的； 风靡的，盛行的
+shape / ʃeɪp / n. 身体状况；健壮；
+actionable / ˈækʃənəbl / adj.  可控告的；可提起诉讼的
+specific actionable goals 具体可行的目录
+
+For many years, this was how I approached my habits, too. Each one was a goal to be reached. I set goals for the grades I wanted to get in school, for the weights I wanted to lift in the gym, for the profits I wanted to earn in business. I succeeded at a few, but I failed at a lot of them. Eventually, I began to realize that my results had very little to do with the goals I set and nearly everything to do with the systems I followed.
+
+profits / ˈprɑːfɪts / n.  [会计]收益，红利；盈利（profit 的复数）
+
+What’s the difference between systems and goals? It’s a distinction I first learned from Scott Adams, the cartoonist behind the Dilbert comic. Goals are about the results you want to achieve. Systems are about the processes that lead to those results.
+
+- distinction / dɪˈstɪŋkʃn / n.  差别，区分；杰出，卓越；特点；荣誉
+- cartoonist / kɑːrˈtuːnɪst / n.  漫画家，动画片画家
+- Dilbert n.  呆伯特（卡通人物，身居斗室的生意圈里的平庸之辈）
+- comic / ˈkɑːmɪk / adj.  滑稽的，好笑的；喜剧的n.  喜剧演员；连环漫画
+
+
+If you’re a coach, your goal might be to win a championship. Your system is the way you recruit players, manage your assistant coaches, and conduct practice.
+
+- recruit / rɪˈkruːt / v.  招聘，招收（新成员）；招募（新兵）；说服，动员； 
+
+If you’re an entrepreneur, your goal might be to build a million-dollar business. Your system is how you test product ideas, hire employees, and run marketing campaigns.
+
+- entrepreneur / ˌɑːntrəprəˈnɜːr / n.  企业家，创业者；主办者，提倡者
+- campaign / kæmˈpeɪn / n.  （有计划的）活动，运动；战役，战斗
+-dd
+
+If you’re a musician, your goal might be to play a new piece. Your system is how often you practice, how you break down and tackle difficult measures, and your method for receiving feedback from your instructor.
+
+- tackle / ˈtæk(ə)l / v.  应付，解决（难题或局面）；与……交涉；（
+
+Now for the interesting question: If you completely ignored your goals and focused only on your system, would you still succeed? For example, if you were a basketball coach and you ignored your goal to win a championship and focused only on what your team does at practice each day, would you still get results?
+
+I think you would.
+
+The goal in any sport is to finish with the best score, but it would be ridiculous to spend the whole game staring at the scoreboard. The only way to actually win is to get better each day. In the words of three-time Super Bowl winner Bill Walsh, “The score takes care of itself.” The same is true for other areas of life. If you want better results, then forget about setting goals. Focus on your system instead.
+
+- ridiculous  rɪˈdɪkjələs / adj.  可笑的，荒谬的
+- scoreboard / ˈskɔːrbɔːrd / n.  记分板，记分牌
+- The score takes care of itself 分数是自然的
+
+What do I mean by this? Are goals completely useless? Of course not. Goals are good for setting a direction, but systems are best for making progress. A handful of problems arise when you spend too much time thinking about your goals and not enough time designing your systems.
