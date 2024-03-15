@@ -276,4 +276,20 @@ The goal in any sport is to finish with the best score, but it would be ridiculo
 - scoreboard / ˈskɔːrbɔːrd / n.  记分板，记分牌
 - The score takes care of itself 分数是自然的
 
-What do I mean by this? Are goals completely useless? Of course not. Goals are good for setting a direction, but systems are best for making progress. A handful of problems arise when you spend too much time thinking about your goals and not enough time designing your systems.
+What do I mean by this? Are goals completely useless? Of course not. Goals are good for setting a direction, but systems are best for making progress. A handful of problems arise when you spend too much time thinking about your goals and not enough time designing your systems
+
+
+### A SYSTEM OF ATOMIC HABITS
+
+If you’re having trouble changing your habits, the problem isn’t you. The problem is your system. Bad habits repeat themselves again and again not because you don’t want to change, but because you have the wrong system for change.
+
+You do not rise to the level of your goals. You fall to the level of your systems.
+
+Focusing on the overall system, rather than a single goal, is one of the core themes of this book. It is also one of the deeper meanings behind the word atomic. By now, you’ve probably realized that an atomic habit refers to a tiny change, a marginal gain, a 1 percent improvement. But atomic habits are not just any old habits, however small. They are little habits that are part of a larger system. Just as atoms are the building blocks of molecules, atomic habits are the building blocks of remarkable results.
+
+Habits are like the atoms of our lives. Each one is a fundamental unit that contributes to your overall improvement. At first, these tiny routines seem insignificant, but soon they build on each other and fuel bigger wins that multiply to a degree that far outweighs the cost of their initial investment. They are both small and mighty. This is the meaning of the phrase atomic habits—a regular practice or routine that is not only small and easy to do, but also the source of incredible power; a component of the system of compound growth.
+
+
+
+
+
