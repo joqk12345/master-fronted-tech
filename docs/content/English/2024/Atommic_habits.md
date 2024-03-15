@@ -223,9 +223,45 @@ blade/ bleɪd / n.  刀片，刀刃；（草，小麦等的）叶片；（船或
 
 ### WHAT PROGRESS IS REALLY LIKE
 
+Imagine that you have an ice cube sitting on the table in front of you. The room is cold and you can see your breath. It is currently twenty-five degrees. Ever so slowly, the room begins to heat up.
+
+Twenty-six degrees.
+
+Twenty-seven.
+
+Twenty-eight.
+
+The ice cube is still sitting on the table in front of you.
+
+Twenty-nine degrees.
+
+Thirty.
+
+Thirty-one.
+
+Still, nothing has happened.
+
+Then, thirty-two degrees. The ice begins to melt. A one-degree shift, seemingly no different from the temperature increases before it, has unlocked a huge change.
+
+Breakthrough moments are often the result of many previous actions, which build up the potential required to unleash a major change. This pattern shows up everywhere. Cancer spends 80 percent of its life undetectable, then takes over the body in months. Bamboo can barely be seen for the first five years as it builds extensive root systems underground before exploding ninety feet into the air within six weeks.
+
+Similarly, habits often appear to make no difference until you cross a critical threshold and unlock a new level of performance. In the early and middle stages of any quest, there is often a Valley of Disappointment. You expect to make progress in a linear fashion and it’s frustrating how ineffective changes can seem during the first days, weeks, and even months. It doesn’t feel like you are going anywhere. It’s a hallmark of any compounding process: the most powerful outcomes are delayed.
+
+This is one of the core reasons why it is so hard to build habits that last. People make a few small changes, fail to see a tangible result, and decide to stop. You think, “I’ve been running every day for a month, so why can’t I see any change in my body?” Once this kind of thinking takes over, it’s easy to let good habits fall by the wayside. But in order to make a meaningful difference, habits need to persist long enough to break through this plateau—what I call the Plateau of Latent Potential.
+
+If you find yourself struggling to build a good habit or break a bad one, it is not because you have lost your ability to improve. It is often because you have not yet crossed the Plateau of Latent Potential. Complaining about not achieving success despite working hard is like complaining about an ice cube not melting when you heated it from twenty-five to thirty-one degrees. Your work was not wasted; it is just being stored. All the action happens at thirty-two degrees.
+
+When you finally break through the Plateau of Latent Potential, people will call it an overnight success. The outside world only sees the most dramatic event rather than all that preceded it. But you know that it’s the work you did long ago—when it seemed that you weren’t making any progress—that makes the jump today possible.
+
+It is the human equivalent of geological pressure. Two tectonic plates can grind against one another for millions of years, the tension slowly building all the while. Then, one day, they rub each other once again, in the same fashion they have for ages, but this time the tension is too great. An earthquake erupts. Change can take years—before it happens all at once.
+
+Mastery requires patience. The San Antonio Spurs, one of the most successful teams in NBA history, have a quote from social reformer Jacob Riis hanging in their locker room: “When nothing seems to help, I go and look at a stonecutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that last blow that did it—but all that had gone before.”
 
 ### THE PLATEAU OF LATENT POTENTIAL
 
+All big things come from small beginnings. The seed of every habit is a single, tiny decision. But as that decision is repeated, a habit sprouts and grows stronger. Roots entrench themselves and branches grow. The task of breaking a bad habit is like uprooting a powerful oak within us. And the task of building a good habit is like cultivating a delicate flower one day at a time.
+
+But what determines whether we stick with a habit long enough to survive the Plateau of Latent Potential and break through to the other side? What is it that causes some people to slide into unwanted habits and enables others to enjoy the compounding effects of good ones?
 
 ### FORGET ABOUT GOALS, FOCUS ON SYSTEMS INSTEAD
 
