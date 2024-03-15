@@ -1,6 +1,10 @@
 # Ray
 
+1. artical:
 https://assets.ctfassets.net/bguokct8bxgd/26Vuu2NJLVnWkX4TkalSmB/fbc74da45885ca8e5048583f8a7e9d25/Ray_OSS_Datasheet_-_Final.pdf
+
+2. image architech: https://docs.ray.io/en/latest/_images/map-of-ray.svg
+
 vocabulary
 Effortlessly / ˈefərtləsli / adv.  轻松地；毫不费劲地
 Ray / reɪ / n.  光束，光线；（热、电或其他能源的）射线；
@@ -28,8 +32,12 @@ participants / pɑːrˈtɪsɪpənts / n.  参与者（participant 的复数）
 agnostic / æɡˈnɑːstɪk / adj.  不可知论的；怀疑的
 thorny / ˈθɔːrni / adj.  多刺的，带刺的；棘手的，麻烦的
 
-
 挑战讲的很清楚，算力需求10x 算力能力不足两倍，算力通过scale来弥合
 提供了简单的计算框架
 灵活度比较高，集成了很多数据源？
-
+- ray到底管的是什么？真正的价值在哪里？
+    - scale 能力的体现是什么？
+        - 提供分布式计算框架 for scaling these models
+        -
+    - libraries 
+        - API 串联全局? 

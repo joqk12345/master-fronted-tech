@@ -121,9 +121,10 @@ apparent/ əˈpærənt / adj.  显而易见的，易懂的；貌似的，表面�
 
 This can be a difficult concept to appreciate in daily life. We often dismiss small changes because they don’t seem to matter very much in the moment. If you save a little money now, you’re still not a millionaire. If you go to the gym three days in a row, you’re still out of shape. If you study Mandarin for an hour tonight, you still haven’t learned the language. We make a few changes, but the results never seem to come quickly and so we slide back into our previous routines.
 
+concept / ˈkɑːnsept / n.  概念，观念
 appreciate / əˈpriːʃieɪt / v. 理解，明白；
 dismiss / dɪsˈmɪs /v.不考虑，不理会；驳回，停止受理
-millionaire /ˌmɪl.jəˈner/ 
+millionaire /ˌmɪl.jəˈner/ /ˌmɪl.jəˈner/
 in a row 连续
 Mandarin/ ˈmændərɪn / n.  普通话
 slide / slaɪd / v 滑动
@@ -144,12 +145,20 @@ duplicating 美 / ˈdjʊpləˌket / v.  复制；重复；复印；使加倍（d
 rationalizing / ˈræʃnəlaɪzɪŋ / [数] 有理化
 rationalizing little excuses 为小借口找借口
 compound into 合并成：将两个或多个事物合并成一个更大的事物或系统。
-toxic / ˈtɑːksɪk / adj.  有毒的，引起中毒的；令人极不愉快的，极其有害的，恶毒的；中毒的，中毒性的；（财政）（债务）有毒的，风险高的；（证券）有毒的
+toxic / ˈtɑːksɪk / /ˈtɑːk.sɪk/  adj.  有毒的，引起中毒的；令人极不愉快的，极其有害的，恶毒的；中毒的，中毒性的；（财政）（债务）有毒的，风险高的；（证券）有毒的
 misstep / ˌmɪsˈstep / n.  失足；过失；踏错；失策vi.  失足；走上歧途
 decline / dɪˈklaɪn / v.  下降，衰退；拒绝，谢绝；变格，词形变化 n.  减少，衰退
 
-
 The impact created by a change in your habits is similar to the effect of shifting the route of an airplane by just a few degrees. Imagine you are flying from Los Angeles to New York City. If a pilot leaving from LAX adjusts the heading just 3.5 degrees south, you will land in Washington, D.C., instead of New York. Such a small change is barely noticeable at takeoff—the nose of the airplane moves just a few feet—but when magnified across the entire United States, you end up hundreds of miles apart.*
+
+shifting / ˈʃɪftɪŋ / v.  转移，挪动；快速移动；变换，更替；改变观点（或态度、做事方式等）；
+Los Angeles /ˌlɑːs ˈæn.dʒə.ləs/
+pilot /ˈpaɪ.lət/n.  飞行员；领航员；（船只的）领航员；（电视）试播节目；常燃小火；航海手册；<非正式>职业骑师；<古>向导；（火车头前端的）排障器
+heading / ˈhedɪŋ / n.  方向，航向；
+takeoff / ˈteɪkˌɔːf / n.  （飞机、直升机等的）起飞；（经济、生意等的）开始腾飞，迅速发展；
+nose / noʊz / n. (飞机、火箭等的）头部，机首；
+magnified / ˈmæɡnɪfaɪd / adj.  放大的 v.  放大；增大；夸大，夸张（magnify 的过去式和过去分词）
+miles / maɪlz / n.  英里（1英里约合1609米, mile 的复数形式）
 
 Similarly, a slight change in your daily habits can guide your life to a very different destination. Making a choice that is 1 percent better or 1 percent worse seems insignificant in the moment, but over the span of moments that make up a lifetime these choices determine the difference between who you are and who you could be. Success is the product of daily habits—not once-in-a-lifetime transformations.
 
