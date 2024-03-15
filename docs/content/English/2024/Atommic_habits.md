@@ -158,26 +158,38 @@ The impact created by a change in your habits is similar to the effect of shifti
 - magnified / ˈmæɡnɪfaɪd / adj.  放大的 v.  放大；增大；夸大，夸张（magnify 的过去式和过去分词）
 - miles / maɪlz / n.  英里（1英里约合1609米, mile 的复数形式）
 
+[0315] 
 Similarly, a slight change in your daily habits can guide your life to a very different destination. Making a choice that is 1 percent better or 1 percent worse seems insignificant in the moment, but over the span of moments that make up a lifetime these choices determine the difference between who you are and who you could be. Success is the product of daily habits—not once-in-a-lifetime transformations.
+
+- slight / slaɪt / adj.  轻微的，少量的；（人）瘦小的，纤弱的；（尤指创作）不深奥的，不重要的
+- choice / tʃɔɪs / n.  选择，抉择；选择的机会，选择权；
+- guide / ɡaɪd / v. 带领，引导（某人至某地）；任向导；指导，影响；解释，阐明
+- insignificant / ˌɪnsɪɡˈnɪfɪkənt / adj.  微不足道的，无足轻重的；（人）无权无势的；无意义的
 
 That said, it doesn’t matter how successful or unsuccessful you are right now. What matters is whether your habits are putting you on the path toward success. You should be far more concerned with your current trajectory than with your current results. If you’re a millionaire but you spend more than you earn each month, then you’re on a bad trajectory. If your spending habits don’t change, it’s not going to end well. Conversely, if you’re broke, but you save a little bit every month, then you’re on the path toward financial freedom—even if you’re moving slower than you’d like.
 
 Your outcomes are a lagging measure of your habits. Your net worth is a lagging measure of your financial habits. Your weight is a lagging measure of your eating habits. Your knowledge is a lagging measure of your learning habits. Your clutter is a lagging measure of your cleaning habits. You get what you repeat.
 
-clutter / ˈklʌtər / n.  杂乱的东西；杂乱
+- lagging / ˈlæɡɪŋ / adj.  落后的，发展滞后的
+- clutter / ˈklʌtər / n.  杂乱的东西；杂乱
 
 If you want to predict where you’ll end up in life, all you have to do is follow the curve of tiny gains or tiny losses, and see how your daily choices will compound ten or twenty years down the line. Are you spending less than you earn each month? Are you making it into the gym each week? Are you reading books and learning something new each day? Tiny battles like these are the ones that will define your future self.
 
+- losses/ lɔːsɪz / n.  损失；损耗（loss 的复数）
+- battles / ˈbætlz / n.  战争；竞争（battle 的复数）
+
 Time magnifies the margin between success and failure. It will multiply whatever you feed it. Good habits make time your ally. Bad habits make time your enemy.
 
-magnify / ˈmæɡnɪfaɪ / v.  放大，扩大；夸张，夸大；使（问题）加重，加剧；<古>赞美，颂扬
-multiply / ˈmʌltɪplaɪ / v.  大大增加，倍增；乘，乘以；繁殖，滋生
-ally / ˈælaɪ / n.  同盟国；盟友，支持者；辅助物，助手
+- magnify / ˈmæɡnɪfaɪ / v.  放大，扩大；夸张，夸大；使（问题）加重，加剧；<古>赞美，颂扬
+- margin / ˈmɑːrdʒɪn / n.  页边空白；差额，幅度；盈余，利润；余地，备用的时间（或空间、金钱等）；边缘，
+- multiply / ˈmʌltɪplaɪ / v.  大大增加，倍增；乘，乘以；繁殖，滋生
+- ally / ˈælaɪ / n.  同盟国；盟友，支持者；辅助物，助手
+- enemy / ˈenəmi / n.  敌人，反对者；敌国，敌军；大敌，危害物
 
 Habits are a double-edged sword. Bad habits can cut you down just as easily as good habits can build you up, which is why understanding the details is crucial. You need to know how habits work and how to design them to your liking, so you can avoid the dangerous half of the blade.
 
-liking/ ˈlaɪkɪŋ / n.  嗜好，爱好，喜好
-blade/ bleɪd / n.  刀片，刀刃；（草，小麦等的）叶片；（船或飞机螺旋桨的）桨叶；（溜冰鞋的）冰刀；<旧>花花公子，时髦男士；<文>剑；肩胛骨，肩胛；舌身
+- liking/ ˈlaɪkɪŋ / n.  嗜好，爱好，喜好
+- blade/ bleɪd / n.  刀片，刀刃；（草，小麦等的）叶片；（船或飞机螺旋桨的）桨叶；（溜冰鞋的）冰刀；<旧>花花公子，时髦男士；<文>剑；肩胛骨，肩胛；舌身
 
 
 - overestimate / ˌoʊvərˈestɪmeɪt / v.  过高估计（能力、影响或价值）；过高估计（规格、数量、数字等）
@@ -322,6 +334,6 @@ Focusing on the overall system, rather than a single goal, is one of the core th
 Habits are like the atoms of our lives. Each one is a fundamental unit that contributes to your overall improvement. At first, these tiny routines seem insignificant, but soon they build on each other and fuel bigger wins that multiply to a degree that far outweighs the cost of their initial investment. They are both small and mighty. This is the meaning of the phrase atomic habits—a regular practice or routine that is not only small and easy to do, but also the source of incredible power; a component of the system of compound growth.
 
 
-
+## chapter2 How Your Habits Shape Your Identity (and Vice Versa)
 
 
