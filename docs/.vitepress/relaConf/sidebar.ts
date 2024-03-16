@@ -401,6 +401,35 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text:'0319-三种常见的逻辑关系',
                     link:'/content/English/2024/20240319.md',
                 },
+                {
+                    text:'0320-转折关系',
+                    link:'/content/English/2024/20240320.md',
+                },
+                {
+                    text:'0321-三种有力模式',
+                    link:'/content/English/2024/20240321.md',
+                },
+                {
+                    text:'0322-什么是好内容',
+                    link:'/content/English/2024/20240322.md',
+                },
+
+                {
+                    text:'0323-修辞的作用',
+                    link:'/content/English/2024/20240323.md',
+                },
+                {
+                    text:'0324-重要修辞之具象',
+                    link:'/content/English/2024/20240324.md',
+                },
+                {
+                    text:'0325-重要修辞之排比',
+                    link:'/content/English/2024/20240325.md',
+                },
+                {
+                    text:'0326-重要修辞之引用',
+                    link:'/content/English/2024/202403256.md',
+                },
             ],
         },
         {

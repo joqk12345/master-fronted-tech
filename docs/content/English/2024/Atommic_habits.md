@@ -235,6 +235,7 @@ Habits are a double-edged sword. Bad habits can cut you down just as easily as g
 
 ### WHAT PROGRESS IS REALLY LIKE
 
+[0316]
 Imagine that you have an ice cube sitting on the table in front of you. The room is cold and you can see your breath. It is currently twenty-five degrees. Ever so slowly, the room begins to heat up.
 
 Twenty-six degrees.
@@ -255,17 +256,55 @@ Still, nothing has happened.
 
 Then, thirty-two degrees. The ice begins to melt. A one-degree shift, seemingly no different from the temperature increases before it, has unlocked a huge change.
 
+- cube / kjuːb / n.  立方体；立方，三次幂；<美，非正式>小室，小房间
+- seemingly / ˈsiːmɪŋli / adv.  貌似，看似（但可能并非如此）；似乎，好像（是事实）
+- temperature / ˈtemprətʃər; ˈtemprətʃʊr / n.  温度，气温；体温；发烧；热烈程度，情绪激烈程度
+- shift / ʃɪft / n.  改变，转变；轮班工作时间；轮班工作的人；（
+
 Breakthrough moments are often the result of many previous actions, which build up the potential required to unleash a major change. This pattern shows up everywhere. Cancer spends 80 percent of its life undetectable, then takes over the body in months. Bamboo can barely be seen for the first five years as it builds extensive root systems underground before exploding ninety feet into the air within six weeks.
+
+- unleash / ʌnˈliːʃ / v.  释放出，发泄（力量、感情等）；解开皮带放开（动物）；放开，解除对……的限制
+- undetectable / ˌʌndɪˈtektəbl / adj.  看不见的，察觉不出的；探测不到的
+- Bamboo / ˌbæmˈbuː / 竹，竹子；（制手杖或家具、器具用的）竹竿，竹筒
+- extensive / ɪkˈstensɪv / adj.  广阔的；广泛的；巨大的，大量的；
+- exploding/ ɪkˈsploʊdɪŋ / n.  爆炸；爆发
+- show up 显露，显示：明显存在或显露出来。
 
 Similarly, habits often appear to make no difference until you cross a critical threshold and unlock a new level of performance. In the early and middle stages of any quest, there is often a Valley of Disappointment. You expect to make progress in a linear fashion and it’s frustrating how ineffective changes can seem during the first days, weeks, and even months. It doesn’t feel like you are going anywhere. It’s a hallmark of any compounding process: the most powerful outcomes are delayed.
 
+- threshold / ˈθreʃhoʊld / n.  门槛，门口；阈，界，起始点；开端，
+- quest / kwest / n.  <文>（长久或辛勤的）寻求，探求；（中世纪传奇故事中骑士的）探险
+- frustrating / ˈfrʌstreɪtɪŋ / adj.  令人懊恼的，令人沮丧的
+- hallmark / ˈhɔːlmɑːrk / n.  特点，特征；（金银制品上标明纯度及制作时间、地点的）印记
+
 This is one of the core reasons why it is so hard to build habits that last. People make a few small changes, fail to see a tangible result, and decide to stop. You think, “I’ve been running every day for a month, so why can’t I see any change in my body?” Once this kind of thinking takes over, it’s easy to let good habits fall by the wayside. But in order to make a meaningful difference, habits need to persist long enough to break through this plateau—what I call the Plateau of Latent Potential.
+
+- plateau /plætˈoʊ/ n.  高原；（发展、增长后的）稳定期，停滞期；高原印第安人；托盘
+- tangible / ˈtændʒəb(ə)l / adj.  明确的，真实的；可触摸的，可感知的
+- Latent / ˈleɪt(ə)nt / adj.  （性质，状态）潜在的，隐藏的；（芽、静止期等）休眠的，潜伏的；
+- Potential / pəˈtenʃ(ə)l / adj.  潜在的，可能的
 
 If you find yourself struggling to build a good habit or break a bad one, it is not because you have lost your ability to improve. It is often because you have not yet crossed the Plateau of Latent Potential. Complaining about not achieving success despite working hard is like complaining about an ice cube not melting when you heated it from twenty-five to thirty-one degrees. Your work was not wasted; it is just being stored. All the action happens at thirty-two degrees.
 
+- Complaining/ kəmˈpleɪnɪŋ / v.  抱怨；（诗、文）悲叹；投诉；
+- heated/ ˈhiːtɪd / v.  加热，使变暖；<古>激起，使激动（he
+
 When you finally break through the Plateau of Latent Potential, people will call it an overnight success. The outside world only sees the most dramatic event rather than all that preceded it. But you know that it’s the work you did long ago—when it seemed that you weren’t making any progress—that makes the jump today possible.
 
+- overnight  / ˌoʊvərˈnaɪt / adj.  夜间的，只供一夜的；突然的，一夜之间的
+- dramatic 美 / drəˈmætɪk / adj.  巨大而突然的，急剧的；激动人心的，引人注目的，给人深刻印象的；有关戏剧的，戏剧表演的；夸张的
+- preceded v．在……之前发生；先于；领先
+
 It is the human equivalent of geological pressure. Two tectonic plates can grind against one another for millions of years, the tension slowly building all the while. Then, one day, they rub each other once again, in the same fashion they have for ages, but this time the tension is too great. An earthquake erupts. Change can take years—before it happens all at once.
+
+- equivalent /ɪˈkwɪv.əl.ənt/adj.  等同的，等效的
+- geological  ˌdʒiːəˈlɑːdʒɪk(ə)l / adj.  地质的，地质学的
+- tectonic / tekˈtɑːnɪk / [地质] 构造的；建筑的；地壳构造上的
+- plates / pleɪts / n.  盘子（plate 的复数）；板材；[建]平板
+- grind / ɡraɪnd / v.  磨碎，碾碎；使锋利；
+- tension / ˈtenʃ(ə)n / n.  紧张，焦虑；紧张关系，紧张局势；矛盾，冲突；
+- rub / rʌb / v.  擦，磨擦；揉擦，按摩（尤指疼痛部位）；
+- erupt / ɪˈrʌpt / v.  喷发；爆发，突然发生；（感情）迸发；（斑疹等）突然冒出；长牙
 
 Mastery requires patience. The San Antonio Spurs, one of the most successful teams in NBA history, have a quote from social reformer Jacob Riis hanging in their locker room: “When nothing seems to help, I go and look at a stonecutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that last blow that did it—but all that had gone before.”
 
