@@ -427,8 +427,20 @@ export const sidebar: DefaultTheme.Sidebar = {
                     link:'/content/English/2024/20240325.md',
                 },
                 {
-                    text:'0326-重要修辞之引用',
-                    link:'/content/English/2024/202403256.md',
+                    text:'0326-重要修辞之类比',
+                    link:'/content/English/2024/20240326.md',
+                },
+                {
+                    text:'0327-重要修辞之隐喻',
+                    link:'/content/English/2024/20240327.md',
+                },
+                {
+                    text:'0328-输入为本',
+                    link:'/content/English/2024/20240328.md',
+                },
+                {
+                    text:'0329-超级专业',
+                    link:'/content/English/2024/20240329.md',
                 },
             ],
         },
