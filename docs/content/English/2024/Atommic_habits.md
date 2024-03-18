@@ -308,9 +308,18 @@ It is the human equivalent of geological pressure. Two tectonic plates can grind
 
 Mastery requires patience. The San Antonio Spurs, one of the most successful teams in NBA history, have a quote from social reformer Jacob Riis hanging in their locker room: “When nothing seems to help, I go and look at a stonecutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that last blow that did it—but all that had gone before.”
 
-### THE PLATEAU OF LATENT POTENTIAL
+- hammering / ˈhæmərɪŋ / n.  锤击；锤打；抨击
 
+### THE PLATEAU OF LATENT POTENTIAL
+[0317]
 All big things come from small beginnings. The seed of every habit is a single, tiny decision. But as that decision is repeated, a habit sprouts and grows stronger. Roots entrench themselves and branches grow. The task of breaking a bad habit is like uprooting a powerful oak within us. And the task of building a good habit is like cultivating a delicate flower one day at a time.
+
+- sprout/ spraʊt / v.  （植物）发芽，抽条；（毛发等）生长，长出；涌现，突然出现；从表面凸出
+- entrench 美 / ɪnˈtrentʃ / v.  使（权力、习俗、观念等）根深蒂固；把（军队，兵营等）置于壕沟（或其他设防的阵地）中；<古>侵犯，侵占（entrench on/upon）；运用其他法律保障（法律赋予的权利，
+- uprooting / ˌʌpˈruːtɪŋ / v.  连根拔起；根除（uproot 的 ing 形式）
+- oak / oʊk / n.  橡树，栎树；橡木，栎木；
+- cultivating / ˈkʌltɪveɪtɪŋ / v.  培养（cultivate 的现在分词）
+- delicate / ˈdelɪkət / adj.  柔和的，清淡的；虚弱的，纤弱的；脆弱的，易碎的；小巧玲珑的，纤细的；微妙的，棘手的；精致的，精巧的；灵巧的，熟练的；（仪器）灵敏的
 
 But what determines whether we stick with a habit long enough to survive the Plateau of Latent Potential and break through to the other side? What is it that causes some people to slide into unwanted habits and enables others to enjoy the compounding effects of good ones?
 
@@ -343,11 +352,11 @@ If you’re an entrepreneur, your goal might be to build a million-dollar busine
 
 - entrepreneur / ˌɑːntrəprəˈnɜːr / n.  企业家，创业者；主办者，提倡者
 - campaign / kæmˈpeɪn / n.  （有计划的）活动，运动；战役，战斗
--dd
 
 If you’re a musician, your goal might be to play a new piece. Your system is how often you practice, how you break down and tackle difficult measures, and your method for receiving feedback from your instructor.
 
 - tackle / ˈtæk(ə)l / v.  应付，解决（难题或局面）；与……交涉；（
+- instructor / ɪnˈstrʌktər / n.  教练，导师；<美>大学讲师
 
 Now for the interesting question: If you completely ignored your goals and focused only on your system, would you still succeed? For example, if you were a basketball coach and you ignored your goal to win a championship and focused only on what your team does at practice each day, would you still get results?
 
@@ -391,13 +400,19 @@ The first layer is changing your outcomes. This level is concerned with changing
 
 The second layer is changing your process. This level is concerned with changing your habits and systems: implementing a new routine at the gym, decluttering your desk for better workflow, developing a meditation practice. Most of the habits you build are associated with this level.
 
+- meditation / ˌmedɪˈteɪʃ(ə)n / n.  冥想，打坐；沉思，深思；（关于某主题的）感想，沉思录
+
 The third and deepest layer is changing your identity. This level is concerned with changing your beliefs: your worldview, your self-image, your judgments about yourself and others. Most of the beliefs, assumptions, and biases you hold are associated with this level.
+
+- assumption / əˈsʌmpʃ(ə)n / n.  假定，假设；取得，承担
 
 Outcomes are about what you get. Processes are about what you do. Identity is about what you believe. When it comes to building habits that last—when it comes to building a system of 1 percent improvements—the problem is not that one level is “better” or “worse” than another. All levels of change are useful in their own way. The problem is the direction of change.
 
 Many people begin the process of changing their habits by focusing on what they want to achieve. This leads us to outcome-based habits. The alternative is to build identity-based habits. With this approach, we start by focusing on who we wish to become.
 
 Imagine two people resisting a cigarette. When offered a smoke, the first person says, “No thanks. I’m trying to quit.” It sounds like a reasonable response, but this person still believes they are a smoker who is trying to be something else. They are hoping their behavior will change while carrying around the same beliefs.
+
+- cigarette.  / ˈsɪɡəret / n.  香烟，纸烟；麻醉烟，草药烟，药性烟
 
 The second person declines by saying, “No thanks. I’m not a smoker.” It’s a small difference, but this statement signals a shift in identity. Smoking was part of their former life, not their current one. They no longer identify as someone who smokes.
 
