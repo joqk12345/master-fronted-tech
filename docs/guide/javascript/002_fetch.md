@@ -1,4 +1,8 @@
-# 异步api
+# Fetch API
+
+[[toc]]
+
+
 
 ## 1. 为什么会出现fetchAPI 
 
