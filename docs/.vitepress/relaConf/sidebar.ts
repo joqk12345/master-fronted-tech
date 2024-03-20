@@ -492,7 +492,12 @@ export const sidebar: DefaultTheme.Sidebar = {
     'guide/javascript/': [
         {
             text: 'Javascript',
-            items: [{ text: 'Promise', link: '/guide/javascript/001_basic' }],
+            items: [
+                { text: 'Promise', link: '/guide/javascript/001_basic' },
+                { text: 'fetch', link: '/guide/javascript/002_fetch' },
+                { text: 'modules', link: '/guide/javascript/003_modules' } 
+            ],
+
         },
     ],
     'guide/': [
