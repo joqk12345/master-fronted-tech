@@ -1,5 +1,6 @@
-#Screenwriting
+# Screenwriting
 substance,structure,style,and the principles of Screenwriting
+
 # INTRODUCTION
 Story is about principles, not rules.
 A rule says, “You must do it this way.” A principle says, “This works

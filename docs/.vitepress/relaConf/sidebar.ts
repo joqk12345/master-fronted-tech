@@ -459,15 +459,15 @@ export const sidebar: DefaultTheme.Sidebar = {
                 },
 
                 {
-                    text: 'apache-ray',
-                    link: '/content/English/2024/apche-ray.md',
+                    text: 'Apache Ray',
+                    link: '/content/English/2024/apache-ray.md',
                 },
                 {
-                    text: 'story-rober-mackee',
+                    text: 'Story Rober Mackee',
                     link: '/content/English/2024/story_rober_mackee.md',
                 },
                 {
-                    text: 'the legend of Unix',
+                    text: 'The Legend of Unix',
                     link: '/content/English/2024/the-legend-of-unix.md',
                 },
             ],
