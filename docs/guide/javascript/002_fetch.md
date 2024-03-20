@@ -22,7 +22,7 @@
 
 ### code editor setup
 TSC is itself a command-line application written in TypeScript, which means you need NodeJS to run it.
-
+https://sina.cn/index/feed?from=touch&Ver=10
 1. 创建目录
 
 ```
@@ -104,6 +104,11 @@ console.log('Hello TypeScript!')
 # Compile your TypeScript with TSC
 ./node_modules/.bin/tsc
 ```
+
+::: tip
+not use tsc command ，must use upper command 
+:::
+
 
 8. 执行代码
 
