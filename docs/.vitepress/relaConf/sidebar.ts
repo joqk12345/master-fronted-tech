@@ -457,6 +457,19 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text: 'atomic-habits',
                     link: '/content/English/2024/Atommic_habits.md',
                 },
+
+                {
+                    text: 'apache-ray',
+                    link: '/content/English/2024/apche-ray.md',
+                },
+                {
+                    text: 'story-rober-mackee',
+                    link: '/content/English/2024/story_rober_mackee.md',
+                },
+                {
+                    text: 'the legend of Unix',
+                    link: '/content/English/2024/the-legend-of-unix.md',
+                },
             ],
         },
     ],
