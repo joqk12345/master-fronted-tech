@@ -561,6 +561,7 @@ For most of my early life, I didn’t consider myself a writer. If you were to a
 Of course, your habits are not the only actions that influence your identity, but by virtue of their frequency they are usually the most important ones. Each experience in life modifies your self-image, but it’s unlikely you would consider yourself a soccer player because you kicked a ball once or an artist because you scribbled a picture. As you repeat these actions, however, the evidence accumulates and your self-image begins to change. The effect of one-off experiences tends to fade away while the effect of habits gets reinforced with time, which means your habits contribute most of the evidence that shapes your identity. In this way, the process of building habits is actually the process of becoming yourself.
 
 - virtue/ ˈvɜːrtʃuː / n.  高尚的道德，德行；美德，优秀品质；优点，长处；
+- self image/ ˌself ˈɪmɪdʒ / 自我形象：一个人对自己的形象、特点和价值的认知和评价。
 - soccer / ˈsɑːkər / n.  英式足球，足球
 - scribbled / ˈskrɪbld / v.  乱画；潦草地书写；写作（非正式）
 - one-off adj.  一次性的
