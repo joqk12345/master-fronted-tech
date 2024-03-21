@@ -540,6 +540,7 @@ Your identity emerges out of your habits. You are not born with preset beliefs. 
 
 More precisely, your habits are how you embody your identity. When you make your bed each day, you embody the identity of an organized person. When you write each day, you embody the identity of a creative person. When you train each day, you embody the identity of an athletic person.
 
+- precisely / prɪˈsaɪsli / adv.  精确地，准确地；恰好，正是（表示强调）；（用于表示完全同意）的确如此；严谨地，细致地
 - embody / ɪmˈbɑːdi / v.  具体表现，体现；收录，包括；<古>（尤指为军事目的）组织
 - athletic / æθˈletɪk / adj.  运动的，体育的；强壮的，健壮的；运动员用的；（在体育、比赛或身体锻炼等方面）行动敏捷的，活跃的
 
