@@ -574,21 +574,38 @@ Each habit is like a suggestion: “Hey, maybe this is who I am.” If you finis
 
 Every action you take is a vote for the type of person you wish to become. No single instance will transform your beliefs, but as the votes build up, so does the evidence of your new identity. This is one reason why meaningful change does not require radical change. Small habits can make a meaningful difference by providing evidence of a new identity. And if a change is meaningful, it actually is big. That’s the paradox of making small improvements.
 
+- radical / ˈrædɪk(ə)l / adj.  根本的，彻底的；激进的，极端的；全新的，不同凡响的；（增减）急剧的，大幅度的；（人，物）原本的，与生俱来的；<美，非正式>顶呱呱的；（外科，医疗）根治的；<英，史>（19世纪）自由党激进派的；（数）根式的，根号的；词根的；（植）根生的 
+- paradox / ˈpærədɑːks / n.  矛盾的人（或事物、情况）；似非而是的隽语，悖论；悖论修辞
+
 Putting this all together, you can see that habits are the path to changing your identity. The most practical way to change who you are is to change what you do.
 
 Each time you write a page, you are a writer.
 
 Each time you practice the violin, you are a musician.
 
+- violin / ˌvaɪəˈlɪn / n.  小提琴；小提琴手
+
 Each time you start a workout, you are an athlete.
+
+- workout / ˈwɜːrkaʊt / n.  锻炼，训练；试验
 
 Each time you encourage your employees, you are a leader.
 
 Each habit not only gets results but also teaches you something far more important: to trust yourself. You start to believe you can actually accomplish these things. When the votes mount up and the evidence begins to change, the story you tell yourself begins to change as well.
 
+- accomplish / əˈkɑːmplɪʃ / v.  完成，实现
+
 Of course, it works the opposite way, too. Every time you choose to perform a bad habit, it’s a vote for that identity. The good news is that you don’t need to be perfect. In any election, there are going to be votes for both sides. You don’t need a unanimous vote to win an election; you just need a majority. It doesn’t matter if you cast a few votes for a bad behavior or an unproductive habit. Your goal is simply to win the majority of the time.
 
+- unanimous / juˈnænɪməs / adj.  （投票、决定、协议等）全体同意的，无异议的；（所有人）一致同意的，意见一致的
+- election / ɪˈlekʃ(ə)n / n.  选举；当选；选举权；上帝的选拔
+- votes / voʊts / n.  选票；选举；得票数（vote 的复数形式）
+- majority / məˈdʒɔːrəti / n.  大多数；<英>多数票；成年的法定年龄；多数党；少校军衔，少校职位
+
 New identities require new evidence. If you keep casting the same votes you’ve always cast, you’re going to get the same results you’ve always had. If nothing changes, nothing is going to change.
+
+- identities / aɪˈdentɪtiz / 身份
+- cast / kæst / 投票；
 
 It is a simple two-step process:
 
@@ -600,7 +617,15 @@ First, decide who you want to be. This holds at any level—as an individual, as
 
 These are big questions, and many people aren’t sure where to begin—but they do know what kind of results they want: to get six-pack abs or to feel less anxious or to double their salary. That’s fine. Start there and work backward from the results you want to the type of person who could get those results. Ask yourself, “Who is the type of person that could get the outcome I want?” Who is the type of person that could lose forty pounds? Who is the type of person that could learn a new language? Who is the type of person that could run a successful start-up?
 
+- six-pack/ ˈsɪks pæk / n.  六瓶装；（非正式）隆起的腹肌
+- abs / æbz / n.  （非正式）腹肌（同abdominals）
+- six-pack abs 六块腹肌：指腹部肌肉发达，形成六块明显的腹肌。
+- anxious / ˈæŋkʃəs / adj.  焦虑的，担心的；渴望的，急切的；（时间或局势）紧张的，令人焦虑的
+- backward / ˈbækwərd / adj.  向后的，朝后的；倒退的；落后的；迟钝的
+
 For example, “Who is the type of person who could write a book?” It’s probably someone who is consistent and reliable. Now your focus shifts from writing a book (outcome-based) to being the type of person who is consistent and reliable (identity-based).
+
+- consistent / kənˈsɪstənt / adj.  始终如一的，一贯的；持续的，连续的；固守的，坚持的；一致的，吻合的
 
 This process can lead to beliefs like:
 
@@ -608,19 +633,149 @@ This process can lead to beliefs like:
 
 “I’m the kind of doctor who gives each patient the time and empathy they need.”
 
+- empathy / ˈempəθi / n.  共鸣，同情；感同身受，产生共鸣（的能力）
+
 “I’m the kind of manager who advocates for her employees.”
 
+- advocates/ ˈædvəkeɪts / vt.  主张，提倡（advocate 的第三人称单数）
+
 Once you have a handle on the type of person you want to be, you can begin taking small steps to reinforce your desired identity. I have a friend who lost over 100 pounds by asking herself, “What would a healthy person do?” All day long, she would use this question as a guide. Would a healthy person walk or take a cab? Would a healthy person order a burrito or a salad? She figured if she acted like a healthy person long enough, eventually she would become that person. She was right.
+
+- take a cab / teɪk ə kæb / 乘坐出租车：使用出租车作为交通工具。
+- burrito / bʊˈriːtoʊ / n.  玉米煎饼
+- salad / ˈsæləd / n.  色拉；尤指莴苣
+- figured / ˈfɪɡjərd / v.  是……的重要部分；认为；
 
 The concept of identity-based habits is our first introduction to another key theme in this book: feedback loops. Your habits shape your identity, and your identity shapes your habits. It’s a two-way street. The formation of all habits is a feedback loop (a concept we will explore in depth in the next chapter), but it’s important to let your values, principles, and identity drive the loop rather than your results. The focus should always be on becoming that type of person, not getting a particular outcome.
 
 ### THE REAL REASON HABITS MATTER
 Identity change is the North Star of habit change. The remainder of this book will provide you with step-by-step instructions on how to build better habits in yourself, your family, your team, your company, and anywhere else you wish. But the true question is: “Are you becoming the type of person you want to become?” The first step is not what or how, but who. You need to know who you want to be. Otherwise, your quest for change is like a boat without a rudder. And that’s why we are starting here.
-
+- quest / kwest / v.  <文>探寻，寻求 
+- rudder / ˈrʌdər / n.  船舵；飞机方向舵
 You have the power to change your beliefs about yourself. Your identity is not set in stone. You have a choice in every moment. You can choose the identity you want to reinforce today with the habits you choose today. And this brings us to the deeper purpose of this book and the real reason habits matter.
 
 Building better habits isn’t about littering your day with life hacks. It’s not about flossing one tooth each night or taking a cold shower each morning or wearing the same outfit each day. It’s not about achieving external measures of success like earning more money, losing weight, or reducing stress. Habits can help you achieve all of these things, but fundamentally they are not about having something. They are about becoming someone.
 
+- floss / flɑːs / vt.  用牙线洁牙
+- shower / ˈʃaʊər / n.  淋浴器，花洒；淋浴间，淋浴室；淋浴，洗澡
+- outfit / ˈaʊtfɪt / n.  （尤指在某一场合穿的）全套服装；全套工具，全套设备；
+- external / ɪkˈstɜːrn(ə)l / adj.  外部的，外面的；对外的，与外国有关的；外来的，外聘的；
+- earning / ˈɜːrnɪŋ / v.  赚得( earn的现在分词 )；挣钱；生（利）；获（利）
+ 
 Ultimately, your habits matter because they help you become the type of person you wish to be. They are the channel through which you develop your deepest beliefs about yourself. Quite literally, you become your habits.
+
+## chapter 3. How to Build Better Habits in 4 Simple Steps
+
+IN 1898, A psychologist named Edward Thorndike conducted an experiment that would lay the foundation for our understanding of how habits form and the rules that guide our behavior. Thorndike was interested in studying the behavior of animals, and he started by working with cats.
+
+- Thorndike / ˈθɔːrndaɪk / n.  桑代克（姓氏）
+
+He would place each cat inside a device known as a puzzle box. The box was designed so that the cat could escape through a door “by some simple act, such as pulling at a loop of cord, pressing a lever, or stepping on a platform.” For example, one box contained a lever that, when pressed, would open a door on the side of the box. Once the door had been opened, the cat could dart out and run over to a bowl of food.
+
+- lever / ˈlevər / n.  （车辆或机器的）操纵杆，控制杆；杠杆；（用于达到某一目的的）手段，
+- dart out突然冲出：迅速地从某个地方突然冲出或跳出。
+- dart / dɑːrt / v.  飞奔，猛冲；瞥，急扫（一眼）；（
+
+Most cats wanted to escape as soon as they were placed inside the box. They would poke their nose into the corners, stick their paws through openings, and claw at loose objects. After a few minutes of exploration, the cats would happen to press the magical lever, the door would open, and they would escape.
+
+- poke / poʊk / v.  （用手指或尖利物品）戳，刺；从……露出（或伸出、探出）；把……戳进，
+- paws / pɔːz / n.  （复数）爪子；〈
+- stick / stɪk / v.  放置；
+- claw / klɔː / v.  （用爪）撕，抓；挠痒；（帆船）迎风而行
+
+Thorndike tracked the behavior of each cat across many trials. In the beginning, the animals moved around the box at random. But as soon as the lever had been pressed and the door opened, the process of learning began. Gradually, each cat learned to associate the action of pressing the lever with the reward of escaping the box and getting to the food.
+
+After twenty to thirty trials, this behavior became so automatic and habitual that the cat could escape within a few seconds. For example, Thorndike noted, “Cat 12 took the following times to perform the act. 160 seconds, 30 seconds, 90 seconds, 60, 15, 28, 20, 30, 22, 11, 15, 20, 12, 10, 14, 10, 8, 8, 5, 10, 8, 6, 6, 7.”
+
+- habitual / həˈbɪtʃuəl / adj.  习惯性的，惯常的；上瘾的
+
+During the first three trials, the cat escaped in an average of 1.5 minutes. During the last three trials, it escaped in an average of 6.3 seconds. With practice, each cat made fewer errors and their actions became quicker and more automatic. Rather than repeat the same mistakes, the cat began to cut straight to the solution.
+
+From his studies, Thorndike described the learning process by stating, “behaviors followed by satisfying consequences tend to be repeated and those that produce unpleasant consequences are less likely to be repeated.” His work provides the perfect starting point for discussing how habits form in our own lives. It also provides answers to some fundamental questions like: What are habits? And why does the brain bother building them at all?
+
+### WHY YOUR BRAIN BUILDS HABITS
+
+A habit is a behavior that has been repeated enough times to become automatic. The process of habit formation begins with trial and error. Whenever you encounter a new situation in life, your brain has to make a decision. How do I respond to this? The first time you come across a problem, you’re not sure how to solve it. Like Thorndike’s cat, you’re just trying things out to see what works.
+
+- formation / fɔːrˈmeɪʃ(ə)n / n.  组成物；构成；形成，产生；编队，队形；
+
+Neurological activity in the brain is high during this period. You are carefully analyzing the situation and making conscious decisions about how to act. You’re taking in tons of new information and trying to make sense of it all. The brain is busy learning the most effective course of action.
+
+- neurological / ˌnʊrəˈlɑːdʒɪkl / adj.  神经病学的，神经学上的
+- conscious / ˈkɑːnʃəs / adj.  意识到的；神志清醒的，有知觉的；关注的；刻意的，慎重的
+
+Occasionally, like a cat pressing on a lever, you stumble across a solution. You’re feeling anxious, and you discover that going for a run calms you down. You’re mentally exhausted from a long day of work, and you learn that playing video games relaxes you. You’re exploring, exploring, exploring, and then—BAM—a reward.
+
+- stumble / ˈstʌmb(ə)l / v.  绊脚，绊跌；跌跌撞撞地走，蹒跚而行；结结巴巴地说；偶然发现；（
+- exhausted / ɪɡˈzɔːstɪd / adj.  筋疲力尽的；耗尽的，枯竭的
+- BAM 嘭，
+
+After you stumble upon an unexpected reward, you alter your strategy for next time. Your brain immediately begins to catalog the events that preceded the reward. Wait a minute—that felt good. What did I do right before that?
+
+- catalog / ˈkætəlɔːɡ / vt.  登记；为……编目录
+- preceded v．在……之前发生；先于；领先
+
+This is the feedback loop behind all human behavior: try, fail, learn, try differently. With practice, the useless movements fade away and the useful actions get reinforced. That’s a habit forming.
+
+Whenever you face a problem repeatedly, your brain begins to automate the process of solving it. Your habits are just a series of automatic solutions that solve the problems and stresses you face regularly. As behavioral scientist Jason Hreha writes, “Habits are, simply, reliable solutions to recurring problems in our environment.”
+
+As habits are created, the level of activity in the brain decreases. You learn to lock in on the cues that predict success and tune out everything else. When a similar situation arises in the future, you know exactly what to look for. There is no longer a need to analyze every angle of a situation. Your brain skips the process of trial and error and creates a mental rule: if this, then that. These cognitive scripts can be followed automatically whenever the situation is appropriate. Now, whenever you feel stressed, you get the itch to run. As soon as you walk in the door from work, you grab the video game controller. A choice that once required effort is now automatic. A habit has been created.
+
+Habits are mental shortcuts learned from experience. In a sense, a habit is just a memory of the steps you previously followed to solve a problem in the past. Whenever the conditions are right, you can draw on this memory and automatically apply the same solution. The primary reason the brain remembers the past is to better predict what will work in the future.
+
+Habit formation is incredibly useful because the conscious mind is the bottleneck of the brain. It can only pay attention to one problem at a time. As a result, your brain is always working to preserve your conscious attention for whatever task is most essential. Whenever possible, the conscious mind likes to pawn off tasks to the nonconscious mind to do automatically. This is precisely what happens when a habit is formed. Habits reduce cognitive load and free up mental capacity, so you can allocate your attention to other tasks.
+
+Despite their efficiency, some people still wonder about the benefits of habits. The argument goes like this: “Will habits make my life dull? I don’t want to pigeonhole myself into a lifestyle I don’t enjoy. Doesn’t so much routine take away the vibrancy and spontaneity of life?” Hardly. Such questions set up a false dichotomy. They make you think that you have to choose between building habits and attaining freedom. In reality, the two complement each other.
+
+Habits do not restrict freedom. They create it. In fact, the people who don’t have their habits handled are often the ones with the least amount of freedom. Without good financial habits, you will always be struggling for the next dollar. Without good health habits, you will always seem to be short on energy. Without good learning habits, you will always feel like you’re behind the curve. If you’re always being forced to make decisions about simple tasks—when should I work out, where do I go to write, when do I pay the bills—then you have less time for freedom. It’s only by making the fundamentals of life easier that you can create the mental space needed for free thinking and creativity.
+
+Conversely, when you have your habits dialed in and the basics of life are handled and done, your mind is free to focus on new challenges and master the next set of problems. Building habits in the present allows you to do more of what you want in the future.
+
+
+### THE SCIENCE OF HOW HABITS WORK
+
+The process of building a habit can be divided into four simple steps: cue, craving, response, and reward.* Breaking it down into these fundamental parts can help us understand what a habit is, how it works, and how to improve it.
+
+This four-step pattern is the backbone of every habit, and your brain runs through these steps in the same order each time.
+
+First, there is the cue. The cue triggers your brain to initiate a behavior. It is a bit of information that predicts a reward. Our prehistoric ancestors were paying attention to cues that signaled the location of primary rewards like food, water, and sex. Today, we spend most of our time learning cues that predict secondary rewards like money and fame, power and status, praise and approval, love and friendship, or a sense of personal satisfaction. (Of course, these pursuits also indirectly improve our odds of survival and reproduction, which is the deeper motive behind everything we do.)
+
+Your mind is continuously analyzing your internal and external environment for hints of where rewards are located. Because the cue is the first indication that we’re close to a reward, it naturally leads to a craving.
+
+Cravings are the second step, and they are the motivational force behind every habit. Without some level of motivation or desire—without craving a change—we have no reason to act. What you crave is not the habit itself but the change in state it delivers. You do not crave smoking a cigarette, you crave the feeling of relief it provides. You are not motivated by brushing your teeth but rather by the feeling of a clean mouth. You do not want to turn on the television, you want to be entertained. Every craving is linked to a desire to change your internal state. This is an important point that we will discuss in detail later.
+
+Cravings differ from person to person. In theory, any piece of information could trigger a craving, but in practice, people are not motivated by the same cues. For a gambler, the sound of slot machines can be a potent trigger that sparks an intense wave of desire. For someone who rarely gambles, the jingles and chimes of the casino are just background noise. Cues are meaningless until they are interpreted. The thoughts, feelings, and emotions of the observer are what transform a cue into a craving.
+
+The third step is the response. The response is the actual habit you perform, which can take the form of a thought or an action. Whether a response occurs depends on how motivated you are and how much friction is associated with the behavior. If a particular action requires more physical or mental effort than you are willing to expend, then you won’t do it. Your response also depends on your ability. It sounds simple, but a habit can occur only if you are capable of doing it. If you want to dunk a basketball but can’t jump high enough to reach the hoop, well, you’re out of luck.
+
+Finally, the response delivers a reward. Rewards are the end goal of every habit. The cue is about noticing the reward. The craving is about wanting the reward. The response is about obtaining the reward. We chase rewards because they serve two purposes: (1) they satisfy us and (2) they teach us.
+
+The first purpose of rewards is to satisfy your craving. Yes, rewards provide benefits on their own. Food and water deliver the energy you need to survive. Getting a promotion brings more money and respect. Getting in shape improves your health and your dating prospects. But the more immediate benefit is that rewards satisfy your craving to eat or to gain status or to win approval. At least for a moment, rewards deliver contentment and relief from craving.
+
+Second, rewards teach us which actions are worth remembering in the future. Your brain is a reward detector. As you go about your life, your sensory nervous system is continuously monitoring which actions satisfy your desires and deliver pleasure. Feelings of pleasure and disappointment are part of the feedback mechanism that helps your brain distinguish useful actions from useless ones. Rewards close the feedback loop and complete the habit cycle.
+
+If a behavior is insufficient in any of the four stages, it will not become a habit. Eliminate the cue and your habit will never start. Reduce the craving and you won’t experience enough motivation to act. Make the behavior difficult and you won’t be able to do it. And if the reward fails to satisfy your desire, then you’ll have no reason to do it again in the future. Without the first three steps, a behavior will not occur. Without all four, a behavior will not be repeated.
+
+In summary, the cue triggers a craving, which motivates a response, which provides a reward, which satisfies the craving and, ultimately, becomes associated with the cue. Together, these four steps form a neurological feedback loop—cue, craving, response, reward; cue, craving, response, reward—that ultimately allows you to create automatic habits. This cycle is known as the habit loop.
+
+This four-step process is not something that happens occasionally, but rather it is an endless feedback loop that is running and active during every moment you are alive—even now. The brain is continually scanning the environment, predicting what will happen next, trying out different responses, and learning from the results. The entire process is completed in a split second, and we use it again and again without realizing everything that has been packed into the previous moment.
+
+We can split these four steps into two phases: the problem phase and the solution phase. The problem phase includes the cue and the craving, and it is when you realize that something needs to change. The solution phase includes the response and the reward, and it is when you take action and achieve the change you desire.
+
+All behavior is driven by the desire to solve a problem. Sometimes the problem is that you notice something good and you want to obtain it. Sometimes the problem is that you are experiencing pain and you want to relieve it. Either way, the purpose of every habit is to solve the problems you face.
+
+In the table on the following page, you can see a few examples of what this looks like in real life.
+
+Imagine walking into a dark room and flipping on the light switch. You have performed this simple habit so many times that it occurs without thinking. You proceed through all four stages in the fraction of a second. The urge to act strikes you without thinking.
+
+By the time we become adults, we rarely notice the habits that are running our lives. Most of us never give a second thought to the fact that we tie the same shoe first each morning, or unplug the toaster after each use, or always change into comfortable clothes after getting home from work. After decades of mental programming, we automatically slip into these patterns of thinking and acting.
+
+
+
+### THE FOUR LAWS OF BEHAVIOR CHANGE
+
+In the following chapters, we will see time and again how the four stages of cue, craving, response, and reward influence nearly everything we do each day. But before we do that, we need to transform these four steps into a practical framework that we can use to design good habits and eliminate bad ones.
+
+I refer to this framework as the Four Laws of Behavior Change, and it provides a simple set of rules for creating good habits and breaking bad ones. You can think of each law as a lever that influences human behavior. When the levers are in the right positions, creating good habits is effortless. When they are in the wrong positions, it is nearly impossible.
 
 
