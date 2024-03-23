@@ -442,6 +442,43 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text:'0329-超级专业',
                     link:'/content/English/2024/20240329.md',
                 },
+                {
+                    text:'0330-猛人的生活',
+                    link:'/content/English/2024/20240330.md',
+                },
+                {
+                    text:'0331-输出的目的和目标',
+                    link:'/content/English/2024/20240331.md',
+                },
+            ],
+        },
+        {
+            text: '2024-04',
+            collapsed:true,
+            items:[
+                {
+                    text:"0401-销售新解",
+                    link:"/content/English/2024/20240401.md",
+                },
+                
+                {
+                    text:"0402-如何锻炼表达力",
+                    link:"/content/English/2024/20240402.md",
+                },
+                {
+                    text:"0403-做任何事情的秘密",
+                    link:"/content/English/2024/20240403.md",
+                },
+                {
+                    text:"0404-创作的目标",
+                    link:"/content/English/2024/20240404.md",
+                },
+            ],
+        },
+        {
+            text: 'topic',
+            collapsed: true,
+            items: [
             ],
         },
         {
