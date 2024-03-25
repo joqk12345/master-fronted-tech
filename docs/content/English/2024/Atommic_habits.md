@@ -706,12 +706,15 @@ Neurological activity in the brain is high during this period. You are carefully
 
 Occasionally, like a cat pressing on a lever, you stumble across a solution. You’re feeling anxious, and you discover that going for a run calms you down. You’re mentally exhausted from a long day of work, and you learn that playing video games relaxes you. You’re exploring, exploring, exploring, and then—BAM—a reward.
 
+- Occasionally / əˈkeɪʒ(ə)nəli / adv.  偶然，偶尔
+- anxious / ˈæŋkʃəs / adj.  焦虑的，担心的；渴望的，急切的；（时间或局势）紧张的，令人焦虑的
 - stumble / ˈstʌmb(ə)l / v.  绊脚，绊跌；跌跌撞撞地走，蹒跚而行；结结巴巴地说；偶然发现；（
 - exhausted / ɪɡˈzɔːstɪd / adj.  筋疲力尽的；耗尽的，枯竭的
 - BAM 嘭，
 
 After you stumble upon an unexpected reward, you alter your strategy for next time. Your brain immediately begins to catalog the events that preceded the reward. Wait a minute—that felt good. What did I do right before that?
 
+- strategy / ˈstrætədʒi /n.  （尤指为获得某物制定长期的）策略，行动计划；战略，战略学
 - catalog / ˈkætəlɔːɡ / vt.  登记；为……编目录
 - preceded v．在……之前发生；先于；领先
 
@@ -719,11 +722,29 @@ This is the feedback loop behind all human behavior: try, fail, learn, try diffe
 
 Whenever you face a problem repeatedly, your brain begins to automate the process of solving it. Your habits are just a series of automatic solutions that solve the problems and stresses you face regularly. As behavioral scientist Jason Hreha writes, “Habits are, simply, reliable solutions to recurring problems in our environment.”
 
+- stress / stres / n.  精神压力，紧张；压力，应力；强调，重要性；（单词）重音，重读，（音乐）加强音；压强；环境恶劣引起的疾病
+- recurring / rɪˈkɜːrɪŋ / adj.  反复出现，再次发生；循环小数的；经常性的
+- regularly / ˈreɡjələrli / adv.  定期地，有规律地；频繁地，经常地；均匀地，匀称地；
+
 As habits are created, the level of activity in the brain decreases. You learn to lock in on the cues that predict success and tune out everything else. When a similar situation arises in the future, you know exactly what to look for. There is no longer a need to analyze every angle of a situation. Your brain skips the process of trial and error and creates a mental rule: if this, then that. These cognitive scripts can be followed automatically whenever the situation is appropriate. Now, whenever you feel stressed, you get the itch to run. As soon as you walk in the door from work, you grab the video game controller. A choice that once required effort is now automatic. A habit has been created.
+
+- lock in 锁定：指将某人或某物固定在特定位置或状态，使其无法移动或改变。
+- tune / tuːn / v.  （给乐器）调音，校音；（给收音机、电视等）调谐，调频道；调整，调节（发动机）；调整，使适合；<南非，非正式>告诉
+- tune out v.  关掉；不理睬
+- trial / ˈtraɪəl /n.  审判，审理；试验，试用；（
+- trial and error 试错法：通过尝试一种或多种方法或手段，并注意和消除错误或失败原因来找到达到期望结果或正确解决方案的最佳方法的过程。
+- cognitive  ˈkɑːɡnətɪv / adj.  认识的，认知的
+- "Cognitive scripts" 是指认知脚本，也称为认知模式或认知图式。它们是人们在日常生活中使用的自动化思维模式，用于处理特定情境或完成特定任务。
+- appropriate / əˈproʊpriət / adj.  合适的，相称的
 
 Habits are mental shortcuts learned from experience. In a sense, a habit is just a memory of the steps you previously followed to solve a problem in the past. Whenever the conditions are right, you can draw on this memory and automatically apply the same solution. The primary reason the brain remembers the past is to better predict what will work in the future.
 
 Habit formation is incredibly useful because the conscious mind is the bottleneck of the brain. It can only pay attention to one problem at a time. As a result, your brain is always working to preserve your conscious attention for whatever task is most essential. Whenever possible, the conscious mind likes to pawn off tasks to the nonconscious mind to do automatically. This is precisely what happens when a habit is formed. Habits reduce cognitive load and free up mental capacity, so you can allocate your attention to other tasks.
+
+- preserve / prɪˈzɜːrv / v.  保护，维护；保持，维持；腌制，保存（食物）；禁止他人捕猎
+-  conscious / ˈkɑːnʃəs / adj.  意识到的；神志清醒的，有知觉的；关注的；刻意的，慎重的
+- pawn / pɑːn / vt.  当掉；以……担保
+- pawn off 推卸责任：通过欺骗手段摆脱或推卸责任。
 
 Despite their efficiency, some people still wonder about the benefits of habits. The argument goes like this: “Will habits make my life dull? I don’t want to pigeonhole myself into a lifestyle I don’t enjoy. Doesn’t so much routine take away the vibrancy and spontaneity of life?” Hardly. Such questions set up a false dichotomy. They make you think that you have to choose between building habits and attaining freedom. In reality, the two complement each other.
 
