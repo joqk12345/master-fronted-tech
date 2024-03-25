@@ -739,19 +739,39 @@ As habits are created, the level of activity in the brain decreases. You learn t
 
 Habits are mental shortcuts learned from experience. In a sense, a habit is just a memory of the steps you previously followed to solve a problem in the past. Whenever the conditions are right, you can draw on this memory and automatically apply the same solution. The primary reason the brain remembers the past is to better predict what will work in the future.
 
+[0325]
 Habit formation is incredibly useful because the conscious mind is the bottleneck of the brain. It can only pay attention to one problem at a time. As a result, your brain is always working to preserve your conscious attention for whatever task is most essential. Whenever possible, the conscious mind likes to pawn off tasks to the nonconscious mind to do automatically. This is precisely what happens when a habit is formed. Habits reduce cognitive load and free up mental capacity, so you can allocate your attention to other tasks.
 
 - preserve / prɪˈzɜːrv / v.  保护，维护；保持，维持；腌制，保存（食物）；禁止他人捕猎
--  conscious / ˈkɑːnʃəs / adj.  意识到的；神志清醒的，有知觉的；关注的；刻意的，慎重的
+- conscious / ˈkɑːnʃəs / adj.  意识到的；神志清醒的，有知觉的；关注的；刻意的，慎重的
+- conscious mind 意识心智：指一个人在任何时候意识到自己拥有的思想和感受。
+- conscious attention 有意识注意
+- bottleneck / ˈbɑːtlnek / n.  瓶颈；障碍物
 - pawn / pɑːn / vt.  当掉；以……担保
 - pawn off 推卸责任：通过欺骗手段摆脱或推卸责任。
+- precisely / prɪˈsaɪsli / adv.  精确地，准确地；恰好，正是（表示强调）；
+- cognitive load 认知负荷：指个体工作记忆资源的使用量。
+- mental capacity / ˈmentl kəˈpæsəti / 智力能力：指一个人的智力水平和能力，包括思考、理解、记忆、解决问题等方面。
+- capacity / kəˈpæsəti / n.  能力，才能；容积，容纳能力；职位，职责；功率，容积；生产量，生产能力
 
 Despite their efficiency, some people still wonder about the benefits of habits. The argument goes like this: “Will habits make my life dull? I don’t want to pigeonhole myself into a lifestyle I don’t enjoy. Doesn’t so much routine take away the vibrancy and spontaneity of life?” Hardly. Such questions set up a false dichotomy. They make you think that you have to choose between building habits and attaining freedom. In reality, the two complement each other.
 
+- dull / dʌl / adj.  枯燥无聊的；无精打采的；不明亮的；
+- pigeonhole / ˈpɪdʒɪnhoʊl / vt.  分类；把……留在记忆中；缓办；把……隔成小格
+- vibrancy / ˈvaɪbrənsi / n.  振动；活力
+- spontaneity / ˌspɑːntəˈneɪəti / n.  自发性，自然；自发行为
+- dichotomy / daɪˈkɑːtəmi / n.  二分法；两分；分裂；双歧分枝
+- attaining / əˈteɪnɪŋ / v.  获得；实现；达到（attain 的现在分词）
+- complement / ˈkɑːmplɪment / n.  补足物，衬托物；足数，足额；补语；余角；补体，防御素
+
 Habits do not restrict freedom. They create it. In fact, the people who don’t have their habits handled are often the ones with the least amount of freedom. Without good financial habits, you will always be struggling for the next dollar. Without good health habits, you will always seem to be short on energy. Without good learning habits, you will always feel like you’re behind the curve. If you’re always being forced to make decisions about simple tasks—when should I work out, where do I go to write, when do I pay the bills—then you have less time for freedom. It’s only by making the fundamentals of life easier that you can create the mental space needed for free thinking and creativity.
+
+- restrict / rɪˈstrɪkt / v.  限制，控制（大小、数量、范围）；限制（活动或行为），妨碍；约束，管束；
+- least / liːst / adj.  一点儿；最少的（little 的最高级）；最微不足道的（little 的最高级形式）
 
 Conversely, when you have your habits dialed in and the basics of life are handled and done, your mind is free to focus on new challenges and master the next set of problems. Building habits in the present allows you to do more of what you want in the future.
 
+- dialed in 调整或精确地设置某物以达到最佳效果的过程已经完成，或者已经达到了最佳效果
 
 ### THE SCIENCE OF HOW HABITS WORK
 
