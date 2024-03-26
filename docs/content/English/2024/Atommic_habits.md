@@ -779,14 +779,43 @@ Conversely, when you have your habits dialed in and the basics of life are handl
 The process of building a habit can be divided into four simple steps: cue, craving, response, and reward.* Breaking it down into these fundamental parts can help us understand what a habit is, how it works, and how to improve it.
 
 This four-step pattern is the backbone of every habit, and your brain runs through these steps in the same order each time.
-
+[0326]
 First, there is the cue. The cue triggers your brain to initiate a behavior. It is a bit of information that predicts a reward. Our prehistoric ancestors were paying attention to cues that signaled the location of primary rewards like food, water, and sex. Today, we spend most of our time learning cues that predict secondary rewards like money and fame, power and status, praise and approval, love and friendship, or a sense of personal satisfaction. (Of course, these pursuits also indirectly improve our odds of survival and reproduction, which is the deeper motive behind everything we do.)
+
+- cue / kjuː / n.  暗示，提示；（戏剧或电影中的）尾白，提示；
+- initiate / ɪˈnɪʃieɪt / v.  开始实施，发起；使了解，传授；（尤指在秘密仪式上）使加入，接纳
+- prehistoric / ˌpriːhɪˈstɔːrɪk / adj.  史前的，有文字记载以前的；<非正式>古老的，过时的
+- ancestors / ˈænsestərz / n.  [生物]祖先，上代；先祖（ancestor 复数形式）
+- sex / seks / n.  性行为，性交；性，性别；雄性，
+- praise / preɪz / n.  表扬，赞美；（对上帝的）感谢，崇拜
+- approval / əˈpruːv(ə)l / n.  称许，赞成；批准，许可
+- pursuit / pərˈsuːt / n.  追求，寻找；继续；追逐，追捕；实行，贯彻；消遣，业余爱好；（
+- odds / ɑːdz / n.  （事物发生的）可能性，机会；困难，不利条件；投注赔率；
+- reproduction/ ˌriːprəˈdʌkʃ(ə)n / n.  生殖，繁殖；复印，再版；（声音的）复制，录制；复制品，仿制品
 
 Your mind is continuously analyzing your internal and external environment for hints of where rewards are located. Because the cue is the first indication that we’re close to a reward, it naturally leads to a craving.
 
+- analyzing / ˈænəlaɪzɪŋ / v.  分析，解析
+- hint / hɪnt / n.  暗示，提示；征兆，迹象；少许，少量；秘诀，窍门
+- indication/ ˌɪndɪˈkeɪʃ(ə)n / n.  指示，标示；象征，暗示，迹象
+- craving / ˈkreɪvɪŋ / v.  渴望；恳求 n.  渴望；热望
+
 Cravings are the second step, and they are the motivational force behind every habit. Without some level of motivation or desire—without craving a change—we have no reason to act. What you crave is not the habit itself but the change in state it delivers. You do not crave smoking a cigarette, you crave the feeling of relief it provides. You are not motivated by brushing your teeth but rather by the feeling of a clean mouth. You do not want to turn on the television, you want to be entertained. Every craving is linked to a desire to change your internal state. This is an important point that we will discuss in detail later.
 
+- crave / kreɪv / v.  渴望；<旧>恳求，请求
+- cigarette / ˈsɪɡəret / n.  香烟，纸烟；麻醉烟，草药烟，药性烟
+- relief / rɪˈliːf / n.  （因恐惧、忧虑或痛苦的消除而感到的）宽慰，轻松；（疼痛或不快的）减轻，缓解；救济品（如食品、衣物、金钱等）；换班的人，替换者；浮雕，浮雕品；军事援助，解围；税款减免（权）；（暂时的）缓解（物），（短时间的）调剂；（对困苦、不公正遭遇等的）
+- entertained / ˌentərˈteɪnd / v.  娱乐（entertain 的过去分词）；款待
+
 Cravings differ from person to person. In theory, any piece of information could trigger a craving, but in practice, people are not motivated by the same cues. For a gambler, the sound of slot machines can be a potent trigger that sparks an intense wave of desire. For someone who rarely gambles, the jingles and chimes of the casino are just background noise. Cues are meaningless until they are interpreted. The thoughts, feelings, and emotions of the observer are what transform a cue into a craving.
+
+- gambler / ˈɡæmblər / n.  赌徒；投机商人
+- slot machines 吃角子老虎机；自动售货机
+- intense / ɪnˈtens / adj.  很大的，十分强烈的；严肃紧张的，激烈的；热情的，热切的；专注的，认真的
+- jingles / ˈdʒɪŋɡlz / n.  歌谣式；叮当声（jingle 的复数形式）
+- chimes / tʃaɪmz / n.  编钟；钟琴；调和（chime 的复数）
+- casino / kəˈsiːnoʊ / n.  赌场
+- interpreted / ɪnˈtɜːrprətɪd / v.  解释，说明；口译；把……理解为；演绎
 
 The third step is the response. The response is the actual habit you perform, which can take the form of a thought or an action. Whether a response occurs depends on how motivated you are and how much friction is associated with the behavior. If a particular action requires more physical or mental effort than you are willing to expend, then you won’t do it. Your response also depends on your ability. It sounds simple, but a habit can occur only if you are capable of doing it. If you want to dunk a basketball but can’t jump high enough to reach the hoop, well, you’re out of luck.
 
