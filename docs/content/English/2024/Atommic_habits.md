@@ -772,6 +772,7 @@ Habits do not restrict freedom. They create it. In fact, the people who don’t 
 Conversely, when you have your habits dialed in and the basics of life are handled and done, your mind is free to focus on new challenges and master the next set of problems. Building habits in the present allows you to do more of what you want in the future.
 
 - dialed in 调整或精确地设置某物以达到最佳效果的过程已经完成，或者已经达到了最佳效果
+- dial / ˈdaɪəl / n.  钟面，仪表盘；调节器；
 
 ### THE SCIENCE OF HOW HABITS WORK
 
