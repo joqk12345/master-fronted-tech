@@ -816,14 +816,30 @@ Cravings differ from person to person. In theory, any piece of information could
 - chimes / tʃaɪmz / n.  编钟；钟琴；调和（chime 的复数）
 - casino / kəˈsiːnoʊ / n.  赌场
 - interpreted / ɪnˈtɜːrprətɪd / v.  解释，说明；口译；把……理解为；演绎
-
+[0327]
 The third step is the response. The response is the actual habit you perform, which can take the form of a thought or an action. Whether a response occurs depends on how motivated you are and how much friction is associated with the behavior. If a particular action requires more physical or mental effort than you are willing to expend, then you won’t do it. Your response also depends on your ability. It sounds simple, but a habit can occur only if you are capable of doing it. If you want to dunk a basketball but can’t jump high enough to reach the hoop, well, you’re out of luck.
+
+- "take the form"可以理解为"采取形式"，表示某物以某种特定的形式呈现或表达。
+- occurs / əˈkɜːrz / vi.  发生；存在；出现；（想法、主意）突然出现（occur 的第三人称单数）
+- motivated / ˈmoʊtɪveɪtɪd / adj.  积极的，主动的；有……动机的 v.  成为……的动机；激励；<正式>（就所说的话）给出理由（
+- friction/ ˈfrɪkʃ(ə)n / n.  不和，分歧；摩擦；摩擦力
+- hoop / huːp / n.  （金属、木或类似材料制成的）箍，环（尤指用于箍桶或制框架）；
 
 Finally, the response delivers a reward. Rewards are the end goal of every habit. The cue is about noticing the reward. The craving is about wanting the reward. The response is about obtaining the reward. We chase rewards because they serve two purposes: (1) they satisfy us and (2) they teach us.
 
+- obtaining / əbˈteɪnɪŋ / v.  （尤指经努力）获得；通用，继续存在（obtain 的现在分词）
+- chase/ tʃeɪs / v.  追逐，追赶；匆忙赶往，急奔；追求，努力争取；求爱；驱逐，赶走；撤职；催促；镂刻，雕刻
+
 The first purpose of rewards is to satisfy your craving. Yes, rewards provide benefits on their own. Food and water deliver the energy you need to survive. Getting a promotion brings more money and respect. Getting in shape improves your health and your dating prospects. But the more immediate benefit is that rewards satisfy your craving to eat or to gain status or to win approval. At least for a moment, rewards deliver contentment and relief from craving.
 
+- craving / ˈkreɪvɪŋ / n.  渴望；热望
+- prospects / ˈprɑːspekts / n.  （发生好事情的）可能性，机会；成功的机会；前景，前途；
+- contentment / kənˈtentmənt / n.  满足，满意
+- relief / rɪˈliːf / n.  （因恐惧、忧虑或痛苦的消除而感到的）宽慰，轻松；（疼痛或不快的）减轻，缓解；
+
 Second, rewards teach us which actions are worth remembering in the future. Your brain is a reward detector. As you go about your life, your sensory nervous system is continuously monitoring which actions satisfy your desires and deliver pleasure. Feelings of pleasure and disappointment are part of the feedback mechanism that helps your brain distinguish useful actions from useless ones. Rewards close the feedback loop and complete the habit cycle.
+
+- mechanism / ˈmekənɪzəm / n.  机械装置，机件；途径，方法；
 
 If a behavior is insufficient in any of the four stages, it will not become a habit. Eliminate the cue and your habit will never start. Reduce the craving and you won’t experience enough motivation to act. Make the behavior difficult and you won’t be able to do it. And if the reward fails to satisfy your desire, then you’ll have no reason to do it again in the future. Without the first three steps, a behavior will not occur. Without all four, a behavior will not be repeated.
 
