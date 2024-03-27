@@ -473,6 +473,10 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text:"0404-创作的目标",
                     link:"/content/English/2024/20240404.md",
                 },
+                {
+                    text:"0404-专业",
+                    link:"/content/English/2024/20240405.md",
+                },
             ],
         },
         {
