@@ -841,7 +841,12 @@ Second, rewards teach us which actions are worth remembering in the future. Your
 
 - mechanism / ˈmekənɪzəm / n.  机械装置，机件；途径，方法；
 
+[0328]
 If a behavior is insufficient in any of the four stages, it will not become a habit. Eliminate the cue and your habit will never start. Reduce the craving and you won’t experience enough motivation to act. Make the behavior difficult and you won’t be able to do it. And if the reward fails to satisfy your desire, then you’ll have no reason to do it again in the future. Without the first three steps, a behavior will not occur. Without all four, a behavior will not be repeated.
+
+- insufficient / ˌɪnsəˈfɪʃ(ə)nt / adj.  不充分的，不够重要的
+-  If a behavior is insufficient in any of the four stages, it will not become a habit. 如果一个行为在四个阶段中的任何一个阶段都不足够，它就不会成为一种习惯。
+- Eliminate / ɪˈlɪmɪneɪt / v.  剔除，根除；对……不予考虑，把……排除在外；（比赛中）淘汰；铲除，杀害；（生理）排除，排泄；消去
 
 In summary, the cue triggers a craving, which motivates a response, which provides a reward, which satisfies the craving and, ultimately, becomes associated with the cue. Together, these four steps form a neurological feedback loop—cue, craving, response, reward; cue, craving, response, reward—that ultimately allows you to create automatic habits. This cycle is known as the habit loop.
 
@@ -854,6 +859,9 @@ All behavior is driven by the desire to solve a problem. Sometimes the problem i
 In the table on the following page, you can see a few examples of what this looks like in real life.
 
 Imagine walking into a dark room and flipping on the light switch. You have performed this simple habit so many times that it occurs without thinking. You proceed through all four stages in the fraction of a second. The urge to act strikes you without thinking.
+
+- fraction / ˈfrækʃ(ə)n / n.  分数，小数；小部分，微量；持不同意见的小集团；
+- urge / ɜːrdʒ / v.  敦促，催促，力劝；竭力主张，强烈要求；驱赶，鞭策；
 
 By the time we become adults, we rarely notice the habits that are running our lives. Most of us never give a second thought to the fact that we tie the same shoe first each morning, or unplug the toaster after each use, or always change into comfortable clothes after getting home from work. After decades of mental programming, we automatically slip into these patterns of thinking and acting.
 
