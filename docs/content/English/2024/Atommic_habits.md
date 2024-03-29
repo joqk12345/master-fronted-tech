@@ -852,22 +852,125 @@ In summary, the cue triggers a craving, which motivates a response, which provid
 
 - neurological / ˌnʊrəˈlɑːdʒɪkl / adj.  神经病学的，神经学上的
 
+[0329]
 This four-step process is not something that happens occasionally, but rather it is an endless feedback loop that is running and active during every moment you are alive—even now. The brain is continually scanning the environment, predicting what will happen next, trying out different responses, and learning from the results. The entire process is completed in a split second, and we use it again and again without realizing everything that has been packed into the previous moment.
+
+- "Word": Occasionally
+  - "Lemma": Occasionally
+  - "Pronunciation": /əˈkeɪʒənəli/
+  - "POS": Adverb
+  - "Definition": At infrequent or irregular intervals; now and then.
+  - "Translation": 偶尔
+  - "Context": This four-step process is not something that happens occasionally, but rather it is an endless feedback loop that is running inactive during every moment you are alive, even now.
+  - "Context_translation": 这个四步过程不是偶尔发生的事情，而是一个在你活着的每一刻都在进行的无休止的反馈循环，即使是现在。
+
+- "Word": Active
+  - "Lemma": Active
+  - "Pronunciation": /ˈæktɪv/
+  - "POS": Adjective
+  - "Definition": Engaging or ready to engage in physically energetic pursuits.
+  - "Translation": 活跃的
+  - "Context": but rather it is an endless feedback loop that is running and active during every moment you are alive—even now.
+  - "Context_translation": 而是一个在你活着的每一刻都持续运行且活跃的无休止反馈循环——即使是现在。
+
+- "Word": Inactive
+  - "Lemma": Inactive
+  - "Pronunciation": /ɪnˈæktɪv/
+  - "POS": Adjective
+  - "Definition": Not engaging in or involving any or much physical activity.
+  - "Translation": 不活跃的
+  - "Context": This four-step process is not something that happens occasionally, but rather it is an endless feedback loop that is running inactive during every moment you are alive, even now.
+  - "Context_translation": 这个四步骤的过程并不是偶尔发生的事情，而是一个无休止的反馈循环，在你活着的每一刻都在运作，即便是现在。
+- in a split second: 在一瞬间，形容非常短的时间。
 
 We can split these four steps into two phases: the problem phase and the solution phase. The problem phase includes the cue and the craving, and it is when you realize that something needs to change. The solution phase includes the response and the reward, and it is when you take action and achieve the change you desire.
 
 All behavior is driven by the desire to solve a problem. Sometimes the problem is that you notice something good and you want to obtain it. Sometimes the problem is that you are experiencing pain and you want to relieve it. Either way, the purpose of every habit is to solve the problems you face.
 
+- "Word": Relieve
+  - "Lemma": Relieve
+  - "Pronunciation": /rɪˈliːv/
+  - "POS": Verb
+  - "Definition": Cause (pain, distress, or difficulty) to become less severe or serious.
+  - "Translation": 缓解
+  - "Context": Sometimes the problem is that you are experiencing pain and you want to relieve it.
+  - "Context_translation": 有时候问题在于你正在经历疼痛，并且你想要缓解它。
+
 In the table on the following page, you can see a few examples of what this looks like in real life.
 
 Imagine walking into a dark room and flipping on the light switch. You have performed this simple habit so many times that it occurs without thinking. You proceed through all four stages in the fraction of a second. The urge to act strikes you without thinking.
 
+- "Word": Flipping
+  - "Lemma": Flip
+  - "Pronunciation": /ˈflɪpɪŋ/
+  - "POS": Verb
+  - "Definition": Turn over or cause to turn over with a sudden quick movement.
+  - "Translation": 打开
+  - "Context": Imagine walking into a dark room and flipping on the light switch.
+  - "Context_translation": 想象走进一个黑暗的房间并快速打开灯光开关。
+- 句子结构:
+    - The urge to act (主语，名词短语)
+    - strikes (谓语，动词)
+    - you (宾语，代词)
+    - without thinking (状语，分词短语)
+- 翻译:
+不加思考的行动冲动就会袭击你。
+
+- 语法:
+    - 本句是一个主谓宾结构的简单句。
+ - "The urge to act" 是句子的主语，是一个名词短语，其中的 "to act" 是不定式短语作为定语，修饰 "urge"。
+ - "strikes" 是句子的谓语，是一个动词，表示 "冲动" 对 "你" 的影响。
+ - "you" 是句子的宾语，是一个代词，表示受 "冲动" 影响的人。
+ - "without thinking" 是分词短语作为状语，表示这种影响发生的方式或条件。
+
+- 词汇/短语:
+    - urge: 冲动，强烈的欲望。
+    - to act: 行动，做某事。
+    - strikes: 袭击，强烈影响。
+    - without thinking: 不加思考，没有经过深思熟虑。
 - fraction / ˈfrækʃ(ə)n / n.  分数，小数；小部分，微量；持不同意见的小集团；
 - urge / ɜːrdʒ / v.  敦促，催促，力劝；竭力主张，强烈要求；驱赶，鞭策；
 
+句子结构:
+- You (主语，代词)
+- proceed through (谓语，动词短语)
+- all four stages (宾语，名词短语)
+- in the fraction of a second (状语，介词短语)
+
+翻译:
+你在瞬息之间就完成了所有四个阶段。
+
+语法:
+- 本句是一个主谓宾结构的简单句。
+- "You" 是句子的主语，是一个代词，表示行动的执行者。
+- "proceed through" 是句子的谓语，是一个动词短语，表示 "通过" 或 "经过" 的动作。
+- "all four stages" 是句子的宾语，是一个名词短语，表示动作的对象或目标。
+- "in the fraction of a second" 是介词短语作为状语，表示动作发生的时间。
+
+词汇/短语:
+- proceed through: 通过，经过。
+- all four stages: 所有四个阶段。
+- in the fraction of a second: 在瞬息之间，非常快地。
+
+
 By the time we become adults, we rarely notice the habits that are running our lives. Most of us never give a second thought to the fact that we tie the same shoe first each morning, or unplug the toaster after each use, or always change into comfortable clothes after getting home from work. After decades of mental programming, we automatically slip into these patterns of thinking and acting.
 
-
+- "Word": Toaster
+  - "Lemma": Toaster
+  - "Pronunciation": /ˈtoʊstər/
+  - "POS": Noun
+  - "Definition": An electrical device for making toast.
+  - "Translation": 烤面包机
+  - "Context": Unplug the toaster after each use.
+  - "Context_translation": 每次使用后都要拔掉烤面包机的插头。
+- "Word": Slip
+  - "Lemma": Slip
+  - "Pronunciation": /slɪp/
+  - "POS": Verb
+  - "Definition": Move or slide unintentionally for a short distance, typically losing one's balance or footing.
+  - "Translation": 滑入
+  - "Context": We automatically slip into these patterns of thinking and acting.
+  - "Context_translation": 我们会自动滑入这些思考和行动的模式。
 
 ### THE FOUR LAWS OF BEHAVIOR CHANGE
 
@@ -875,4 +978,43 @@ In the following chapters, we will see time and again how the four stages of cue
 
 I refer to this framework as the Four Laws of Behavior Change, and it provides a simple set of rules for creating good habits and breaking bad ones. You can think of each law as a lever that influences human behavior. When the levers are in the right positions, creating good habits is effortless. When they are in the wrong positions, it is nearly impossible.
 
+- "Word": Lever
+  - "Lemma": Lever
+  - "Pronunciation": /ˈliːvər/
+  - "POS": Noun
+  - "Definition": A rigid bar resting on a pivot, used to help move a heavy or firmly fixed load with one end when pressure is applied to the other.
+  - "Translation": 杠杆
+  - "Context": You can think of each law as a lever that influences human behavior.
+  - "Context_translation": 你可以将每一条法律想象成一个影响人类行为的杠杆。
+句子结构:
+- I (主语，代词)
+- refer to (谓语，动词短语)
+- this framework (宾语，名词短语)
+- as the Four Laws of Behavior Change (宾补，名词短语)
+- and (连词)
+- it (主语，代词)
+- provides (谓语，动词)
+- a simple set of rules (宾语，名词短语)
+- for creating good habits and breaking bad ones (定语，不定式短语作定语)
 
+翻译:
+我将这个框架称为行为改变的四大法则，它提供了一套简单的规则，用于养成好习惯和摒弃坏习惯。
+
+语法:
+- 本句由两个主谓结构组成，中间用连词 "and" 连接，构成并列句。
+- "I" 是第一部分的主语，是一个代词。
+- "refer to" 是第一部分的谓语，是一个动词短语，表示 "指称" 或 "提及"。
+- "this framework" 是第一部分的宾语，是一个名词短语，指被提及的框架。
+- "as the Four Laws of Behavior Change" 是宾补，用来说明 "this framework" 的具体是什么。
+- "it" 是第二部分的主语，指代前文提到的 "this framework"。
+- "provides" 是第二部分的谓语，是一个动词，表示 "提供"。
+- "a simple set of rules" 是第二部分的宾语，是一个名词短语，指被提供的东西。
+- "for creating good habits and breaking bad ones" 是一个不定式短语作定语，修饰 "a simple set of rules"，说明这套规则的用途。
+
+词汇/短语:
+- refer to: 提及，称呼。
+- framework: 框架，体系。
+- the Four Laws of Behavior Change: 行为改变的四大法则。
+- provides: 提供。
+- a simple set of rules: 一套简单的规则。
+- for creating good habits and breaking bad ones: 用于养成好习惯和摒弃坏习惯。
