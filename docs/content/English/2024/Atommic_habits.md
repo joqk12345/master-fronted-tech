@@ -1018,3 +1018,456 @@ I refer to this framework as the Four Laws of Behavior Change, and it provides a
 - provides: 提供。
 - a simple set of rules: 一套简单的规则。
 - for creating good habits and breaking bad ones: 用于养成好习惯和摒弃坏习惯。
+
+It would be irresponsible for me to claim that these four laws are an exhaustive framework for changing any human behavior, but I think they’re close. As you will soon see, the Four Laws of Behavior Change apply to nearly every field, from sports to politics, art to medicine, comedy to management. These laws can be used no matter what challenge you are facing. There is no need for completely different strategies for each habit.
+
+Whenever you want to change your behavior, you can simply ask yourself:
+
+How can I make it obvious?
+
+How can I make it attractive?
+
+How can I make it easy?
+
+How can I make it satisfying?
+
+If you have ever wondered, “Why don’t I do what I say I’m going to do? Why don’t I lose the weight or stop smoking or save for retirement or start that side business? Why do I say something is important but never seem to make time for it?” The answers to those questions can be found somewhere in these four laws. The key to creating good habits and breaking bad ones is to understand these fundamental laws and how to alter them to your specifications. Every goal is doomed to fail if it goes against the grain of human nature.
+
+句子结构:
+这是一个疑问句，包含了四个并列的动词短语：
+1. "Why don’t I" (我为什么不) - 疑问词+助动词+主语
+2. "lose the weight" (减肥) - 动词+定冠词+名词，作为动词短语
+3. "or stop smoking" (或者戒烟) - 连词+动词+名词，作为动词短语
+4. "or save for retirement" (或者为退休储蓄) - 连词+动词+介词短语，作为动词短语
+5. "or start that side business?" (或者开始那个副业?) - 连词+动词+定冠词+形容词+名词，作为动词短语
+
+翻译:
+我为什么不减肥、戒烟、为退休储蓄或者开始那个副业呢？
+
+语法:
+- "Why don’t I" 是一个疑问句的开头，使用了疑问词 "why" 和助动词 "do" 的否定形式 "don’t"，然后跟上主语 "I"。
+- "lose the weight", "stop smoking", "save for retirement" 和 "start that side business" 是四个并列的动词短语，每个短语都是由动词和其宾语组成的，它们分别描述了主语可能会做的四种不同的行为。
+
+词汇/短语:
+- Why: 为什么
+- don’t: 不
+- I: 我
+- lose: 减少
+- the weight: 体重
+- stop: 停止
+- smoking: 抽烟
+- save: 储蓄
+- for retirement: 为了退休
+- start: 开始
+- that side business: 那个副业
+
+- "Word": Doomed
+  - "Lemma": Doom
+  - "Pronunciation": /duːm/
+  - "POS": Adjective
+  - "Definition": Condemned to certain destruction or failure.
+  - "Translation": 注定的，命定的
+  - "Context": Every goal is doomed to fail if it goes against the grain of human nature.
+  - "Context_translation": 如果一个目标违背了人类的本性，它注定会失败。
+- "Word": Grain
+  - "Lemma": Grain
+  - "Pronunciation": /ɡreɪn/
+  - "POS": Noun
+  - "Definition": The natural or inherent disposition or tendency of something.
+  - "Translation": 本性，天性
+  - "Context": Every goal is doomed to fail if it goes against the grain of human nature.
+  - "Context_translation": 如果一个目标违背了人类的本性，它注定会失败。
+      句子结构:
+1. "Every goal" (每一个目标) - 主语
+2. "is doomed" (注定) - 谓语
+3. "to fail" (失败) - 不定式，作为谓语的补语，描述主语的状态
+4. "if it goes against the grain of human nature" (如果它违背了人性的本质) - 条件从句，对主句进行限制或条件的说明
+
+翻译:
+如果一个目标违背了人性的本质，那么它注定会失败。
+
+语法:
+- "Every goal" 是主语，表示每一个目标。
+- "is doomed" 是谓语，用来表达主语的状态或特性。
+- "to fail" 是动词不定式，作为谓语的补语，描述主语的状态或结果。
+- "if it goes against the grain of human nature" 是一个条件状语从句，用来说明主句的条件或限制。
+
+词汇/短语:
+- Every: 每一个
+- goal: 目标
+- is doomed: 注定
+- to fail: 失败
+- if: 如果
+- it goes against: 它违背
+- the grain of human nature: 人性的本质
+
+- "Word": Specifications
+  - "Lemma": Specification
+  - "Pronunciation": /ˌspɛsɪfɪˈkeɪʃənz/
+  - "POS": Noun
+  - "Definition": Detailed requirements or guidelines that define the characteristics, functionality, or performance of something.
+  - "Translation": 规格，规范
+  - "Context": The key to creating good habits and breaking bad ones is to understand these fundamental laws and how to alter them to your specifications.
+  - "Context_translation": 创建良好习惯和改掉坏习惯的关键是了解这些基本法则，并将它们按照你的规范进行修改。
+
+Your habits are shaped by the systems in your life. In the chapters that follow, we will discuss these laws one by one and show how you can use them to create a system in which good habits emerge naturally and bad habits wither away.
+
+- "Word": Wither
+  - "Lemma": Wither
+  - "Pronunciation": /ˈwɪðər/
+  - "POS": Verb
+  - "Definition": To become dry and shriveled or to decay and decline.
+  - "Translation": 枯萎，衰退
+  - "Context": Habits show how you can use them to create a system in which good habits emerge naturally and bad habits wither away.
+  - "Context_translation": 习惯展示了如何利用它们来创建一个系统，在这个系统中良好的习惯自然形成，而不良的习惯则会逐渐枯萎和衰退。
+
+## chpter 4 The Man Who Didn’t Look Right
+
+THE PSYCHOLOGIST GARY Klein once told me a story about a woman who attended a family gathering. She had spent years working as a paramedic and, upon arriving at the event, took one look at her father-in-law and got very concerned.
+
+- "Word": Paramedic
+  - "Lemma": Paramedic
+  - "Pronunciation": /ˌpærəˈmɛdɪk/
+  - "POS": Noun
+  - "Definition": A healthcare professional who provides emergency treatment, including advanced life support, to patients in emergency situations.
+  - "Translation": 护理员，急救员
+  - "Context": She had spent years working as a paramedic and, upon arriving at the event, took one look at her father-in-law and got very concerned.
+  - "Context_translation": 她曾经做了多年的护理员，当她到达这个场合时，看了一眼她的岳父，就非常担心。
+
+“I don’t like the way you look,” she said.
+
+Her father-in-law, who was feeling perfectly fine, jokingly replied, “Well, I don’t like your looks, either.”
+
+“No,” she insisted. “You need to go to the hospital now.”
+
+A few hours later, the man was undergoing lifesaving surgery after an examination had revealed that he had a blockage to a major artery and was at immediate risk of a heart attack. Without his daughter-in-law’s intuition, he could have died.
+
+- "Word": Revealed
+  - "Lemma": Reveal
+  - "Pronunciation": /rɪˈviːld/
+  - "POS": Verb
+  - "Definition": To make (previously unknown or secret information) known to others.
+  - "Translation": 揭示，显示
+  - "Context": An examination had revealed that he had a blockage to a major artery and was at immediate risk of a heart attack.
+  - "Context_translation": 一次检查揭示了他有一条主动脉的堵塞，并立即面临心脏病发作的风险。
+- "Word": Blockage
+  - "Lemma": Blockage
+  - "Pronunciation": /ˈblɑːkɪdʒ/
+  - "POS": Noun
+  - "Definition": An obstruction which makes movement or flow difficult or impossible.
+  - "Translation": 阻塞
+  - "Context": An examination had revealed that he had a blockage to a major artery and was at immediate risk of a heart attack.
+  - "Context_translation": 一次检查揭示了他的一条主要动脉有阻塞，立即处于心脏病发作的风险中。
+- "Word": Artery
+  - "Lemma": Artery
+  - "Pronunciation": /ˈɑːrtəri/
+  - "POS": Noun
+  - "Definition": Any of the muscular-walled tubes forming part of the circulation system by which blood (mainly that which has been oxygenated) is conveyed from the heart to all parts of the body.
+  - "Translation": 动脉
+  - "Context": An examination had revealed that he had a blockage to a major artery and was at immediate risk of a heart attack.
+  - "Context_translation": 一次检查揭示了他的一条主要动脉有阻塞，立即处于心脏病发作的风险中。
+- "Word": Intuition
+  - "Lemma": Intuition
+  - "Pronunciation": /ˌɪntuˈɪʃn/
+  - "POS": Noun
+  - "Definition": The ability to understand something immediately, without the need for conscious reasoning.
+  - "Translation": 直觉
+  - "Context": Without his daughter-in-law’s intuition, he could have died.
+  - "Context_translation": 如果没有他儿媳的直觉，他可能已经死了。
+
+What did the paramedic see? How did she predict his impending heart attack?
+
+- "Word": Impending
+  - "Lemma": Impend
+  - "Pronunciation": /ɪmˈpɛndɪŋ/
+  - "POS": Adjective
+  - "Definition": Be about to happen.
+  - "Translation": 即将发生的
+  - "Context": How did she predict his impending heart attack?
+  - "Context_translation": 她是如何预测他即将发生的心脏病发作的？
+
+When major arteries are obstructed, the body focuses on sending blood to critical organs and away from peripheral locations near the surface of the skin. The result is a change in the pattern of distribution of blood in the face. After many years of working with people with heart failure, the woman had unknowingly developed the ability to recognize this pattern on sight. She couldn’t explain what it was that she noticed in her father-in-law’s face, but she knew something was wrong.
+
+- "Word": Obstructed
+  - "Lemma": Obstruct
+  - "Pronunciation": /əbˈstrʌktɪd/
+  - "POS": Adjective
+  - "Definition": Blocked or impeded so that movement, passage, or views are prevented or made difficult.
+  - "Translation": 阻塞的
+  - "Context": When major arteries are obstructed, the body focuses on sending blood to critical organs and away from peripheral locations near the surface of the skin.
+  - "Context_translation": 当主要动脉被阻塞时，身体会集中将血液输送到关键器官，并远离靠近皮肤表面的外围部位。
+- "Word": Peripheral
+  - "Lemma": Peripheral
+  - "Pronunciation": /pəˈrɪfərəl/
+  - "POS": Adjective
+  - "Definition": Relating to or situated on the edge or periphery of something.
+  - "Translation": 周边的
+  - "Context": When major arteries are obstructed, the body focuses on sending blood to critical organs and away from peripheral locations near the surface of the skin.
+  - "Context_translation": 当主要动脉被阻塞时，身体会集中将血液输送到关键器官，并远离靠近皮肤表面的周边部位。
+- "Word": On sight
+  - "Lemma": On sight
+  - "Pronunciation": /ɒn saɪt/
+  - "POS": Phrase
+  - "Definition": Immediately upon seeing.
+  - "Translation": 一看就
+  - "Context": The woman had unknowingly developed the ability to recognize this pattern on sight.
+  - "Context_translation": 这位女士无意中培养出了一看就能识别这种模式的能力。
+
+Similar stories exist in other fields. For example, military analysts can identify which blip on a radar screen is an enemy missile and which one is a plane from their own fleet even though they are traveling at the same speed, flying at the same altitude, and look identical on radar in nearly every respect. During the Gulf War, Lieutenant Commander Michael Riley saved an entire battleship when he ordered a missile shot down—despite the fact that it looked exactly like the battleship’s own planes on radar. He made the right call, but even his superior officers couldn’t explain how he did it.
+
+- "Word": Blip
+  - "Lemma": Blip
+  - "Pronunciation": /blɪp/
+  - "POS": Noun
+  - "Definition": A small dot that appears on a radar screen, representing an object.
+  - "Translation": 光点
+  - "Context": Military analysts can identify which blip on a radar screen is an enemy missile and which one is a plane from their own fleet even though they are traveling at the same speed, flying at the same altitude, and look identical on radar in nearly every respect.
+  - "Context_translation": 军事分析员能够辨认出雷达屏幕上的哪个光点是敌方导弹，哪个是自己舰队的飞机，即使它们的飞行速度相同、飞行高度相同，在雷达上几乎在每个方面都看起来一模一样。
+
+- "Word": Respect
+  - "Lemma": Respect
+  - "Pronunciation": /rɪˈspɛkt/
+  - "POS": Noun
+  - "Definition": A particular aspect, point, or detail.
+  - "Translation": 方面
+  - "Context": Military analysts can identify which blip on a radar screen is an enemy missile and which one is a plane from their own fleet even though they are traveling at the same speed, flying at the same altitude, and look identical on radar in nearly every respect.
+  - "Context_translation": 军事分析员能够辨认出雷达屏幕上的哪个光点是敌方导弹，哪个是自己舰队的飞机，即使它们的飞行速度相同、飞行高度相同，在几乎每个方面，它们在雷达上看起来都是一样的。
+
+- "Word": Ordered
+  - "Lemma": Order
+  - "Pronunciation": /ˈɔːrdər/
+  - "POS": Verb
+  - "Definition": Give an authoritative instruction to do something.
+  - "Translation": 下令
+  - "Context": During the Gulf War, Lieutenant Commander Michael Riley saved an entire battleship when he ordered a missile shot down—despite the fact that it looked exactly like the battleship’s own planes on radar.
+  - "Context_translation": 在海湾战争中，尽管雷达上的显示与战舰自己的飞机完全相同，但当迈克尔·莱利中尉指挥官下令击落一枚导弹时，他却救了整艘战舰。
+
+Museum curators have been known to discern the difference between an authentic piece of art and an expertly produced counterfeit even though they can’t tell you precisely which details tipped them off. Experienced radiologists can look at a brain scan and predict the area where a stroke will develop before any obvious signs are visible to the untrained eye. I’ve even heard of hairdressers noticing whether a client is pregnant based only on the feel of her hair.
+
+- "Word": Curators
+  - "Lemma": Curator
+  - "Pronunciation": /kjʊˈreɪtər/
+  - "POS": Noun
+  - "Definition": A keeper or custodian of a museum or other collection.
+  - "Translation": 馆长，策展人
+  - "Context": Museum curators have been known to discern the difference between an authentic piece of art and an expertly produced counterfeit even though they can't tell you precisely which details tip them off.
+  - "Context_translation": 博物馆馆长能够分辨出真正的艺术品和高超仿制的假冒品之间的差别，尽管他们不能准确地告诉你是哪些细节让他们察觉到了。
+
+- "Word": Radiologists
+  - "Lemma": Radiologist
+  - "Pronunciation": /ˌreɪdiˈɒlədʒɪst/
+  - "POS": Noun
+  - "Definition": A medical specialist who uses X-rays and other high-energy radiation, especially the use of such radiation for the diagnosis and treatment of disease.
+  - "Translation": 放射科医师
+  - "Context": Experienced radiologists can look at a brain scan and predict the area where a stroke will develop before any obvious signs are visible to the untrained eye.
+  - "Context_translation": 经验丰富的放射科医师能够通过观察脑部扫描图像，预测出中风将会发生的区域，这一预测在未受训练的眼睛能够看到任何明显迹象之前就做出了。
+- "Word": Client
+  - "Lemma": Client
+  - "Pronunciation": /ˈklaɪənt/
+  - "POS": Noun
+  - "Definition": A person using the services of a professional person or organization.
+  - "Translation": 客户
+  - "Context": I’ve even heard of hairdressers noticing whether a client is pregnant based only on the feel of her hair.
+  - "Context_translation": 我甚至听说过发型师仅凭感觉头发的质地就能注意到一个客户是否怀孕。
+
+The human brain is a prediction machine. It is continuously taking in your surroundings and analyzing the information it comes across. Whenever you experience something repeatedly—like a paramedic seeing the face of a heart attack patient or a military analyst seeing a missile on a radar screen—your brain begins noticing what is important, sorting through the details and highlighting the relevant cues, and cataloging that information for future use.
+
+With enough practice, you can pick up on the cues that predict certain outcomes without consciously thinking about it. Automatically, your brain encodes the lessons learned through experience. We can’t always explain what it is we are learning, but learning is happening all along the way, and your ability to notice the relevant cues in a given situation is the foundation for every habit you have.
+
+We underestimate how much our brains and bodies can do without thinking. You do not tell your hair to grow, your heart to pump, your lungs to breathe, or your stomach to digest. And yet your body handles all this and more on autopilot. You are much more than your conscious self.
+
+Consider hunger. How do you know when you’re hungry? You don’t necessarily have to see a cookie on the counter to realize that it is time to eat. Appetite and hunger are governed nonconsciously. Your body has a variety of feedback loops that gradually alert you when it is time to eat again and that track what is going on around you and within you. Cravings can arise thanks to hormones and chemicals circulating through your body. Suddenly, you’re hungry even though you’re not quite sure what tipped you off.
+
+- "Word": Underestimate
+  - "Lemma": Underestimate
+  - "Pronunciation": /ˌʌndərˈɛstɪmeɪt/
+  - "POS": Verb
+  - "Definition": Estimate (something) to be smaller or less important than it actually is.
+  - "Translation": 低估
+  - "Context": We underestimate how much our brains and bodies can do without thinking.
+  - "Context_translation": 我们低估了我们的大脑和身体在不思考的情况下能做的事情。
+- "Word": Appetite
+  - "Lemma": Appetite
+  - "Pronunciation": /ˈæpɪtaɪt/
+  - "POS": Noun
+  - "Definition": A natural desire to satisfy a bodily need, especially for food.
+  - "Translation": 食欲
+  - "Context": Appetite and hunger are governed non-consciously.
+  - "Context_translation": 食欲和饥饿是非意识控制的。
+- "Word": Hormones
+  - "Lemma": Hormone
+  - "Pronunciation": /ˈhɔːrmoʊn/
+  - "POS": Noun
+  - "Definition": A regulatory substance produced in an organism and transported in tissue fluids such as blood to stimulate specific cells or tissues into action.
+  - "Translation": 激素
+  - "Context": Cravings can arise thanks to hormones and chemicals circulating through your body.
+  - "Context_translation": 由于激素和化学物质在你的身体内循环，可能会产生渴望。
+
+This is one of the most surprising insights about our habits: you don’t need to be aware of the cue for a habit to begin. You can notice an opportunity and take action without dedicating conscious attention to it. This is what makes habits useful.
+
+- "Word": Dedicating
+  - "Lemma": Dedicate
+  - "Pronunciation": /ˈdɛdɪkeɪt/
+  - "POS": Verb
+  - "Definition": Devote (time, effort, or oneself) to a particular task or purpose.
+  - "Translation": 致力于
+  - "Context": You can notice an opportunity and take action without dedicating conscious attention to it. This is what makes habits useful.
+  - "Context_translation": 你可以注意到一个机会并采取行动，而无需专门关注它。这就是习惯的用处。
+
+It’s also what makes them dangerous. As habits form, your actions come under the direction of your automatic and nonconscious mind. You fall into old patterns before you realize what’s happening. Unless someone points it out, you may not notice that you cover your mouth with your hand whenever you laugh, that you apologize before asking a question, or that you have a habit of finishing other people’s sentences. And the more you repeat these patterns, the less likely you become to question what you’re doing and why you’re doing it.
+
+I once heard of a retail clerk who was instructed to cut up empty gift cards after customers had used up the balance on the card. One day, the clerk cashed out a few customers in a row who purchased with gift cards. When the next person walked up, the clerk swiped the customer’s actual credit card, picked up the scissors, and then cut it in half—entirely on autopilot—before looking up at the stunned customer and realizing what had just happened.
+
+- "Word": Scissors
+  - "Lemma": Scissor
+  - "Pronunciation": /ˈsɪzərz/
+  - "POS": Noun
+  - "Definition": An instrument used for cutting cloth, paper, and other material, consisting of two crossed metal blades that are pivoted so that the sharpened edges slide against each other.
+  - "Translation": 剪刀
+  - "Context": the clerk swiped the customer’s actual credit card, picked up the scissors
+  - "Context_translation": 职员刷了顾客的真实信用卡，拿起了剪刀
+
+Another woman I came across in my research was a former preschool teacher who had switched to a corporate job. Even though she was now working with adults, her old habits would kick in and she kept asking coworkers if they had washed their hands after going to the bathroom. I also found the story of a man who had spent years working as a lifeguard and would occasionally yell “Walk!” whenever he saw a child running.
+
+Over time, the cues that spark our habits become so common that they are essentially invisible: the treats on the kitchen counter, the remote control next to the couch, the phone in our pocket. Our responses to these cues are so deeply encoded that it may feel like the urge to act comes from nowhere. For this reason, we must begin the process of behavior change with awareness.
+
+- couch / kaʊtʃ / n.  长沙发，长榻；诊察台
+- "Word": Treats
+  - "Lemma": Treat
+  - "Pronunciation": /triːts/
+  - "POS": Noun
+  - "Definition": Anything that gives great pleasure, especially food that is delicious or something that is enjoyable to do.
+  - "Translation": 美食；款待
+  - "Context": the treats on the kitchen counter
+  - "Context_translation": 厨房台面上的美食
+
+- "Word": Remote control
+  - "Lemma": Remote control
+  - "Pronunciation": /rɪˈmoʊt kənˈtroʊl/
+  - "POS": Noun
+  - "Definition": A device that can be used to control a machine or apparatus from a distance.
+  - "Translation": 遥控器
+  - "Context": the remote control next to the couch
+  - "Context_translation": 沙发旁边的遥控器
+- "Word": Process
+  - "Lemma": Process
+  - "Pronunciation": /ˈprɒses/
+  - "POS": Noun
+  - "Definition": A series of actions or steps taken in order to achieve a particular end.
+  - "Translation": 过程
+  - "Context": we must begin the process of behavior change with awareness.
+  - "Context_translation": 我们必须以意识开始行为改变的过程。
+Before we can effectively build new habits, we need to get a handle on our current ones. This can be more challenging than it sounds because once a habit is firmly rooted in your life, it is mostly nonconscious and automatic. If a habit remains mindless, you can’t expect to improve it. As the psychologist Carl Jung said, “Until you make the unconscious conscious, it will direct your life and you will call it fate.”
+
+- "Word": Handle
+  - "Lemma": Handle
+  - "Pronunciation": /ˈhændl/
+  - "POS": Noun
+  - "Definition": A part of an object designed for holding, moving, or carrying the object easily; a means of understanding or controlling something.
+  - "Translation": 把手；控制
+  - "Context": we need to get a handle on our current ones.
+  - "Context_translation": 我们需要控制我们当前的情况。
+- "Word": Mindless
+  - "Lemma": Mindless
+  - "Pronunciation": /ˈmaɪndlɪs/
+  - "POS": Adjective
+  - "Definition": Acting or done without justification and with no concern for the consequences.
+  - "Translation": 无意识的；不加思索的
+  - "Context": If a habit remains mindless, you can’t expect to improve it.
+  - "Context_translation": 如果一个习惯仍然是无意识的，你不能期望改善它。
+- "Word": Fate
+  - "Lemma": Fate
+  - "Pronunciation": /feɪt/
+  - "POS": Noun
+  - "Definition": The development of events beyond a person's control, regarded as determined by a supernatural power.
+  - "Translation": 命运
+  - "Context": Until you make the unconscious conscious, it will direct your life and you will call it fate.
+  - "Context_translation": 直到你使无意识变为有意识，它将指导你的生活，你会称之为命运。
+
+### THE HABITS SCORECARD
+
+The Japanese railway system is regarded as one of the best in the world. If you ever find yourself riding a train in Tokyo, you’ll notice that the conductors have a peculiar habit.
+
+As each operator runs the train, they proceed through a ritual of pointing at different objects and calling out commands. When the train approaches a signal, the operator will point at it and say, “Signal is green.” As the train pulls into and out of each station, the operator will point at the speedometer and call out the exact speed. When it’s time to leave, the operator will point at the timetable and state the time. Out on the platform, other employees are performing similar actions. Before each train departs, staff members will point along the edge of the platform and declare, “All clear!” Every detail is identified, pointed at, and named aloud.*
+
+This process, known as Pointing-and-Calling, is a safety system designed to reduce mistakes. It seems silly, but it works incredibly well. Pointing-and-Calling reduces errors by up to 85 percent and cuts accidents by 30 percent. The MTA subway system in New York City adopted a modified version that is “point-only,” and “within two years of implementation, incidents of incorrectly berthed subways fell 57 percent.”
+
+Pointing-and-Calling is so effective because it raises the level of awareness from a nonconscious habit to a more conscious level. Because the train operators must use their eyes, hands, mouth, and ears, they are more likely to notice problems before something goes wrong.
+
+My wife does something similar. Whenever we are preparing to walk out the door for a trip, she verbally calls out the most essential items in her packing list. “I’ve got my keys. I’ve got my wallet. I’ve got my glasses. I’ve got my husband.”
+
+The more automatic a behavior becomes, the less likely we are to consciously think about it. And when we’ve done something a thousand times before, we begin to overlook things. We assume that the next time will be just like the last. We’re so used to doing what we’ve always done that we don’t stop to question whether it’s the right thing to do at all. Many of our failures in performance are largely attributable to a lack of self-awareness.
+
+One of our greatest challenges in changing habits is maintaining awareness of what we are actually doing. This helps explain why the consequences of bad habits can sneak up on us. We need a “point-and-call” system for our personal lives. That’s the origin of the Habits Scorecard, which is a simple exercise you can use to become more aware of your behavior. To create your own, make a list of your daily habits.
+
+Here’s a sample of where your list might start:
+
+Wake up
+
+Turn off alarm
+
+Check my phone
+
+Go to the bathroom
+
+Weigh myself
+
+Take a shower
+
+Brush my teeth
+
+Floss my teeth
+
+Put on deodorant
+
+Hang up towel to dry
+
+Get dressed
+
+Make a cup of tea
+
+. . . and so on.
+
+Once you have a full list, look at each behavior, and ask yourself, “Is this a good habit, a bad habit, or a neutral habit?” If it is a good habit, write “+” next to it. If it is a bad habit, write “–”. If it is a neutral habit, write “=”.
+
+For example, the list above might look like this:
+
+Wake up =
+
+Turn off alarm =
+
+Check my phone –
+
+Go to the bathroom =
+
+Weigh myself +
+
+Take a shower +
+
+Brush my teeth +
+
+Floss my teeth +
+
+Put on deodorant +
+
+Hang up towel to dry =
+
+Get dressed =
+
+Make a cup of tea +
+
+The marks you give to a particular habit will depend on your situation and your goals. For someone who is trying to lose weight, eating a bagel with peanut butter every morning might be a bad habit. For someone who is trying to bulk up and add muscle, the same behavior might be a good habit. It all depends on what you’re working toward.*
+
+Scoring your habits can be a bit more complex for another reason as well. The labels “good habit” and “bad habit” are slightly inaccurate. There are no good habits or bad habits. There are only effective habits. That is, effective at solving problems. All habits serve you in some way—even the bad ones—which is why you repeat them. For this exercise, categorize your habits by how they will benefit you in the long run. Generally speaking, good habits will have net positive outcomes. Bad habits have net negative outcomes. Smoking a cigarette may reduce stress right now (that’s how it’s serving you), but it’s not a healthy long-term behavior.
+
+If you’re still having trouble determining how to rate a particular habit, here is a question I like to use: “Does this behavior help me become the type of person I wish to be? Does this habit cast a vote for or against my desired identity?” Habits that reinforce your desired identity are usually good. Habits that conflict with your desired identity are usually bad.
+
+As you create your Habits Scorecard, there is no need to change anything at first. The goal is to simply notice what is actually going on. Observe your thoughts and actions without judgment or internal criticism. Don’t blame yourself for your faults. Don’t praise yourself for your successes.
+
+If you eat a chocolate bar every morning, acknowledge it, almost as if you were watching someone else. Oh, how interesting that they would do such a thing. If you binge-eat, simply notice that you are eating more calories than you should. If you waste time online, notice that you are spending your life in a way that you do not want to.
+
+The first step to changing bad habits is to be on the lookout for them. If you feel like you need extra help, then you can try Pointing-and-Calling in your own life. Say out loud the action that you are thinking of taking and what the outcome will be. If you want to cut back on your junk food habit but notice yourself grabbing another cookie, say out loud, “I’m about to eat this cookie, but I don’t need it. Eating it will cause me to gain weight and hurt my health.”
+
+Hearing your bad habits spoken aloud makes the consequences seem more real. It adds weight to the action rather than letting yourself mindlessly slip into an old routine. This approach is useful even if you’re simply trying to remember a task on your to-do list. Just saying out loud, “Tomorrow, I need to go to the post office after lunch,” increases the odds that you’ll actually do it. You’re getting yourself to acknowledge the need for action—and that can make all the difference.
+
+The process of behavior change always starts with awareness. Strategies like Pointing-and-Calling and the Habits Scorecard are focused on getting you to recognize your habits and acknowledge the cues that trigger them, which makes it possible to respond in a way that benefits you.
