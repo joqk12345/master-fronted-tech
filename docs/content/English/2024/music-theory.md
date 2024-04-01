@@ -1,0 +1,328 @@
+
+- "Word": Abundance
+  - "Lemma": Abundance
+  - "Pronunciation": /əˈbʌn.dəns/
+  - "POS": Noun
+  - "Definition": A very large quantity of something.
+  - "Translation": 丰富
+  - "Context": With the abundance of free music software on the Internet, be it open source or just the sort you're not made to pay for.
+  - "Context_translation": 考虑到互联网上免费音乐软件的丰富，无论是开源的还是那种你不需要付费的软件。
+- "Word": Apparatus
+  - "Lemma": Apparatus
+  - "Pronunciation": /ˌæp.əˈræt.əs/
+  - "POS": Noun
+  - "Definition": The technical equipment or machinery needed for a particular activity or purpose.
+  - "Translation": 设备
+  - "Context": And the ready availability of music-making apparatus available at reasonable prices on eBay.
+  - "Context_translation": 在eBay上以合理的价格即可购得制作音乐的设备。
+- "Word": Relatively
+  - "Lemma": Relatively
+  - "Pronunciation": /ˈrel.ə.tɪv.li/
+  - "POS": Adverb
+  - "Definition": In relation, comparison, or proportion to something else.
+  - "Translation": 相对地
+  - "Context": There ought to be a free and relatively comprehensive guide to composing music in this day and age too on these, our Interwebs.
+  - "Context_translation": 在这个时代，我们的互联网上也应该有一个免费且相对全面的音乐创作指南。
+- "Word": Notation
+  - "Lemma": Notation
+  - "Pronunciation": /noʊˈteɪʃən/
+  - "POS": Noun
+  - "Definition": A system of written symbols used to represent numbers, amounts, or elements in something such as music or mathematics.
+  - "Translation": 记谱法
+  - "Context": A freely available online resource for tune-bangers without formal musical training who want to know more about music theory – without the history lessons, staff notation, and so on.
+  - "Context_translation": 一个免费的在线资源，供那些没有正式音乐训练的洗脑旋律制作者使用，他们想要了解更多关于音乐理论的知识——无需历史课程、五线谱记法等等。
+- "Word": Properly
+  - "Lemma": Proper
+  - "Pronunciation": /ˈprɒpərli/
+  - "POS": Adverb
+  - "Definition": In a way that is suitable or appropriate in the circumstances.
+  - "Translation": 正确地
+  - "Context": I won't try to make you use any of the knowledge in this book “properly”.
+  - "Context_translation": 我不会试图让你“正确地”使用这本书中的任何知识。
+- "Word": Typesetting
+  - "Lemma": Typeset
+  - "Pronunciation": /ˈtaɪpˌsɛtɪŋ/
+  - "POS": Noun
+  - "Definition": The process of setting material in type or into a form to be used in printing.
+  - "Translation": 排版
+  - "Context": I have no way of typesetting music notation nicely so I won't use it.
+  - "Context_translation": 我没有办法漂亮地排版音乐记号，所以我不会使用它。
+- "Word": Polyphonic
+  - "Lemma": Polyphony
+  - "Pronunciation": /pəˈlɪfənɪk/
+  - "POS": Adjective
+  - "Definition": Producing many sounds simultaneously; many-voiced. In music, polyphony is the style of simultaneously combining a number of parts, each forming an individual melody and harmonizing with each other.
+  - "Translation": 多声的
+  - "Context": All you want is a way to play in my diagrams and charts on a polyphonic musical keyboard of some sort.
+  - "Context_translation": 你想要的只是一种方法，可以在某种多声音乐键盘上演奏我的图表和图表。
+- "Word": Accordion
+  - "Lemma": Accordion
+  - "Pronunciation": /əˈkɔːrdiən/
+  - "POS": Noun
+  - "Definition": A portable musical instrument with a keyboard and bellows.
+  - "Translation": 手风琴
+  - "Context": Or an old piano. Or a piano accordion.
+  - "Context_translation": 或者一个旧的钢琴。或者一个钢琴手风琴。
+- "Word": Piss
+  - "Lemma": Piss
+  - "Pronunciation": /pɪs/
+  - "POS": Noun
+  - "Definition": In slang, 'piss' can be used to refer to urine. However, in the given context, 'boring the piss out of you' is an idiomatic expression meaning to bore someone extremely or to the point of exhaustion.
+  - "Translation": 尿，但在此语境中，表示“极度无聊或烦躁”
+  - "Context": The style is informal. I'll introduce you to useful music theory concepts without boring the piss out of you or wasting your time;
+  - "Context_translation": 这种风格很随和。我会向你介绍有用的音乐理论概念，而不会让你极度无聊或浪费你的时间；
+- "Word": Esoteric
+  - "Lemma": Esoteric
+  - "Pronunciation": /ˌesəˈterɪk/
+  - "POS": Adjective
+  - "Definition": Intended for or likely to be understood by only a small number of people with a specialized knowledge or interest.
+  - "Translation": 深奥的
+  - "Context": I'll try to consolidate commonly discovered musical knowledge with more esoteric stuff;
+  - "Context_translation": 我会尝试将常见的音乐知识与更深奥的东西结合起来；
+- consolidate
+    - /kənˈsɑː.lə.deɪt/
+    - to combine several things, especially businesses, so that they become more effective, or to be combined in this way
+    - 使结合
+- "Word": Chords
+  - "Lemma": Chord
+  - "Pronunciation": /kɔːrdz/
+  - "POS": Noun
+  - "Definition": A group of (typically three or more) notes sounded together, as a basis of harmony.
+  - "Translation": 和弦
+  - "Context": I'll showing you the sense behind the strange naming conventions of chords;
+  - "Context_translation": 我会向你展示和弦奇怪命名规则背后的意义；
+- sense
+    - / sens /
+    - n.  意义，含义；
+- chords
+    - /kɔːrd/
+    - three or more musical notes played at the same time
+- "Word": Leaving
+  - "Lemma": Leave
+  - "Pronunciation": /ˈliːvɪŋ/
+  - "POS": Verb
+  - "Definition": Go away from.
+  - "Translation": 离开，但在此语境中，表示“留下”
+  - "Context": I'll explain things as simply as possible, or have explain it in leaving you to discover the rest yourself, mostly.
+  - "Context_translation": 我会尽可能简单地解释事情，或者在大多数情况下，让你自己去发现剩下的部分。
+- make sense
+    - / meɪk sens /
+    - 有明确的意义，容易理解；合理的，明智的
+- "Word": Assimilate
+  - "Lemma": Assimilate
+  - "Pronunciation": /əˈsɪmɪleɪt/
+  - "POS": Verb
+  - "Definition": Take in and understand fully (information or ideas).
+  - "Translation": 吸收
+  - "Context": I'll drop more useful knowledge on you than you can immediately assimilate, then refuse to make sense of it.
+  - "Context_translation": 我会给你提供更多有用的知识，超出你能立即吸收的范围，然后拒绝让它变得容易理解。
+- "Word": Trinkets
+  - "Lemma": Trinket
+  - "Pronunciation": /ˈtrɪŋkɪt/
+  - "POS": Noun
+  - "Definition": A small ornament or item of jewelry that is of little value.
+  - "Translation": 小饰品
+  - "Context": For you, Take these trinkets and make of them what you will.
+  - "Context_translation": 对于你，拿走这些小饰品，随你如何使用它们。
+- "Word": Repertoire
+  - "Lemma": Repertoire
+  - "Pronunciation": /ˈrepərˌtwɑːr/
+  - "POS": Noun
+  - "Definition": A stock of plays, dances, or pieces that a company or a performer knows or is prepared to perform.
+  - "Translation": 曲目
+  - "Context": The musical repertoire of the people who actually compile music theory books is mainly restricted to fairly respectable kinds of music such as classical, jazz, funk, blues, pop, country and rock.
+  - "Context_translation": 实际编写音乐理论书籍的人的音乐曲目主要限于相当受尊敬的音乐类型，如古典、爵士、放克、蓝调、流行、乡村和摇滚。
+- "Word": Pointy-nosed
+  - "Lemma": Pointy-nosed
+  - "Pronunciation": /ˈpɔɪnti noʊzd/
+  - "POS": Adjective
+  - "Definition": Having a sharply pointed nose.
+  - "Translation": 尖鼻子的
+  - "Context": There's this weird, pointy-nosed academic taint to them which bothers me.
+  - "Context_translation": 他们有一种奇怪的、尖鼻子学者的瑕疵，这让我感到困扰。
+- taint/ teɪnt / n.  腐坏；污染；污点；感染；难闻的气味
+- "Word": Electronic
+  - "Lemma": Electronic
+  - "Pronunciation": /ɪˌlekˈtrɒnɪk/
+  - "POS": Adjective
+  - "Definition": (Of a device) having or operating with components such as microchips and transistors that control and direct electric currents.
+  - "Translation": 电子的
+  - "Context": None of them write electronic dance music, which in my experience does have its own interesting, they might say naïve, musical conventions and has had them for several years.
+  - "Context_translation": 他们中没有人创作电子舞曲，根据我的经验，电子舞曲确实有其自身有趣的，他们可能会说是天真的，音乐惯例，并且这些惯例已经存在了好几年。
+- "Word": Overwhelm
+  - "Lemma": Overwhelm
+  - "Pronunciation": /ˌoʊ.vɚˈwɛlm/
+  - "POS": Verb
+  - "Definition": To have such a strong emotional effect on somebody that it is difficult for them to resist or know how to react.
+  - "Translation": 压倒，使不知所措
+  - "Context": They tend to go off into the technology of making music and keep the music theory part way too basic so as not to overwhelm.
+  - "Context_translation": 他们往往会深入研究制作音乐的技术，并将音乐理论部分保持在过于基础的水平，以免让人感到压倒。
+- "Word": Aforementioned
+  - "Lemma": Aforementioned
+  - "Pronunciation": /əˌfɔːrˈmenʃənd/
+  - "POS": Adjective
+  - "Definition": Mentioned previously.
+  - "Translation": 上述的
+  - "Context": Typically, both of the aforementioned groups of people usually want you to buy their knowledge in the form of a book, subscription or downloadable video.
+  - "Context_translation": 通常，这两组上述的人通常希望你以购买书籍、订阅或可下载视频的形式来获取他们的知识。
+- "Word": Restrict
+  - "Lemma": Restrict
+  - "Pronunciation": /rɪˈstrɪkt/
+  - "POS": Verb
+  - "Definition": To limit the movements or actions of someone, or to limit something and reduce its size or prevent it from increasing.
+  - "Translation": 限制
+  - "Context": I put this guide out for free because the information in it is too useful for me to want to restrict it.
+  - "Context_translation": 我免费发布了这个指南，因为其中的信息对我来说太有用，我不想限制它。
+- "Word": Polemic
+  - "Lemma": Polemic
+  - "Pronunciation": /pəˈlɛm.ɪk/
+  - "POS": Noun
+  - "Definition": A strong verbal or written attack on someone or something.
+  - "Translation": 辩论，论战
+  - "Context": Nuff polemic, then: who am I to declare this is how things are to be done?
+  - "Context_translation": 那么，够多的辩论了：我是谁，要宣布事情应该这样做？
+- orchestral / ɔːrˈkestrəl / adj.  管弦乐的；管弦乐队的
+- "Word": Kicked off
+  - "Lemma": Kick off
+  - "Pronunciation": /ˈkɪk ɒf/
+  - "POS": Phrasal Verb
+  - "Definition": To begin; to start.
+  - "Translation": 开始，启动
+  - "Context": This guide kicked off way back in 2002 when a good comprehensive music theory guide for people who couldn't read music (and didn't want to) was sorely lacking.
+  - "Context_translation": 这本指南始于2002年，当时对于那些不能（也不想）阅读音乐的人来说，急需一本全面的音乐理论指南。
+- sorely
+    -  / ˈsɔːrli /
+    -  adv.  疼痛地；非常；剧烈地
+- "Word": Amenable
+  - "Lemma": Amenable
+  - "Pronunciation": /əˈmiːnəbl/
+  - "POS": Adjective
+  - "Definition": Willing to follow advice or authority; tractable, compliant.
+  - "Translation": 顺从的，愿意接受的
+  - "Context": Though I'm amenable to the idea of it being a free eBook.
+  - "Context_translation": 尽管我愿意接受它成为一本免费电子书的想法。
+- "Word": Omissions
+  - "Lemma": Omission
+  - "Pronunciation": /əˈmɪʃən/
+  - "POS": Noun
+  - "Definition": The action of excluding or not including something.
+  - "Translation": 遗漏，省略
+  - "Context": There will always be errors, omissions and complete nonsense somewhere in this guide.
+  - "Context_translation": 这本指南中总会有错误、遗漏和完全的胡言乱语。
+- "Word": Jargon
+  - "Lemma": Jargon
+  - "Pronunciation": /ˈdʒɑːrɡən/
+  - "POS": Noun
+  - "Definition": Special words or expressions used by a profession or group that are difficult for others to understand.
+  - "Translation": 术语
+  - "Context": There will also be some jargon words involved, but I’ll explain those as we get to them.
+  - "Context_translation": 也会涉及一些术语，但我们在接触到它们时我会进行解释。
+- "Word": Notes
+  - "Lemma": Note
+  - "Pronunciation": /noʊts/
+  - "POS": Noun
+  - "Definition": A musical sound with a particular pitch, represented by a symbol on a stave.
+  - "Translation": 音符
+  - "Context": Here’s a diagram of which notes are which on a standard issue piano keyboard.
+  - "Context_translation": 这是一个标准钢琴键盘上各个音符对应的图表。
+- standard issue 标准配备的：指由组织机构定期和常规分发的设备，用于常规使用，不是专业的。
+- 句子结构:
+- Here’s (主语+谓语，是Here is的缩写)
+- a diagram (宾语，名词)
+- of (介词)
+- which notes (关系代词，引导定语从句)
+- are (定语从句中的谓语，系动词)
+- which (关系代词，引导定语从句)
+- on a standard issue piano keyboard (介词短语，定语从句的状语)
+
+翻译:
+这是一个标准钢琴键盘上各个音符对应关系的图表。
+
+语法:
+- "Here’s" 是主语+谓语，是Here is的缩写，这里用来引出主题。
+- "a diagram" 是宾语，名词，表示这个句子的主题。
+- "of" 是介词，用来引出定语从句，说明“diagram”是关于什么的。
+- "which notes" 是关系代词，引导定语从句，代表在"diagram"中被描述的内容。
+- "are" 是定语从句中的谓语，系动词，用来连接主语和宾语。
+- "which" 是关系代词，引导定语从句，代表在"diagram"中被描述的内容。
+- "on a standard issue piano keyboard" 是介词短语，定语从句的状语，说明这些音符是在哪里的。
+
+词汇/短语:
+- diagram: 图表。
+- notes: 音符。
+- standard issue: 标准的，这里指的是一般的或常见的。
+- piano keyboard: 钢琴键盘。
+
+- "Word": Tones
+  - "Lemma": Tone
+  - "Pronunciation": /toʊn/
+  - "POS": Noun
+  - "Definition": In music, a tone is a steady periodic sound. In this context, a tone refers to a whole step in the diatonic scale.
+  - "Translation": 全音
+  - "Context": And now for (whole) tones and semitones - also known as steps and half-steps respectively.
+  - "Context_translation": 现在来看全音和半音，也分别被称为全步和半步。
+- "Word": Flatten
+  - "Lemma": Flatten
+  - "Pronunciation": /ˈflæt.ən/
+  - "POS": Verb
+  - "Definition": In music, to flatten a note means to lower its pitch by a semitone.
+  - "Translation": 降低半音
+  - "Context": So in music, to sharpen something is to raise it by a semitone, and to flatten it is to lower it by a semitone.
+  - "Context_translation": 所以在音乐中，升高某个音是指将其提高半音，而降低某个音是指将其降低半音。
+- lower / ˈloʊər / v.  减少，降低；把……放低，使……降下；降低，贬低（身份）；变昏暗，变阴沉；露愠色
+- "Word": Typesetting
+  - "Lemma": Typeset
+  - "Pronunciation": /ˈtaɪpˌsɛt.ɪŋ/
+  - "POS": Noun
+  - "Definition": The process or skill of setting the type for printed material.
+  - "Translation": 排版
+  - "Context": The usual sign for a flat is ♭ and the sharp is usually notated with ♯, and in their place I've used b and # respectively to save typesetting time.
+  - "Context_translation": 通常降音符号用♭表示，升音符号用♯表示，为了节省排版时间，我分别用b和#来代替它们。
+- "Word": Accidentals
+  - "Lemma": Accidental
+  - "Pronunciation": /ˌæk.sɪˈden.təlz/
+  - "POS": Noun
+  - "Definition": In music, symbols such as sharps or flats that indicate the modification of a note's pitch.
+  - "Translation": 变音记号
+  - "Context": Sharps and flats are sometimes known as accidentals, which I find somewhat pejorative considering that when a note is neither sharpened nor flattened it is called a natural note.
+  - "Context_translation": 升音符号和降音符号有时被称为变音记号，我认为这有点贬义，因为当一个音符既不升高也不降低时，它被称为自然音。
+- "Word": Equivalent
+  - "Lemma": Equivalent
+  - "Pronunciation": /ɪˈkwɪv.əl.ənt/
+  - "POS": Adjective
+  - "Definition": Equal in value, amount, function, meaning, etc.
+  - "Translation": 等价的
+  - "Context": I have no handy ASCII equivalent of the natural sign and shan't bother using it.
+  - "Context_translation": 我没有方便的ASCII等价替代自然音符号，也不打算使用它。
+- "Word": Enharmonic
+  - "Lemma": Enharmonic
+  - "Pronunciation": /ˌen.hɑːˈmɒn.ɪk/
+  - "POS": Adjective
+  - "Definition": Relating to notes that are the same in pitch although written differently (having the same frequency, but are named differently according to the key and context).
+  - "Translation": 同音异名
+  - "Context": Two notes are enharmonic when they refer to the same pitch: C# and Db are enharmonic, as are F# and Gb.
+  - "Context_translation": 当两个音符指的是相同的音高时，它们是同音异名的：C#和Db是同音异名，F#和Gb也是。
+- "Word": Bach
+  - "Lemma": Bach
+  - "Pronunciation": /bɑːk/
+  - "POS": Proper noun
+  - "Definition": Johann Sebastian Bach (1685–1750) was a German composer and musician of the Baroque period. He is known for instrumental compositions such as the Brandenburg Concertos and the Goldberg Variations, and for vocal music such as the St Matthew Passion and the Mass in B minor.
+  - "Translation": 巴赫
+  - "Context": They weren't before the time of Bach, which made lots of music sound rather out of tune when it was played in a different key.
+  - "Context_translation": 在巴赫的时代之前，它们并不存在，这使得许多音乐在不同的调式下演奏时听起来相当走调。
+- "Word": Scale
+  - "Lemma": Scale
+  - "Pronunciation": /skeɪl/
+  - "POS": Noun
+  - "Definition": In music, a scale is a set of musical notes ordered by fundamental frequency or pitch. A scale ordered by increasing pitch is an ascending scale, and a scale ordered by decreasing pitch is a descending scale.
+  - "Translation": 音阶
+  - "Context": What determines the name you use for a note with more than one name has much to do with the key or scale you’re using.
+  - "Context_translation": 决定你为一个有多个名字的音符所使用的名称的因素，很大程度上与你所使用的调式或音阶有关。
+- "Phrase": Pay close attention
+  - "Lemma": Pay close attention
+  - "Pronunciation": /peɪ kloʊs əˈtɛnʃən/
+  - "POS": Phrase
+  - "Definition": To focus one's attention carefully and thoroughly on something.
+  - "Translation": 仔细注意
+  - "Context": In fact, pay close attention when we start on the major scale or you'll be absolutely rooted  by the time we get to chords.
+  - "Context_translation": 事实上，当我们开始接触大调音阶时，你必须要仔细注意，否则等我们讲到和弦时，你可能会完全跟不上

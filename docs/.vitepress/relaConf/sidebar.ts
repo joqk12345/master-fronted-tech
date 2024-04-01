@@ -310,7 +310,7 @@ export const sidebar: DefaultTheme.Sidebar = {
         },
         {
             text:'2024-03',
-            collapsed:false,
+            collapsed:true,
             items:[
                 {
                     text:'0301-indigo的最新访谈感想',
@@ -454,7 +454,7 @@ export const sidebar: DefaultTheme.Sidebar = {
         },
         {
             text: '2024-04',
-            collapsed:true,
+            collapsed:false,
             items:[
                 {
                     text:"0401-销售新解",
@@ -474,7 +474,7 @@ export const sidebar: DefaultTheme.Sidebar = {
                     link:"/content/English/2024/20240404.md",
                 },
                 {
-                    text:"0404-专业",
+                    text:"0405-专业",
                     link:"/content/English/2024/20240405.md",
                 },
             ],
@@ -504,6 +504,10 @@ export const sidebar: DefaultTheme.Sidebar = {
                 {
                     text: 'The Legend of Unix',
                     link: '/content/English/2024/the-legend-of-unix.md',
+                },
+                {
+                    text: 'The Music Theory',
+                    link: '/content/English/2024/musci-theory.md',
                 },
             ],
         },
