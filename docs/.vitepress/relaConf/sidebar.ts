@@ -507,7 +507,7 @@ export const sidebar: DefaultTheme.Sidebar = {
                 },
                 {
                     text: 'The Music Theory',
-                    link: '/content/English/2024/musci-theory.md',
+                    link: '/content/English/2024/music-theory.md',
                 },
             ],
         },
