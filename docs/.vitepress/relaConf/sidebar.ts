@@ -477,6 +477,10 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text:"0405-专业",
                     link:"/content/English/2024/20240405.md",
                 },
+                {
+                    text:"0406-成为教练的核心素质",
+                    link:"/content/English/2024/20240406.md",
+                },
             ],
         },
         {
