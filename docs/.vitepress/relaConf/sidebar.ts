@@ -481,6 +481,23 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text:"0406-成为教练的核心素质",
                     link:"/content/English/2024/20240406.md",
                 },
+        
+                {
+                    text:"0407-论证穿过表象看本质的论据",
+                    link:"/content/English/2024/20240407.md",
+                },
+                {
+                    text:"0408-系统",
+                    link:"/content/English/2024/20240408.md",
+                },
+                {
+                    text:"0409-速成",
+                    link:"/content/English/2024/20240409.md",
+                },
+                {
+                    text:"0406-成为教练的核心素质",
+                    link:"/content/English/2024/20240406.md",
+                },
             ],
         },
         {
