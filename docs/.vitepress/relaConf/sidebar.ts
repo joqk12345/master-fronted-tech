@@ -523,6 +523,24 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text:"0416-拆分工作",
                     link:"/content/English/2024/20240416.md",
                 },
+                {
+                    text:"0417-提问的逻辑模板",
+                    link:"/content/English/2024/20240417.md",
+                },
+                {
+                    text:"0418-管理工作的精髓",
+                    link:"/content/English/2024/20240418.md",
+                },
+                {
+                    text:"0419-为什么教育要注重过程的监督",
+                    link:"/content/English/2024/20240419.md",
+                },
+            ],
+        },
+        {
+            text: 'topic',
+            collapsed: true,
+            items: [
             ],
         },
         {
