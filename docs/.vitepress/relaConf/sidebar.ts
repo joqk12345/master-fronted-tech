@@ -495,8 +495,29 @@ export const sidebar: DefaultTheme.Sidebar = {
                     link:"/content/English/2024/20240409.md",
                 },
                 {
-                    text:"0406-成为教练的核心素质",
-                    link:"/content/English/2024/20240406.md",
+                    text:"0410-速成的隐秘的变种",
+                    link:"/content/English/2024/20240410.md",
+                },
+
+                {
+                    text:"0411-社会的影响",
+                    link:"/content/English/2024/20240411.md",
+                },
+                {
+                    text:"0412-拆解能力",
+                    link:"/content/English/2024/20240412.md",
+                },
+                {
+                    text:"0413-简单与复杂",
+                    link:"/content/English/2024/20240413.md",
+                },
+                {
+                    text:"0414-生产的好处",
+                    link:"/content/English/2024/20240414.md",
+                },
+                {
+                    text:"0415-生产为导向的隐秘的好处",
+                    link:"/content/English/2024/20240415.md",
                 },
             ],
         },
