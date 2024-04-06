@@ -1388,17 +1388,112 @@ Before we can effectively build new habits, we need to get a handle on our curre
 
 The Japanese railway system is regarded as one of the best in the world. If you ever find yourself riding a train in Tokyo, you’ll notice that the conductors have a peculiar habit.
 
-As each operator runs the train, they proceed through a ritual of pointing at different objects and calling out commands. When the train approaches a signal, the operator will point at it and say, “Signal is green.” As the train pulls into and out of each station, the operator will point at the speedometer and call out the exact speed. When it’s time to leave, the operator will point at the timetable and state the time. Out on the platform, other employees are performing similar actions. Before each train departs, staff members will point along the edge of the platform and declare, “All clear!” Every detail is identified, pointed at, and named aloud.*
+- "Word": Riding
+  - "Lemma": Ride
+  - "Pronunciation": /ˈraɪdɪŋ/
+  - "POS": Verb
+  - "Definition": Sit on and control the movement of (an animal, especially a horse), typically as a recreation or sport.
+  - "Translation": 骑，乘坐
+  - "Context": If you ever find yourself riding a train in Tokyo, you'll notice that the conductors have a peculiar habit.
+  - "Context_translation": 如果你发现自己在东京乘坐火车，你会注意到列车员有一个奇特的习惯。
+- "Word": Peculiar
+  - "Lemma": Peculiar
+  - "Pronunciation": /pɪˈkjuːliər/
+  - "POS": Adjective
+  - "Definition": Different to what is normal or expected; strange.
+  - "Translation": 奇特的，特有的
+  - "Context": If you ever find yourself riding a train in Tokyo, you'll notice that the conductors have a peculiar habit.
+  - "Context_translation": 如果你发现自己在东京乘坐火车，你会注意到列车员有一个奇特的习惯。
+
+As each operator runs the train, they proceed through a ritual of pointing at different objects and calling out commands. When the train approaches a signal, the operator will point at it and say, “Signal is green.” As the train pulls into and out of each station, the operator will point at the speedometer and call out the exact speed. When it’s time to leave, the operator will point at the timetable and state the time. Out on the platform, other employees are performing similar actions. Before
+each train departs, staff members will point along the edge of the platform and declare, “All clear!” Every detail is identified, pointed at, and named aloud.
+
+- "Word": Ritual
+  - "Lemma": Ritual
+  - "Pronunciation": /ˈrɪtʃuəl/
+  - "POS": Noun
+  - "Definition": A religious or solemn ceremony consisting of a series of actions performed according to a prescribed order.
+  - "Translation": 仪式
+  - "Context": As each operator runs the train, they proceed through a ritual of pointing at different objects and calling out commands.
+  - "Context_translation": 当每位操作员驾驶火车时，他们会进行一种指向不同物体并呼喊指令的仪式。
+- "Word": pulls into
+  - "Lemma": pull into
+  - "Pronunciation": /pʊlz ˈɪntuː/
+  - "POS": Phrasal Verb
+  - "Definition": When a vehicle pulls into a place, it moves in and stops there.
+  - "Translation": 驶入
+  - "Context": As the train pulls into and out of each station, the operator will point at the speedometer and call out the exact speed.
+  - "Context_translation": 当火车驶入和驶出每一个车站时，操作员会指向速度计并报出确切的速度。
+- "Word": Departs
+  - "Lemma": Depart
+  - "Pronunciation": /dɪˈpɑːrt/
+  - "POS": Verb
+  - "Definition": Leave, typically in order to start a journey.
+  - "Translation": 离开
+  - "Context": Before each train departs, staff members will point along the edge of the platform and declare, “All clear!”
+  - "Context_translation": 在每辆火车离开之前，工作人员会指着站台边缘并宣布，“全部清楚！”
 
 This process, known as Pointing-and-Calling, is a safety system designed to reduce mistakes. It seems silly, but it works incredibly well. Pointing-and-Calling reduces errors by up to 85 percent and cuts accidents by 30 percent. The MTA subway system in New York City adopted a modified version that is “point-only,” and “within two years of implementation, incidents of incorrectly berthed subways fell 57 percent.”
+
+- "Word": Incidents
+  - "Lemma": Incident
+  - "Pronunciation": /ˈɪnsɪdənts/
+  - "POS": Noun
+  - "Definition": An instance of something happening; an event or occurrence.
+  - "Translation": 事件
+  - "Context": Incidents of incorrectly berthed subways fell 57 percent.
+  - "Context_translation": 不正确停靠的地铁事件下降了57%。
 
 Pointing-and-Calling is so effective because it raises the level of awareness from a nonconscious habit to a more conscious level. Because the train operators must use their eyes, hands, mouth, and ears, they are more likely to notice problems before something goes wrong.
 
 My wife does something similar. Whenever we are preparing to walk out the door for a trip, she verbally calls out the most essential items in her packing list. “I’ve got my keys. I’ve got my wallet. I’ve got my glasses. I’ve got my husband.”
 
+- "Word": Verbally
+  - "Lemma": Verbally
+  - "Pronunciation": /ˈvɜːbəli/
+  - "POS": Adverb
+  - "Definition": In a way that uses words and speech.
+  - "Translation": 口头上
+  - "Context": She verbally calls out the most essential items in her packing list.
+  - "Context_translation": 她口头上列出了她打包清单中最重要的物品。
+
 The more automatic a behavior becomes, the less likely we are to consciously think about it. And when we’ve done something a thousand times before, we begin to overlook things. We assume that the next time will be just like the last. We’re so used to doing what we’ve always done that we don’t stop to question whether it’s the right thing to do at all. Many of our failures in performance are largely attributable to a lack of self-awareness.
 
+- "Word": Overlook
+  - "Lemma": Overlook
+  - "Pronunciation": /ˌoʊvərˈlʊk/
+  - "POS": Verb
+  - "Definition": Fail to notice.
+  - "Translation": 忽视
+  - "Context": We begin to overlook things.
+  - "Context_translation": 我们开始忽视事物。
+
 One of our greatest challenges in changing habits is maintaining awareness of what we are actually doing. This helps explain why the consequences of bad habits can sneak up on us. We need a “point-and-call” system for our personal lives. That’s the origin of the Habits Scorecard, which is a simple exercise you can use to become more aware of your behavior. To create your own, make a list of your daily habits.
+
+- "Word": Consequences
+  - "Lemma": Consequence
+  - "Pronunciation": /ˈkɒnsɪkwəns/
+  - "POS": Noun
+  - "Definition": A result or effect of an action or condition.
+  - "Translation": 后果
+  - "Context": This helps explain why the consequences of bad habits can sneak up on us.
+  - "Context_translation": 这有助于解释为什么坏习惯的后果会悄悄地影响我们。
+- "Word": Sneak up
+  - "Lemma": Sneak up
+  - "Pronunciation": /sniːk ʌp/
+  - "POS": Phrasal Verb
+  - "Definition": Approach someone stealthily, without them noticing.
+  - "Translation": 悄悄接近
+  - "Context": This helps explain why the consequences of bad habits can sneak up on us.
+  - "Context_translation": 这有助于解释为什么坏习惯的后果会悄悄地影响我们。
+- "Word": Awareness
+  - "Lemma": Awareness
+  - "Pronunciation": /əˈwɛər.nəs/
+  - "POS": Noun
+  - "Definition": Knowledge or perception of a situation or fact.
+  - "Translation": 意识
+  - "Context": One of our greatest challenges in changing habits is maintaining awareness of what we are actually doing.
+  - "Context_translation": 改变习惯的最大挑战之一是保持对我们实际正在做什么的意识。
 
 Here’s a sample of where your list might start:
 
@@ -1427,6 +1522,48 @@ Get dressed
 Make a cup of tea
 
 . . . and so on.
+
+- "Word": Weigh
+  - "Lemma": Weigh
+  - "Pronunciation": /weɪ/
+  - "POS": Verb
+  - "Definition": To find out how heavy (someone or something) is, typically using scales.
+  - "Translation": 称重
+  - "Context": Weigh myself
+  - "Context_translation": 称自己的体重
+
+- "Word": Floss
+  - "Lemma": Floss
+  - "Pronunciation": /flɔːs/
+  - "POS": Verb
+  - "Definition": Clean between (one's teeth) with dental floss.
+  - "Translation": 用牙线清洁
+  - "Context": Floss my teeth
+  - "Context_translation": 用牙线清洁我的牙齿
+- "Word": Shower
+  - "Lemma": Shower
+  - "Pronunciation": /ˈʃaʊər/
+  - "POS": Noun
+  - "Definition": A brief and usually light fall of rain, hail, sleet, or snow. In the context of taking a shower, it refers to a device for personal hygiene which sprays water on a person.
+  - "Translation": 淋浴
+  - "Context": Take a shower
+  - "Context_translation": 洗一个淋浴
+- "Word": Deodorant
+  - "Lemma": Deodorant
+  - "Pronunciation": /diːˈəʊdərənt/
+  - "POS": Noun
+  - "Definition": A substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, feet, and other areas of the body.
+  - "Translation": 除臭剂
+  - "Context": Put on deodorant
+  - "Context_translation": 涂抹除臭剂
+- "Word": Towel
+  - "Lemma": Towel
+  - "Pronunciation": /ˈtaʊəl/
+  - "POS": Noun
+  - "Definition": A piece of absorbent fabric or paper used for drying or wiping a body or a surface.
+  - "Translation": 毛巾
+  - "Context": Hang up towel to dry
+  - "Context_translation": 把毛巾挂起来晾干
 
 Once you have a full list, look at each behavior, and ask yourself, “Is this a good habit, a bad habit, or a neutral habit?” If it is a good habit, write “+” next to it. If it is a bad habit, write “–”. If it is a neutral habit, write “=”.
 
@@ -1458,16 +1595,85 @@ Make a cup of tea +
 
 The marks you give to a particular habit will depend on your situation and your goals. For someone who is trying to lose weight, eating a bagel with peanut butter every morning might be a bad habit. For someone who is trying to bulk up and add muscle, the same behavior might be a good habit. It all depends on what you’re working toward.*
 
+- "Word": Bagel
+  - "Lemma": Bagel
+  - "Pronunciation": /ˈbeɪɡəl/
+  - "POS": Noun
+  - "Definition": A dense bread roll in the shape of a ring, made by boiling dough and then baking it.
+  - "Translation": 贝果
+  - "Context": For someone who is trying to lose weight, eating a bagel with peanut butter every morning might be a bad habit.
+  - "Context_translation": 对于试图减肥的人来说，每天早上吃一个涂有花生酱的贝果可能是一个坏习惯。
+- "Word": Bulk up
+  - "Lemma": Bulk up
+  - "Pronunciation": /bʌlk ʌp/
+  - "POS": Phrasal Verb
+  - "Definition": To become larger in body size, particularly through gaining more muscle mass.
+  - "Translation": 增加体重，增肌
+  - "Context": For someone who is trying to bulk up and add muscle,
+  - "Context_translation": 对于那些试图增加体重和肌肉的人来说，
+
 Scoring your habits can be a bit more complex for another reason as well. The labels “good habit” and “bad habit” are slightly inaccurate. There are no good habits or bad habits. There are only effective habits. That is, effective at solving problems. All habits serve you in some way—even the bad ones—which is why you repeat them. For this exercise, categorize your habits by how they will benefit you in the long run. Generally speaking, good habits will have net positive outcomes. Bad habits have net negative outcomes. Smoking a cigarette may reduce stress right now (that’s how it’s serving you), but it’s not a healthy long-term behavior.
+
+- "Word": Scoring
+  - "Lemma": Score
+  - "Pronunciation": /ˈskɔːrɪŋ/
+  - "POS": Verb (present participle)
+  - "Definition": To gain (a point, goal, etc.) in a game or contest; to evaluate or rate something or someone.
+  - "Translation": 评分，打分
+  - "Context": Scoring your habits can be a bit more complex for another reason as well.
+  - "Context_translation": 出于另一个原因，对你的习惯进行评分可能会更复杂一些。
 
 If you’re still having trouble determining how to rate a particular habit, here is a question I like to use: “Does this behavior help me become the type of person I wish to be? Does this habit cast a vote for or against my desired identity?” Habits that reinforce your desired identity are usually good. Habits that conflict with your desired identity are usually bad.
 
+- "Word": Rate
+  - "Lemma": Rate
+  - "Pronunciation": /reɪt/
+  - "POS": Verb
+  - "Definition": To assign a standard or value to (something) according to a particular scale.
+  - "Translation": 评价，评级
+  - "Context": If you’re still having trouble determining how to rate a particular habit,
+  - "Context_translation": 如果你仍然在困扰如何评价一个特定的习惯，
+- "Word": Cast
+  - "Lemma": Cast
+  - "Pronunciation": /kɑːst/
+  - "POS": Verb
+  - "Definition": To throw something forcefully in a specific direction; to assign a role in a play or film; to shape molten metal by pouring it into a mould; or, metaphorically, to contribute or assign something in a particular way.
+  - "Translation": 投，投射
+  - "Context": Does this habit cast a vote for or against my desired identity?
+  - "Context_translation": 这个习惯是在为我期望的身份投赞成票还是反对票？
+- "Word": Reinforce
+  - "Lemma": Reinforce
+  - "Pronunciation": /ˌriː.ɪnˈfɔːs/
+  - "POS": Verb
+  - "Definition": To strengthen or support, especially with additional personnel or material.
+  - "Translation": 加强，强化
+  - "Context": Habits that reinforce your desired identity are usually good.
+  - "Context_translation": 加强你期望身份的习惯通常是好的。
+
 As you create your Habits Scorecard, there is no need to change anything at first. The goal is to simply notice what is actually going on. Observe your thoughts and actions without judgment or internal criticism. Don’t blame yourself for your faults. Don’t praise yourself for your successes.
+
+- "Word": Criticism
+  - "Lemma": Criticism
+  - "Pronunciation": /ˈkrɪtɪsɪzəm/
+  - "POS": Noun
+  - "Definition": The expression of disapproval of someone or something on the basis of perceived faults or mistakes.
+  - "Translation": 批评
+  - "Context": Observe your thoughts and actions without judgment or internal criticism.
+  - "Context_translation": 观察你的思想和行动，不带判断或内心的批评。
 
 If you eat a chocolate bar every morning, acknowledge it, almost as if you were watching someone else. Oh, how interesting that they would do such a thing. If you binge-eat, simply notice that you are eating more calories than you should. If you waste time online, notice that you are spending your life in a way that you do not want to.
 
 The first step to changing bad habits is to be on the lookout for them. If you feel like you need extra help, then you can try Pointing-and-Calling in your own life. Say out loud the action that you are thinking of taking and what the outcome will be. If you want to cut back on your junk food habit but notice yourself grabbing another cookie, say out loud, “I’m about to eat this cookie, but I don’t need it. Eating it will cause me to gain weight and hurt my health.”
 
 Hearing your bad habits spoken aloud makes the consequences seem more real. It adds weight to the action rather than letting yourself mindlessly slip into an old routine. This approach is useful even if you’re simply trying to remember a task on your to-do list. Just saying out loud, “Tomorrow, I need to go to the post office after lunch,” increases the odds that you’ll actually do it. You’re getting yourself to acknowledge the need for action—and that can make all the difference.
+
+- "Word": Acknowledge
+  - "Lemma": Acknowledge
+  - "Pronunciation": /əkˈnɒlɪdʒ/
+  - "POS": Verb
+  - "Definition": To accept, admit, or recognize something, or the truth or existence of something.
+  - "Translation": 承认，确认
+  - "Context": If you eat a chocolate bar every morning, acknowledge it.
+  - "Context_translation": 如果你每天早上都吃一块巧克力，就要承认这一点。
 
 The process of behavior change always starts with awareness. Strategies like Pointing-and-Calling and the Habits Scorecard are focused on getting you to recognize your habits and acknowledge the cues that trigger them, which makes it possible to respond in a way that benefits you.

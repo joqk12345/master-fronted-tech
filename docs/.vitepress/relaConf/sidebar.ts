@@ -539,6 +539,10 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text:"0420-监督工作的核心",
                     link:"/content/English/2024/20240420.md",
                 },
+                {
+                    text:"0421-为什么只有少数人才能成事",
+                    link:"/content/English/2024/20240421.md",
+                },
             ],
         },
         {
