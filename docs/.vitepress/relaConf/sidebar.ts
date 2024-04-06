@@ -535,6 +535,10 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text:"0419-为什么教育要注重过程的监督",
                     link:"/content/English/2024/20240419.md",
                 },
+                {
+                    text:"0420-监督工作的核心",
+                    link:"/content/English/2024/20240420.md",
+                },
             ],
         },
         {
