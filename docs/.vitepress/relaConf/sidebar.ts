@@ -519,6 +519,10 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text:"0415-生产为导向的隐秘的好处",
                     link:"/content/English/2024/20240415.md",
                 },
+                {
+                    text:"0416-拆分工作",
+                    link:"/content/English/2024/20240416.md",
+                },
             ],
         },
         {
