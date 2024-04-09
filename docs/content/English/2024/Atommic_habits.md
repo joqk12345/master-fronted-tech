@@ -1705,9 +1705,548 @@ The cues that can trigger a habit come in a wide range of forms—the feel of yo
 
 ### Broadly speaking, the format for creating an implementation intention is: “When situation X arises, I will perform response Y.”
 
+Hundreds of studies have shown that implementation intentions are effective for sticking to our goals, whether it’s writing down the exact time and date of when you will get a flu shot or recording the time of your colonoscopy appointment. They increase the odds that people will stick with habits like recycling, studying, going to sleep early, and stopping smoking.
+
+- "Word": Implementation intentions
+  - "Lemma": Implementation intention
+  - "Pronunciation": /ˌɪmplɪmenˈteɪʃən ɪnˈtɛnʃənz/
+  - "POS": Noun
+  - "Definition": Concrete plans that specify when, where, and how a person will take action to achieve a goal.
+  - "Translation": 实施意图
+  - "Context": Hundreds of studies have shown that implementation intentions are effective for sticking to our goals.
+  - "Context_translation": 数百项研究表明，实施意图对于坚持我们的目标是有效的。
+- "Word": Colonoscopy
+  - "Lemma": Colonoscopy
+  - "Pronunciation": /kɒləˈnɒskəpi/
+  - "POS": Noun
+  - "Definition": A medical procedure that examines the colon and rectum for abnormalities, typically by inserting a flexible tube with a camera through the anus.
+  - "Translation": 结肠镜检查
+  - "Context": Whether it’s writing down the exact time and date of when you will get a flu shot or recording the time of your colonoscopy appointment.
+  - "Context_translation": 无论是记下你接种流感疫苗的确切时间和日期，还是记录你进行结肠镜检查的时间。
+- "Word": Recycling
+  - "Lemma": Recycle
+  - "Pronunciation": /ˈriː.saɪ.klɪŋ/
+  - "POS": Noun
+  - "Definition": The process of converting waste materials into new materials and objects.
+  - "Translation": 回收利用
+  - "Context": They increase the odds that people will stick with habits like recycling, studying, going to sleep early, and stopping smoking.
+  - "Context_translation": 它们增加了人们坚持回收利用、学习、早睡和戒烟等习惯的可能性。
+- "Word": Implementation intentions
+  - "Lemma": Implementation intention
+  - "Pronunciation": /ɪmˌplɪmɛnˈteɪʃən ɪnˈtɛnʃən/
+  - "POS": Noun
+  - "Definition": A self-regulatory strategy in the form of an "if-then plan" that can lead to better goal attainment, as well as help in habit and behavior modification.
+  - "Translation": 实施意图
+  - "Context": Researchers have even found that voter turnout increases when people are forced to create implementation intentions by answering questions like:
+  - "Context_translation": 研究者甚至发现，当人们被迫通过回答问题来创建实施意图时，选民的投票率会增加。
+
+Researchers have even found that voter turnout increases when people are forced to create implementation intentions by answering questions like: “What route are you taking to the polling station? At what time are you planning to go? What bus will get you there?” Other successful government programs have prompted citizens to make a clear plan to send taxes in on time or provided directions on when and where to pay late traffic bills.
+
+- "Word": Polling
+  - "Lemma": Poll
+  - "Pronunciation": /ˈpoʊlɪŋ/
+  - "POS": Noun
+  - "Definition": The process of voting in an election.
+  - "Translation": 投票
+  - "Context": What route are you taking to the polling station?
+  - "Context_translation": 您走什么路线去投票站？
+- "Word": Programs
+  - "Lemma": Program
+  - "Pronunciation": /ˈproʊɡræm/
+  - "POS": Noun
+  - "Definition": A planned series of future events, items, or performances.
+  - "Translation": 计划
+  - "Context": Other successful government programs have prompted citizens to make a clear plan to send taxes in on time or provided directions on when and where to pay late traffic bills.
+  - "Context_translation": 其他成功的政府计划已经促使公民制定明确的计划，按时缴纳税款，或者提供了何时以及在哪里支付迟交的交通罚款的指示。
+
+The punch line is clear: people who make a specific plan for when and where they will perform a new habit are more likely to follow through. Too many people try to change their habits without these basic details figured out. We tell ourselves, “I’m going to eat healthier” or “I’m going to write more,” but we never say when and where these habits are going to happen. We leave it up to chance and hope that we will “just remember to do it” or feel motivated at the right time. An implementation intention sweeps away foggy notions like “I want to work out more” or “I want to be more productive” or “I should vote” and transforms them into a concrete plan of action.
+
+- "Word": Punch line
+  - "Lemma": Punch line
+  - "Pronunciation": /ˈpʌntʃ laɪn/
+  - "POS": Noun
+  - "Definition": The final phrase or sentence of a joke or story, providing the humor or some other crucial element.
+  - "Translation": 笑点
+  - "Context": The punch line is clear
+  - "Context_translation": 笑点很明显
+- "Word": Figured out
+  - "Lemma": Figure out
+  - "Pronunciation": /ˈfɪɡjər aʊt/
+  - "POS": Verb phrase
+  - "Definition": To understand or solve something.
+  - "Translation": 弄清楚
+  - "Context": Too many people try to change their habits without these basic details figured out.
+  - "Context_translation": 许多人试图在没有弄清楚这些基本细节的情况下改变他们的习惯。
+- "Word": Foggy notions
+  - "Lemma": Foggy notion
+  - "Pronunciation": /ˈfɒɡi ˈnoʊʃənz/
+  - "POS": Noun phrase
+  - "Definition": Vague, unclear ideas or understandings.
+  - "Translation": 模糊的概念
+  - "Context": An implementation intention sweeps away foggy notions
+  - "Context_translation": 实施意图消除了模糊的概念
+
+Many people think they lack motivation when what they really lack is clarity. It is not always obvious when and where to take action. Some people spend their entire lives waiting for the time to be right to make an improvement.
+
+句子结构：
+1. "Many people think" (许多人认为) - 主语和谓语，表示许多人的观点。
+2. "they lack motivation" (他们缺乏动力) - 宾语从句，表示许多人的自我认知。
+3. "when" (当) - 连词，用来连接两个子句。
+4. "what they really lack is clarity" (他们真正缺乏的是清晰性) - 时间状语从句，表示实际情况。
+
+翻译：
+许多人认为他们缺乏动力，但他们真正缺乏的是清晰性。
+
+语法：
+- 这是一个复杂句，主句是"Many people think they lack motivation"，"when what they really lack is clarity"是时间状语从句。
+- "what they really lack is clarity"是强调句型，强调"they really lack"的是"clarity"。
+
+词汇/短语：
+- Lack: 缺乏，这里表示缺少某种东西。
+- Motivation: 动力，这里指的是推动行动的内在动力。
+- Clarity: 清晰性，这里可能指的是目标、计划或思路的清晰性。
+
+句子结构：
+1. "strike" (打击/来临) - 动词，这里指的是灵感突然降临的情况。
+2. "you don’t have to wait" (你不必等待) - 主语 "you" 和谓语 "don’t have to wait"，表示不需要做某事。
+3. "for inspiration to strike" (灵感来临) - 介词短语 "for" 引导的目的状语，说明等待的原因。
+
+翻译：
+你不必等待灵感的降临。
+
+语法：
+- 这是一个祈使句，用来表示建议或命令，这里是建议不要等待灵感自己出现。
+- "don’t have to" 表示没有必要或不必做某事。
+- "for inspiration to strike" 中的 "to strike" 是不定式，表示目的。
+
+词汇/短语：
+- Strike: 在这个上下文中，"strike" 通常用于描述某事突然发生，特别是指灵感或想法的突然出现。
+- Inspiration: 灵感，指创造性思维或想法的源泉。
+- Wait for: 等待，期待某事发生。
+
+Once an implementation intention has been set, you don’t have to wait for inspiration to strike. Do I write a chapter today or not? Do I meditate this morning or at lunch? When the moment of action occurs, there is no need to make a decision. Simply follow your predetermined plan.
+
 ### The simple way to apply this strategy to your habits is to fill out this sentence: I will [BEHAVIOR] at [TIME] in [LOCATION].
+
+Meditation. I will meditate for one minute at 7 a.m. in my kitchen.
+
+- "Word": Meditate
+  - "Lemma": Meditate
+  - "Pronunciation": /ˈmɛdɪˌteɪt/
+  - "POS": Verb
+  - "Definition": To think deeply or focus one's mind for a period of time, in silence or with the aid of chanting, for religious or spiritual purposes or as a method of relaxation.
+  - "Translation": 冥想
+  - "Context": I will meditate for one minute at 7 a.m.
+  - "Context_translation": 我将在早上7点冥想一分钟。
+
+Studying. I will study Spanish for twenty minutes at 6 p.m. in my bedroom.
+
+Exercise. I will exercise for one hour at 5 p.m. in my local gym.
+
+Marriage. I will make my partner a cup of tea at 8 a.m. in the kitchen.
+
+If you aren’t sure when to start your habit, try the first day of the week, month, or year. People are more likely to take action at those times because hope is usually higher. If we have hope, we have a reason to take action. A fresh start feels motivating.
+
+There is another benefit to implementation intentions. Being specific about what you want and how you will achieve it helps you say no to things that derail progress, distract your attention, and pull you off course. We often say yes to little requests because we are not clear enough about what we need to be doing instead. When your dreams are vague, it’s easy to rationalize little exceptions all day long and never get around to the specific things you need to do to succeed.
+
+- "Word": Derail
+  - "Lemma": Derail
+  - "Pronunciation": /diːˈreɪl/
+  - "POS": Verb
+  - "Definition": To cause (a plan, process, etc.) to fail by preventing it from continuing as planned.
+  - "Translation": 使偏离轨道
+  - "Context": Being specific about what you want and how you will achieve it helps you say no to things that derail progress,
+  - "Context_translation": 清楚地知道你想要什么以及你将如何实现它，可以帮助你拒绝那些使进步偏离轨道的事情，
+- "Word": Vague
+  - "Lemma": Vague
+  - "Pronunciation": /veɪg/
+  - "POS": Adjective
+  - "Definition": Of uncertain, indefinite, or unclear character or meaning.
+  - "Translation": 模糊的
+  - "Context": When your dreams are vague
+  - "Context_translation": 当你的梦想是模糊的
+- "Word": Rationalize
+  - "Lemma": Rationalize
+  - "Pronunciation": /ˈraʃənəˌlaɪz/
+  - "POS": Verb
+  - "Definition": Attempt to explain or justify (one's own or another's behavior or attitude) with logical, plausible reasons, even if these are not true or appropriate.
+  - "Translation": 合理化
+  - "Context": it’s easy to rationalize little exceptions all day long and never get around to the specific things you need to do to succeed.
+  - "Context_translation": 整天都很容易为小小的例外找合理的解释，而从不去处理为了成功你需要做的具体事情。
+
+Give your habits a time and a space to live in the world. The goal is to make the time and location so obvious that, with enough repetition, you get an urge to do the right thing at the right time, even if you can’t say why. As the writer Jason Zweig noted, “Obviously you’re never going to just work out without conscious thought. But like a dog salivating at a bell, maybe you start to get antsy around the time of day you normally work out.”
+
+- "Word": Salivating
+  - "Lemma": Salivate
+  - "Pronunciation": /ˈsælɪveɪtɪŋ/
+  - "POS": Verb (Present participle)
+  - "Definition": To produce saliva, especially in anticipation of food.
+  - "Translation": 分泌唾液
+  - "Context": like a dog salivating at a bell, maybe you start to get antsy around the time of day you normally work out.
+  - "Context_translation": 就像狗听到铃声会分泌唾液一样，也许在你通常锻炼的时间段，你开始变得焦躁不安。
+
+句子结构：
+1. "Obviously" (显然) - 副词，用来修饰整个句子，表示说话人认为这个情况是显而易见的。
+2. "you’re never going to just work out" (你永远不会仅仅是健身) - 主语 "you" 和谓语 "are going to" 表示未来的动作，"just work out" 是指动作的内容，"never" 表示否定的频率副词。
+3. "without conscious thought" (没有经过深思熟虑) - 短语 "without" 表示没有某物，"conscious thought" 指有意识的思考。
+
+翻译：
+显然，你不可能在没有经过深思熟虑的情况下去健身。
+
+语法：
+- 这是一个肯定句，但是通过使用 "never" 实现了否定的意义。
+- "going to" 表示将来时态。
+- "just work out" 中的 "just" 用作副词，表示仅仅或只是。
+- "without" 是介词，表示没有。
+
+词汇/短语：
+- Obviously: 显然，用来表示某件事是容易理解或认同的。
+- Work out: 健身，进行体育锻炼。
+- Conscious thought: 有意识的思考，指故意的、有意识的思维过程。
+
+There are many ways to use implementation intentions in your life and work. My favorite approach is one I learned from Stanford professor BJ Fogg and it is a strategy I refer to as habit stacking.
 
 ### HABIT STACKING: A SIMPLE PLAN TO OVERHAUL YOUR HABITS
 
+The French philosopher Denis Diderot lived nearly his entire life in poverty, but that all changed one day in 1765.
 
+- "Word": Poverty
+  - "Lemma": Poverty
+  - "Pronunciation": /ˈpɒvərti/
+  - "POS": Noun
+  - "Definition": The state of being extremely poor.
+  - "Translation": 贫穷
+  - "Context": The French philosopher Denis Diderot lived nearly his entire life in poverty.
+  - "Context_translation": 法国哲学家丹尼斯·狄德罗几乎一生都生活在贫穷中。
 
+Diderot’s daughter was about to be married and he could not afford to pay for the wedding. Despite his lack of wealth, Diderot was well known for his role as the co-founder and writer of Encyclopédie, one of the most comprehensive encyclopedias of the time. When Catherine the Great, the Empress of Russia, heard of Diderot’s financial troubles, her heart went out to him. She was a book lover and greatly enjoyed his encyclopedia. She offered to buy Diderot’s personal library for £1,000—more than $150,000 today.* Suddenly, Diderot had money to spare. With his new wealth, he not only paid for the wedding but also acquired a scarlet robe for himself.
+
+- "Word": Encyclopedias
+  - "Lemma": Encyclopedia
+  - "Pronunciation": /ɪnˌsaɪkləˈpiːdiə/
+  - "POS": Noun
+  - "Definition": A book or set of books giving information on many subjects or on many aspects of one subject and typically arranged alphabetically.
+  - "Translation": 百科全书
+  - "Context": Diderot was well known for his role as the co-founder and writer of Encyclopédie, one of the most comprehensive encyclopedias of the time.
+  - "Context_translation": 狄德罗以他作为《百科全书》的联合创始人和作者而闻名，这是当时最全面的百科全书之一。
+- "Word": Empress
+  - "Lemma": Empress
+  - "Pronunciation": /ˈɛmprɪs/
+  - "POS": Noun
+  - "Definition": A woman who is a sovereign ruler of great power and rank, especially one ruling an empire.
+  - "Translation": 女皇
+  - "Context": When Catherine the Great, the Empress of Russia
+  - "Context_translation": 当俄罗斯的女皇，叶卡捷琳娜大帝
+- "Word": Spare
+  - "Lemma": Spare
+  - "Pronunciation": /speər/
+  - "POS": Verb
+  - "Definition": To have excess of something, especially time or money; to afford to use something without needing it for something else.
+  - "Translation": 有富余
+  - "Context": Diderot had money to spare.
+  - "Context_translation": 狄德罗有钱可以挥霍。
+- "Phrase": Scarlet robe
+  - "Pronunciation": /ˈskɑːrlɪt roʊb/
+  - "Definition": A robe that is colored scarlet, a bright tone of red that is slightly toward orange.
+  - "Translation": 猩红色的袍子
+  - "Context": He not only paid for the wedding but also acquired a scarlet robe for himself.
+  - "Context_translation": 他不仅支付了婚礼的费用，还为自己买了一件猩红色的袍子。
+
+Diderot’s scarlet robe was beautiful. So beautiful, in fact, that he immediately noticed how out of place it seemed when surrounded by his more common possessions. He wrote that there was “no more coordination, no more unity, no more beauty” between his elegant robe and the rest of his stuff.
+
+- "Word": Possessions
+  - "Lemma": Possession
+  - "Pronunciation": /pəˈzɛʃənz/
+  - "POS": Noun
+  - "Definition": The state of having, owning, or controlling something.
+  - "Translation": 财产
+  - "Context": That he immediately noticed how out of place it seemed when surrounded by his more common possessions.
+  - "Context_translation": 他立刻注意到，当袍子被他那些更普通的财产所包围时，它看起来是多么不协调。
+elegant / ˈelɪɡənt / adj.  （人）高雅的，举止优雅的；精美的，雅致的；简练的，巧妙的
+robe/ roʊb / n.  袍服，礼袍；睡袍，浴衣
+
+Diderot soon felt the urge to upgrade his possessions. He replaced his rug with one from Damascus. He decorated his home with expensive sculptures. He bought a mirror to place above the mantel, and a better kitchen table. He tossed aside his old straw chair for a leather one. Like falling dominoes, one purchase led to the next.
+
+- "Word": Rug
+  - "Lemma": Rug
+  - "Pronunciation": /rʌɡ/
+  - "POS": Noun
+  - "Definition": A floor covering of thick woven material or animal skin, typically not extending over the entire floor.
+  - "Translation": 地毯
+  - "Context": He replaced his rug with one from Damascus.
+  - "Context_translation": 他用一块来自大马士革的地毯替换了他的旧地毯。
+- "Word": Sculptures
+  - "Lemma": Sculpture
+  - "Pronunciation": /ˈskʌlptʃər/
+  - "POS": Noun
+  - "Definition": Three-dimensional artwork created by shaping or combining materials such as stone, wood, clay, or metal.
+  - "Translation": 雕塑品
+  - "Context": He decorated his home with expensive sculptures.
+  - "Context_translation": 他用昂贵的雕塑品装饰了他的家。
+- "Word": Mantel
+  - "Lemma": Mantel
+  - "Pronunciation": /ˈmæntəl/
+  - "POS": Noun
+  - "Definition": A shelf or ornamental structure above and around a fireplace.
+  - "Translation": 壁炉架
+  - "Context": He bought a mirror to place above the mantel.
+  - "Context_translation": 他买了一面镜子放在壁炉架上方。
+
+Diderot’s behavior is not uncommon. In fact, the tendency for one purchase to lead to another one has a name: the Diderot Effect. The Diderot Effect states that obtaining a new possession often creates a spiral of consumption that leads to additional purchases.
+
+- "Word": Dominoes
+  - "Lemma": Domino
+  - "Pronunciation": /ˈdɒmɪnoʊz/
+  - "POS": Noun
+  - "Definition": Small rectangular blocks marked with dots on each end, used in a game or for building structures that can be toppled in a chain reaction.
+  - "Translation": 多米诺骨牌
+  - "Context": Like falling dominoes, one purchase led to the next.
+  - "Context_translation": 就像多米诺骨牌一样，一个购买引发了下一个购买。
+- "Word": Diderot Effect
+  - "Lemma": Diderot Effect
+  - "Pronunciation": /diˈdɛroʊ ɪˈfɛkt/
+  - "POS": Noun
+  - "Definition": The phenomenon where the introduction of a new possession leads to a spiral of consumption as a person's other possessions are upgraded or replaced to match the new acquisition.
+  - "Translation": 狄德罗效应
+  - "Context": Like falling dominoes, one purchase led to the next.
+  - "Context_translation": 就像多米诺骨牌一样，一个购买导致了下一个购买，这就是狄德罗效应。
+
+You can spot this pattern everywhere. You buy a dress and have to get new shoes and earrings to match. You buy a couch and suddenly question the layout of your entire living room. You buy a toy for your child and soon find yourself purchasing all of the accessories that go with it. It’s a chain reaction of purchases.
+
+- "Word": Spot
+  - "Lemma": Spot
+  - "Pronunciation": /spɒt/
+  - "POS": Noun or Verb
+  - "Definition":
+    - Noun: A small round or roundish mark, differing in color or texture from the surface around it.
+    - Verb: To see, notice, or recognize (someone or something) that is difficult to detect or identify.
+  - "Translation":
+    - Noun: 斑点、点
+    - Verb: 发现、察觉
+  - "Context": You can spot this pattern everywhere.
+  - "Context_translation": 你可以在各个地方发现这种模式。
+- "Word": Couch
+  - "Lemma": Couch
+  - "Pronunciation": /kaʊtʃ/
+  - "POS": Noun
+  - "Definition": A long upholstered piece of furniture for several people to sit on.
+  - "Translation": 沙发
+  - "Context": You buy a couch and suddenly question the layout of your entire living room.
+  - "Context_translation": 你买了一张沙发，突然开始质疑整个客厅的布局。
+
+Many human behaviors follow this cycle. You often decide what to do next based on what you have just finished doing. Going to the bathroom leads to washing and drying your hands, which reminds you that you need to put the dirty towels in the laundry, so you add laundry detergent to the shopping list, and so on. No behavior happens in isolation. Each action becomes a cue that triggers the next behavior.
+
+- "Word": Towels
+  - "Lemma": Towel
+  - "Pronunciation": /ˈtaʊəlz/
+  - "POS": Noun
+  - "Definition": A piece of thick absorbent cloth or paper used for drying oneself or things.
+  - "Translation": 毛巾
+  - "Context": which reminds you that you need to put the dirty towels in the laundry.
+  - "Context_translation": 这使你想起你需要把脏毛巾放进洗衣机。
+
+Why is this important?
+
+When it comes to building new habits, you can use the connectedness of behavior to your advantage. One of the best ways to build a new habit is to identify a current habit you already do each day and then stack your new behavior on top. This is called habit stacking.
+
+- "Word": Connectedness
+  - "Lemma": Connectedness
+  - "Pronunciation": /kəˈnɛktɪdnəs/
+  - "POS": Noun
+  - "Definition": The state or quality of being connected or linked together.
+  - "Translation": 连接性
+  - "Context": You can use the connectedness of behavior to your advantage.
+  - "Context_translation": 你可以利用行为的连接性来获得优势。
+- "Word": Stacking
+  - "Lemma": Stack
+  - "Pronunciation": /stæk/
+  - "POS": Verb
+  - "Definition": To arrange (a number of things) in a pile, typically a neat one.
+  - "Translation": 堆叠
+  - "Context": This is called habit stacking.
+  - "Context_translation": 这被称为习惯堆叠。
+
+Habit stacking is a special form of an implementation intention. Rather than pairing your new habit with a particular time and location, you pair it with a current habit. This method, which was created by BJ Fogg as part of his Tiny Habits program, can be used to design an obvious cue for nearly any habit.*
+
+句子结构：
+1. "Rather than" (而不是) - 连词短语，用来引导比较结构，表示偏好或选择。
+2. "pairing your new habit with a particular time and location" (将你的新习惯与特定的时间和地点相结合) - 动名词短语作为主语，"pairing" 是动名词，表示一个动作，"your new habit" 是它的直接宾语，"with a particular time and location" 是宾语补足语。
+3. "you pair it with a current habit" (你将它与现有的习惯相结合) - 主谓宾结构，"you" 是主语，"pair it with a current habit" 是谓语和宾语。
+
+翻译：
+你应该将新习惯与现有的习惯相结合，而不是将它与特定的时间和地点相结合。
+
+语法：
+- "Rather than" 引导比较结构，表示选择或偏好。
+- "pairing your new habit with a particular time and location" 中的 "pairing" 是动名词，用作主语。
+- "you pair it with a current habit" 是一个简单的主谓宾句型。
+
+词汇/短语：
+- Pair with: 与...配对，将两者结合在一起。
+- Habit: 习惯，经常做的事情。
+- Particular: 特定的，特殊的。
+- Current: 现有的，当前的。
+The habit stacking formula is: “After [CURRENT HABIT], I will [NEW HABIT].”
+For example:
+
+Meditation. After I pour my cup of coffee each morning, I will meditate for one minute.
+
+Exercise. After I take off my work shoes, I will immediately change into my workout clothes.
+
+Gratitude. After I sit down to dinner, I will say one thing I’m grateful for that happened today.
+
+Marriage. After I get into bed at night, I will give my partner a kiss.
+
+Safety. After I put on my running shoes, I will text a friend or family member where I am running and how long it will take.
+
+The key is to tie your desired behavior into something you already do each day. Once you have mastered this basic structure, you can begin to create larger stacks by chaining small habits together. This allows you to take advantage of the natural momentum that comes from one behavior leading into the next—a positive version of the Diderot Effect.
+
+Your morning routine habit stack might look like this:
+
+After I pour my morning cup of coffee, I will meditate for sixty seconds.
+
+- "Word": Pour
+  - "Lemma": Pour
+  - "Pronunciation": /pɔːr/
+  - "POS": Verb
+  - "Definition": To cause (a liquid or granular solid) to flow from a container in a steady stream by holding the container at an angle.
+  - "Translation": 倒、注入
+  - "Context": After I pour my morning cup of coffee,
+  - "Context_translation": 在我倒上早晨的咖啡之后，
+
+After I meditate for sixty seconds, I will write my to-do list for the day.
+
+After I write my to-do list for the day, I will immediately begin my first task.
+
+Or, consider this habit stack in the evening:
+
+After I finish eating dinner, I will put my plate directly into the dishwasher.
+
+After I put my dishes away, I will immediately wipe down the counter.
+
+- "Word": Counter
+  - "Lemma": Counter
+  - "Pronunciation": /ˈkaʊntər/
+  - "POS": Noun
+  - "Definition": A long flat-topped piece of furniture or a structure, typically placed against a wall.
+  - "Translation": 柜台、台面
+  - "Context": I will immediately wipe down the counter.
+  - "Context_translation": 我会立即擦拭台面。
+
+After I wipe down the counter, I will set out my coffee mug for tomorrow morning.
+
+- "Word": Mug
+  - "Lemma": Mug
+  - "Pronunciation": /mʌɡ/
+  - "POS": Noun
+  - "Definition": A large cup with a handle, typically used for drinking hot beverages such as coffee or tea.
+  - "Translation": 杯子、马克杯
+  - "Context": I will set out my coffee mug for tomorrow morning.
+  - "Context_translation": 我会准备好明早的咖啡杯子。
+
+You can also insert new behaviors into the middle of your current routines. For example, you may already have a morning routine that looks like this: Wake up > Make my bed > Take a shower. Let’s say you want to develop the habit of reading more each night. You can expand your habit stack and try something like: Wake up > Make my bed > Place a book on my pillow > Take a shower. Now, when you climb into bed each night, a book will be sitting there waiting for you to enjoy.
+
+Overall, habit stacking allows you to create a set of simple rules that guide your future behavior. It’s like you always have a game plan for which action should come next. Once you get comfortable with this approach, you can develop general habit stacks to guide you whenever the situation is appropriate:
+
+Exercise. When I see a set of stairs, I will take them instead of using the elevator.
+
+Social skills. When I walk into a party, I will introduce myself to someone I don’t know yet.
+
+Finances. When I want to buy something over $100, I will wait twenty-four hours before purchasing.
+
+Healthy eating. When I serve myself a meal, I will always put veggies on my plate first.
+
+Minimalism. When I buy a new item, I will give something away. (“One in, one out.”)
+
+- "Word": Minimalism
+  - "Lemma": Minimalism
+  - "Pronunciation": /ˈmɪnɪməˌlɪzəm/
+  - "POS": Noun
+  - "Definition": A style or technique characterized by simplicity and the use of minimal decoration or adornment.
+  - "Translation": 极简主义
+  - "Context": Minimalism. When I buy a new item, I will give something away.
+  - "Context_translation": 极简主义。当我购买新物品时，我会送出一些东西。
+
+Mood. When the phone rings, I will take one deep breath and smile before answering.
+
+Forgetfulness. When I leave a public place, I will check the table and chairs to make sure I don’t leave anything behind.
+
+No matter how you use this strategy, the secret to creating a successful habit stack is selecting the right cue to kick things off. Unlike an implementation intention, which specifically states the time and location for a given behavior, habit stacking implicitly has the time and location built into it. When and where you choose to insert a habit into your daily routine can make a big difference. If you’re trying to add meditation into your morning routine but mornings are chaotic and your kids keep running into the room, then that may be the wrong place and time. Consider when you are most likely to be successful. Don’t ask yourself to do a habit when you’re likely to be occupied with something else.
+
+Your cue should also have the same frequency as your desired habit. If you want to do a habit every day, but you stack it on top of a habit that only happens on Mondays, that’s not a good choice.
+
+One way to find the right trigger for your habit stack is by brainstorming a list of your current habits. You can use your Habits Scorecard from the last chapter as a starting point. Alternatively, you can create a list with two columns. In the first column, write down the habits you do each day without fail.*
+
+For example:
+
+Get out of bed.
+
+Take a shower.
+
+Brush your teeth.
+
+Get dressed.
+
+Brew a cup of coffee.
+
+Eat breakfast.
+
+Take the kids to school.
+
+Start the work day.
+
+Eat lunch.
+
+End the work day.
+
+Change out of work clothes.
+
+Sit down for dinner.
+
+Turn off the lights.
+
+Get into bed.
+
+Your list can be much longer, but you get the idea. In the second column, write down all of the things that happen to you each day without fail. For example:
+
+The sun rises.
+
+You get a text message.
+
+The song you are listening to ends.
+
+The sun sets.
+
+Armed with these two lists, you can begin searching for the best place to layer your new habit into your lifestyle.
+
+Habit stacking works best when the cue is highly specific and immediately actionable. Many people select cues that are too vague. I made this mistake myself. When I wanted to start a push-up habit, my habit stack was “When I take a break for lunch, I will do ten push-ups.” At first glance, this sounded reasonable. But soon, I realized the trigger was unclear. Would I do my push-ups before I ate lunch? After I ate lunch? Where would I do them? After a few inconsistent days, I changed my habit stack to: “When I close my laptop for lunch, I will do ten push-ups next to my desk.” Ambiguity gone.
+
+- "Word": Vague
+  - "Lemma": Vague
+  - "Pronunciation": /veɪɡ/
+  - "POS": Adjective
+  - "Definition": Unclear or imprecise in meaning or details.
+  - "Translation": 模糊的、不明确的
+  - "Context": Many people select cues that are too vague.
+  - "Context_translation": 许多人选择的线索太模糊了。
+- "Word": Push-ups
+  - "Lemma": Push-up
+  - "Pronunciation": /ˈpʊʃʌps/
+  - "POS": Noun
+  - "Definition": A physical exercise in which a person lies facing the floor and, keeping their back straight, raises their body by pressing their hands against the floor.
+  - "Translation": 俯卧撑
+  - "Context": I will do ten push-ups next to my desk.
+  - "Context_translation": 我会在桌子旁边做十个俯卧撑。
+
+Habits like “read more” or “eat better” are worthy causes, but these goals do not provide instruction on how and when to act. Be specific and clear: After I close the door. After I brush my teeth. After I sit down at the table. The specificity is important. The more tightly bound your new habit is to a specific cue, the better the odds are that you will notice when the time comes to act.
+
+The 1st Law of Behavior Change is to make it obvious. Strategies like implementation intentions and habit stacking are among the most practical ways to create obvious cues for your habits and design a clear plan for when and where to take action.
+
+- "Word": Bound
+  - "Lemma": Bound
+  - "Pronunciation": /baʊnd/
+  - "POS": Adjective
+  - "Definition": Tied or fastened tightly.
+  - "Translation": 紧束的、牢固的
+  - "Context": The more tightly bound your new habit is to a specific cue,
+  - "Context_translation": 你的新习惯与特定的线索越紧密相连，
