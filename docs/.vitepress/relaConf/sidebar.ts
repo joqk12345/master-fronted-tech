@@ -543,6 +543,10 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text:"0421-为什么只有少数人才能成事",
                     link:"/content/English/2024/20240421.md",
                 },
+                {
+                    text:"0422-雷军分享",
+                    link:"/content/English/2024/20240422.md",
+                },
             ],
         },
         {

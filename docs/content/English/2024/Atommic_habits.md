@@ -1622,6 +1622,15 @@ Scoring your habits can be a bit more complex for another reason as well. The la
   - "Translation": 评分，打分
   - "Context": Scoring your habits can be a bit more complex for another reason as well.
   - "Context_translation": 出于另一个原因，对你的习惯进行评分可能会更复杂一些。
+- "Word": Inaccurate
+  - "Lemma": Inaccurate
+  - "Pronunciation": /ɪnˈækjərət/
+  - "POS": Adjective
+  - "Definition": Not accurate or precise; not correct.
+  - "Translation": 不准确的
+  - "Context": The labels "good habit" and "bad habit" are slightly inaccurate.
+  - "Context_translation": “好习惯”和“坏习惯”这些标签略微不准确。
+
 
 If you’re still having trouble determining how to rate a particular habit, here is a question I like to use: “Does this behavior help me become the type of person I wish to be? Does this habit cast a vote for or against my desired identity?” Habits that reinforce your desired identity are usually good. Habits that conflict with your desired identity are usually bad.
 
@@ -1677,3 +1686,28 @@ Hearing your bad habits spoken aloud makes the consequences seem more real. It a
   - "Context_translation": 如果你每天早上都吃一块巧克力，就要承认这一点。
 
 The process of behavior change always starts with awareness. Strategies like Pointing-and-Calling and the Habits Scorecard are focused on getting you to recognize your habits and acknowledge the cues that trigger them, which makes it possible to respond in a way that benefits you.
+
+## chapter 05 The Best Way to Start a New Habit
+
+IN 2001, RESEARCHERS in Great Britain began working with 248 people to build better exercise habits over the course of two weeks. The subjects were divided into three groups.
+
+The first group was the control group. They were simply asked to track how often they exercised.
+
+The second group was the “motivation” group. They were asked not only to track their workouts but also to read some material on the benefits of exercise. The researchers also explained to the group how exercise could reduce the risk of coronary heart disease and improve heart health.
+
+Finally, there was the third group. These subjects received the same presentation as the second group, which ensured that they had equal levels of motivation. However, they were also asked to formulate a plan for when and where they would exercise over the following week. Specifically, each member of the third group completed the following sentence: “During the next week, I will partake in at least 20 minutes of vigorous exercise on [DAY] at [TIME] in [PLACE].”
+
+In the first and second groups, 35 to 38 percent of people exercised at least once per week. (Interestingly, the motivational presentation given to the second group seemed to have no meaningful impact on behavior.) But 91 percent of the third group exercised at least once per week—more than double the normal rate.
+
+The sentence they filled out is what researchers refer to as an implementation intention, which is a plan you make beforehand about when and where to act. That is, how you intend to implement a particular habit.
+
+The cues that can trigger a habit come in a wide range of forms—the feel of your phone buzzing in your pocket, the smell of chocolate chip cookies, the sound of ambulance sirens—but the two most common cues are time and location. Implementation intentions leverage both of these cues.
+
+### Broadly speaking, the format for creating an implementation intention is: “When situation X arises, I will perform response Y.”
+
+### The simple way to apply this strategy to your habits is to fill out this sentence: I will [BEHAVIOR] at [TIME] in [LOCATION].
+
+### HABIT STACKING: A SIMPLE PLAN TO OVERHAUL YOUR HABITS
+
+
+
