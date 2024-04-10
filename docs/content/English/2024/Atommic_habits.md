@@ -2250,3 +2250,14 @@ The 1st Law of Behavior Change is to make it obvious. Strategies like implementa
   - "Translation": 紧束的、牢固的
   - "Context": The more tightly bound your new habit is to a specific cue,
   - "Context_translation": 你的新习惯与特定的线索越紧密相连，
+The 1st Law of Behavior Change is make it obvious.
+
+The two most common cues are time and location.
+
+Creating an implementation intention is a strategy you can use to pair a new habit with a specific time and location.
+
+The implementation intention formula is: I will [BEHAVIOR] at [TIME] in [LOCATION].
+
+Habit stacking is a strategy you can use to pair a new habit with a current habit.
+
+The habit stacking formula is: After [CURRENT HABIT], I will [NEW HABIT].
