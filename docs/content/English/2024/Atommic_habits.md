@@ -2470,4 +2470,100 @@ Thankfully, there is good news in this respect. You don’t have to be the victi
   - "Context": You don’t have to be the victim of your environment.
   - "Context_translation": 你不必成为你环境的受害者。
 
+## HOW TO DESIGN YOUR ENVIRONMENT FOR SUCCESS
 
+During the energy crisis and oil embargo of the 1970s, Dutch researchers began to pay close attention to the country’s energy usage. In one suburb near Amsterdam, they found that some homeowners used 30 percent less energy than their neighbors—despite the homes being of similar size and getting electricity for the same price.
+
+Amsterdam / ˈæmstərdæm / n.  阿姆斯特丹（荷兰首都）；阿姆斯特丹（美国纽约东部城市）
+suburb / ˈsʌbɜːrb / n.  城郊，近郊
+
+It turned out the houses in this neighborhood were nearly identical except for one feature: the location of the electrical meter. Some had one in the basement. Others had the electrical meter upstairs in the main hallway. As you may guess, the homes with the meters located in the main hallway used less electricity. When their energy use was obvious and easy to track, people changed their behavior.
+
+basement / ˈbeɪsmənt / n.  地下室，地库
+hallway/ ˈhɔːlweɪ / （住宅的）门厅，（正门入口处的）走廊；
+
+Every habit is initiated by a cue, and we are more likely to notice cues that stand out. Unfortunately, the environments where we live and work often make it easy not to do certain actions because there is no obvious cue to trigger the behavior. It’s easy not to practice the guitar when it’s tucked away in the closet. It’s easy not to read a book when the bookshelf is in the corner of the guest room. It’s easy not to take your vitamins when they are out of sight in the pantry. When the cues that spark a habit are subtle or hidden, they are easy to ignore.
+
+By comparison, creating obvious visual cues can draw your attention toward a desired habit. In the early 1990s, the cleaning staff at Schiphol Airport in Amsterdam installed a small sticker that looked like a fly near the center of each urinal. Apparently, when men stepped up to the urinals, they aimed for what they thought was a bug. The stickers improved their aim and significantly reduced “spillage” around the urinals. Further analysis determined that the stickers cut bathroom cleaning costs by 8 percent per year.
+
+sticker/ ˈstɪkər / n.  （有图或文字的）粘贴标签，贴纸；
+urinal / ˈjʊrɪnl / n.  尿壶；小便处
+spillage / ˈspɪlɪdʒ / n.  溢出；溢出量
+
+
+I’ve experienced the power of obvious cues in my own life. I used to buy apples from the store, put them in the crisper in the bottom of the refrigerator, and forget all about them. By the time I remembered, the apples would have gone bad. I never saw them, so I never ate them.
+
+crisper / ˈkrɪspər / n.  （冰箱的）保鲜储藏格
+refrigerator / rɪˈfrɪdʒəreɪtər / n.  冰箱，冷藏库
+
+Eventually, I took my own advice and redesigned my environment. I bought a large display bowl and placed it in the middle of the kitchen counter. The next time I bought apples, that was where they went—out in the open where I could see them. Almost like magic, I began eating a few apples each day simply because they were obvious rather than out of sight.
+
+Here are a few ways you can redesign your environment and make the cues for your preferred habits more obvious:
+
+If you want to remember to take your medication each night, put your pill bottle directly next to the faucet on the bathroom counter.
+
+faucet / ˈfɔːsɪt / n.  <美>水龙头，旋塞
+
+If you want to practice guitar more frequently, place your guitar stand in the middle of the living room.
+
+If you want to remember to send more thank-you notes, keep a stack of stationery on your desk.
+
+stationery / ˈsteɪʃəneri / n.  （通常有配套信封的）信纸，信笺；文具
+
+If you want to drink more water, fill up a few water bottles each morning and place them in common locations around the house.
+
+If you want to make a habit a big part of your life, make the cue a big part of your environment. The most persistent behaviors usually have multiple cues. Consider how many different ways a smoker could be prompted to pull out a cigarette: driving in the car, seeing a friend smoke, feeling stressed at work, and so on.
+
+cigarette / ˈsɪɡəret / n.  香烟，纸烟；麻醉烟，草药烟，药性烟
+
+The same strategy can be employed for good habits. By sprinkling triggers throughout your surroundings, you increase the odds that you’ll think about your habit throughout the day. Make sure the best choice is the most obvious one. Making a better decision is easy and natural when the cues for good habits are right in front of you.
+
+sprinkling / ˈsprɪŋklɪŋ / n.  少量；点滴；喷雾
+
+Environment design is powerful not only because it influences how we engage with the world but also because we rarely do it. Most people live in a world others have created for them. But you can alter the spaces where you live and work to increase your exposure to positive cues and reduce your exposure to negative ones. Environment design allows you to take back control and become the architect of your life. Be the designer of your world and not merely the consumer of it.
+
+engage with 与……接触，与……交往：与某人或某事物建立联系或参与其中。
+exposure / ɪkˈspoʊʒər / n.  暴露，接触；曝光，揭发；报道，宣传；单张胶片；曝光时间，
+
+
+## THE CONTEXT IS THE CUE
+
+The cues that trigger a habit can start out very specific, but over time your habits become associated not with a single trigger but with the entire context surrounding the behavior.
+
+For example, many people drink more in social situations than they would ever drink alone. The trigger is rarely a single cue, but rather the whole situation: watching your friends order drinks, hearing the music at the bar, seeing the beers on tap.
+
+We mentally assign our habits to the locations in which they occur: the home, the office, the gym. Each location develops a connection to certain habits and routines. You establish a particular relationship with the objects on your desk, the items on your kitchen counter, the things in your bedroom.
+
+Our behavior is not defined by the objects in the environment but by our relationship to them. In fact, this is a useful way to think about the influence of the environment on your behavior. Stop thinking about your environment as filled with objects. Start thinking about it as filled with relationships. Think in terms of how you interact with the spaces around you. For one person, her couch is the place where she reads for an hour each night. For someone else, the couch is where he watches television and eats a bowl of ice cream after work. Different people can have different memories—and thus different habits—associated with the same place.
+
+couch / kaʊtʃ / n.  长沙发，长榻；诊察台
+
+The good news? You can train yourself to link a particular habit with a particular context.
+
+In one study, scientists instructed insomniacs to get into bed only when they were tired. If they couldn’t fall asleep, they were told to sit in a different room until they became sleepy. Over time, subjects began to associate the context of their bed with the action of sleeping, and it became easier to quickly fall asleep when they climbed in bed. Their brains learned that sleeping—not browsing on their phones, not watching television, not staring at the clock—was the only action that happened in that room.
+
+instructed / ɪnˈstrʌktɪd / adj.  受教育的；得到指示的, v 指导
+insomniac / ɪnˈsɑːmniæk / n.  失眠症患者
+browsing / ˈbraʊzɪŋ / n.  浏览 v.  浏览；吃草（browse 的 ing 形式）
+
+The power of context also reveals an important strategy: habits can be easier to change in a new environment. It helps to escape the subtle triggers and cues that nudge you toward your current habits. Go to a new place—a different coffee shop, a bench in the park, a corner of your room you seldom use—and create a new routine there.
+
+It is easier to associate a new habit with a new context than to build a new habit in the face of competing cues. It can be difficult to go to bed early if you watch television in your bedroom each night. It can be hard to study in the living room without getting distracted if that’s where you always play video games. But when you step outside your normal environment, you leave your behavioral biases behind. You aren’t battling old environmental cues, which allows new habits to form without interruption.
+
+Want to think more creatively? Move to a bigger room, a rooftop patio, or a building with expansive architecture. Take a break from the space where you do your daily work, which is also linked to your current thought patterns.
+
+Trying to eat healthier? It is likely that you shop on autopilot at your regular supermarket. Try a new grocery store. You may find it easier to avoid unhealthy food when your brain doesn’t automatically know where it is located in the store.
+
+When you can’t manage to get to an entirely new environment, redefine or rearrange your current one. Create a separate space for work, study, exercise, entertainment, and cooking. The mantra I find useful is “One space, one use.”
+
+When I started my career as an entrepreneur, I would often work from my couch or at the kitchen table. In the evenings, I found it very difficult to stop working. There was no clear division between the end of work time and the beginning of personal time. Was the kitchen table my office or the space where I ate meals? Was the couch where I relaxed or where I sent emails? Everything happened in the same place.
+
+A few years later, I could finally afford to move to a home with a separate room for my office. Suddenly, work was something that happened “in here” and personal life was something that happened “out there.” It was easier for me to turn off the professional side of my brain when there was a clear dividing line between work life and home life. Each room had one primary use. The kitchen was for cooking. The office was for working.
+
+Whenever possible, avoid mixing the context of one habit with another. When you start mixing contexts, you’ll start mixing habits—and the easier ones will usually win out. This is one reason why the versatility of modern technology is both a strength and a weakness. You can use your phone for all sorts of tasks, which makes it a powerful device. But when you can use your phone to do nearly anything, it becomes hard to associate it with one task. You want to be productive, but you’re also conditioned to browse social media, check email, and play video games whenever you open your phone. It’s a mishmash of cues.
+
+You may be thinking, “You don’t understand. I live in New York City. My apartment is the size of a smartphone. I need each room to play multiple roles.” Fair enough. If your space is limited, divide your room into activity zones: a chair for reading, a desk for writing, a table for eating. You can do the same with your digital spaces. I know a writer who uses his computer only for writing, his tablet only for reading, and his phone only for social media and texting. Every habit should have a home.
+
+If you can manage to stick with this strategy, each context will become associated with a particular habit and mode of thought. Habits thrive under predictable circumstances like these. Focus comes automatically when you are sitting at your work desk. Relaxation is easier when you are in a space designed for that purpose. Sleep comes quickly when it is the only thing that happens in your bedroom. If you want behaviors that are stable and predictable, you need an environment that is stable and predictable.
+
+A stable environment where everything has a place and a purpose is an environment where habits can easily form.
