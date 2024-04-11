@@ -2261,3 +2261,67 @@ The implementation intention formula is: I will [BEHAVIOR] at [TIME] in [LOCATIO
 Habit stacking is a strategy you can use to pair a new habit with a current habit.
 
 The habit stacking formula is: After [CURRENT HABIT], I will [NEW HABIT].
+
+## chapter 6 Motivation Is Overrated; Environment Often Matters More
+
+ANNE THORNDIKE, A primary care physician at Massachusetts General Hospital in Boston, had a crazy idea. She believed she could improve the eating habits of thousands of hospital staff and visitors without changing their willpower or motivation in the slightest way. In fact, she didn’t plan on talking to them at all.
+
+Thorndike and her colleagues designed a six-month study to alter the “choice architecture” of the hospital cafeteria. They started by changing how drinks were arranged in the room. Originally, the refrigerators located next to the cash registers in the cafeteria were filled with only soda. The researchers added water as an option to each one. Additionally, they placed baskets of bottled water next to the food stations throughout the room. Soda was still in the primary refrigerators, but water was now available at all drink locations.
+
+Over the next three months, the number of soda sales at the hospital dropped by 11.4 percent. Meanwhile, sales of bottled water increased by 25.8 percent. They made similar adjustments—and saw similar results—with the food in the cafeteria. Nobody had said a word to anyone eating there.
+
+- "Word": Cafeteria
+  - "Lemma": Cafeteria
+  - "Pronunciation": /ˌkæf.ɪˈtɪr.i.ə/
+  - "POS": Noun
+  - "Definition": A restaurant in which customers serve themselves from a variety of dishes displayed on a counter or table.
+  - "Translation": 自助餐厅
+  - "Context": Thorndike and her colleagues designed a six-month study to alter the “choice architecture” of the hospital cafeteria.
+  - "Context_translation": Thorndike 和她的同事设计了一个为期六个月的研究，以改变医院自助餐厅的“选择架构”。
+- "Word": Refrigerators
+  - "Lemma": Refrigerator
+  - "Pronunciation": /rɪˈfrɪdʒ.ə.reɪ.tər/
+  - "POS": Noun
+  - "Definition": An appliance or compartment that is artificially kept cool and used to store food and drink.
+  - "Translation": 冰箱
+  - "Context": The refrigerators located next to the cash registers in the cafeteria were filled with only soda.
+  - "Context_translation": 自助餐厅收银台旁边的冰箱里只装满了汽水。
+- "Word": Bottled water
+  - "Lemma": Bottled water
+  - "Pronunciation": /ˈbɒt.əld ˈwɔː.tər/
+  - "POS": Noun
+  - "Definition": Water that is sold in bottles and is often purified or from springs.
+  - "Translation": 瓶装水
+  - "Context": They placed baskets of bottled water next to the food stations throughout the room.
+  - "Context_translation": 他们在房间里的各个食物站旁放置了装有瓶装水的篮子。
+
+People often choose products not because of what they are, but because of where they are. If I walk into the kitchen and see a plate of cookies on the counter, I’ll pick up half a dozen and start eating, even if I hadn’t been thinking about them beforehand and didn’t necessarily feel hungry. If the communal table at the office is always filled with doughnuts and bagels, it’s going to be hard not to grab one every now and then. Your habits change depending on the room you are in and the cues in front of you.
+
+- "Word": Doughnuts
+  - "Lemma": Doughnut
+  - "Pronunciation": /ˈdoʊ.nʌt/
+  - "POS": Noun
+  - "Definition": A small fried cake of sweetened dough, typically in the shape of a ball or ring.
+  - "Translation": 甜甜圈
+  - "Context": If the communal table at the office is always filled with doughnuts and bagels,
+  - "Context_translation": 如果办公室的公共桌子上总是堆满了甜甜圈和贝，
+
+Environment is the invisible hand that shapes human behavior. Despite our unique personalities, certain behaviors tend to arise again and again under certain environmental conditions. In church, people tend to talk in whispers. On a dark street, people act wary and guarded. In this way, the most common form of change is not internal, but external: we are changed by the world around us. Every habit is context dependent.
+
+In 1936, psychologist Kurt Lewin wrote a simple equation that makes a powerful statement: Behavior is a function of the Person in their Environment, or B = f (P,E).
+
+It didn’t take long for Lewin’s Equation to be tested in business. In 1952, the economist Hawkins Stern described a phenomenon he called Suggestion Impulse Buying, which “is triggered when a shopper sees a product for the first time and visualizes a need for it.” In other words, customers will occasionally buy products not because they want them but because of how they are presented to them.
+
+For example, items at eye level tend to be purchased more than those down near the floor. For this reason, you’ll find expensive brand names featured in easy-to-reach locations on store shelves because they drive the most profit, while cheaper alternatives are tucked away in harder-to-reach spots. The same goes for end caps, which are the units at the end of aisles. End caps are moneymaking machines for retailers because they are obvious locations that encounter a lot of foot traffic. For example, 45 percent of Coca-Cola sales come specifically from end-of-the-aisle racks.
+
+The more obviously available a product or service is, the more likely you are to try it. People drink Bud Light because it is in every bar and visit Starbucks because it is on every corner. We like to think that we are in control. If we choose water over soda, we assume it is because we wanted to do so. The truth, however, is that many of the actions we take each day are shaped not by purposeful drive and choice but by the most obvious option.
+
+Every living being has its own methods for sensing and understanding the world. Eagles have remarkable long-distance vision. Snakes can smell by “tasting the air” with their highly sensitive tongues. Sharks can detect small amounts of electricity and vibrations in the water caused by nearby fish. Even bacteria have chemoreceptors—tiny sensory cells that allow them to detect toxic chemicals in their environment.
+
+In humans, perception is directed by the sensory nervous system. We perceive the world through sight, sound, smell, touch, and taste. But we also have other ways of sensing stimuli. Some are conscious, but many are nonconscious. For instance, you can “notice” when the temperature drops before a storm, or when the pain in your gut rises during a stomachache, or when you fall off balance while walking on rocky ground. Receptors in your body pick up on a wide range of internal stimuli, such as the amount of salt in your blood or the need to drink when thirsty.
+
+The most powerful of all human sensory abilities, however, is vision. The human body has about eleven million sensory receptors. Approximately ten million of those are dedicated to sight. Some experts estimate that half of the brain’s resources are used on vision. Given that we are more dependent on vision than on any other sense, it should come as no surprise that visual cues are the greatest catalyst of our behavior. For this reason, a small change in what you see can lead to a big shift in what you do. As a result, you can imagine how important it is to live and work in environments that are filled with productive cues and devoid of unproductive ones.
+
+Thankfully, there is good news in this respect. You don’t have to be the victim of your environment. You can also be the architect of it.
+
+
