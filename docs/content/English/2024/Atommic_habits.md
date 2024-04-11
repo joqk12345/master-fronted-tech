@@ -2548,7 +2548,33 @@ browsing / ˈbraʊzɪŋ / n.  浏览 v.  浏览；吃草（browse 的 ing 形式
 
 The power of context also reveals an important strategy: habits can be easier to change in a new environment. It helps to escape the subtle triggers and cues that nudge you toward your current habits. Go to a new place—a different coffee shop, a bench in the park, a corner of your room you seldom use—and create a new routine there.
 
+- "Word": Reveals
+  - "Lemma": Reveal
+  - "Pronunciation": /rɪˈviːlz/
+  - "POS": Verb
+  - "Definition": Make (previously unknown or secret information) known to others.
+  - "Translation": 揭示
+  - "Context": The power of context also reveals an important strategy.
+  - "Context_translation": 环境的力量也揭示了一个重要策略。
+- "Word": Nudge
+  - "Lemma": Nudge
+  - "Pronunciation": /nʌdʒ/
+  - "POS": Verb
+  - "Definition": Prod (someone) gently with one's elbow in order to attract attention. In the context provided, it metaphorically means to encourage or urge (someone) to do something.
+  - "Translation": （轻轻地）推动，促使
+  - "Context": It helps to escape the subtle triggers and cues that nudge you toward your current habits.
+  - "Context_translation": 它有助于逃避那些微妙的触发器和线索，这些线索会悄悄地推动你继续你现在的习惯。
+
 It is easier to associate a new habit with a new context than to build a new habit in the face of competing cues. It can be difficult to go to bed early if you watch television in your bedroom each night. It can be hard to study in the living room without getting distracted if that’s where you always play video games. But when you step outside your normal environment, you leave your behavioral biases behind. You aren’t battling old environmental cues, which allows new habits to form without interruption.
+
+- "Word": Competing
+  - "Lemma": Compete
+  - "Pronunciation": /kəmˈpiːtɪŋ/
+  - "POS": Verb
+  - "Definition": Strive to gain or win something by defeating or establishing superiority over others. In the context provided, it metaphorically means conflicting or contradictory.
+  - "Translation": 竞争的，冲突的
+  - "Context": It is easier to associate a new habit with a new context than to build a new habit in the face of competing cues.
+  - "Context_translation": 与在冲突的线索面前建立新习惯相比，将新习惯与新环境关联起来更容易。
 
 Want to think more creatively? Move to a bigger room, a rooftop patio, or a building with expansive architecture. Take a break from the space where you do your daily work, which is also linked to your current thought patterns.
 
@@ -2558,12 +2584,36 @@ When you can’t manage to get to an entirely new environment, redefine or rearr
 
 When I started my career as an entrepreneur, I would often work from my couch or at the kitchen table. In the evenings, I found it very difficult to stop working. There was no clear division between the end of work time and the beginning of personal time. Was the kitchen table my office or the space where I ate meals? Was the couch where I relaxed or where I sent emails? Everything happened in the same place.
 
+- "Word": Entrepreneur
+  - "Lemma": Entrepreneur
+  - "Pronunciation": /ˌɒn.trə.prəˈnɜːr/
+  - "POS": Noun
+  - "Definition": A person who organizes and operates a business or businesses, taking on greater than normal financial risks in order to do so.
+  - "Translation": 企业家
+  - "Context": When I started my career as an entrepreneur,
+  - "Context_translation": 当我开始我的企业家职业生涯时，
+
 A few years later, I could finally afford to move to a home with a separate room for my office. Suddenly, work was something that happened “in here” and personal life was something that happened “out there.” It was easier for me to turn off the professional side of my brain when there was a clear dividing line between work life and home life. Each room had one primary use. The kitchen was for cooking. The office was for working.
 
 Whenever possible, avoid mixing the context of one habit with another. When you start mixing contexts, you’ll start mixing habits—and the easier ones will usually win out. This is one reason why the versatility of modern technology is both a strength and a weakness. You can use your phone for all sorts of tasks, which makes it a powerful device. But when you can use your phone to do nearly anything, it becomes hard to associate it with one task. You want to be productive, but you’re also conditioned to browse social media, check email, and play video games whenever you open your phone. It’s a mishmash of cues.
 
 You may be thinking, “You don’t understand. I live in New York City. My apartment is the size of a smartphone. I need each room to play multiple roles.” Fair enough. If your space is limited, divide your room into activity zones: a chair for reading, a desk for writing, a table for eating. You can do the same with your digital spaces. I know a writer who uses his computer only for writing, his tablet only for reading, and his phone only for social media and texting. Every habit should have a home.
 
+- "Word": Apartment
+  - "Lemma": Apartment
+  - "Pronunciation": /əˈpɑːrtmənt/
+  - "POS": Noun
+  - "Definition": A suite of rooms forming one residence, typically in a building containing a number of these.
+  - "Translation": 公寓
+  - "Context": My apartment is the size of a smartphone.
+  - "Context_translation": 我的公寓就像一部智能手机那么大。
+
 If you can manage to stick with this strategy, each context will become associated with a particular habit and mode of thought. Habits thrive under predictable circumstances like these. Focus comes automatically when you are sitting at your work desk. Relaxation is easier when you are in a space designed for that purpose. Sleep comes quickly when it is the only thing that happens in your bedroom. If you want behaviors that are stable and predictable, you need an environment that is stable and predictable.
 
-A stable environment where everything has a place and a purpose is an environment where habits can easily form.
+### summary
+- A stable environment where everything has a place and a purpose is an environment where habits can easily form.
+- Small changes in context can lead to large changes in behavior over time.
+- Every habit is initiated by a cue. We are more likely to notice cues that stand out.
+- Make the cues of good habits obvious in your environment.
+- Gradually, your habits become associated not with a single trigger but with the entire context surrounding the behavior. The context becomes the cue.
+- It is easier to build new habits in a new environment because you are not fighting against old cues.
