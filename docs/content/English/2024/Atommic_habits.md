@@ -2308,20 +2308,166 @@ People often choose products not because of what they are, but because of where 
 
 Environment is the invisible hand that shapes human behavior. Despite our unique personalities, certain behaviors tend to arise again and again under certain environmental conditions. In church, people tend to talk in whispers. On a dark street, people act wary and guarded. In this way, the most common form of change is not internal, but external: we are changed by the world around us. Every habit is context dependent.
 
+- "Word": Church
+  - "Lemma": Church
+  - "Pronunciation": /tʃɜːrtʃ/
+  - "POS": Noun
+  - "Definition": A building used for public Christian worship.
+  - "Translation": 教堂
+  - "Context": In church, people tend to talk in whispers.
+  - "Context_translation": 在教堂里，人们倾向于小声交谈。
+- "Word": Wary
+  - "Lemma": Wary
+  - "Pronunciation": /ˈwɛəri/
+  - "POS": Adjective
+  - "Definition": Feeling or showing caution about possible dangers or problems.
+  - "Translation": 谨慎的、小心翼翼的
+  - "Context": On a dark street, people act wary and guarded.
+  - "Context_translation": 在一条黑暗的街道上，人们表现得谨慎而警惕。
+- "Word": Context
+  - "Lemma": Context
+  - "Pronunciation": /ˈkɒntɛkst/
+  - "POS": Noun
+  - "Definition": The circumstances or setting in which something occurs; the background or environment that influences an event, idea, or situation.
+  - "Translation": 上下文、背景
+  - "Context": Every habit is context dependent.
+  - "Context_translation": 每个习惯都依赖于上下文。
+
 In 1936, psychologist Kurt Lewin wrote a simple equation that makes a powerful statement: Behavior is a function of the Person in their Environment, or B = f (P,E).
 
 It didn’t take long for Lewin’s Equation to be tested in business. In 1952, the economist Hawkins Stern described a phenomenon he called Suggestion Impulse Buying, which “is triggered when a shopper sees a product for the first time and visualizes a need for it.” In other words, customers will occasionally buy products not because they want them but because of how they are presented to them.
 
+- "Phrase": Take long
+  - "Lemma": Take long
+  - "Pronunciation": /teɪk lɒŋ/
+  - "POS": Verb Phrase
+  - "Definition": To require a lot of time.
+  - "Translation": 花费很长时间
+  - "Context": It didn’t take long for Lewin’s Equation to be tested in business.
+  - "Context_translation": 莱温的方程式在商业领域的测试并没有花费很长时间。
+- "Word": Impulse
+  - "Lemma": Impulse
+  - "Pronunciation": /ˈɪmpʌls/
+  - "POS": Noun
+  - "Definition": A sudden strong and unreflective urge or desire to act.
+  - "Translation": 冲动
+  - "Context": The economist Hawkins Stern described a phenomenon he called Suggestion Impulse Buying.
+  - "Context_translation": 经济学家霍金斯·斯特恩描述了一个他称之为“建议冲动购买”的现象。
+
 For example, items at eye level tend to be purchased more than those down near the floor. For this reason, you’ll find expensive brand names featured in easy-to-reach locations on store shelves because they drive the most profit, while cheaper alternatives are tucked away in harder-to-reach spots. The same goes for end caps, which are the units at the end of aisles. End caps are moneymaking machines for retailers because they are obvious locations that encounter a lot of foot traffic. For example, 45 percent of Coca-Cola sales come specifically from end-of-the-aisle racks.
+
+- "Word": Shelves
+  - "Lemma": Shelf
+  - "Pronunciation": /ʃɛlvz/
+  - "POS": Noun
+  - "Definition": Flat surfaces in a store, cupboard, etc., on which items are displayed or stored.
+  - "Translation": 货架
+  - "Context": You’ll find expensive brand names featured in easy-to-reach locations on store shelves because they drive the most profit.
+  - "Context_translation": 你会发现商店货架上容易够到的地方陈列着昂贵的品牌名称，因为它们能带来最多的利润。
+- "Phrase": Tucked away
+  - "Pronunciation": /tʌkt əˈweɪ/
+  - "Definition": To put something in a safe or hidden place.
+  - "Translation": 藏起来，隐藏
+  - "Context": While cheaper alternatives are tucked away in harder-to-reach spots.
+  - "Context_translation": 而较便宜的替代品则被藏在较难够到的地方。
+- "Phrase": End caps
+  - "Pronunciation": /ɛnd kæps/
+  - "Definition": The display at the end of a store aisle, often used for promotional or featured items.
+  - "Translation": 货架端帽，货架尾部展示区
+  - "Context": The same goes for end caps.
+  - "Context_translation": 对货架尾部展示区也是如此。
+- "Phrase": End of aisles
+  - "Pronunciation": /ɛnd əv ˈaɪlz/
+  - "Definition": The terminal points of the aisles in a store, often used for displaying products to attract customers.
+  - "Translation": 走道尽头
+  - "Context": The units at the end of aisles.
+  - "Context_translation": 走道尽头的陈列单元。
 
 The more obviously available a product or service is, the more likely you are to try it. People drink Bud Light because it is in every bar and visit Starbucks because it is on every corner. We like to think that we are in control. If we choose water over soda, we assume it is because we wanted to do so. The truth, however, is that many of the actions we take each day are shaped not by purposeful drive and choice but by the most obvious option.
 
+- "Word": Bud
+  - "Lemma": Bud
+  - "Pronunciation": /bʌd/
+  - "POS": Noun
+  - "Definition": In this context, "Bud" is short for Budweiser, which is a brand of American beer.
+  - "Translation": 百威
+  - "Context": People drink Bud Light because it is in every bar.
+  - "Context_translation": 人们喝百威啤酒，因为它在每个酒吧都有。
+- "Word": Soda
+  - "Lemma": Soda
+  - "Pronunciation": /ˈsoʊdə/
+  - "POS": Noun
+  - "Definition": A carbonated soft drink.
+  - "Translation": 苏打水，汽水
+  - "Context": If we choose water over soda, we assume it is because we wanted to do so.
+  - "Context_translation": 如果我们选择水而不是汽水，我们认为这是因为我们想这么做。
+- "Word": Purposeful
+  - "Lemma": Purposeful
+  - "Pronunciation": /ˈpɜːrpəsfəl/
+  - "POS": Adjective
+  - "Definition": Having or showing determination or resolve; having a useful purpose.
+  - "Translation": 有目的的，故意的
+  - "Context": The truth, however, is that many of the actions we take each day are shaped not by purposeful drive and choice but by the most obvious option.
+  - "Context_translation": 然而，事实是我们每天采取的许多行动并非出于有意识的驱动和选择，而是受到最明显选项的影响。
+
 Every living being has its own methods for sensing and understanding the world. Eagles have remarkable long-distance vision. Snakes can smell by “tasting the air” with their highly sensitive tongues. Sharks can detect small amounts of electricity and vibrations in the water caused by nearby fish. Even bacteria have chemoreceptors—tiny sensory cells that allow them to detect toxic chemicals in their environment.
+
+- "Word": Eagles
+  - "Lemma": Eagle
+  - "Pronunciation": /ˈiːɡəl/
+  - "POS": Noun
+  - "Definition": A large bird of prey with a massive hooked bill and long broad wings, known for its keen sight and powerful soaring flight.
+  - "Translation": 鹰
+  - "Context": Eagles have remarkable long-distance vision.
+  - "Context_translation": 鹰有着卓越的远视能力。
+- "Word": Bacteria
+  - "Lemma": Bacterium
+  - "Pronunciation": /bækˈtɪəriə/
+  - "POS": Noun
+  - "Definition": Microscopic single-celled organisms that have the capability to thrive in diverse environments, some of which can cause disease.
+  - "Translation": 细菌
+  - "Context": Even bacteria have chemoreceptors—tiny sensory cells that allow them to detect toxic chemicals in their environment.
+  - "Context_translation": 即使是细菌也有化学感受器——这种微小的感觉细胞能让它们检测到环境中的有毒化学物质。
 
 In humans, perception is directed by the sensory nervous system. We perceive the world through sight, sound, smell, touch, and taste. But we also have other ways of sensing stimuli. Some are conscious, but many are nonconscious. For instance, you can “notice” when the temperature drops before a storm, or when the pain in your gut rises during a stomachache, or when you fall off balance while walking on rocky ground. Receptors in your body pick up on a wide range of internal stimuli, such as the amount of salt in your blood or the need to drink when thirsty.
 
+- "Word": Stimuli
+  - "Lemma": Stimulus
+  - "Pronunciation": /ˈstɪmjʊlaɪ/
+  - "POS": Noun
+  - "Definition": Things that rouse activity or energy in someone or something; a spur or incentive.
+  - "Translation": 刺激物
+  - "Context": But we also have other ways of sensing stimuli.
+  - "Context_translation": 但我们也有其他方式感知刺激物。
+- "Word": Gut
+  - "Lemma": Gut
+  - "Pronunciation": /ɡʌt/
+  - "POS": Noun
+  - "Definition": The stomach or belly.
+  - "Translation": 肚子
+  - "Context": When the pain in your gut rises during a stomachache.
+  - "Context_translation": 当你肚子痛时，疼痛感会增强。
+
+
 The most powerful of all human sensory abilities, however, is vision. The human body has about eleven million sensory receptors. Approximately ten million of those are dedicated to sight. Some experts estimate that half of the brain’s resources are used on vision. Given that we are more dependent on vision than on any other sense, it should come as no surprise that visual cues are the greatest catalyst of our behavior. For this reason, a small change in what you see can lead to a big shift in what you do. As a result, you can imagine how important it is to live and work in environments that are filled with productive cues and devoid of unproductive ones.
 
+- "Word": Devoid
+  - "Lemma": Devoid
+  - "Pronunciation": /dɪˈvɔɪd/
+  - "POS": Adjective
+  - "Definition": Completely lacking or free from.
+  - "Translation": 缺乏的，没有的
+  - "Context": Filled with productive cues and devoid of unproductive ones.
+  - "Context_translation": 充满了有益的线索，而没有无益的线索。
+
 Thankfully, there is good news in this respect. You don’t have to be the victim of your environment. You can also be the architect of it.
+- "Word": Victim
+  - "Lemma": Victim
+  - "Pronunciation": /ˈvɪktɪm/
+  - "POS": Noun
+  - "Definition": A person harmed, injured, or killed as a result of a crime, accident, or other event or action.
+  - "Translation": 受害者
+  - "Context": You don’t have to be the victim of your environment.
+  - "Context_translation": 你不必成为你环境的受害者。
 
 
