@@ -2837,3 +2837,185 @@ People with high self-control tend to spend less time in tempting situations. It
 One of the most practical ways to eliminate a bad habit is to reduce exposure to the cue that causes it.
 Self-control is a short-term strategy, not a long-term one.
 temptation / tempˈteɪʃ(ə)n / n.  引诱，诱惑；诱惑人的东西；
+
+
+## chapter 08 How to Make a Habit Irresistible.
+
+How to Make a Habit Irresistible.
+
+IN THE 1940S, a Dutch scientist named Niko Tinbergen performed a series of experiments that transformed our understanding of what motivates us. Tinbergen—who eventually won a Nobel Prize for his work—was investigating herring gulls, the gray and white birds often seen flying along the seashores of North America.
+
+- "Word": Transformed
+  - "Lemma": Transform
+  - "Pronunciation": /trænsˈfɔːrmd/
+  - "POS": Verb
+  - "Definition": Make a thorough or dramatic change in the form, appearance, or character of.
+  - "Translation": 改变，转变
+  - "Context": IN THE 1940S, a Dutch scientist named Niko Tinbergen performed a series of experiments that transformed our understanding of what motivates us.
+  - "Context_translation": 在20世纪40年代，一位名叫尼科·廷贝根的荷兰科学家进行了一系列实验，这些实验改变了我们对于是什么激励了我们的理解。
+- "Word": Investigating
+  - "Lemma": Investigate
+  - "Pronunciation": /ɪnˈvɛstɪˌɡeɪtɪŋ/
+  - "POS": Verb
+  - "Definition": Carry out a systematic or formal inquiry to discover and examine the facts of (an incident, allegation, etc.) so as to establish the truth.
+  - "Translation": 调查
+  - "Context": Tinbergen—who eventually won a Nobel Prize for his work—was investigating herring gulls, the gray and white birds often seen flying along the seashores of North America.
+  - "Context_translation": 廷贝根——最终因其工作赢得了诺贝尔奖——正在调查鲱鸥，这种灰白色的鸟儿常常被看到在北美的海岸线上飞翔。
+
+Adult herring gulls have a small red dot on their beak, and Tinbergen noticed that newly hatched chicks would peck this spot whenever they wanted food. To begin one experiment, he created a collection of fake cardboard beaks, just a head without a body. When the parents had flown away, he went over to the nest and offered these dummy beaks to the chicks. The beaks were obvious fakes, and he assumed the baby birds would reject them altogether.
+
+- "Word": Beak
+  - "Lemma": Beak
+  - "Pronunciation": /biːk/
+  - "POS": Noun
+  - "Definition": The hard, pointed mouthpart of birds.
+  - "Translation": 鸟嘴
+  - "Context": Adult herring gulls have a small red dot on their beak.
+  - "Context_translation": 成年鲱鸥的鸟嘴上有一个小红点。
+- "Word": Hatched
+  - "Lemma": Hatch
+  - "Pronunciation": /hætʃ/
+  - "POS": Verb
+  - "Definition": (of a bird) emerge from its egg.
+  - "Translation": 孵化
+  - "Context": Tinbergen noticed that newly hatched chicks would peck this spot whenever they wanted food.
+  - "Context_translation": 廷贝根注意到，新孵化的小鸟每当想吃东西时就会啄这个点。
+- "Word": Assumed
+  - "Lemma": Assume
+  - "Pronunciation": /əˈsuːm/
+  - "POS": Verb
+  - "Definition": Suppose to be the case, without proof.
+  - "Translation": 假设，认为
+  - "Context": The beaks were obvious fakes, and he assumed the baby birds would reject them altogether.
+  - "Context_translation": 这些鸟嘴明显是假的，他认为小鸟会完全拒绝它们。
+
+However, when the tiny gulls saw the red spot on the cardboard beak, they pecked away just as if it were attached to their own mother. They had a clear preference for those red spots—as if they had been genetically programmed at birth. Soon Tinbergen discovered that the bigger the red spot, the faster the chicks pecked. Eventually, he created a beak with three large red dots on it. When he placed it over the nest, the baby birds went crazy with delight. They pecked at the little red patches as if it was the greatest beak they had ever seen.
+
+- "Word": Gulls
+  - "Lemma": Gull
+  - "Pronunciation": /ɡʌlz/
+  - "POS": Noun
+  - "Definition": A long-winged, web-footed seabird with a raucous call, typically having white plumage with a grey or black mantle.
+  - "Translation": 海鸥
+  - "Context": However, when the tiny gulls saw the red spot on the cardboard beak,
+  - "Context_translation": 然而，当小海鸥看到纸板鸟嘴上的红点时，
+- "Word": Pecked away
+  - "Lemma": Peck away
+  - "Pronunciation": /pɛk əˈweɪ/
+  - "POS": Phrase
+  - "Definition": To strike or bite at repeatedly.
+  - "Translation": 反复啄食
+  - "Context": They pecked away just as if it were attached to their own mother.
+  - "Context_translation": 它们反复啄食，就好像那是它们自己母亲身上的一部分。
+- "Word": Genetically
+  - "Lemma": Genetic
+  - "Pronunciation": /dʒəˈnetɪkli/
+  - "POS": Adverb
+  - "Definition": In a way that relates to genes or genetics.
+  - "Translation": 基因地、遗传地
+  - "Context": As if they had been genetically programmed at birth.
+  - "Context_translation": 就好像它们出生时就被基因编程了一样。
+- "Word": Delight
+  - "Lemma": Delight
+  - "Pronunciation": /dɪˈlaɪt/
+  - "POS": Noun
+  - "Definition": Great pleasure.
+  - "Translation": 高兴，喜悦
+  - "Context": The baby birds went crazy with delight.
+  - "Context_translation": 小鸟们欣喜若狂。
+
+Tinbergen and his colleagues discovered similar behavior in other animals. For example, the greylag goose is a ground-nesting bird. Occasionally, as the mother moves around on the nest, one of the eggs will roll out and settle on the grass nearby. Whenever this happens, the goose will waddle over to the egg and use its beak and neck to pull it back into the nest.
+
+- "Word": Greylag goose
+  - "Lemma": Greylag goose
+  - "Pronunciation": /ˈɡreɪlæɡ ɡuːs/
+  - "POS": Noun
+  - "Definition": A large goose with a grey body and slightly paler head and neck.
+  - "Translation": 灰雁
+  - "Context": The greylag goose is a ground-nesting bird.
+  - "Context_translation": 灰雁是一种地面筑巢的鸟。
+- "Word": Moves around
+  - "Lemma": Move around
+  - "Pronunciation": /muːvz əˈraʊnd/
+  - "POS": Phrase
+  - "Definition": To change position or place; to relocate.
+  - "Translation": 四处移动
+  - "Context": Occasionally, as the mother moves around on the nest, one of the eggs will roll out and settle on the grass nearby.
+  - "Context_translation": 偶尔，当母鸟在巢里四处移动时，会有一个蛋滚出来，落在附近的草地上。
+- "Word": Waddle over
+  - "Lemma": Waddle over
+  - "Pronunciation": /ˈwɒd.əl ˌoʊ.vər/
+  - "POS": Phrase
+  - "Definition": Walk with short steps and a swaying motion towards something, typically said of ducks or geese.
+  - "Translation": 摇摇摆摆地走过去
+  - "Context": Whenever this happens, the goose will waddle over to the egg and use its beak and neck to pull it back into the nest.
+  - "Context_translation": 每当这种情况发生时，鹅就会摇摇摆摆地走到蛋边，用它的嘴和脖子把它拉回巢中。
+
+Tinbergen discovered that the goose will pull any nearby round object, such as a billiard ball or a lightbulb, back into the nest. The bigger the object, the greater their response. One goose even made a tremendous effort to roll a volleyball back and sit on top. Like the baby gulls automatically pecking at red dots, the greylag goose was following an instinctive rule: When I see a round object nearby, I must roll it back into the nest. The bigger the round object, the harder I should try to get it.
+
+- "Word": Billiard ball
+  - "Lemma": Billiard ball
+  - "Pronunciation": /ˈbɪljərd bɔːl/
+  - "POS": Noun
+  - "Definition": A small, hard ball used in billiards, usually made of plastic, ivory, or wood.
+  - "Translation": 台球
+  - "Context": Tinbergen discovered that the goose will pull any nearby round object, such as a billiard ball or a lightbulb, back into the nest.
+  - "Context_translation": 丁伯根发现，鹅会把任何附近的圆形物体，比如台球或灯泡，拉回巢中。
+
+It’s like the brain of each animal is preloaded with certain rules for behavior, and when it comes across an exaggerated version of that rule, it lights up like a Christmas tree. Scientists refer to these exaggerated cues as supernormal stimuli. A supernormal stimulus is a heightened version of reality—like a beak with three red dots or an egg the size of a volleyball—and it elicits a stronger response than usual.
+
+- "Word": Exaggerated version
+  - "Lemma": Exaggerate
+  - "Pronunciation": /ɪɡˈzædʒ.ə.reɪ.tɪd ˈvɜː.ʃən/
+  - "POS": Phrase
+  - "Definition": A representation of something in an excessive or overstated manner.
+  - "Translation": 夸大的版本
+  - "Context": It’s like the brain of each animal is preloaded with certain rules for behavior, and when it comes across an exaggerated version of that rule, it lights up like a Christmas tree.
+  - "Context_translation": 这就像是每个动物的大脑中都预装了某些行为规则，当它遇到这些规则的夸大版本时，就会像圣诞树一样亮起来。
+- "Word": Elicits
+  - "Lemma": Elicit
+  - "Pronunciation": /iˈlɪsɪt/
+  - "POS": Verb
+  - "Definition": To draw out or bring forth (a response, answer, or fact) from someone in reaction to one's own actions or questions.
+  - "Translation": 引出，诱发
+  - "Context": Three red dots or an egg the size of a volleyball—and it elicits a stronger response than usual.
+  - "Context_translation": 三个红点或一个排球大小的蛋——它会引发比平常更强烈的反应。
+
+Humans are also prone to fall for exaggerated versions of reality. Junk food, for example, drives our reward systems into a frenzy. After spending hundreds of thousands of years hunting and foraging for food in the wild, the human brain has evolved to place a high value on salt, sugar, and fat. Such foods are often calorie-dense and they were quite rare when our ancient ancestors were roaming the savannah. When you don’t know where your next meal is coming from, eating as much as possible is an excellent strategy for survival.
+
+- "Word": Prone to
+  - "Lemma": Prone
+  - "Pronunciation": /proʊn tuː/
+  - "POS": Phrase
+  - "Definition": Likely or liable to suffer from, do, or experience something, typically something regrettable or unwelcome.
+  - "Translation": 易于，倾向于
+  - "Context": Humans are also prone to fall for exaggerated versions of reality.
+  - "Context_translation": 人类也容易被现实的夸大版本所迷惑。
+- "Word": Frenzy
+  - "Lemma": Frenzy
+  - "Pronunciation": /ˈfrenzi/
+  - "POS": Noun
+  - "Definition": A state or period of uncontrolled excitement or wild behavior.
+  - "Translation": 狂热，疯狂
+  - "Context": Junk food, for example, drives our reward systems into a frenzy.
+  - "Context_translation": 例如，垃圾食品会使我们的奖励系统陷入疯狂。
+
+Today, however, we live in a calorie-rich environment. Food is abundant, but your brain continues to crave it like it is scarce. Placing a high value on salt, sugar, and fat is no longer advantageous to our health, but the craving persists because the brain’s reward centers have not changed for approximately fifty thousand years. The modern food industry relies on stretching our Paleolithic instincts beyond their evolutionary purpose.
+
+A primary goal of food science is to create products that are more attractive to consumers. Nearly every food in a bag, box, or jar has been enhanced in some way, if only with additional flavoring. Companies spend millions of dollars to discover the most satisfying level of crunch in a potato chip or the perfect amount of fizz in a soda. Entire departments are dedicated to optimizing how a product feels in your mouth—a quality known as orosensation. French fries, for example, are a potent combination—golden brown and crunchy on the outside, light and smooth on the inside.
+
+Other processed foods enhance dynamic contrast, which refers to items with a combination of sensations, like crunchy and creamy. Imagine the gooeyness of melted cheese on top of a crispy pizza crust, or the crunch of an Oreo cookie combined with its smooth center. With natural, unprocessed foods, you tend to experience the same sensations over and over—how’s that seventeenth bite of kale taste? After a few minutes, your brain loses interest and you begin to feel full. But foods that are high in dynamic contrast keep the experience novel and interesting, encouraging you to eat more.
+
+Ultimately, such strategies enable food scientists to find the “bliss point” for each product—the precise combination of salt, sugar, and fat that excites your brain and keeps you coming back for more. The result, of course, is that you overeat because hyperpalatable foods are more attractive to the human brain. As Stephan Guyenet, a neuroscientist who specializes in eating behavior and obesity, says, “We’ve gotten too good at pushing our own buttons.”
+
+The modern food industry, and the overeating habits it has spawned, is just one example of the 2nd Law of Behavior Change: Make it attractive. The more attractive an opportunity is, the more likely it is to become habit-forming.
+
+Look around. Society is filled with highly engineered versions of reality that are more attractive than the world our ancestors evolved in. Stores feature mannequins with exaggerated hips and breasts to sell clothes. Social media delivers more “likes” and praise in a few minutes than we could ever get in the office or at home. Online porn splices together stimulating scenes at a rate that would be impossible to replicate in real life. Advertisements are created with a combination of ideal lighting, professional makeup, and Photoshopped edits—even the model doesn’t look like the person in the final image. These are the supernormal stimuli of our modern world. They exaggerate features that are naturally attractive to us, and our instincts go wild as a result, driving us into excessive shopping habits, social media habits, porn habits, eating habits, and many others.
+
+If history serves as a guide, the opportunities of the future will be more attractive than those of today. The trend is for rewards to become more concentrated and stimuli to become more enticing. Junk food is a more concentrated form of calories than natural foods. Hard liquor is a more concentrated form of alcohol than beer. Video games are a more concentrated form of play than board games. Compared to nature, these pleasure-packed experiences are hard to resist. We have the brains of our ancestors but temptations they never had to face.
+
+If you want to increase the odds that a behavior will occur, then you need to make it attractive. Throughout our discussion of the 2nd Law, our goal is to learn how to make our habits irresistible. While it is not possible to transform every habit into a supernormal stimulus, we can make any habit more enticing. To do this, we must start by understanding what a craving is and how it works.
+
+We begin by examining a biological signature that all habits share—the dopamine spike.
+
+
