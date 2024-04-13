@@ -2470,7 +2470,7 @@ Thankfully, there is good news in this respect. You don’t have to be the victi
   - "Context": You don’t have to be the victim of your environment.
   - "Context_translation": 你不必成为你环境的受害者。
 
-## HOW TO DESIGN YOUR ENVIRONMENT FOR SUCCESS
+### HOW TO DESIGN YOUR ENVIRONMENT FOR SUCCESS
 
 During the energy crisis and oil embargo of the 1970s, Dutch researchers began to pay close attention to the country’s energy usage. In one suburb near Amsterdam, they found that some homeowners used 30 percent less energy than their neighbors—despite the homes being of similar size and getting electricity for the same price.
 
@@ -2526,7 +2526,7 @@ engage with 与……接触，与……交往：与某人或某事物建立联�
 exposure / ɪkˈspoʊʒər / n.  暴露，接触；曝光，揭发；报道，宣传；单张胶片；曝光时间，
 
 
-## THE CONTEXT IS THE CUE
+### THE CONTEXT IS THE CUE
 
 The cues that trigger a habit can start out very specific, but over time your habits become associated not with a single trigger but with the entire context surrounding the behavior.
 
@@ -2617,3 +2617,223 @@ If you can manage to stick with this strategy, each context will become associat
 - Make the cues of good habits obvious in your environment.
 - Gradually, your habits become associated not with a single trigger but with the entire context surrounding the behavior. The context becomes the cue.
 - It is easier to build new habits in a new environment because you are not fighting against old cues.
+
+## chapter 7 The Secret to Self-Control
+
+IN 1971, as the Vietnam War was heading into its sixteenth year, congressmen Robert Steele from Connecticut and Morgan Murphy from Illinois made a discovery that stunned the American public. While visiting the troops, they had learned that over 15 percent of U.S. soldiers stationed there were heroin addicts. Follow-up research revealed that 35 percent of service members in Vietnam had tried heroin and as many as 20 percent were addicted—the problem was even worse than they had initially thought.
+
+Vietnam War: 越战
+stunned / stʌnd / v.  使震惊，使惊讶；使昏迷，（尤指）打昏；给（某人）以深刻印象，使深深感动（stun 的过去式和过去分词）
+troops / truːps / n.  [军]部队；[军]军队（troop 的复数形式）
+heroin addicts 海洛因依赖者
+addicted / əˈdɪktɪd / adj.  （吸毒）成瘾的，上瘾的；入迷的，着迷的
+
+The discovery led to a flurry of activity in Washington, including the creation of the Special Action Office of Drug Abuse Prevention under President Nixon to promote prevention and rehabilitation and to track addicted service members when they returned home.
+
+flurry / ˈflɜːri / n.  慌张；疾风；飓风；骚动；一阵忙乱（或激动、兴奋等）；
+Nixon / ˈnɪksən / n.  尼克松（美国第37任总统）
+
+Lee Robins was one of the researchers in charge. In a finding that completely upended the accepted beliefs about addiction, Robins found that when soldiers who had been heroin users returned home, only 5 percent of them became re-addicted within a year, and just 12 percent relapsed within three years. In other words, approximately nine out of ten soldiers who used heroin in Vietnam eliminated their addiction nearly overnight.
+
+upended / ʌpˈendɪd / v.  翻倒，（使）倒立；倒栽葱（upend 的过去式及过去分词）
+relapsed / ˈriːlæpst; rɪˈlæpst / 故态复萌
+eliminated / ɪˈlɪmɪneɪtɪd; ɪˈlɪməˌneɪtɪd / v.  被淘汰；消除；排除（eliminate 的过去分词）
+- "Word": Relapsed
+  - "Lemma": Relapse
+  - "Pronunciation": /rɪˈlæps/
+  - "POS": Verb
+  - "Definition": (of someone suffering from a disease) suffer deterioration after a period of improvement.
+  - "Translation": 复发
+  - "Context": Robins found that when soldiers who had been heroin users returned home, only 5 percent of them became re-addicted within a year, and just 12 percent relapsed within three years.
+  - "Context_translation": 罗宾斯发现，曾经是海洛因使用者的士兵回到家后，只有5%的人在一年内再次上瘾，只有12%的人在三年内复发。
+- "Word": Eliminated
+  - "Lemma": Eliminate
+  - "Pronunciation": /ɪˈlɪmɪˌneɪt/
+  - "POS": Verb
+  - "Definition": Completely remove or get rid of (something).
+  - "Translation": 消除
+  - "Context": In other words, approximately nine out of ten soldiers who used heroin in Vietnam eliminated their addiction nearly overnight.
+  - "Context_translation": 换句话说，大约有九成在越南使用海洛因的士兵几乎在一夜之间消除了他们的瘾。
+
+This finding contradicted the prevailing view at the time, which considered heroin addiction to be a permanent and irreversible condition. Instead, Robins revealed that addictions could spontaneously dissolve if there was a radical change in the environment. In Vietnam, soldiers spent all day surrounded by cues triggering heroin use: it was easy to access, they were engulfed by the constant stress of war, they built friendships with fellow soldiers who were also heroin users, and they were thousands of miles from home. Once a soldier returned to the United States, though, he found himself in an environment devoid of those triggers. When the context changed, so did the habit.
+spontaneously / spɑːnˈteɪniəsli / adv.  自发地，不由自主地；自然地
+dissolve / dɪˈzɑːlv / v.  解散，解除；消失；（以化学手段）除去，分散；（使）溶解
+engulfed 1. 吞没，淹没：指涌入、覆盖或包围某物，使其消失或被毁。
+devoid / dɪˈvɔɪd / adj.  缺乏，完全没有
+- "Word": Contradicted
+  - "Lemma": Contradict
+  - "Pronunciation": /ˌkɒntrəˈdɪkt/
+  - "POS": Verb
+  - "Definition": Deny the truth of (a statement) by asserting the opposite.
+  - "Translation": 反驳，与...矛盾
+  - "Context": This finding contradicted the prevailing view at the time.
+  - "Context_translation": 这个发现与当时的主流观点相矛盾。
+- "Word": Prevailing
+  - "Lemma": Prevail
+  - "Pronunciation": /prɪˈveɪlɪŋ/
+  - "POS": Adjective
+  - "Definition": Existing at a particular time; current.
+  - "Translation": 盛行的，普遍的
+  - "Context": This finding contradicted the prevailing view at the time.
+  - "Context_translation": 这个发现与当时的普遍观点相矛盾。
+- "Word": Irreversible
+  - "Lemma": Irreversible
+  - "Pronunciation": /ˌɪrɪˈvɜːsɪbl/
+  - "POS": Adjective
+  - "Definition": Not able to be undone or altered.
+  - "Translation": 不可逆的
+  - "Context": which considered heroin addiction to be a permanent and irreversible condition
+  - "Context_translation": 认为海洛因成瘾是一种永久且不可逆的状况
+- "Word": Revealed
+  - "Lemma": Reveal
+  - "Pronunciation": /rɪˈviːl/
+  - "POS": Verb
+  - "Definition": Make (previously unknown or secret information) known to others.
+  - "Translation": 揭示，揭露
+  - "Context": Instead, Robins revealed that addictions could spontaneously dissolve if there was a radical change in the environment.
+  - "Context_translation": 相反，罗宾斯揭示了如果环境发生根本性的变化，成瘾症状可能会自然消解。
+- "Word": Radical
+  - "Lemma": Radical
+  - "Pronunciation": /ˈrædɪkəl/
+  - "POS": Adjective
+  - "Definition": (especially of change or action) relating to or affecting the fundamental nature of something; far-reaching or thorough.
+  - "Translation": 根本的，彻底的
+  - "Context": Instead, Robins revealed that addictions could spontaneously dissolve if there was a radical change in the environment.
+  - "Context_translation": 相反，罗宾斯揭示了如果环境发生根本性的变化，成瘾症状可能会自然消解。
+
+Compare this situation to that of a typical drug user. Someone becomes addicted at home or with friends, goes to a clinic to get clean—which is devoid of all the environmental stimuli that prompt their habit—then returns to their old neighborhood with all of their previous cues that caused them to get addicted in the first place. It’s no wonder that usually you see numbers that are the exact opposite of those in the Vietnam study. Typically, 90 percent of heroin users become re-addicted once they return home from rehab.
+
+- "Word": Addicted
+  - "Lemma": Addict
+  - "Pronunciation": /əˈdɪktɪd/
+  - "POS": Adjective
+  - "Definition": Physically and mentally dependent on a particular substance or activity, and unable to stop it without adverse effects.
+  - "Translation": 上瘾的
+  - "Context": Someone becomes addicted at home or with friends.
+  - "Context_translation": 有人在家里或与朋友一起变得上瘾。
+- "Word": Clinic
+  - "Lemma": Clinic
+  - "Pronunciation": /ˈklɪnɪk/
+  - "POS": Noun
+  - "Definition": A medical establishment or facility where patients receive specialized treatment or medical care.
+  - "Translation": 诊所
+  - "Context": Someone goes to a clinic to get clean.
+  - "Context_translation": 有人去诊所进行戒毒治疗。
+- "Word": Stimuli
+  - "Lemma": Stimulus
+  - "Pronunciation": /ˈstɪmjʊləs/
+  - "POS": Noun
+  - "Definition": Something that evokes a specific reaction or response from an organism.
+  - "Translation": 刺激物
+  - "Context": ...devoid of all the environmental stimuli that prompt their habit.
+  - "Context_translation": ...缺乏促使他们习惯的所有环境刺激物。
+- "Word": Rehab
+  - "Lemma": Rehab
+  - "Pronunciation": /riˈhæb/
+  - "POS": Noun
+  - "Definition": Short for rehabilitation, a process of medical or psychotherapeutic treatment for dependency on substances or behaviors.
+  - "Translation": 康复
+  - "Context": Typically, 90 percent of heroin users become re-addicted once they return home from rehab.
+  - "Context_translation": 通常情况下，90%的海洛因用户在从康复中心返回家后会再次上瘾。
+
+The Vietnam studies ran counter to many of our cultural beliefs about bad habits because it challenged the conventional association of unhealthy behavior as a moral weakness. If you’re overweight, a smoker, or an addict, you’ve been told your entire life that it is because you lack self-control—maybe even that you’re a bad person. The idea that a little bit of discipline would solve all our problems is deeply embedded in our culture.
+
+句子结构：
+1. "The Vietnam studies" - 主语，指代特定的研究。
+2. "ran counter to many of our cultural beliefs about bad habits" - 谓语部分，描述这些研究与我们关于不良习惯的许多文化信念相反。
+3. "because it challenged the conventional association of unhealthy behavior as a moral weakness" - 原因状语从句，解释为什么这些研究与传统观念相悖。
+
+翻译：
+越南研究与我们关于不良习惯的许多文化信念相反，因为它挑战了将不健康行为与道德弱点联系在一起的传统观念。
+
+语法：
+- "The Vietnam studies" 是主语，指代特定的研究。
+- "ran counter to many of our cultural beliefs about bad habits" 是谓语部分，描述这些研究与我们关于不良习惯的许多文化信念相反。
+- "because it challenged the conventional association of unhealthy behavior as a moral weakness" 是原因状语从句，解释为什么这些研究与传统观念相悖。
+
+词汇/短语：
+- Vietnam studies: 越南研究，指特定的研究项目或研究领域，可能与越南有关。
+- Run counter to: 与...相悖，与...相反，表示与某种观念、信念或期望相对立或相矛盾。
+- Cultural beliefs: 文化信念，指特定文化中的信仰、价值观或观念。
+- Bad habits: 不良习惯，指不健康或有害的习惯或行为。
+- Conventional association: 传统联系，指常规或传统观念中的关联或联系。
+- Unhealthy behavior: 不健康行为，指不良的行为习惯或健康有害的行为。
+- Moral weakness: 道德弱点，指道德上的缺陷或不足。
+
+Recent research, however, shows something different. When scientists analyze people who appear to have tremendous self-control, it turns out those individuals aren’t all that different from those who are struggling. Instead, “disciplined” people are better at structuring their lives in a way that does not require heroic willpower and self-control. In other words, they spend less time in tempting situations.
+
+- "Word": Tremendous
+  - "Lemma": Tremendous
+  - "Pronunciation": /trɪˈmɛndəs/
+  - "POS": Adjective
+  - "Definition": Very great in amount, scale, or intensity.
+  - "Translation": 巨大的，极好的
+  - "Context": When scientists analyze people who appear to have tremendous self-control.
+  - "Context_translation": 当科学家们分析那些看起来拥有极大自控力的人时。
+- "Word": Structuring
+  - "Lemma": Structure
+  - "Pronunciation": /ˈstrʌktʃər/
+  - "POS": Verb
+  - "Definition": Construct or arrange according to a plan; give a pattern or organization to.
+  - "Translation": 构造，安排
+  - "Context": Instead, “disciplined” people are better at structuring their lives in a way that does not require heroic willpower and self-control.
+  - "Context_translation": 相反，“有纪律”的人更擅长按照一种不需要英勇意志力和自我控制的方式来构造他们的生活。
+- "Word": Heroic
+  - "Lemma": Heroic
+  - "Pronunciation": /hɪˈroʊɪk/
+  - "POS": Adjective
+  - "Definition": Having the characteristics of a hero or heroine; very brave.
+  - "Translation": 英勇的，英雄的
+  - "Context": Instead, “disciplined” people are better at structuring their lives in a way that does not require heroic willpower and self-control.
+  - "Context_translation": 相反，“有纪律”的人更擅长按照一种不需要英勇意志力和自我控制的方式来构造他们的生活。
+- "Word": Tempting
+  - "Lemma": Tempt
+  - "Pronunciation": /ˈtɛmptɪŋ/
+  - "POS": Adjective
+  - "Definition": Appealing to or attracting someone, even if wrong or inadvisable.
+  - "Translation": 诱人的，吸引人的
+  - "Context": They spend less time in tempting situations.
+  - "Context_translation": 他们在诱人的情况下花费的时间较少。
+
+The people with the best self-control are typically the ones who need to use it the least. It’s easier to practice self-restraint when you don’t have to use it very often. So, yes, perseverance, grit, and willpower are essential to success, but the way to improve these qualities is not by wishing you were a more disciplined person, but by creating a more disciplined environment.
+
+This counterintuitive idea makes even more sense once you understand what happens when a habit is formed in the brain. A habit that has been encoded in the mind is ready to be used whenever the relevant situation arises. When Patty Olwell, a therapist from Austin, Texas, started smoking, she would often light up while riding horses with a friend. Eventually, she quit smoking and avoided it for years. She had also stopped riding. Decades later, she hopped on a horse again and found herself craving a cigarette for the first time in forever. The cues were still internalized; she just hadn’t been exposed to them in a long time.
+
+Once a habit has been encoded, the urge to act follows whenever the environmental cues reappear. This is one reason behavior change techniques can backfire. Shaming obese people with weight-loss presentations can make them feel stressed, and as a result many people return to their favorite coping strategy: overeating. Showing pictures of blackened lungs to smokers leads to higher levels of anxiety, which drives many people to reach for a cigarette. If you’re not careful about cues, you can cause the very behavior you want to stop.
+
+Bad habits are autocatalytic: the process feeds itself. They foster the feelings they try to numb. You feel bad, so you eat junk food. Because you eat junk food, you feel bad. Watching television makes you feel sluggish, so you watch more television because you don’t have the energy to do anything else. Worrying about your health makes you feel anxious, which causes you to smoke to ease your anxiety, which makes your health even worse and soon you’re feeling more anxious. It’s a downward spiral, a runaway train of bad habits.
+
+Researchers refer to this phenomenon as “cue-induced wanting”: an external trigger causes a compulsive craving to repeat a bad habit. Once you notice something, you begin to want it. This process is happening all the time—often without us realizing it. Scientists have found that showing addicts a picture of cocaine for just thirty-three milliseconds stimulates the reward pathway in the brain and sparks desire. This speed is too fast for the brain to consciously register—the addicts couldn’t even tell you what they had seen—but they craved the drug all the same.
+
+Here’s the punch line: You can break a habit, but you’re unlikely to forget it. Once the mental grooves of habit have been carved into your brain, they are nearly impossible to remove entirely—even if they go unused for quite a while. And that means that simply resisting temptation is an ineffective strategy. It is hard to maintain a Zen attitude in a life filled with interruptions. It takes too much energy. In the short-run, you can choose to overpower temptation. In the long-run, we become a product of the environment that we live in. To put it bluntly, I have never seen someone consistently stick to positive habits in a negative environment.
+
+A more reliable approach is to cut bad habits off at the source. One of the most practical ways to eliminate a bad habit is to reduce exposure to the cue that causes it.
+
+If you can’t seem to get any work done, leave your phone in another room for a few hours.
+
+If you’re continually feeling like you’re not enough, stop following social media accounts that trigger jealousy and envy.
+
+If you’re wasting too much time watching television, move the TV out of the bedroom.
+
+If you’re spending too much money on electronics, quit reading reviews of the latest tech gear.
+
+If you’re playing too many video games, unplug the console and put it in a closet after each use.
+
+unplug / ˌʌnˈplʌɡ / v.  拔掉……的电源插头；拔去塞子，除掉障碍物；
+closet / ˈklɑːzɪt / n.  壁橱，储藏室；隐秘状态（尤指同性恋身份）；<古>盥洗室，厕所
+
+This practice is an inversion of the 1st Law of Behavior Change. Rather than make it obvious, you can make it invisible. I’m often surprised by how effective simple changes like these can be. Remove a single cue and the entire habit often fades away.
+
+inversion / ɪnˈvɜːrʒ(ə)n / n.  相反，倒置；逆温；转位；粒子数布居反转；倒反，反转；求逆，求反；（表达）转换
+
+Self-control is a short-term strategy, not a long-term one. You may be able to resist temptation once or twice, but it’s unlikely you can muster the willpower to override your desires every time. Instead of summoning a new dose of willpower whenever you want to do the right thing, your energy would be better spent optimizing your environment. This is the secret to self-control. Make the cues of your good habits obvious and the cues of your bad habits invisible.
+
+muster / ˈmʌstər / v.  寻求，聚集（支持、勇气等）；召集，（尤指士兵）集合；<澳新>赶拢（牛、羊）
+summoning / ˈsʌmənɪŋ / v.  传唤，传讯（出庭）；召唤；召集会议；迫切地要求（帮助）；鼓起，露出（summon 的现在分词）
+
+The inversion of the 1st Law of Behavior Change is make it invisible.
+Once a habit is formed, it is unlikely to be forgotten.
+People with high self-control tend to spend less time in tempting situations. It’s easier to avoid temptation than resist it.
+One of the most practical ways to eliminate a bad habit is to reduce exposure to the cue that causes it.
+Self-control is a short-term strategy, not a long-term one.
+temptation / tempˈteɪʃ(ə)n / n.  引诱，诱惑；诱惑人的东西；
