@@ -3002,20 +3002,240 @@ Humans are also prone to fall for exaggerated versions of reality. Junk food, fo
 
 Today, however, we live in a calorie-rich environment. Food is abundant, but your brain continues to crave it like it is scarce. Placing a high value on salt, sugar, and fat is no longer advantageous to our health, but the craving persists because the brain’s reward centers have not changed for approximately fifty thousand years. The modern food industry relies on stretching our Paleolithic instincts beyond their evolutionary purpose.
 
+- "Word": Calorie-rich
+  - "Lemma": Calorie-rich
+  - "Pronunciation": /ˈkæləri rɪtʃ/
+  - "POS": Adjective
+  - "Definition": Containing a large amount of calories.
+  - "Translation": 高热量的
+  - "Context": Today, however, we live in a calorie-rich environment.
+  - "Context_translation": 然而，今天我们生活在一个高热量的环境中。
+- "Word": Abundant
+  - "Lemma": Abundant
+  - "Pronunciation": /əˈbʌndənt/
+  - "POS": Adjective
+  - "Definition": Existing or available in large quantities; plentiful.
+  - "Translation": 丰富的
+  - "Context": Food is abundant, but your brain continues to crave it like it is scarce.
+  - "Context_translation": 食物是丰富的，但你的大脑继续像它是稀缺的那样渴望它。
+- Paleolithic / ˌpeɪliəˈlɪθɪk / adj．旧石器时代的：与旧石器时代有关的。
+- instincts / ˈɪnstɪŋkts; ɪnˈstɪŋkts / n.  [生物]本能（instinct 的复数）；[心理]直觉
+- "Phrase": Paleolithic instincts
+  - "Lemma": Paleolithic instincts
+  - "Pronunciation": /ˌpeɪlɪəˈlɪθɪk ˈɪnstɪŋkt/
+  - "POS":
+  - "Definition": The basic desires or behaviors that humans developed during the Paleolithic era, a period in human history when people were hunter-gatherers.
+  - "Translation": 旧石器时代的本能
+  - "Context": The modern food industry relies on stretching our Paleolithic instincts beyond their evolutionary purpose.
+  - "Context_translation": 现代食品工业依赖于将我们的旧石器时代本能延伸到超越其进化目的的地方。
+
 A primary goal of food science is to create products that are more attractive to consumers. Nearly every food in a bag, box, or jar has been enhanced in some way, if only with additional flavoring. Companies spend millions of dollars to discover the most satisfying level of crunch in a potato chip or the perfect amount of fizz in a soda. Entire departments are dedicated to optimizing how a product feels in your mouth—a quality known as orosensation. French fries, for example, are a potent combination—golden brown and crunchy on the outside, light and smooth on the inside.
+
+- "Word": Jar
+  - "Lemma": Jar
+  - "Pronunciation": /dʒɑːr/
+  - "POS": Noun
+  - "Definition": A wide-mouthed cylindrical container made of glass or pottery, especially one used for storing food.
+  - "Translation": 罐子
+  - "Context": Nearly every food in a bag, box, or jar has been enhanced in some way,
+  - "Context_translation": 几乎每种装在袋子、盒子或罐子里的食物都以某种方式被提升了，
+- "Word": Flavoring
+  - "Lemma": Flavoring
+  - "Pronunciation": /ˈfleɪvərɪŋ/
+  - "POS": Noun
+  - "Definition": A substance used to give a different, stronger, or more agreeable taste to food or drink.
+  - "Translation": 调味品
+  - "Context": Nearly every food in a bag, box, or jar has been enhanced in some way, if only with additional flavoring.
+  - "Context_translation": 几乎每种装在袋子、盒子或罐子里的食物都以某种方式被提升了，哪怕只是添加了额外的调味品。
+- "Word": Crunch
+  - "Lemma": Crunch
+  - "Pronunciation": /krʌntʃ/
+  - "POS": Noun
+  - "Definition": A sound made when something crisp is bitten, crushed, or crunched.
+  - "Translation": 嘎吱声
+  - "Context": Companies spend millions of dollars to discover the most satisfying level of crunch in a potato chip or the perfect amount of fizz in a soda.
+  - "Context_translation": 公司花费数百万美元来探索土豆片中最令人满意的嘎吱声或汽水中的完美气泡量。
+- "Word": Fizz
+  - "Lemma": Fizz
+  - "Pronunciation": /fɪz/
+  - "POS": Noun
+  - "Definition": A hissing or sizzling sound.
+  - "Translation": 气泡声
+  - "Context": Companies spend millions of dollars to discover the most satisfying level of crunch in a potato chip or the perfect amount of fizz in a soda.
+  - "Context_translation": 公司花费数百万美元来探索土豆片中最令人满意的嘎吱声或汽水中的完美气泡量。
+- "Word": Orosensation
+  - "Lemma": Orosensation
+  - "Pronunciation": /ˌɔːrəʊˈsɛnˌseɪʃən/
+  - "POS": Noun
+  - "Definition": The complex of sensations experienced by an organism in the mouth, including taste, touch, and the thermal and pain sensations that contribute to flavor.
+  - "Translation": 口感
+  - "Context": Entire departments are dedicated to optimizing how a product feels in your mouth—a quality known as orosensation.
+  - "Context_translation": 整个部门致力于优化产品在你口中的感觉——这种品质被称为口感。
+- "French fries" 的起源有一些争议，但最常见的说法是它们起源于比利时或法国。
+  - 一种说法是，炸薯条的制作方法最早在17世纪的比利时被发明。当时的比利时人有在河里捕鱼并将其炸熟的习惯，但在冬天，河面结冰，无法捕鱼，他们就切出了和小鱼类似的马铃薯条来代替，这就是炸薯条的起源。
+  - 另一种说法是，炸薯条起源于法国，由于法国人在美国独立战争中给予了美国援助，美国人称这种食物为“French fries”，即“法国的炸薯条”。
+  - 然而，这两种说法都难以得到确证，因为炸薯条在欧洲的许多地方都有被制作和食用的记录，而且早在马铃薯被引入欧洲之前，人们就已经有了用油炸食物的习惯。
+  - 尽管如此，"French fries" 这个名称在美国和许多其他国家都已经被广泛接受，并且炸薯条已经成为了全球最受欢迎的快餐食品之一。
+- "Word": Potent
+  - "Lemma": Potent
+  - "Pronunciation": /ˈpoʊ.tənt/
+  - "POS": Adjective
+  - "Definition": Having great power, influence, or effect.
+  - "Translation": 强大的
+  - "Context": French fries, for example, are a potent combination—golden brown and crunchy on the outside, light and smooth on the inside.
+  - "Context_translation": 例如，炸薯条是一种强大的组合——外面金黄酥脆，里面轻盈柔滑。
+
 
 Other processed foods enhance dynamic contrast, which refers to items with a combination of sensations, like crunchy and creamy. Imagine the gooeyness of melted cheese on top of a crispy pizza crust, or the crunch of an Oreo cookie combined with its smooth center. With natural, unprocessed foods, you tend to experience the same sensations over and over—how’s that seventeenth bite of kale taste? After a few minutes, your brain loses interest and you begin to feel full. But foods that are high in dynamic contrast keep the experience novel and interesting, encouraging you to eat more.
 
+- "Word": Contrast
+  - "Lemma": Contrast
+  - "Pronunciation": /ˈkɒn.træst/
+  - "POS": Noun
+  - "Definition": The state of being strikingly different from something else in juxtaposition or close association.
+  - "Translation": 对比
+  - "Context": Other processed foods enhance dynamic contrast,
+  - "Context_translation": 其他加工食品增强了动态对比，
+- "Word": Sensations
+  - "Lemma": Sensation
+  - "Pronunciation": /sɛnˈseɪʃən/
+  - "POS": Noun
+  - "Definition": A physical feeling or perception resulting from something that happens to or comes into contact with the body.
+  - "Translation": 感觉
+  - "Context": which refers to items with a combination of sensations,
+  - "Context_translation": 这指的是具有多种感觉组合的物品，
+- "Word": Creamy
+  - "Lemma": Creamy
+  - "Pronunciation": /ˈkriː.mi/
+  - "POS": Adjective
+  - "Definition": Resembling cream in consistency, texture, color, or taste.
+  - "Translation": 奶油般的
+  - "Context": like crunchy and creamy.
+  - "Context_translation": 像脆的和奶油般的。
+- crust / krʌst / n.  面包皮；（馅饼或比萨饼等的）酥皮；硬外皮，硬外壳；地壳；<非正式>生活，生计
+- "Word": Gooeyness
+  - "Lemma": Gooey
+  - "Pronunciation": /ˈɡuːi/
+  - "POS": Noun
+  - "Definition": The quality of being soft, sticky, and usually very sweet.
+  - "Translation": 黏糊糊的感觉
+  - "Context": Imagine the gooeyness of melted cheese on top of a crispy pizza crust
+  - "Context_translation": 想象一下融化的奶酪在脆皮披萨上的黏糊糊的感觉
+- "Word": Oreo
+  - "Lemma": Oreo
+  - "Pronunciation": /ˈɔːri.oʊ/
+  - "POS": Noun
+  - "Definition": A brand of cookie consisting of two chocolate wafers with a sweet creme filling in between.
+  - "Translation": 奥利奥
+  - "Context": the crunch of an Oreo cookie combined with its smooth center.
+  - "Context_translation": 奥利奥饼干的脆皮与其顺滑中心的结合。
+- "Word": Kale
+  - "Lemma": Kale
+  - "Pronunciation": /keɪl/
+  - "POS": Noun
+  - "Definition": A type of cabbage with green or purple leaves, in which the central leaves do not form a head.
+  - "Translation": 甘蓝
+  - "Context": how’s that seventeenth bite of kale taste
+  - "Context_translation": 那第十七口甘蓝的味道如何？
+- "Word": Novel
+  - "Lemma": Novel
+  - "Pronunciation": /ˈnɑː.vəl/
+  - "POS": Adjective
+  - "Definition": New and original, not like anything seen before.
+  - "Translation": 新奇的
+  - "Context": keep the experience novel and interesting
+  - "Context_translation": 保持体验新奇有趣
+
 Ultimately, such strategies enable food scientists to find the “bliss point” for each product—the precise combination of salt, sugar, and fat that excites your brain and keeps you coming back for more. The result, of course, is that you overeat because hyperpalatable foods are more attractive to the human brain. As Stephan Guyenet, a neuroscientist who specializes in eating behavior and obesity, says, “We’ve gotten too good at pushing our own buttons.”
+
+- "Word": Bliss point
+  - "Lemma": Bliss point
+  - "Pronunciation": /blɪs pɔɪnt/
+  - "POS": Phrase
+  - "Definition": The perfect amount of sweetness, saltiness, or savoriness that makes food consumption most enjoyable.
+  - "Translation": 极乐点
+  - "Context": Ultimately, such strategies enable food scientists to find the “bliss point”
+  - "Context_translation": 最终，这些策略使食品科学家能够找到“极乐点”
+- "Word": Excites
+  - "Lemma": Excite
+  - "Pronunciation": /ɪkˈsaɪt/
+  - "POS": Verb
+  - "Definition": To cause a particular feeling or reaction in someone, to stimulate or arouse.
+  - "Translation": 刺激
+  - "Context": and fat that excites your brain
+  - "Context_translation": 和刺激你大脑的脂肪
+- "Word": Hyperpalatable
+  - "Lemma": Hyperpalatable
+  - "Pronunciation": /ˌhaɪpərˈpælətəbəl/
+  - "POS": Adjective
+  - "Definition": Extremely tasty and appealing, often to the point of causing excessive eating.
+  - "Translation": 超级美味
+  - "Context": is that you overeat because hyperpalatable foods are more attractive to the human brain
+  - "Context_translation": 是因为超级美味的食物对人类大脑更有吸引力，从而导致你过度饮食
+- obesity / oʊˈbiːsəti / n.  过度肥胖，肥胖症
+
 
 The modern food industry, and the overeating habits it has spawned, is just one example of the 2nd Law of Behavior Change: Make it attractive. The more attractive an opportunity is, the more likely it is to become habit-forming.
 
 Look around. Society is filled with highly engineered versions of reality that are more attractive than the world our ancestors evolved in. Stores feature mannequins with exaggerated hips and breasts to sell clothes. Social media delivers more “likes” and praise in a few minutes than we could ever get in the office or at home. Online porn splices together stimulating scenes at a rate that would be impossible to replicate in real life. Advertisements are created with a combination of ideal lighting, professional makeup, and Photoshopped edits—even the model doesn’t look like the person in the final image. These are the supernormal stimuli of our modern world. They exaggerate features that are naturally attractive to us, and our instincts go wild as a result, driving us into excessive shopping habits, social media habits, porn habits, eating habits, and many others.
 
+
+- "Word": Engineered
+  - "Lemma": Engineer
+  - "Pronunciation": /ˌenjɪˈnɪr/
+  - "POS": Verb
+  - "Definition": To design and build (a machine or structure) or to arrange for (an event or situation) to occur by skillful or artful contrivance.
+  - "Translation": 工程化的
+  - "Context": society is filled with highly engineered versions
+  - "Context_translation": 社会充满了高度工程化的版本
+- "Word": Mannequins
+  - "Lemma": Mannequin
+  - "Pronunciation": /ˈmanɪkɪn/
+  - "POS": Noun
+  - "Definition": A dummy used to display clothes in a store window.
+  - "Translation": 人体模型
+  - "Context": Stores feature mannequins with exaggerated hips and breasts to sell clothes.
+  - "Context_translation": 商店用胸部和臀部特别夸张的人体模型来展示衣服，以此来促销。
+- "Word": Feature
+  - "Lemma": Feature
+  - "Pronunciation": /ˈfiːtʃər/
+  - "POS": Verb
+  - "Definition": To present as a special or prominent part of something.
+  - "Translation": 特色展示
+  - "Context": Stores feature mannequins with exaggerated hips and breasts to sell clothes.
+  - "Context_translation": 商店特色展示有夸张臀部和胸部的人体模型来销售衣服。
+- 网络色情片将刺激的场景拼接在一起，其速度在现实生活中是不可能复制的
+-
+
 If history serves as a guide, the opportunities of the future will be more attractive than those of today. The trend is for rewards to become more concentrated and stimuli to become more enticing. Junk food is a more concentrated form of calories than natural foods. Hard liquor is a more concentrated form of alcohol than beer. Video games are a more concentrated form of play than board games. Compared to nature, these pleasure-packed experiences are hard to resist. We have the brains of our ancestors but temptations they never had to face.
+
+- enticing / ɪnˈtaɪsɪŋ / 有诱惑力的；诱人的；有吸引力的
+- "Word": Hard liquor
+  - "Lemma": Hard liquor
+  - "Pronunciation": /hɑːrd ˈlɪkər/
+  - "POS": Noun
+  - "Definition": Alcoholic drinks that are distilled rather than fermented, containing a higher percentage of alcohol than beer or wine.
+  - "Translation": 烈酒
+  - "Context": Hard liquor is a more concentrated form of alcohol than beer.
+  - "Context_translation": 烈酒是比啤酒更浓缩的酒精形式。
+- "Word": Temptations
+  - "Lemma": Temptation
+  - "Pronunciation": /tɛmˈteɪʃən/
+  - "POS": Noun
+  - "Definition": The desire to do something, especially something wrong or unwise.
+  - "Translation": 诱惑
+  - "Context": Temptations they never had to face.
+  - "Context_translation": 他们从未面临过的诱惑。
 
 If you want to increase the odds that a behavior will occur, then you need to make it attractive. Throughout our discussion of the 2nd Law, our goal is to learn how to make our habits irresistible. While it is not possible to transform every habit into a supernormal stimulus, we can make any habit more enticing. To do this, we must start by understanding what a craving is and how it works.
 
 We begin by examining a biological signature that all habits share—the dopamine spike.
-
+- "Word": Dopamine spike
+  - "Lemma": Dopamine spike
+  - "Pronunciation": /ˈdoʊpəmiːn spaɪk/
+  - "POS": Noun Phrase
+  - "Definition": A sudden increase in the level of dopamine, which is a neurotransmitter associated with pleasure and reward in the brain.
+  - "Translation": 多巴胺激增
+  - "Context": We begin by examining a biological signature that all habits share—the dopamine spike.
+  - "Context_translation": 我们首先研究所有习惯共有的生物特征——多巴胺激增。
 

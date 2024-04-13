@@ -547,6 +547,18 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text:"0422-雷军分享",
                     link:"/content/English/2024/20240422.md",
                 },
+                {
+                    text:"0423-区块链世界的生存法则",
+                    link:"/content/English/2024/20240423.md",
+                },
+                {
+                    text:"0424-当今社会最重要的能力",
+                    link:"/content/English/2024/20240424.md",
+                },
+                {
+                    text:"0425-我们是有历史的社群",
+                    link:"/content/English/2024/20240425.md",
+                },
             ],
         },
         {
