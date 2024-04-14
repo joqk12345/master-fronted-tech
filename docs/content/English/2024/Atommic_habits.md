@@ -3205,7 +3205,6 @@ Look around. Society is filled with highly engineered versions of reality that a
   - "Context": Stores feature mannequins with exaggerated hips and breasts to sell clothes.
   - "Context_translation": 商店特色展示有夸张臀部和胸部的人体模型来销售衣服。
 - 网络色情片将刺激的场景拼接在一起，其速度在现实生活中是不可能复制的
--
 
 If history serves as a guide, the opportunities of the future will be more attractive than those of today. The trend is for rewards to become more concentrated and stimuli to become more enticing. Junk food is a more concentrated form of calories than natural foods. Hard liquor is a more concentrated form of alcohol than beer. Video games are a more concentrated form of play than board games. Compared to nature, these pleasure-packed experiences are hard to resist. We have the brains of our ancestors but temptations they never had to face.
 
@@ -3218,6 +3217,14 @@ If history serves as a guide, the opportunities of the future will be more attra
   - "Translation": 烈酒
   - "Context": Hard liquor is a more concentrated form of alcohol than beer.
   - "Context_translation": 烈酒是比啤酒更浓缩的酒精形式。
+- "Word": Alcohol
+  - "Lemma": Alcohol
+  - "Pronunciation": /ˈælkəhɒl/
+  - "POS": Noun
+  - "Definition": A colorless volatile flammable liquid which is the intoxicating constituent of wine, beer, spirits, and other drinks, and is also used as an industrial solvent and as fuel.
+  - "Translation": 酒精
+  - "Context": Hard liquor is a more concentrated form of alcohol than beer.
+  - "Context_translation": 烈酒是一种比啤酒更浓缩的酒精形式。
 - "Word": Temptations
   - "Lemma": Temptation
   - "Pronunciation": /tɛmˈteɪʃən/
@@ -3226,6 +3233,34 @@ If history serves as a guide, the opportunities of the future will be more attra
   - "Translation": 诱惑
   - "Context": Temptations they never had to face.
   - "Context_translation": 他们从未面临过的诱惑。
+句子结构：
+1. "Junk food" - 主语，指代垃圾食品。
+2. "is" - 谓语，表示等于关系。
+3. "a more concentrated form of calories than natural foods" - 描述垃圾食品的特点，是一个比较结构。
+
+翻译：
+垃圾食品是热量比天然食品更为浓缩的形式。
+
+语法：
+- "Junk food" 是主语，指代垃圾食品。
+- "is" 是谓语，表示等于关系。
+- "a more concentrated form of calories than natural foods" 是描述垃圾食品的特点的部分，是一个比较结构，比较垃圾食品和天然食品的热量浓度。
+
+词汇/短语：
+- Junk food: 垃圾食品，指那些营养价值较低、通常富含盐、糖和脂肪的食品。
+- Concentrated: 浓缩的，指在相对较小的体积或重量中含有更高比例的物质。
+- Form: 形式，指某物的外观、结构或组织方式。
+- Calories: 热量，指食物中所含的能量单位。
+- Natural foods: 天然食品，指未经过加工或人工添加的食物，通常指富含营养且较少加工的食物。
+
+- "Word": Board games
+  - "Lemma": Board game
+  - "Pronunciation": /ˈbɔːrd ɡeɪmz/
+  - "POS": Noun
+  - "Definition": Games that are played with counters or pieces that are placed on, removed from, or moved across a board, such as chess or checkers.
+  - "Translation": 棋盘游戏
+  - "Context": Video games are a more concentrated form of play than board games.
+  - "Context_translation": 视频游戏是一种比棋盘游戏更集中的游戏形式。
 
 If you want to increase the odds that a behavior will occur, then you need to make it attractive. Throughout our discussion of the 2nd Law, our goal is to learn how to make our habits irresistible. While it is not possible to transform every habit into a supernormal stimulus, we can make any habit more enticing. To do this, we must start by understanding what a craving is and how it works.
 
@@ -3238,4 +3273,188 @@ We begin by examining a biological signature that all habits share—the dopamin
   - "Translation": 多巴胺激增
   - "Context": We begin by examining a biological signature that all habits share—the dopamine spike.
   - "Context_translation": 我们首先研究所有习惯共有的生物特征——多巴胺激增。
+### THE DOPAMINE-DRIVEN FEEDBACK LOOP
 
+Scientists can track the precise moment a craving occurs by measuring a neurotransmitter called dopamine.* The importance of dopamine became apparent in 1954 when the neuroscientists James Olds and Peter Milner ran an experiment that revealed the neurological processes behind craving and desire. By implanting electrodes in the brains of rats, the researchers blocked the release of dopamine. To the surprise of the scientists, the rats lost all will to live. They wouldn’t eat. They wouldn’t have sex. They didn’t crave anything. Within a few days, the animals died of thirst.
+
+- "Word": Dopamine spike
+  - "Lemma": Dopamine spike
+  - "Pronunciation": /ˈdoʊpəmiːn spaɪk/
+  - "POS": Noun
+  - "Definition": A sudden increase in the levels of dopamine, a neurotransmitter associated with the brain's reward and pleasure centers.
+  - "Translation": 多巴胺激增
+  - "Context": —
+  - "Context_translation": 
+- "Word": Neurotransmitter
+  - "Lemma": Neurotransmitter
+  - "Pronunciation": /ˌnʊəroʊtrænsˈmɪtər/
+  - "POS": Noun
+  - "Definition": A substance that transmits nerve impulses across a synapse.
+  - "Translation": 神经递质
+  - "Context": Scientists can track the precise moment a craving occurs by measuring a neurotransmitter called dopamine.
+  - "Context_translation": 科学家可以通过测量一种叫做多巴胺的神经递质来追踪渴望发生的精确时刻。
+- "Word": Apparent
+  - "Lemma": Apparent
+  - "Pronunciation": /əˈpær.ənt/
+  - "POS": Adjective
+  - "Definition": Clearly visible or understood; obvious.
+  - "Translation": 显然的，明显的
+  - "Context": The importance of dopamine became apparent in 1954 when the neuroscientists James Olds and Peter Milner ran an experiment that revealed the neurological processes behind craving and desire.
+  - "Context_translation": 1954年，当神经科学家詹姆斯·奥尔兹和彼得·米尔纳进行了一项揭示了渴望和欲望背后的神经过程的实验时，多巴胺的重要性变得显而易见。
+
+In follow-up studies, other scientists also inhibited the dopamine-releasing parts of the brain, but this time, they squirted little droplets of sugar into the mouths of the dopamine-depleted rats. Their little rat faces lit up with pleasurable grins from the tasty substance. Even though dopamine was blocked, they liked the sugar just as much as before; they just didn’t want it anymore. The ability to experience pleasure remained, but without dopamine, desire died. And without desire, action stopped.
+
+- "Word": Inhibited
+  - "Lemma": Inhibit
+  - "Pronunciation": /ɪnˈhɪb.ɪ.tɪd/
+  - "POS": Verb
+  - "Definition": Hinder, restrain, or prevent (an action or process).
+  - "Translation": 抑制
+  - "Context": Other scientists also inhibited the dopamine-releasing parts of the brain.
+  - "Context_translation": 其他科学家也抑制了大脑中释放多巴胺的部分。
+- droplets / ˈdrɑːplət / n.  小滴，微滴
+- "Word": Squirted
+  - "Lemma": Squirt
+  - "Pronunciation": /skwɜːrt/
+  - "POS": Verb
+  - "Definition": Cause (a liquid) to be ejected from a small opening in a thin, fast stream or jet.
+  - "Translation": 喷射
+  - "Context": They squirted little droplets of sugar into the mouths of the dopamine-depleted rats.
+  - "Context_translation": 他们向多巴胺耗尽的老鼠口中喷射了小滴的糖水。
+- depleted / dɪˈpliːtɪd / adj.  不足的，减少的；人员不足的，人员减少的；耗尽的
+- substance / ˈsʌbstəns / "Substance" 是一个名词，表示物质或实质，通常指某种具体或抽象的东西。 "Tasty substance" 是一个名词短语，这里 "tasty" 是形容词，用来修饰 "substance"。"Tasty" 的意思是美味的，好吃的，所以 "tasty substance" 的意思就是美味的食物或物质。这个短语可能用在描述食物，或者任何被视为美味或令人愉快的东西。
+- grin / ɡrɪn / v.  露齿而笑，咧着嘴笑
+
+When other researchers reversed this process and flooded the reward system of the brain with dopamine, animals performed habits at breakneck speed. In one study, mice received a powerful hit of dopamine each time they poked their nose in a box. Within minutes, the mice developed a craving so strong they began poking their nose into the box eight hundred times per hour. (Humans are not so different: the average slot machine player will spin the wheel six hundred times per hour.)
+
+句子结构:
+- 当引导词: When
+- 主语: other researchers
+- 谓语: reversed / flooded
+- 宾语: this process / the reward system of the brain
+- 状语: with dopamine
+
+翻译:
+当其他研究者逆转这个过程并让大脑的奖赏系统充满多巴胺时，
+
+语法:
+这个句子是一个复合句，由两个主谓结构的句子通过并列连词 "and" 连接起来。"When" 引导的是一个时间状语从句，说明主句动作发生的时间。
+
+词汇/短语:
+- other researchers: 其他研究者，指的是除了当前讨论的研究者之外的人。
+- reversed: 逆转，指的是改变某种过程或情况的方向或顺序。
+- this process: 这个过程，指的是前文提到的某个过程。
+- flooded: 充满，这里用来形象地描述大量的多巴胺进入大脑的奖赏系统。
+- the reward system of the brain: 大脑的奖赏系统，是一个神经系统的概念，指的是大脑中负责处理奖励和惩罚信息的部分。
+- dopamine: 多巴胺，一种神经递质，与快乐、满足感等情绪有关。
+
+详细解释:
+这句话是在描述一种科学实验的过程。在这个实验中，其他的研究者逆转了某个过程，让大脑的奖赏系统充满了多巴胺。多巴胺是一种神经递质，与快乐、满足感等情绪有关，因此，这个实验可能是在研究多巴胺对大脑奖赏系统的影响，或者是在研究如何通过改变多巴胺的水平来影响个体的行为和情绪。
+
+- "Word": Breakneck
+  - "Lemma": Breakneck
+  - "Pronunciation": /ˈbreɪk.nek/
+  - "POS": Adjective
+  - "Definition": Dangerously or extremely fast.
+  - "Translation": 飞快的
+  - "Context": Animals performed habits at breakneck speed.
+  - "Context_translation": 动物以极快的速度执行习惯动作。
+- mice / maɪs / n.  老鼠（mouse 的复数）
+- "Word": Poked
+  - "Lemma": Poke
+  - "Pronunciation": /poʊk/
+  - "POS": Verb
+  - "Definition": Jab or prod (someone or something), especially with one's finger.
+  - "Translation": 戳，触碰
+  - "Context": In one study, mice received a powerful hit of dopamine each time they poked their nose in a box.
+  - "Context_translation": 在一项研究中，每次老鼠把鼻子戳进盒子里，它们都会接收到大量的多巴胺。
+
+
+Habits are a dopamine-driven feedback loop. Every behavior that is highly habit-forming—taking drugs, eating junk food, playing video games, browsing social media—is associated with higher levels of dopamine. The same can be said for our most basic habitual behaviors like eating food, drinking water, having sex, and interacting socially.
+
+For years, scientists assumed dopamine was all about pleasure, but now we know it plays a central role in many neurological processes, including motivation, learning and memory, punishment and aversion, and voluntary movement.
+
+- punishment / ˈpʌnɪʃmənt / n.  惩罚手段，处罚；粗暴对待，糟蹋
+- aversion / əˈvɜːrʒn / n.  厌恶，憎恶；讨厌的人（或东西）
+- voluntary movement 自主运动：指由大脑皮层控制的意识和意愿下进行的运动，如走路、举手等。
+
+When it comes to habits, the key takeaway is this: dopamine is released not only when you experience pleasure, but also when you anticipate it. Gambling addicts have a dopamine spike right before they place a bet, not after they win. Cocaine addicts get a surge of dopamine when they see the powder, not after they take it. Whenever you predict that an opportunity will be rewarding, your levels of dopamine spike in anticipation. And whenever dopamine rises, so does your motivation to act.
+
+- "Word": Gambling
+  - "Lemma": Gamble
+  - "Pronunciation": /ˈɡæm.blɪŋ/
+  - "POS": Noun
+  - "Definition": The activity of betting money, for example in a game or on a horse race.
+  - "Translation": 赌博
+  - "Context": Gambling addicts have a dopamine spike right before they place a bet.
+  - "Context_translation": 赌博成瘾者在下注前刚好会有一个多巴胺激增。
+- "Word": Addicts
+  - "Lemma": Addict
+  - "Pronunciation": /ˈæd.ɪkts/
+  - "POS": Noun
+  - "Definition": A person who is addicted to a particular substance, typically an illegal drug or activity.
+  - "Translation": 成瘾者
+  - "Context": Gambling addicts have a dopamine spike right before they place a bet.
+  - "Context_translation": 赌博成瘾者在下注前刚好会有一个多巴胺激增。
+- "Word": Cocaine
+  - "Lemma": Cocaine
+  - "Pronunciation": /koʊˈkeɪn/
+  - "POS": Noun
+  - "Definition": A powerful stimulant that is used as an illicit drug and for medical purposes.
+  - "Translation": 可卡因
+  - "Context": Cocaine addicts get a surge of dopamine when they see the powder.
+  - "Context_translation": 当可卡因成瘾者看到这种粉末时，他们会有一股多巴胺涌动。
+- "Word": Powder
+  - "Lemma": Powder
+  - "Pronunciation": /ˈpaʊ.dər/
+  - "POS": Noun
+  - "Definition": A dry, dusty substance that is sprinkled or poured as a mass, often a finely ground substance.
+  - "Translation": 粉末
+  - "Context": Cocaine addicts get a surge of dopamine when they see the powder.
+  - "Context_translation": 当可卡因成瘾者看到粉末时，他们会有一股多巴胺涌动。
+
+It is the anticipation of a reward—not the fulfillment of it—that gets us to take action.
+
+- "Word": Anticipation
+  - "Lemma": Anticipation
+  - "Pronunciation": /ænˌtɪsɪˈpeɪʃən/
+  - "POS": Noun
+  - "Definition": The action of anticipating something; expectation or prediction.
+  - "Translation": 预期、期待
+  - "Context": It is the anticipation of a reward—not the fulfillment of it—that gets us to take action.
+  - "Context_translation": 是对奖励的预期——而不是实现它——促使我们采取行动。
+
+Interestingly, the reward system that is activated in the brain when you receive a reward is the same system that is activated when you anticipate a reward. This is one reason the anticipation of an experience can often feel better than the attainment of it. As a child, thinking about Christmas morning can be better than opening the gifts. As an adult, daydreaming about an upcoming vacation can be more enjoyable than actually being on vacation. Scientists refer to this as the difference between “wanting” and “liking.”
+
+句子结构：
+1. "the reward system that is activated in the brain when you receive a reward" - 当你获得奖励时在大脑中激活的奖励系统。
+2. "is the same system that is activated when you anticipate a reward" - 就是当你预期获得奖励时激活的同一奖励系统。
+
+翻译：
+当你获得奖励时在大脑中激活的奖励系统与当你预期获得奖励时激活的是同一个系统。
+
+语法：
+- "the reward system that is activated in the brain when you receive a reward" 是主语从句，描述在获得奖励时在大脑中激活的奖励系统。
+- "is the same system that is activated when you anticipate a reward" 是主语从句，说明这个系统在预期获得奖励时也会被激活。
+
+词汇/短语：
+- Reward system: 奖励系统，指大脑中负责感知和响应奖励的神经回路和神经递质系统。
+- Activated: 激活的，表示被启动或触发。
+- Brain: 大脑，中枢神经系统的一部分，负责控制和协调身体的各种功能。
+- Receive a reward: 获得奖励，指在某种行为或活动中得到回报或奖励。
+- Anticipate a reward: 预期获得奖励，指期待或预测将会获得奖励的情况。
+
+- "Word": Attainment
+  - "Lemma": Attainment
+  - "Pronunciation": /əˈteɪnmənt/
+  - "POS": Noun
+  - "Definition": The action or fact of achieving a goal towards which one has worked.
+  - "Translation": 达成，获得
+  - "Context": This is one reason the anticipation of an experience can often feel better than the attainment of it.
+  - "Context_translation": 这就是为什么对某个经历的期待常常比实际获得它感觉更好的一个原因。
+
+
+
+### THE DOPAMINE SPIKE
+
+### HOW TO USE TEMPTATION BUNDLING TO MAKE YOUR HABITS MORE ATTRACTIVE
