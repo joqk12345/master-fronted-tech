@@ -3532,19 +3532,136 @@ These insights reveal the importance of the 2nd Law of Behavior Change. We need 
 
 Ronan Byrne, an electrical engineering student in Dublin, Ireland, enjoyed watching Netflix, but he also knew that he should exercise more often than he did. Putting his engineering skills to use, Byrne hacked his stationary bike and connected it to his laptop and television. Then he wrote a computer program that would allow Netflix to run only if he was cycling at a certain speed. If he slowed down for too long, whatever show he was watching would pause until he started pedaling again. He was, in the words of one fan, “eliminating obesity one Netflix binge at a time.”
 
+- "Word": Ireland
+  - "Lemma": Ireland
+  - "Pronunciation": /ˈaɪərlənd/
+  - "POS": Proper noun
+  - "Definition": A country in northwestern Europe occupying most of the island of Ireland.
+  - "Translation": 爱尔兰
+  - "Context": Ronan Byrne, an electrical engineering student in Dublin, Ireland,
+  - "Context_translation": 罗南·伯恩，爱尔兰都柏林的一名电气工程学学生，
+- "Word": Stationary
+  - "Lemma": Stationary
+  - "Pronunciation": /ˈsteɪʃəˌneri/
+  - "POS": Adjective
+  - "Definition": Not moving or not intended to be moved.
+  - "Translation": 静止的
+  - "Context": Byrne hacked his stationary bike and connected it to his laptop and television.
+  - "Context_translation": 伯恩改装了他的静止自行车，并将其连接到他的笔记本电脑和电视上。
+- "Phrase": Pedaling
+  - "Lemma": Pedal
+  - "Pronunciation": /ˈpedlɪŋ/
+  - "POS": Verb
+  - "Definition": To operate the pedals of a bicycle or other vehicle moved by pedals.
+  - "Translation": 踩踏
+  - "Context": Whatever show he was watching would pause until he started pedaling again.
+  - "Context_translation": 他正在观看的任何节目都会暂停，直到他再次开始踩踏。
+- "Word": Obesity
+  - "Lemma": Obesity
+  - "Pronunciation": /oʊˈbiːsɪti/
+  - "POS": Noun
+  - "Definition": The condition of being grossly fat or overweight.
+  - "Translation": 肥胖症
+  - "Context": Eliminating obesity one Netflix binge at a time.
+  - "Context_translation": 一次Netflix狂看，消除一次肥胖症。
+
 He was also employing temptation bundling to make his exercise habit more attractive. Temptation bundling works by linking an action you want to do with an action you need to do. In Byrne’s case, he bundled watching Netflix (the thing he wanted to do) with riding his stationary bike (the thing he needed to do).
+- "Word": Employing
+  - "Lemma": Employ
+  - "Pronunciation": /ɪmˈplɔɪ/
+  - "POS": Verb
+  - "Definition": Make use of.
+  - "Translation": 使用，利用
+  - "Context": He was also employing temptation bundling to make his exercise habit more attractive.
+  - "Context_translation": 他还采用了诱惑捆绑法，使他的锻炼习惯更具吸引力。
+- "Word": Temptation
+  - "Lemma": Temptation
+  - "Pronunciation": /tempˈteɪʃən/
+  - "POS": Noun
+  - "Definition": A desire to do something, especially something wrong or unwise.
+  - "Translation": 诱惑
+  - "Context": He was also employing temptation bundling to make his exercise habit more attractive.
+  - "Context_translation": 他还采用了诱惑捆绑法，使他的锻炼习惯更具吸引力。
 
 Businesses are masters at temptation bundling. For instance, when the American Broadcasting Company, more commonly known as ABC, launched its Thursday-night television lineup for the 2014–2015 season, they promoted temptation bundling on a massive scale.
 
 Every Thursday, the company would air three shows created by screenwriter Shonda Rhimes—Grey’s Anatomy, Scandal, and How to Get Away with Murder. They branded it as “TGIT on ABC” (TGIT stands for Thank God It’s Thursday). In addition to promoting the shows, ABC encouraged viewers to make popcorn, drink red wine, and enjoy the evening.
 
+- "Word": Air
+  - "Lemma": Air
+  - "Pronunciation": /ɛr/
+  - "POS": Verb
+  - "Definition": Broadcast (a program or some information) on television or radio.
+  - "Translation": 播放
+  - "Context": The company would air three shows created by screenwriter Shonda Rhimes—Grey’s Anatomy, Scandal, and How to Get Away with Murder.
+  - "Context_translation": 该公司将播放由编剧Shonda Rhimes创作的三部剧集——《格蕾的解剖》、《丑闻》和《逃脱谋杀》。
+
 Andrew Kubitz, head of scheduling for ABC, described the idea behind the campaign: “We see Thursday night as a viewership opportunity, with either couples or women by themselves who want to sit down and escape and have fun and drink their red wine and have some popcorn.” The brilliance of this strategy is that ABC was associating the thing they needed viewers to do (watch their shows) with activities their viewers already wanted to do (relax, drink wine, and eat popcorn).
+
+- "Word": Campaign
+  - "Lemma": Campaign
+  - "Pronunciation": /kæmˈpeɪn/
+  - "POS": Noun
+  - "Definition": A series of coordinated activities designed to achieve a goal, typically in the context of advertising, politics, or business.
+  - "Translation": 活动，运动
+  - "Context": Head of scheduling for ABC, described the idea behind the campaign.
+  - "Context_translation": ABC的排期负责人描述了这次活动背后的理念。
+- "Word": Viewership
+  - "Lemma": Viewership
+  - "Pronunciation": /ˈvjuːərʃɪp/
+  - "POS": Noun
+  - "Definition": The audience for a particular television program or channel.
+  - "Translation": 观众群
+  - "Context": “We see Thursday night as a viewership opportunity,
+  - "Context_translation": “我们认为周四晚上是一个吸引观众的机会，
 
 Over time, people began to connect watching ABC with feeling relaxed and entertained. If you drink red wine and eat popcorn at 8 p.m. every Thursday, then eventually “8 p.m. on Thursday” means relaxation and entertainment. The reward gets associated with the cue, and the habit of turning on the television becomes more attractive.
 
 You’re more likely to find a behavior attractive if you get to do one of your favorite things at the same time. Perhaps you want to hear about the latest celebrity gossip, but you need to get in shape. Using temptation bundling, you could only read the tabloids and watch reality shows at the gym. Maybe you want to get a pedicure, but you need to clean out your email inbox. Solution: only get a pedicure while processing overdue work emails.
 
+- "Phrase": Celebrity gossip
+  - "Lemma": Celebrity gossip
+  - "Pronunciation": /sɪˈlɛbrɪti ˈgɒsɪp/
+  - "POS":
+  - "Definition": Informal conversation or reports about the personal or private affairs of celebrities.
+  - "Translation": 名人八卦
+  - "Context": Perhaps you want to hear about the latest celebrity gossip, but you need to get in shape.
+  - "Context_translation": 也许你想听听最新的名人八卦，但你需要保持身材。
+- "Word": Tabloids
+  - "Lemma": Tabloid
+  - "Pronunciation": /ˈtæblɔɪd/
+  - "POS": Noun
+  - "Definition": A smaller, more sensational newspaper often focusing on sensational stories.
+  - "Translation": 小报
+  - "Context": You could only read the tabloids and watch reality shows at the gym.
+  - "Context_translation": 你只能在健身房阅读小报和观看真人秀。
+- "Word": Pedicure
+  - "Lemma": Pedicure
+  - "Pronunciation": /ˈpedɪkjʊər/
+  - "POS": Noun
+  - "Definition": A cosmetic treatment of the feet and toenails.
+  - "Translation": 修脚
+  - "Context": Maybe you want to get a pedicure, but you need to clean out your email inbox.
+  - "Context_translation": 也许你想做修脚，但你需要清理你的电子邮件收件箱。
+
 Temptation bundling is one way to apply a psychology theory known as Premack’s Principle. Named after the work of professor David Premack, the principle states that “more probable behaviors will reinforce less probable behaviors.” In other words, even if you don’t really want to process overdue work emails, you’ll become conditioned to do it if it means you get to do something you really want to do along the way.
+
+- "Word": Premack’s Principle
+  - "Lemma": Premack’s Principle
+  - "Pronunciation": /ˈprɛmækz ˈprɪnsɪpəl/
+  - "POS":
+  - "Definition": A psychological theory which states that more probable behaviors will reinforce less probable behaviors.
+  - "Translation": 普瑞马克原理
+  - "Context": Temptation bundling is one way to apply a psychology theory known as Premack’s Principle.
+  - "Context_translation": 诱惑捆绑是应用被称为普瑞马克原理的心理学理论的一种方式。
+- "Word": Overdue
+  - "Lemma": Overdue
+  - "Pronunciation": /ˌoʊvərˈduː/
+  - "POS": Adjective
+  - "Definition": Not done, paid, returned, etc., by the expected or required time; late.
+  - "Translation": 逾期的
+  - "Context": if you don’t really want to process overdue work emails
+  - "Context_translation": 如果你真的不想处理逾期的工作电子邮件
 
 You can even combine temptation bundling with the habit stacking strategy we discussed in Chapter 5 to create a set of rules to guide your behavior.
 
@@ -3574,9 +3691,29 @@ After I do ten burpees, I will check Facebook (want).
 
 The hope is that eventually you’ll look forward to calling three clients or doing ten burpees because it means you get to read the latest sports news or check Facebook. Doing the thing you need to do means you get to do the thing you want to do.
 
+- "Word": Burpees
+  - "Lemma": Burpee
+  - "Pronunciation": /ˈbɜːrpiː/
+  - "POS": Noun
+  - "Definition": A physical exercise consisting of a squat thrust made from and ending in a standing position.
+  - "Translation": 波比跳
+  - "Context": I will do ten burpees
+  - "Context_translation": 我将做十个波比跳
+- "Word": Heightened
+  - "Lemma": Heighten
+  - "Pronunciation": /ˈhaɪt(ə)n/
+  - "POS": Verb (used here as an adjective)
+  - "Definition": Make or become more intense.
+  - "Translation": 加强的
+  - "Context": which are heightened versions of reality that increase our desire to take action
+  - "Context_translation": 这些是加强版的现实，增加了我们采取行动的欲望
+
 We began this chapter by discussing supernormal stimuli, which are heightened versions of reality that increase our desire to take action. Temptation bundling is one way to create a heightened version of any habit by connecting it with something you already want. Engineering a truly irresistible habit is a hard task, but this simple strategy can be employed to make nearly any habit more attractive than it would be otherwise.
 
-
+Engineering: 这里的 "Engineering" 不是指工程学，而是指设计或构建的过程。
+truly irresistible: 真正无法抗拒的，"truly" 加强了 "irresistible" 的程度。
+habit: 习惯，指经常性的行为模式。
+hard task: 艰难的任务，意味着需要付出大量努力和资源。
 
 ### summary
 - The 2nd Law of Behavior Change is make it attractive.
