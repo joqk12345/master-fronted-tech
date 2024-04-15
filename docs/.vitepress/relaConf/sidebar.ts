@@ -580,7 +580,6 @@ export const sidebar: DefaultTheme.Sidebar = {
                     link:"/content/English/2024/20240430.md",
                 },
             ],
-            ],
         },
         {
             text: '2024-05',
