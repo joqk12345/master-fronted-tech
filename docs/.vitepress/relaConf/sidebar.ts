@@ -583,6 +583,34 @@ export const sidebar: DefaultTheme.Sidebar = {
             ],
         },
         {
+            text: '2024-05',
+            collapsed: true,
+            items: [
+                {
+                    text:"0501-生产",
+                    link:"/content/English/2024/20240501.md",
+                },
+                {
+                    text:"0502-生产资料",
+                    link:"/content/English/2024/20240502.md",
+                },
+                {
+                    text:"0503-生产资料的来源",
+                    link:"/content/English/2024/20240503.md",
+                },
+                {
+                    text:"0504-生活艰辛的本质",
+                    link:"/content/English/2024/20240504.md",
+                },
+            ],
+        },
+        {
+            text: 'topic',
+            collapsed: true,
+            items: [
+            ],
+        },
+        {
             text: 'topic',
             collapsed: true,
             items: [
