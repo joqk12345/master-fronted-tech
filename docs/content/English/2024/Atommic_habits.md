@@ -3473,6 +3473,12 @@ Your brain has far more neural circuitry allocated for wanting rewards than for 
   - "Translation": 茎
   - "Context": The brain stem, the nucleus accumbens, the ventral tegmental area, the dorsal striatum, the amygdala, and portions of the prefrontal cortex.
   - "Context_translation": 脑干、伏隔核、腹侧被盖区、背侧纹状体、杏仁核以及前额叶皮质的部分区域。
+  - 伏隔核: 负责奖励
+  - 杏仁核： 负责情绪
+  - 前额叶：负责记忆、判断、思考、操作
+  - 【伏隔核】与【纹状体】同是大脑奖赏系统重要的部分，它们能帮助生物适应很多行为。比如觅食成功、达到某些目标、需求得到满足时，大脑的奖赏系统就会激活并释放多巴胺等神经递质，让我们尝尝这胜利的“愉悦感”。
+  - 伏隔核 nucleus accumbens、腹側被蓋區 ventral tegmental area 　腦中多巴胺神經元的聚集區,自腹側被蓋區到伏隔核的多巴胺神經迴路，與天生自然的獎賞效應有密切關連。
+  - 腦幹 brain stem: 　 腦幹（包含中腦、橋腦、延腦三部份）是身體各部位神經將訊息經由脊髓通往腦部的門戶。它負責掌管呼吸、心跳、睡眠等基本的生命活動。
 - "Phrase": Hedonic hot spots
   - "Lemma": Hedonic hot spots
   - "Pronunciation": /hɪˈdɒnɪk hɒt spɒts/
@@ -3481,6 +3487,9 @@ Your brain has far more neural circuitry allocated for wanting rewards than for 
   - "Translation": 快乐热点
   - "Context": They are often referred to as “hedonic hot spots” and are distributed like tiny islands throughout the brain.
   - "Context_translation": 它们通常被称为“快乐热点”，像小岛一样分布在大脑各处。
+- nucleus accumbens 多巴胺核：神经解剖学中的一个多巴胺核，被认为是与成瘾有关的主要核心。
+- nucleus / ˈnuːkliəs / n.  原子核；细胞核；核心，中心；神经核；（彗星的）核
+- accumbens 伏隔
 - "Word": Accumbens
   - "Lemma": Accumbens
   - "Pronunciation": /əˈkʌmbɛnz/
@@ -3489,10 +3498,35 @@ Your brain has far more neural circuitry allocated for wanting rewards than for 
   - "Translation": 伏隔核
   - "Context": Researchers have found that 100 percent of the nucleus accumbens is activated during wanting.
   - "Context_translation": 研究人员发现，在渴望时，伏隔核的100%都会被激活。
+- The nucleus accumbens and the olfactory tubercle collectively form the ventral striatum, which is part of the basal ganglia.
+    - 伏隔核和嗅球共同构成了腹侧纹状体，这是基底节的一部分。
+    - nucleus accumbens: 伏隔核，是大脑的一个部分，与奖赏、快感、恐惧、疼痛等感觉有关。
+    - olfactory tubercle: 嗅球，是大脑的一个部分，与嗅觉有关。
+    - ventral striatum: 腹侧纹状体，是大脑的一个部分，包括伏隔核和嗅球。
+    - basal ganglia: 基底节，是大脑的一组结构，与运动控制、决策、奖赏和惩罚等功能有关。
+    - 腹侧纹状体是基底节的一部分，基底节是大脑的一组结构，与运动控制、决策、奖赏和惩罚等功能有关。
 
 The fact that the brain allocates so much precious space to the regions responsible for craving and desire provides further evidence of the crucial role these processes play. Desire is the engine that drives behavior. Every action is taken because of the anticipation that precedes it. It is the craving that leads to the response.
 
+- craving and desire: 渴望和欲望，这些是人类的基本情感和驱动力。
+- further evidence: 进一步的证据，这里指的是支持某种观点或理论的更多证据。
+- 大脑为负责渴望和欲望的区域分配了如此宝贵的空间，这一事实进一步证明了这些过程所扮演的关键角色。
+- the anticipation: 预期，这里指的是对未来的预期或期待。
+- that precedes it: 在它之前的，这里指的是预期或期待在行动之前产生。
+- 每一个行动都是因为预期的产生而采取的。这句话是在讨论行动和动机的关系。它指出，每一个行动都是由预期或期待驱动的，也就是说，我们在采取行动之前都有一种对未来的预期或期待。这可能是在讨论心理学或行为科学中的一种理论，即行动是由预期或期待驱动的，而不是由外部的刺激或环境因素驱动的。
+- 正是渴望引发了反应。
+- craving: 渴望，指的是强烈的欲望或需求。
+
 These insights reveal the importance of the 2nd Law of Behavior Change. We need to make our habits attractive because it is the expectation of a rewarding experience that motivates us to act in the first place. This is where a strategy known as temptation bundling comes into play.
+
+- "Word": Temptation
+  - "Lemma": Temptation
+  - "Pronunciation": /tempˈteɪʃən/
+  - "POS": Noun
+  - "Definition": A desire to do something, especially something wrong or unwise.
+  - "Translation": 诱惑
+  - "Context": This is where a strategy known as temptation bundling comes into play.
+  - "Context_translation": 这就是所谓的诱惑捆绑策略发挥作用的地方。
 
 ### HOW TO USE TEMPTATION BUNDLING TO MAKE YOUR HABITS MORE ATTRACTIVE
 
@@ -3514,4 +3548,39 @@ Temptation bundling is one way to apply a psychology theory known as Premack’s
 
 You can even combine temptation bundling with the habit stacking strategy we discussed in Chapter 5 to create a set of rules to guide your behavior.
 
+The habit stacking + temptation bundling formula is:
 
+After [CURRENT HABIT], I will [HABIT I NEED].
+
+After [HABIT I NEED], I will [HABIT I WANT].
+
+If you want to read the news, but you need to express more gratitude:
+
+After I get my morning coffee, I will say one thing I’m grateful for that happened yesterday (need).
+
+After I say one thing I’m grateful for, I will read the news (want).
+
+If you want to watch sports, but you need to make sales calls:
+
+After I get back from my lunch break, I will call three potential clients (need).
+
+After I call three potential clients, I will check ESPN (want).
+
+If you want to check Facebook, but you need to exercise more:
+
+After I pull out my phone, I will do ten burpees (need).
+
+After I do ten burpees, I will check Facebook (want).
+
+The hope is that eventually you’ll look forward to calling three clients or doing ten burpees because it means you get to read the latest sports news or check Facebook. Doing the thing you need to do means you get to do the thing you want to do.
+
+We began this chapter by discussing supernormal stimuli, which are heightened versions of reality that increase our desire to take action. Temptation bundling is one way to create a heightened version of any habit by connecting it with something you already want. Engineering a truly irresistible habit is a hard task, but this simple strategy can be employed to make nearly any habit more attractive than it would be otherwise.
+
+
+
+### summary
+- The 2nd Law of Behavior Change is make it attractive.
+- The more attractive an opportunity is, the more likely it is to become habit-forming.
+- Habits are a dopamine-driven feedback loop. When dopamine rises, so does our motivation to act.
+- It is the anticipation of a reward—not the fulfillment of it—that gets us to take action. The greater the anticipation, the greater the dopamine spike.
+- Temptation bundling is one way to make your habits more attractive. The strategy is to pair an action you want to do with an action you need to do.
