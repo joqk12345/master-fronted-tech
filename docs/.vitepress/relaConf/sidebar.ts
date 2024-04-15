@@ -575,6 +575,10 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text:"0429-改变思考及改变命运",
                     link:"/content/English/2024/20240429.md",
                 },
+                {
+                    text:"0430-一个人最好的修行",
+                    link:"/content/English/2024/20240430.md",
+                },
             ],
             ],
         },
