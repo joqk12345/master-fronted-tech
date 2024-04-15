@@ -3453,8 +3453,65 @@ Interestingly, the reward system that is activated in the brain when you receive
   - "Context": This is one reason the anticipation of an experience can often feel better than the attainment of it.
   - "Context_translation": 这就是为什么对某个经历的期待常常比实际获得它感觉更好的一个原因。
 
-
-
 ### THE DOPAMINE SPIKE
 
+Your brain has far more neural circuitry allocated for wanting rewards than for liking them. The wanting centers in the brain are large: the brain stem, the nucleus accumbens, the ventral tegmental area, the dorsal striatum, the amygdala, and portions of the prefrontal cortex. By comparison, the liking centers of the brain are much smaller. They are often referred to as “hedonic hot spots” and are distributed like tiny islands throughout the brain. For instance, researchers have found that 100 percent of the nucleus accumbens is activated during wanting. Meanwhile, only 10 percent of the structure is activated during liking.
+
+- "Word": Circuitry
+  - "Lemma": Circuitry
+  - "Pronunciation": /ˈsɜːrkɪtri/
+  - "POS": Noun
+  - "Definition": The electronic circuits collectively in a piece of equipment or a system.
+  - "Translation": 电路系统
+  - "Context": Your brain has far more neural circuitry allocated for wanting rewards than for liking them.
+  - "Context_translation": 你的大脑分配给渴望奖励的神经电路远多于喜欢奖励的。
+- "Word": Stem
+  - "Lemma": Stem
+  - "Pronunciation": /stem/
+  - "POS": Noun
+  - "Definition": The main body or stalk of a plant or shrub, typically rising above ground but occasionally subterranean.
+  - "Translation": 茎
+  - "Context": The brain stem, the nucleus accumbens, the ventral tegmental area, the dorsal striatum, the amygdala, and portions of the prefrontal cortex.
+  - "Context_translation": 脑干、伏隔核、腹侧被盖区、背侧纹状体、杏仁核以及前额叶皮质的部分区域。
+- "Phrase": Hedonic hot spots
+  - "Lemma": Hedonic hot spots
+  - "Pronunciation": /hɪˈdɒnɪk hɒt spɒts/
+  - "POS":
+  - "Definition": Specific areas in the brain that are responsible for the hedonic or pleasure aspects of reward.
+  - "Translation": 快乐热点
+  - "Context": They are often referred to as “hedonic hot spots” and are distributed like tiny islands throughout the brain.
+  - "Context_translation": 它们通常被称为“快乐热点”，像小岛一样分布在大脑各处。
+- "Word": Accumbens
+  - "Lemma": Accumbens
+  - "Pronunciation": /əˈkʌmbɛnz/
+  - "POS": Noun
+  - "Definition": A region in the basal forebrain rostral to the preoptic area of the hypothalamus. The nucleus accumbens and the olfactory tubercle collectively form the ventral striatum, which is part of the basal ganglia.
+  - "Translation": 伏隔核
+  - "Context": Researchers have found that 100 percent of the nucleus accumbens is activated during wanting.
+  - "Context_translation": 研究人员发现，在渴望时，伏隔核的100%都会被激活。
+
+The fact that the brain allocates so much precious space to the regions responsible for craving and desire provides further evidence of the crucial role these processes play. Desire is the engine that drives behavior. Every action is taken because of the anticipation that precedes it. It is the craving that leads to the response.
+
+These insights reveal the importance of the 2nd Law of Behavior Change. We need to make our habits attractive because it is the expectation of a rewarding experience that motivates us to act in the first place. This is where a strategy known as temptation bundling comes into play.
+
 ### HOW TO USE TEMPTATION BUNDLING TO MAKE YOUR HABITS MORE ATTRACTIVE
+
+Ronan Byrne, an electrical engineering student in Dublin, Ireland, enjoyed watching Netflix, but he also knew that he should exercise more often than he did. Putting his engineering skills to use, Byrne hacked his stationary bike and connected it to his laptop and television. Then he wrote a computer program that would allow Netflix to run only if he was cycling at a certain speed. If he slowed down for too long, whatever show he was watching would pause until he started pedaling again. He was, in the words of one fan, “eliminating obesity one Netflix binge at a time.”
+
+He was also employing temptation bundling to make his exercise habit more attractive. Temptation bundling works by linking an action you want to do with an action you need to do. In Byrne’s case, he bundled watching Netflix (the thing he wanted to do) with riding his stationary bike (the thing he needed to do).
+
+Businesses are masters at temptation bundling. For instance, when the American Broadcasting Company, more commonly known as ABC, launched its Thursday-night television lineup for the 2014–2015 season, they promoted temptation bundling on a massive scale.
+
+Every Thursday, the company would air three shows created by screenwriter Shonda Rhimes—Grey’s Anatomy, Scandal, and How to Get Away with Murder. They branded it as “TGIT on ABC” (TGIT stands for Thank God It’s Thursday). In addition to promoting the shows, ABC encouraged viewers to make popcorn, drink red wine, and enjoy the evening.
+
+Andrew Kubitz, head of scheduling for ABC, described the idea behind the campaign: “We see Thursday night as a viewership opportunity, with either couples or women by themselves who want to sit down and escape and have fun and drink their red wine and have some popcorn.” The brilliance of this strategy is that ABC was associating the thing they needed viewers to do (watch their shows) with activities their viewers already wanted to do (relax, drink wine, and eat popcorn).
+
+Over time, people began to connect watching ABC with feeling relaxed and entertained. If you drink red wine and eat popcorn at 8 p.m. every Thursday, then eventually “8 p.m. on Thursday” means relaxation and entertainment. The reward gets associated with the cue, and the habit of turning on the television becomes more attractive.
+
+You’re more likely to find a behavior attractive if you get to do one of your favorite things at the same time. Perhaps you want to hear about the latest celebrity gossip, but you need to get in shape. Using temptation bundling, you could only read the tabloids and watch reality shows at the gym. Maybe you want to get a pedicure, but you need to clean out your email inbox. Solution: only get a pedicure while processing overdue work emails.
+
+Temptation bundling is one way to apply a psychology theory known as Premack’s Principle. Named after the work of professor David Premack, the principle states that “more probable behaviors will reinforce less probable behaviors.” In other words, even if you don’t really want to process overdue work emails, you’ll become conditioned to do it if it means you get to do something you really want to do along the way.
+
+You can even combine temptation bundling with the habit stacking strategy we discussed in Chapter 5 to create a set of rules to guide your behavior.
+
+

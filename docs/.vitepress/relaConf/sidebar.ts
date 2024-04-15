@@ -559,6 +559,18 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text:"0425-我们是有历史的社群",
                     link:"/content/English/2024/20240425.md",
                 },
+                {
+                    text:"0426-贫富差距的判断标准",
+                    link:"/content/English/2024/20240426.md",
+                },
+                {
+                    text:"0427-如何修复自己的情绪",
+                    link:"/content/English/2024/20240427.md",
+                },
+                {
+                    text:"0428-长期主义是人生的一面镜子",
+                    link:"/content/English/2024/20240428.md",
+                },
             ],
         },
         {
