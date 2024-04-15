@@ -571,6 +571,11 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text:"0428-长期主义是人生的一面镜子",
                     link:"/content/English/2024/20240428.md",
                 },
+                {
+                    text:"0429-改变思考及改变命运",
+                    link:"/content/English/2024/20240429.md",
+                },
+            ],
             ],
         },
         {
