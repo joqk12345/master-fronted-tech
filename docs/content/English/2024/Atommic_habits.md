@@ -3721,3 +3721,25 @@ hard task: 艰难的任务，意味着需要付出大量努力和资源。
 - Habits are a dopamine-driven feedback loop. When dopamine rises, so does our motivation to act.
 - It is the anticipation of a reward—not the fulfillment of it—that gets us to take action. The greater the anticipation, the greater the dopamine spike.
 - Temptation bundling is one way to make your habits more attractive. The strategy is to pair an action you want to do with an action you need to do.
+
+## chapter09 The Role of Family and Friends in Shaping Your Habits
+
+IN 1965, a Hungarian man named Laszlo Polgar wrote a series of strange letters to a woman named Klara.
+
+Laszlo was a firm believer in hard work. In fact, it was all he believed in: he completely rejected the idea of innate talent. He claimed that with deliberate practice and the development of good habits, a child could become a genius in any field. His mantra was “A genius is not born, but is educated and trained.”
+
+Laszlo believed in this idea so strongly that he wanted to test it with his own children—and he was writing to Klara because he “needed a wife willing to jump on board.” Klara was a teacher and, although she may not have been as adamant as Laszlo, she also believed that with proper instruction, anyone could advance their skills.
+
+Laszlo decided chess would be a suitable field for the experiment, and he laid out a plan to raise his children to become chess prodigies. The kids would be home-schooled, a rarity in Hungary at the time. The house would be filled with chess books and pictures of famous chess players. The children would play against each other constantly and compete in the best tournaments they could find. The family would keep a meticulous file system of the tournament history of every competitor the children faced. Their lives would be dedicated to chess.
+
+Laszlo successfully courted Klara, and within a few years, the Polgars were parents to three young girls: Susan, Sofia, and Judit.
+
+Susan, the oldest, began playing chess when she was four years old. Within six months, she was defeating adults.
+
+Sofia, the middle child, did even better. By fourteen, she was a world champion, and a few years later, she became a grandmaster.
+
+Judit, the youngest, was the best of all. By age five, she could beat her father. At twelve, she was the youngest player ever listed among the top one hundred chess players in the world. At fifteen years and four months old, she became the youngest grandmaster of all time—younger than Bobby Fischer, the previous record holder. For twenty-seven years, she was the number-one-ranked female chess player in the world.
+
+The childhood of the Polgar sisters was atypical, to say the least. And yet, if you ask them about it, they claim their lifestyle was attractive, even enjoyable. In interviews, the sisters talk about their childhood as entertaining rather than grueling. They loved playing chess. They couldn’t get enough of it. Once, Laszlo reportedly found Sofia playing chess in the bathroom in the middle of the night. Encouraging her to go back to sleep, he said, “Sofia, leave the pieces alone!” To which she replied, “Daddy, they won’t leave me alone!”
+
+The Polgar sisters grew up in a culture that prioritized chess above all else—praised them for it, rewarded them for it. In their world, an obsession with chess was normal. And as we are about to see, whatever habits are normal in your culture are among the most attractive behaviors you’ll find.
