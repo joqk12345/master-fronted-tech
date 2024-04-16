@@ -3743,3 +3743,415 @@ Judit, the youngest, was the best of all. By age five, she could beat her father
 The childhood of the Polgar sisters was atypical, to say the least. And yet, if you ask them about it, they claim their lifestyle was attractive, even enjoyable. In interviews, the sisters talk about their childhood as entertaining rather than grueling. They loved playing chess. They couldn’t get enough of it. Once, Laszlo reportedly found Sofia playing chess in the bathroom in the middle of the night. Encouraging her to go back to sleep, he said, “Sofia, leave the pieces alone!” To which she replied, “Daddy, they won’t leave me alone!”
 
 The Polgar sisters grew up in a culture that prioritized chess above all else—praised them for it, rewarded them for it. In their world, an obsession with chess was normal. And as we are about to see, whatever habits are normal in your culture are among the most attractive behaviors you’ll find.
+
+### THE SEDUCTIVE PULL OF SOCIAL NORMS
+
+Humans are herd animals. We want to fit in, to bond with others, and to earn the respect and approval of our peers. Such inclinations are essential to our survival. For most of our evolutionary history, our ancestors lived in tribes. Becoming separated from the tribe—or worse, being cast out—was a death sentence. “The lone wolf dies, but the pack survives.”*
+
+- "Word": Herd
+  - "Lemma": Herd
+  - "Pronunciation": /hɜːrd/
+  - "POS": Noun
+  - "Definition": A large group of animals, especially hoofed mammals, that live, feed, or migrate together or are kept together as livestock.
+  - "Translation": 群，兽群
+  - "Context": Humans are herd animals.
+  - "Context_translation": 人类是群居动物。
+- "Word": Seductive
+  - "Lemma": Seductive
+  - "Pronunciation": /sɪˈdʌktɪv/
+  - "POS": Adjective
+  - "Definition": Tempting and attractive; enticing.
+  - "Translation": 诱人的
+  - "Context": THE SEDUCTIVE PULL OF SOCIAL NORMS
+  - "Context_translation": 社会规范的诱人吸引力
+- "Word": Pack
+  - "Lemma": Pack
+  - "Pronunciation": /pæk/
+  - "POS": Noun
+  - "Definition": A group of wild animals, especially wolves, living and hunting together.
+  - "Translation": 群；包
+  - "Context": The lone wolf dies, but the pack survives.
+  - "Context_translation": 孤独的狼会死去，但群体会存活下来。
+
+
+Meanwhile, those who collaborated and bonded with others enjoyed increased safety, mating opportunities, and access to resources. As Charles Darwin noted, “In the long history of humankind, those who learned to collaborate and improvise most effectively have prevailed.” As a result, one of the deepest human desires is to belong. And this ancient preference exerts a powerful influence on our modern behavior.
+
+- "Word": Mating opportunities
+  - "Lemma": Mating opportunity
+  - "Pronunciation": /ˈmeɪtɪŋ ˌɒpəˈtjuːnɪtiz/
+  - "POS": Phrase
+  - "Definition": Chances or occasions for animals to engage in the process of pairing with a partner for reproduction.
+  - "Translation": 交配机会
+  - "Context":
+  - "Context_translation": 动物为了繁殖而与伴侣配对的机会或时机。
+- "Word": Prevailed
+  - "Lemma": Prevail
+  - "Pronunciation": /prɪˈveɪl/
+  - "POS": Verb
+  - "Definition": Prove more powerful or superior; win through.
+  - "Translation": 占优势；胜出
+  - "Context": Those who learned to collaborate and improvise most effectively have prevailed.
+  - "Context_translation": 那些学会最有效地协作和即兴应变的人已经取得了优势。
+- "Word": Exerts
+  - "Lemma": Exert
+  - "Pronunciation": /ɪɡˈzɜːrt/
+  - "POS": Verb
+  - "Definition": Apply or bring to bear (a force, influence, or quality).
+  - "Translation": 施加
+  - "Context": And this ancient preference exerts a powerful influence on our modern behavior.
+  - "Context_translation": 并且这种古老的偏好对我们现代的行为产生了强大的影响。
+
+We don’t choose our earliest habits, we imitate them. We follow the script handed down by our friends and family, our church or school, our local community and society at large. Each of these cultures and groups comes with its own set of expectations and standards—when and whether to get married, how many children to have, which holidays to celebrate, how much money to spend on your child’s birthday party. In many ways, these social norms are the invisible rules that guide your behavior each day. You’re always keeping them in mind, even if they are at the not top of your mind. Often, you follow the habits of your culture without thinking, without questioning, and sometimes without remembering. As the French philosopher Michel de Montaigne wrote, “The customs and practices of life in society sweep us along.”
+
+- "Word": Church
+  - "Lemma": Church
+  - "Pronunciation": /tʃɜːrtʃ/
+  - "POS": Noun
+  - "Definition": A building used for public Christian worship.
+  - "Translation": 教堂
+  - "Context": Our church or school,
+  - "Context_translation": 我们的教堂或学校,
+- "Word": Sweep
+  - "Lemma": Sweep
+  - "Pronunciation": /swiːp/
+  - "POS": Verb
+  - "Definition": Move or push (someone or something) with great force.
+  - "Translation": 席卷
+  - "Context": The customs and practices of life in society sweep us along.
+  - "Context_translation": 社会生活中的习俗和实践将我们席卷。
+
+Most of the time, going along with the group does not feel like a burden. Everyone wants to belong. If you grow up in a family that rewards you for your chess skills, playing chess will seem like a very attractive thing to do. If you work in a job where everyone wears expensive suits, then you’ll be inclined to splurge on one as well. If all of your friends are sharing an inside joke or using a new phrase, you’ll want to do it, too, so they know that you “get it.” Behaviors are attractive when they help us fit in.
+
+- "Word": Burden
+  - "Lemma": Burden
+  - "Pronunciation": /ˈbɜːrdən/
+  - "POS": Noun
+  - "Definition": A load, especially a heavy one.
+  - "Translation": 负担
+  - "Context": Most of the time, going along with the group does not feel like a burden.
+  - "Context_translation": 大多数时候，随着群体行动并不感觉像是一种负担。
+- "Word": Splurge
+  - "Lemma": Splurge
+  - "Pronunciation": /splɜːrdʒ/
+  - "POS": Verb
+  - "Definition": Spend money freely or extravagantly.
+  - "Translation": 挥霍
+  - "Context": Then you’ll be inclined to splurge on one as well.
+  - "Context_translation": 然后你也会倾向于在这上面挥霍。
+
+
+We imitate the habits of three groups in particular:
+
+The close.
+
+The many.
+
+The powerful.
+
+Each group offers an opportunity to leverage the 2nd Law of Behavior Change and make our habits more attractive.
+
+1. Imitating the Close
+Proximity has a powerful effect on our behavior. This is true of the physical environment, as we discussed in Chapter 6, but it is also true of the social environment.
+
+- "Word": Proximity
+  - "Lemma": Proximity
+  - "Pronunciation": /prɒkˈsɪmɪti/
+  - "POS": Noun
+  - "Definition": Nearness in space, time, or relationship.
+  - "Translation": 接近
+  - "Context": Proximity has a powerful effect on our behavior.
+  - "Context_translation": 接近对我们的行为有强大的影响。
+
+We pick up habits from the people around us. We copy the way our parents handle arguments, the way our peers flirt with one another, the way our coworkers get results. When your friends smoke pot, you give it a try, too. When your wife has a habit of double-checking that the door is locked before going to bed, you pick it up as well.
+
+- "Word": Flirt with
+  - "Lemma": Flirt
+  - "Pronunciation": /flɜːrt wɪð/
+  - "POS": Verb phrase
+  - "Definition": Behave as though attracted to or trying to attract someone, but for amusement rather than with serious intentions.
+  - "Translation": 调情
+  - "Context": The way our peers flirt with one another,
+  - "Context_translation": 我们的同龄人之间相互调情的方式，
+
+I find that I often imitate the behavior of those around me without realizing it. In conversation, I’ll automatically assume the body posture of the other person. In college, I began to talk like my roommates. When traveling to other countries, I unconsciously imitate the local accent despite reminding myself to stop.
+
+As a general rule, the closer we are to someone, the more likely we are to imitate some of their habits. One groundbreaking study tracked twelve thousand people for thirty-two years and found that “a person’s chances of becoming obese increased by 57 percent if he or she had a friend who became obese.” It works the other way, too. Another study found that if one person in a relationship lost weight, the other partner would also slim down about one third of the time. Our friends and family provide a sort of invisible peer pressure that pulls us in their direction.
+
+- "Word": Groundbreaking
+  - "Lemma": Groundbreaking
+  - "Pronunciation": /ˈɡraʊndˌbreɪkɪŋ/
+  - "POS": Adjective
+  - "Definition": Being or producing something like nothing done or experienced or created before; innovative.
+  - "Translation": 开创性的
+  - "Context": One groundbreaking study tracked twelve thousand people for thirty-two years and found that “a person’s chances of becoming obese increased by 57 percent if he or she had a friend who became obese.
+  - "Context_translation": 一项开创性的研究跟踪了一万二千人长达三十二年，并发现如果一个人的朋友变得肥胖，他或她变得肥胖的几率会增加57%。
+- "Word": Slim down
+  - "Lemma": Slim down
+  - "Pronunciation": /slɪm daʊn/
+  - "POS": Verb phrase
+  - "Definition": To lose weight, especially intentionally.
+  - "Translation": 减肥
+  - "Context": The other partner would also slim down about one third of the time.
+  - "Context_translation": 另一方也会在大约三分之一的时间里减肥。
+
+Of course, peer pressure is bad only if you’re surrounded by bad influences. When astronaut Mike Massimino was a graduate student at MIT, he took a small robotics class. Of the ten people in the class, four became astronauts. If your goal was to make it into space, then that room was about the best culture you could ask for. Similarly, one study found that the higher your best friend’s IQ at age eleven or twelve, the higher your IQ would be at age fifteen, even after controlling for natural levels of intelligence. We soak up the qualities and practices of those around us.
+- "Word": Soak up
+  - "Lemma": Soak up
+  - "Pronunciation": /soʊk ʌp/
+  - "POS": Verb phrase
+  - "Definition": To absorb or take in something, either literally or figuratively.
+  - "Translation": 吸收
+  - "Context": We soak up the qualities and practices of those around us.
+  - "Context_translation": 我们吸收周围人的品质和习惯。
+
+One of the most effective things you can do to build better habits is to join a culture where your desired behavior is the normal behavior. New habits seem achievable when you see others doing them every day. If you are surrounded by fit people, you’re more likely to consider working out to be a common habit. If you’re surrounded by jazz lovers, you’re more likely to believe it’s reasonable to play jazz every day. Your culture sets your expectation for what is “normal.” Surround yourself with people who have the habits you want to have yourself. You’ll rise together.
+
+To make your habits even more attractive, you can take this strategy one step further.
+
+Join a culture where (1) your desired behavior is the normal behavior and (2) you already have something in common with the group. Steve Kamb, an entrepreneur in New York City, runs a company called Nerd Fitness, which “helps nerds, misfits, and mutants lose weight, get strong, and get healthy.” His clients include video game lovers, movie fanatics, and average Joes who want to get in shape. Many people feel out of place the first time they go to the gym or try to change their diet, but if you are already similar to the other members of the group in some way—say, your mutual love of Star Wars—change becomes more appealing because it feels like something people like you already do.
+
+
+- "Word": Entrepreneur
+  - "Lemma": Entrepreneur
+  - "Pronunciation": /ˌɒn.trə.prəˈnɜːr/
+  - "POS": Noun
+  - "Definition": A person who organizes and operates a business or businesses, taking on greater than normal financial risks in order to do so.
+  - "Translation": 企业家
+  - "Context": Steve Kamb, an entrepreneur in New York
+  - "Context_translation": Steve Kamb，纽约的一位企业家。
+
+Nothing sustains motivation better than belonging to the tribe. It transforms a personal quest into a shared one. Previously, you were on your own. Your identity was singular. You are a reader. You are a musician. You are an athlete. When you join a book club or a band or a cycling group, your identity becomes linked to those around you. Growth and change is no longer an individual pursuit. We are readers. We are musicians. We are cyclists. The shared identity begins to reinforce your personal identity. This is why remaining part of a group after achieving a goal is crucial to maintaining your habits. It’s friendship and community that embed a new identity and help behaviors last over the long run.
+
+- "Word": Sustains
+  - "Lemma": Sustain
+  - "Pronunciation": /səˈsteɪn/
+  - "POS": Verb
+  - "Definition": To strengthen or support physically or mentally; to maintain or prolong.
+  - "Translation": 维持
+  - "Context": Nothing sustains motivation better than belonging to the tribe.
+  - "Context_translation": 没有什么比归属于部落更能维持动力。
+- "Word": Quest
+  - "Lemma": Quest
+  - "Pronunciation": /kwest/
+  - "POS": Noun
+  - "Definition": A long or arduous search for something.
+  - "Translation": 追求
+  - "Context": It transforms a personal quest into a shared one.
+  - "Context_translation": 它将个人的追求转化为共享的追求。
+- "Word": Pursuit
+  - "Lemma": Pursuit
+  - "Pronunciation": /pərˈsuːt/
+  - "POS": Noun
+  - "Definition": The action of following or pursuing something or someone.
+  - "Translation": 追求
+  - "Context": Growth and change is no longer an individual pursuit.
+  - "Context_translation": 成长和变化不再是个人的追求。
+- "Word": Maintaining
+  - "Lemma": Maintain
+  - "Pronunciation": /meɪnˈteɪnɪŋ/
+  - "POS": Verb
+  - "Definition": To cause or enable a condition or state of affairs to continue.
+  - "Translation": 维持
+  - "Context": This is why remaining part of a group after achieving a goal is crucial to maintaining your habits.
+  - "Context_translation": 这就是为什么在达成目标后仍然是团队的一部分对于维持你的习惯至关重要。
+- "Word": Embed
+  - "Lemma": Embed
+  - "Pronunciation": /ɪmˈbɛd/
+  - "POS": Verb
+  - "Definition": To fix an object firmly and deeply in a surrounding mass.
+  - "Translation": 植入
+  - "Context": It’s friendship and community that embed a new identity and help behaviors last over the long run.
+  - "Context_translation": 正是友谊和社区植入了新的身份，并帮助行为在长远中持续下去。
+
+2. Imitating the Many
+In the 1950s, psychologist Solomon Asch conducted a series of experiments that are now taught to legions of undergrads each year. To begin each experiment, the subject entered the room with a group of strangers. Unbeknownst to them, the other participants were actors planted by the researcher and instructed to deliver scripted answers to certain questions.
+
+- "Word": Legions
+  - "Lemma": Legion
+  - "Pronunciation": /ˈliːdʒən/
+  - "POS": Noun
+  - "Definition": A vast number of people or things.
+  - "Translation": 大量
+  - "Context": Taught to legions of undergrads each year.
+  - "Context_translation": 每年教给大量的本科生。
+- "Word": Unbeknownst
+  - "Lemma": Unbeknownst
+  - "Pronunciation": /ˌʌnbɪˈnəʊnst/
+  - "POS": Adjective
+  - "Definition": Without the knowledge of (someone).
+  - "Translation": 未被察觉
+  - "Context": Unbeknownst to them,
+  - "Context_translation": 未被他们察觉，
+
+The group would be shown one card with a line on it and then a second card with a series of lines. Each person was asked to select the line on the second card that was similar in length to the line on the first card. It was a very simple task. Here is an example of two cards used in the experiment:
+
+
+### CONFORMING TO SOCIAL NORMS
+
+The experiment always began the same. First, there would be some easy trials where everyone agreed on the correct line. After a few rounds, the participants were shown a test that was just as obvious as the previous ones, except the actors in the room would select an intentionally incorrect answer. For example, they would respond “A” to the comparison shown in Figure 10. Everyone would agree that the lines were the same even though they were clearly different.
+
+- "Word": Intentionally
+  - "Lemma": Intentional
+  - "Pronunciation": /ɪnˈtenʃənəli/
+  - "POS": Adverb
+  - "Definition": Done on purpose; deliberate.
+  - "Translation": 故意地
+  - "Context": The actors in the room would select an intentionally incorrect answer.
+  - "Context_translation": 房间里的演员会故意选择一个错误的答案。
+
+The subject, who was unaware of the ruse, would immediately become bewildered. Their eyes would open wide. They would laugh nervously to themselves. They would double-check the reactions of other participants. Their agitation would grow as one person after another delivered the same incorrect response. Soon, the subject began to doubt their own eyes. Eventually, they delivered the answer they knew in their heart to be incorrect.
+
+- "Word": Bewildered
+  - "Lemma": Bewilder
+  - "Pronunciation": /bɪˈwɪldər/
+  - "POS": Adjective
+  - "Definition": Cause (someone) to become perplexed and confused.
+  - "Translation": 困惑的
+  - "Context": The subject, who was unaware of the ruse, would immediately become bewildered.
+  - "Context_translation": 这个毫不知情的对象会立刻变得困惑。
+- "Word": Agitation
+  - "Lemma": Agitation
+  - "Pronunciation": /ˌadʒɪˈteɪʃ(ə)n/
+  - "POS": Noun
+  - "Definition": A state of anxiety or nervous excitement.
+  - "Translation": 焦虑
+  - "Context": Their agitation would grow as one person after another delivered the same incorrect response.
+  - "Context_translation": 随着一个又一个人给出相同的错误回答，他们的焦虑会增加。
+- "Word": Subject
+  - "Lemma": Subject
+  - "Pronunciation": /ˈsʌbdʒɪkt/
+  - "POS": Noun
+  - "Definition": A person or thing that is being discussed, described, or dealt with.
+  - "Translation": 主题，对象
+  - "Context": The subject began to doubt their own eyes.
+  - "Context_translation": 这个对象开始怀疑自己的眼睛。
+
+Asch ran this experiment many times and in many different ways. What he discovered was that as the number of actors increased, so did the conformity of the subject. If it was just the subject and one actor, then there was no effect on the person’s choice. They just assumed they were in the room with a dummy. When two actors were in the room with the subject, there was still little impact. But as the number of people increased to three actors and four and all the way to eight, the subject became more likely to second-guess themselves. By the end of the experiment, nearly 75 percent of the subjects had agreed with the group answer even though it was obviously incorrect.
+
+- "Word": Asch
+  - "Lemma": Asch
+  - "Pronunciation": /æʃ/
+  - "POS": Proper Noun
+  - "Definition": Refers to Solomon Asch, a psychologist known for his experiments on conformity.
+  - "Translation": 阿希
+  - "Context": Asch ran this experiment many times and in many different ways.
+  - "Context_translation": 阿希以许多不同的方式多次进行了这个实验。
+
+Whenever we are unsure how to act, we look to the group to guide our behavior. We are constantly scanning our environment and wondering, “What is everyone else doing?” We check reviews on Amazon or Yelp or TripAdvisor because we want to imitate the “best” buying, eating, and travel habits. It’s usually a smart strategy. There is evidence in numbers.
+
+But there can be a downside.
+
+The normal behavior of the tribe often overpowers the desired behavior of the individual. For example, one study found that when a chimpanzee learns an effective way to crack nuts open as a member of one group and then switches to a new group that uses a less effective strategy, it will avoid using the superior nut cracking method just to blend in with the rest of the chimps.
+
+- "Word": Overpowers
+  - "Lemma": Overpower
+  - "Pronunciation": /ˌoʊvərˈpaʊər/
+  - "POS": Verb
+  - "Definition": To defeat or overcome with superior strength; to have a strong or overwhelming effect on.
+  - "Translation": 压倒，战胜
+  - "Context": The normal behavior of the tribe often overpowers the desired behavior of the individual.
+  - "Context_translation": 部落的正常行为通常会压倒个人的期望行为。
+- "Word": Chimpanzee
+  - "Lemma": Chimpanzee
+  - "Pronunciation": /ˌtʃɪm.pænˈziː/
+  - "POS": Noun
+  - "Definition": A great ape with large ears, mainly black coloration, and lighter skin on the face, native to the forests of west and central Africa.
+  - "Translation": 黑猩猩
+  - "Context": One study found that when a chimpanzee learns an effective way to crack nuts open as a member of one group and then switches to a new group that uses a less effective strategy.
+  - "Context_translation": 一项研究发现，当一只黑猩猩作为一个群体的成员学会了一种有效的破坚果的方法，然后转移到一个使用较不有效策略的新群体时。
+
+Humans are similar. There is tremendous internal pressure to comply with the norms of the group. The reward of being accepted is often greater than the reward of winning an argument, looking smart, or finding truth. Most days, we’d rather be wrong with the crowd than be right by ourselves.
+
+- "Word": Accepted
+  - "Lemma": Accept
+  - "Pronunciation": /əkˈsept/
+  - "POS": Verb
+  - "Definition": To consider or hold as true; to receive favorably.
+  - "Translation": 被接受
+  - "Context": The reward of being accepted is often greater than the reward of winning an argument, looking smart, or finding truth. Most days, we’d rather be wrong with the crowd than be right by ourselves.
+  - "Context_translation": 被接受的回报通常比赢得争论、看起来聪明或寻找真理的回报更大。大多数时候，我们宁愿和人群一起错，也不愿意独自正确。
+
+The human mind knows how to get along with others. It wants to get along with others. This is our natural mode. You can override it—you can choose to ignore the group or to stop caring what other people think—but it takes work. Running against the grain of your culture requires extra effort.
+
+When changing your habits means challenging the tribe, change is unattractive. When changing your habits means fitting in with the tribe, change is very attractive.
+
+- "Word": Fitting in
+  - "Lemma": Fit in
+  - "Pronunciation": /ˈfɪtɪŋ ɪn/
+  - "POS": (Phrase)
+  - "Definition": To be in agreement with the environment or a situation; to be accepted by a group.
+  - "Translation": 融入
+  - "Context": When changing your habits means fitting in with the tribe, change is very attractive.
+  - "Context_translation": 当改变你的习惯意味着与部落融为一体时，改变就显得非常有吸引力。
+  
+
+3. Imitating the Powerful
+Humans everywhere pursue power, prestige, and status. We want pins and medallions on our jackets. We want President or Partner in our titles. We want to be acknowledged, recognized, and praised. This tendency can seem vain, but overall, it’s a smart move. Historically, a person with greater power and status has access to more resources, worries less about survival, and proves to be a more attractive mate.
+
+- "Word": Prestige
+  - "Lemma": Prestige
+  - "Pronunciation": /prɛˈstiːʒ/
+  - "POS": Noun
+  - "Definition": Widespread respect and admiration felt for someone or something on the basis of a perception of their achievements or quality.
+  - "Translation": 威望
+  - "Context": Humans everywhere pursue power, prestige, and status.
+  - "Context_translation": 人们无处不在追求权力、威望和地位。
+- "Word": Medallions
+  - "Lemma": Medallion
+  - "Pronunciation": /mɪˈdæli.ən/
+  - "POS": Noun
+  - "Definition": A large medal, or a piece of metal or other material, typically round and decorative, that is worn as jewelry or displayed as a collector's item.
+  - "Translation": 勋章
+  - "Context": We want pins and medallions on our jackets.
+  - "Context_translation": 我们想在我们的夹克上佩戴别针和勋章。
+- "Word": Mate
+  - "Lemma": Mate
+  - "Pronunciation": /meɪt/
+  - "POS": Noun
+  - "Definition": A partner in marriage; a spouse. In a broader context, it could also refer to a sexual partner, especially in animals.
+  - "Translation": 配偶
+  - "Context": A person with greater power and status has access to more resources, worries less about survival, and proves to be a more attractive mate.
+  - "Context_translation": 拥有更大权力和地位的人可以获得更多资源，对生存的担忧较少，证明是更具吸引力的配偶。
+
+We are drawn to behaviors that earn us respect, approval, admiration, and status. We want to be the one in the gym who can do muscle-ups or the musician who can play the hardest chord progressions or the parent with the most accomplished children because these things separate us from the crowd. Once we fit in, we start looking for ways to stand out.
+
+- "Word": Drawn
+  - "Lemma": Draw
+  - "Pronunciation": /drɔːn/
+  - "POS": Verb
+  - "Definition": Lead or cause to go in a particular direction, attract or elicit.
+  - "Translation": 吸引
+  - "Context": We are drawn to behaviors that earn us respect, approval, admiration, and status.
+  - "Context_translation": 我们被那些能赢得我们尊重、赞同、钦佩和地位的行为所吸引。
+
+
+This is one reason we care so much about the habits of highly effective people. We try to copy the behavior of successful people because we desire success ourselves. Many of our daily habits are imitations of people we admire. You replicate the marketing strategies of the most successful firms in your industry. You make a recipe from your favorite baker. You borrow the storytelling strategies of your favorite writer. You mimic the communication style of your boss. We imitate people we envy.
+
+- "Word": Mimic
+  - "Lemma": Mimic
+  - "Pronunciation": /ˈmɪmɪk/
+  - "POS": Verb
+  - "Definition": Imitate (someone or their actions or words), typically in order to entertain or ridicule.
+  - "Translation": 模仿
+  - "Context": You mimic the communication style of your boss.
+  - "Context_translation": 你模仿你老板的沟通方式。
+
+High-status people enjoy the approval, respect, and praise of others. And that means if a behavior can get us approval, respect, and praise, we find it attractive.
+
+We are also motivated to avoid behaviors that would lower our status. We trim our hedges and mow our lawn because we don’t want to be the slob of the neighborhood. When our mother comes to visit, we clean up the house because we don’t want to be judged. We are continually wondering “What will others think of me?” and altering our behavior based on the answer.
+
+- "Word": Trim
+  - "Lemma": Trim
+  - "Pronunciation": /trɪm/
+  - "POS": Verb
+  - "Definition": Make something neat or of the required size or form by cutting away irregular or unwanted parts.
+  - "Translation": 修剪
+  - "Context": We trim our hedges and mow our lawn because we don’t want to be the slob of the neighborhood.
+  - "Context_translation": 我们修剪树篱并割草坪，因为我们不想成为邻里中的邋遢鬼。
+
+
+The Polgar sisters—the chess prodigies mentioned at the beginning of this chapter—are evidence of the powerful and lasting impact social influences can have on our behavior. The sisters practiced chess for many hours each day and continued this remarkable effort for decades. But these habits and behaviors maintained their attractiveness, in part, because they were valued by their culture. From the praise of their parents to the achievement of different status markers like becoming a grandmaster, they had many reasons to continue their effort.
+
+
+
+
