@@ -601,6 +601,10 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text:"0504-生活艰辛的本质",
                     link:"/content/English/2024/20240504.md",
                 },
+                {
+                    text:"0505-人们不喜欢的工作",
+                    link:"/content/English/2024/20240505.md",
+                },
             ],
         },
         {
