@@ -4153,5 +4153,34 @@ We are also motivated to avoid behaviors that would lower our status. We trim ou
 The Polgar sisters—the chess prodigies mentioned at the beginning of this chapter—are evidence of the powerful and lasting impact social influences can have on our behavior. The sisters practiced chess for many hours each day and continued this remarkable effort for decades. But these habits and behaviors maintained their attractiveness, in part, because they were valued by their culture. From the praise of their parents to the achievement of different status markers like becoming a grandmaster, they had many reasons to continue their effort.
 
 
-
-
+### summary
+- The culture we live in determines which behaviors are attractive to us.
+- We tend to adopt habits that are praised and approved of by our culture because we have a strong desire to fit in and belong to the tribe.
+- We tend to imitate the habits of three social groups: the close (family and friends), the many (the tribe), and the powerful (those with status and prestige).
+- "Word": Imitate
+  - "Lemma": Imitate
+  - "Pronunciation": /ˈɪmɪteɪt/
+  - "POS": Verb
+  - "Definition": Take or follow as a model.
+  - "Translation": 模仿
+  - "Context": We tend to imitate the habits of three social groups: the close (family and friends), the many (the tribe), and the powerful (those with status and prestige).
+  - "Context_translation": 我们倾向于模仿三个社会群体的习惯：亲近的（家人和朋友）、众多的（部落）、有权势的（那些有地位和声望的人）。
+- "Word": Status
+  - "Lemma": Status
+  - "Pronunciation": /ˈsteɪtəs/
+  - "POS": Noun
+  - "Definition": The relative social, professional, or other standing of someone or something.
+  - "Translation": 地位
+  - "Context": those with status and prestige
+  - "Context_translation": 那些有地位和声望的人
+- One of the most effective things you can do to build better habits is to join a culture where (1) your desired behavior is the normal behavior and (2) you already have something in common with the group.
+- The normal behavior of the tribe often overpowers the desired behavior of the individual. Most days, we’d rather be wrong with the crowd than be right by ourelves.
+- "Word": Overpowers
+  - "Lemma": Overpower
+  - "Pronunciation": /ˌoʊvɚˈpaʊɚ/
+  - "POS": Verb
+  - "Definition": Defeat or overcome with superior strength.
+  - "Translation": 压倒
+  - "Context": The normal behavior of the tribe often overpowers the desired behavior of the individual.
+  - "Context_translation": 部落的正常行为通常会压倒个人的期望行为。
+- If a behavior can get us approval, respect, and praise, we find it attractive.
