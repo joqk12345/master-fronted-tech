@@ -88,7 +88,7 @@ export const sidebar: DefaultTheme.Sidebar = {
     'content/English/2024/': [
         {
             text: '2024-01',
-            collapsed: true,
+            collapsed: false,
             items: [
                 {
                     text: '0109-任务启动',
