@@ -4184,3 +4184,138 @@ The Polgar sisters—the chess prodigies mentioned at the beginning of this chap
   - "Context": The normal behavior of the tribe often overpowers the desired behavior of the individual.
   - "Context_translation": 部落的正常行为通常会压倒个人的期望行为。
 - If a behavior can get us approval, respect, and praise, we find it attractive.
+
+## chapter 10 How to Find and Fix the Causes of Your Bad Habits
+
+IN LATE 2012, I was sitting in an old apartment just a few blocks from Istanbul’s most famous street, Istiklal Caddesi. I was in the middle of a four-day trip to Turkey and my guide, Mike, was relaxing in a worn-out armchair a few feet away.
+
+- "Word": Apartment
+  - "Lemma": Apartment
+  - "Pronunciation": /əˈpɑːrtmənt/
+  - "POS": Noun
+  - "Definition": A suite of rooms forming one residence, typically in a building containing a number of these.
+  - "Translation": 公寓
+  - "Context": I was sitting in an old apartment just a few blocks from Istanbul’s most famous street.
+  - "Context_translation": 我坐在离伊斯坦布尔最著名的街道只有几个街区的一座老公寓里。
+- "Word": Istiklal Caddesi
+  - "Lemma": Istiklal Caddesi
+  - "Pronunciation": /isˈtiklal ˈdʒaddesi/
+  - "POS": (Proper Noun)
+  - "Definition": One of the most famous avenues in Istanbul, Turkey, visited by nearly 3 million people in a single day over the course of weekends.
+  - "Translation": 独立大街
+  - "Context": Istiklal Caddesi
+  - "Context_translation": 独立大街
+- "Word": Worn-out
+  - "Lemma": Worn-out
+  - "Pronunciation": /ˈwɔːrnˌaʊt/
+  - "POS": Adjective
+  - "Definition": Extremely tired; exhausted.
+  - "Translation": 疲惫不堪
+  - "Context": was relaxing in a worn-out armchair a few feet away.
+  - "Context_translation": 正在几英尺外的一张破旧的扶手椅中放松。
+
+Mike wasn’t really a guide. He was just a guy from Maine who had been living in Turkey for five years, but he offered to show me around while I was visiting the country and I took him up on it. On this particular night, I had been invited to dinner with him and a handful of his Turkish friends.
+
+- "Word": Maine
+  - "Lemma": Maine
+  - "Pronunciation": /meɪn/
+  - "POS": (Proper Noun)
+  - "Definition": A state in the New England region of the northeastern United States, known for its jagged, rocky coastline; low, rolling mountains; heavily forested interior; and picturesque waterways, as well as its seafood cuisine, especially lobster and clams.
+  - "Translation": 缅因州
+  - "Context": He was just a guy from Maine who had been living in Turkey for five years,
+  - "Context_translation": 他只是一个在土耳其生活了五年的缅因州人。
+- "Word": Handful
+  - "Lemma": Handful
+  - "Pronunciation": /ˈhændfʊl/
+  - "POS": Noun
+  - "Definition": A small number or amount.
+  - "Translation": 少量
+  - "Context": I had been invited to dinner with him and a handful of his Turkish friends.
+  - "Context_translation": 我被邀请和他以及他的一些土耳其朋友一起吃晚饭。
+
+There were seven of us, and I was the only one who hadn’t, at some point, smoked at least one pack of cigarettes per day. I asked one of the Turks how he got started. “Friends,” he said. “It always starts with your friends. One friend smokes, then you try it.”
+
+What was truly fascinating was that half of the people in the room had managed to quit smoking. Mike had been smoke-free for a few years at that point, and he swore up and down that he broke the habit because of a book called Allen Carr’s Easy Way to Stop Smoking.
+
+- "Word": Swore up and down
+  - "Lemma": Swear up and down
+  - "Pronunciation": /swɔːr ʌp ənd daʊn/
+  - "POS": Phrase
+  - "Definition": To insist vehemently; to assert strongly.
+  - "Translation": 断言；坚决地说
+  - "Context": he swore up and down that he broke the habit because of a book called Allen Carr’s Easy Way to Stop Smoking.
+  - "Context_translation": 他坚决地说，是因为一本名为《艾伦·卡尔的戒烟简易法》的书，他才戒掉了烟瘾。
+
+“It frees you from the mental burden of smoking,” he said. “It tells you: ‘Stop lying to yourself. You know you don’t actually want to smoke. You know you don’t really enjoy this.’ It helps you feel like you’re not the victim anymore. You start to realize that you don’t need to smoke.”
+
+- "Word": Burden
+  - "Lemma": Burden
+  - "Pronunciation": /ˈbɜːrdən/
+  - "POS": Noun
+  - "Definition": A load, especially a heavy one.
+  - "Translation": 负担
+  - "Context": It frees you from the mental burden of smoking,
+  - "Context_translation": 它解放了你心理上对吸烟的负担，
+
+I had never tried a cigarette, but I took a look at the book afterward out of curiosity. The author employs an interesting strategy to help smokers eliminate their cravings. He systematically reframes each cue associated with smoking and gives it a new meaning.
+
+- "Word": Employs
+  - "Lemma": Employ
+  - "Pronunciation": /ɪmˈplɔɪz/
+  - "POS": Verb
+  - "Definition": Make use of.
+  - "Translation": 使用
+  - "Context": The author employs an interesting strategy to help smokers eliminate their cravings.
+  - "Context_translation": 作者使用了一个有趣的策略来帮助吸烟者消除他们的渴望。
+- "Word": Reframes
+  - "Lemma": Reframe
+  - "Pronunciation": /riːˈfreɪm/
+  - "POS": Verb
+  - "Definition": Frame or express (words, a concept, etc.) differently.
+  - "Translation": 重新构架
+  - "Context": He systematically reframes each cue associated with smoking and gives it a new meaning.
+  - "Context_translation": 他系统地重新构架与吸烟相关的每一个线索，并赋予它新的含义。
+
+He says things like:
+
+You think you are quitting something, but you’re not quitting anything because cigarettes do nothing for you.
+
+- "Word": Quitting
+  - "Lemma": Quit
+  - "Pronunciation": /kwɪt/
+  - "POS": Verb
+  - "Definition": Leave (a place), usually permanently.
+  - "Translation": 放弃
+  - "Context": You think you are quitting something
+  - "Context_translation": 你认为你在放弃某件事
+
+You think smoking is something you need to do to be social, but it’s not. You can be social without smoking at all.
+
+You think smoking is about relieving stress, but it’s not. Smoking does not relieve your nerves, it destroys them.
+
+- "Word": Relieve
+  - "Lemma": Relieve
+  - "Pronunciation": /rɪˈliːv/
+  - "POS": Verb
+  - "Definition": Cause (pain, distress, or difficulty) to become less severe or serious.
+  - "Translation": 缓解
+  - "Context": Smoking does not relieve your nerves,
+  - "Context_translation": 吸烟并不能缓解你的神经紧张，
+
+Over and over, he repeats these phrases and others like them. “Get it clearly into your mind,” he says. “You are losing nothing and you are making marvelous positive gains not only in health, energy and money but also in confidence, self-respect, freedom and, most important of all, in the length and quality of your future life.”
+
+- "Word": Marvelous
+  - "Lemma": Marvelous
+  - "Pronunciation": /ˈmɑːrvələs/
+  - "POS": Adjective
+  - "Definition": Extremely good or pleasing; splendid.
+  - "Translation": 极好的
+  - "Context": making marvelous positive gains not only in health,
+  - "Context_translation": 不仅在健康上取得了极好的积极进步，
+
+By the time you get to the end of the book, smoking seems like the most ridiculous thing in the world to do. And if you no longer expect smoking to bring you any benefits, you have no reason to smoke. It is an inversion of the 2nd Law of Behavior Change: make it unattractive.
+
+Now, I know this idea might sound overly simplistic. Just change your mind and you can quit smoking. But stick with me for a minute.
+
+
+
