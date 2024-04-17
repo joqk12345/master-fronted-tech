@@ -4321,25 +4321,53 @@ Now, I know this idea might sound overly simplistic. Just change your mind and y
 
 Every behavior has a surface level craving and a deeper, underlying motive. I often have a craving that goes something like this: “I want to eat tacos.” If you were to ask me why I want to eat tacos, I wouldn’t say, “Because I need food to survive.” But the truth is, somewhere deep down, I am motivated to eat tacos because I have to eat to survive. The underlying motive is to obtain food and water even if my specific craving is for a taco.
 
+- "Word": Taco
+  - "Lemma": Taco
+  - "Pronunciation": /ˈtɑːkoʊ/
+  - "POS": Noun
+  - "Definition": A Mexican dish consisting of a tortilla typically filled with various ingredients, such as meat, beans, vegetables, and cheese, and often served with salsa or guacamole.
+  - "Translation": 墨西哥卷饼
+  - "Context": even if my specific craving is for a taco.
+  - "Context_translation": 即使我特别渴望吃一份墨西哥卷饼。
+
 Some of our underlying motives include:*
 
-Conserve energy
-
-Obtain food and water
-
-Find love and reproduce
-
-Connect and bond with others
-
-Win social acceptance and approval
-
-Reduce uncertainty
-
-Achieve status and prestige
+* Conserve energy
+- "Word": Conserve
+  - "Lemma": Conserve
+  - "Pronunciation": /kənˈsɜːrv/
+  - "POS": Verb
+  - "Definition": Protect (something, especially an environmentally or culturally important place or thing) from harm or destruction.
+  - "Translation": 保存
+  - "Context": Conserve energy
+  - "Context_translation": 节约能源
+* Obtain food and water
+* Find love and reproduce
+* Connect and bond with others
+* Win social acceptance and approval
+* Reduce uncertainty
+- "Word": Uncertainty
+  - "Lemma": Uncertainty
+  - "Pronunciation": /ʌnˈsɜːrtənti/
+  - "POS": Noun
+  - "Definition": The state of being uncertain or not knowing what will happen.
+  - "Translation": 不确定性
+  - "Context": Reduce uncertainty
+  - "Context_translation": 减少不确定性
+* Achieve status and prestige
 
 A craving is just a specific manifestation of a deeper underlying motive. Your brain did not evolve with a desire to smoke cigarettes or to check Instagram or to play video games. At a deep level, you simply want to reduce uncertainty and relieve anxiety, to win social acceptance and approval, or to achieve status.
 
 Look at nearly any product that is habit-forming and you’ll see that it does not create a new motivation, but rather latches onto the underlying motives of human nature.
+
+- "Word": Latches
+  - "Lemma": Latch
+  - "Pronunciation": /lætʃ/
+  - "POS": Verb
+  - "Definition": To grasp or attach oneself firmly to something.
+  - "Translation": 抓住
+  - "Context": but rather latches onto the underlying motives of human nature.
+  - "Context_translation": 而是紧紧抓住人类本性的潜在动机。
 
 Find love and reproduce = using Tinder
 
@@ -4353,9 +4381,35 @@ Achieve status and prestige = playing video games
 
 Your habits are modern-day solutions to ancient desires. New versions of old vices. The underlying motives behind human behavior remain the same. The specific habits we perform differ based on the period of history.
 
+- "Word": Vices
+  - "Lemma": Vice
+  - "Pronunciation": /vaɪs/
+  - "POS": Noun
+  - "Definition": Immoral or wicked behavior.
+  - "Translation": 恶习
+  - "Context": New versions of old vices.
+  - "Context_translation": 旧恶习的新版本。
+
 Here’s the powerful part: there are many different ways to address the same underlying motive. One person might learn to reduce stress by smoking a cigarette. Another person learns to ease their anxiety by going for a run. Your current habits are not necessarily the best way to solve the problems you face; they are just the methods you learned to use. Once you associate a solution with the problem you need to solve, you keep coming back to it.
 
 Habits are all about associations. These associations determine whether we predict a habit to be worth repeating or not. As we covered in our discussion of the 1st Law, your brain is continually absorbing information and noticing cues in the environment. Every time you perceive a cue, your brain runs a simulation and makes a prediction about what to do in the next moment.
+
+- "Word": Absorbing
+  - "Lemma": Absorb
+  - "Pronunciation": /əbˈzɔːrbɪŋ/
+  - "POS": Verb
+  - "Definition": To take in or soak up something.
+  - "Translation": 吸收
+  - "Context": your brain is continually absorbing information and noticing cues in the environment.
+  - "Context_translation": 你的大脑不断吸收信息并注意环境中的线索。
+- "Word": Simulation
+  - "Lemma": Simulation
+  - "Pronunciation": /ˌsɪmjʊˈleɪʃən/
+  - "POS": Noun
+  - "Definition": The imitation or representation of the operation or features of one process or system by the operation or features of another.
+  - "Translation": 模拟
+  - "Context": Every time you perceive a cue, your brain runs a simulation and makes a prediction about what to do in the next moment.
+  - "Context_translation": 每当你察觉到线索时，你的大脑会进行模拟并预测下一刻应该做什么。
 
 Cue: You notice that the stove is hot.
 
@@ -4364,6 +4418,15 @@ Prediction: If I touch it I’ll get burned, so I should avoid touching it.
 Cue: You see that the traffic light turned green.
 
 Prediction: If I step on the gas, I’ll make it safely through the intersection and get closer to my destination, so I should step on the gas.
+
+- "Word": Step on
+  - "Lemma": Step on
+  - "Pronunciation": /stɛp ɒn/
+  - "POS": Verb phrase
+  - "Definition": To press down or apply pressure with one's foot onto something, typically a pedal or accelerator.
+  - "Translation": 踩下
+  - "Context": If I step on the gas,
+  - "Context_translation": 如果我踩下油门，
 
 You see a cue, categorize it based on past experience, and determine the appropriate response.
 
