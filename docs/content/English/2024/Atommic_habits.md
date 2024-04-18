@@ -4432,18 +4432,147 @@ You see a cue, categorize it based on past experience, and determine the appropr
 
 This all happens in an instant, but it plays a crucial role in your habits because every action is preceded by a prediction. Life feels reactive, but it is actually predictive. All day long, you are making your best guess of how to act given what you’ve just seen and what has worked for you in the past. You are endlessly predicting what will happen in the next moment.
 
+- "Word": Instant
+  - "Lemma": Instant
+  - "Pronunciation": /ˈɪnstənt/
+  - "POS": Noun
+  - "Definition": A very short period of time; a moment.
+  - "Translation": 瞬间，瞬时
+  - "Context": This all happens in an instant.
+  - "Context_translation": 这一切在瞬间发生。
+- 所有这些都在瞬间发生，但它在你的习惯中起着至关重要的作用，因为每一个行动都是由一个预测先行的。
+- in an instant: 在瞬间，描述的是事情发生的速度非常快。
+- play a crucial role: 起着至关重要的作用，表示某事或某人在某个过程或结果中的影响非常大。
+- habits: 习惯，指的是人们经常做的事情或行为的模式。
+- every action is preceded by a prediction: 每一个行动都是由一个预测先行的，这是描述在做任何事情之前，人们都会有一个预期的结果或预测。
+- 生活给人的感觉是反应式的，但实际上它是预测性的。
+- 这是一个简单句，包含了一个转折关系的并列连词 "but"。"Life" 是主语，"feels" 和 "is" 是系动词，"reactive" 和 "predictive" 是表语，分别描述主语 "Life" 的性质。"actually" 是副词，用来强调 "Life" 实际上是 "predictive"。
+- reactive: 反应式的，指的是对事情的反应而非主动行动。
+- predictive: 预测性的，指的是基于预测或预先判断的方式
+- actually: 实际上，用于强调事实的真相通常与看似的情况不同。
+
 Our behavior is heavily dependent on these predictions. Put another way, our behavior is heavily dependent on how we interpret the events that happen to us, not necessarily the objective reality of the events themselves. Two people can look at the same cigarette, and one feels the urge to smoke while the other is repulsed by the smell. The same cue can spark a good habit or a bad habit depending on your prediction. The cause of your habits is actually the prediction that precedes them.
+
+- 我们的行为很大程度上依赖于我们如何解释发生在我们身上的事件，而不一定是这些事件本身的客观实际情况。
+- heavily dependent: 很大程度上依赖，表示某种强烈的依赖关系。
+- interpret: 解释，指的是理解或解读某事物的意义。
+- events that happen to us: 发生在我们身上的事件，指的是个人经历的事情。
+- not necessarily: 不一定，表示某事不是必然的或总是如此。
+- objective reality: 客观实际，指的是事物真实存在的状态，不受个人感觉或看法的影响。
+- "Word": Repulsed
+  - "Lemma": Repulse
+  - "Pronunciation": /rɪˈpʌls/
+  - "POS": Verb
+  - "Definition": Cause (someone) to feel intense disgust or aversion.
+  - "Translation": 使厌恶，使反感
+  - "Context": the other is repulsed by the smell.
+  - "Context_translation": 另一个人对这种气味感到厌恶。
+- "Word": Precedes
+  - "Lemma": Precede
+  - "Pronunciation": /prɪˈsiːd/
+  - "POS": Verb
+  - "Definition": Come before (something) in time.
+  - "Translation": 先于，在...之前
+  - "Context": The cause of your habits is actually the prediction that precedes them.
+  - "Context_translation": 你的习惯的原因实际上是在它们之前的预测。
 
 These predictions lead to feelings, which is how we typically describe a craving—a feeling, a desire, an urge. Feelings and emotions transform the cues we perceive and the predictions we make into a signal that we can apply. They help explain what we are currently sensing. For instance, whether or not you realize it, you are noticing how warm or cold you feel right now. If the temperature drops by one degree, you probably won’t do anything. If the temperature drops ten degrees, however, you’ll feel cold and put on another layer of clothing. Feeling cold was the signal that prompted you to act. You have been sensing the cues the entire time, but it is only when you predict that you would be better off in a different state that you take action.
 
+**Word:** Perceive
+
+* **Lemma:** Perceive
+* **Pronunciation:** /pərˈsip/
+* **POS:** Verb
+* **Definition:** Become aware or conscious of (something); come to realize or understand.
+* **Translation:** 察觉，感知
+* **Context:** Feelings and emotions transform the cues we perceive and the predictions we make into a signal that we can apply.
+* **Context_translation:** 感情和情绪将我们察觉到的线索和我们所做的预测转化为我们可以运用的信号。
+
+句子结构:
+- 主语: These predictions
+- 谓语: lead to
+- 宾语: feelings
+- 定语从句: which is how we typically describe a craving
+- 同位语从句: a feeling, a desire, an urge
+- 主语: Feelings and emotions
+- 谓语: transform
+- 宾语: the cues we perceive and the predictions we make
+- 补语: into a signal
+- 状语: that we can apply
+
+翻译:
+这些预测引发了感觉，这正是我们通常所说的渴望——一种感觉，一种欲望，一种冲动。感觉和情绪将我们所感知的线索和我们所做的预测转化为我们可以利用的信号。
+
+语法:
+这个句子由两个主要部分组成。第一部分包括一个主句和一个定语从句。主句的主语是 "These predictions"，谓语是 "lead to"，宾语是 "feelings"。定语从句 "which is how we typically describe a craving" 用来进一步解释 "feelings"。同位语从句 "a feeling, a desire, an urge" 进一步详细描述了 "craving"。
+
+第二部分是一个独立的主句，主语是 "Feelings and emotions"，谓语是 "transform"，宾语是 "the cues we perceive and the predictions we make"，这里使用了 "and" 来连接两个宾语。"into a signal" 是宾语补足语，说明了转化的结果。最后，"that we can apply" 是一个定语从句，修饰 "a signal"。
+
+词汇/短语:
+- predictions: 预测，指对未来事件的预先判断。
+- craving: 渴望，指强烈的欲望或需求。
+- feelings: 感觉，指内心的感受或情绪。
+- emotions: 情绪，指情感的状态或反应。
+- transform: 转化，指改变形态或性质。
+- cues: 线索，指提示或信号。
+- signal: 信号，指传递信息的标志或动作。
+- apply: 利用，指使用或实施。
+
+- Phrase: Better off
+- Lemma: Better off
+- Pronunciation: /ˈbɛtər ɒf/
+- POS: Adjective
+- Definition: In a more desirable or advantageous position, especially in terms of economic or material well-being.
+- Translation: 更好
+- Context Translation: 你一直在感知线索，但只有当你预测你在不同的状态下会更好时，你才会采取行动。
+
 A craving is the sense that something is missing. It is the desire to change your internal state. When the temperature falls, there is a gap between what your body is currently sensing and what it wants to be sensing. This gap between your current state and your desired state provides a reason to act.
+
+- **Word**: Sense
+  - **Lemma**: Sense
+  - **Pronunciation**: /sɛns/
+  - **POS**: Noun
+  - **Definition**: A faculty by which the body perceives an external stimulus; one of the faculties of sight, smell, hearing, taste, and touch.
+  - **Translation**: 感觉
+  - **Context**: A craving is the sense that something is missing.
+  - **Context_translation**: 渴望是一种感觉，感觉到某样东西的缺失。
 
 Desire is the difference between where you are now and where you want to be in the future. Even the tiniest action is tinged with the motivation to feel differently than you do in the moment. When you binge-eat or light up or browse social media, what you really want is not a potato chip or a cigarette or a bunch of likes. What you really want is to feel different.
 
+句子结构：
+1. "Even the tiniest action" - 即使是微小的行动。
+2. "is tinged with the motivation" - 具有动机的色彩。
+3. "to feel differently than you do in the moment" - 想要与当前感受不同。
+
+翻译：
+即使是微小的行动也带有想要与当前感受不同的动机。
+
+语法：
+- "Even the tiniest action" 是主语从句，强调即使是最微小的行动。
+- "is tinged with the motivation" 是谓语动词短语，表示行动具有某种动机。
+- "to feel differently than you do in the moment" 是不定式短语，表示想要与当前感受不同。
+
+词汇/短语：
+- Tinged with: 具有...的色彩，带有...的影响。
+- Motivation: 动机，指推动个人行动或行为的内在或外在因素。
+- Feel differently: 感受不同，指希望体验与当前感受不同的情绪或状态。
+- Than: 比，用于比较两个事物或情况之间的差异或关系。
+- In the moment: 在此刻，指当前的时间或情境。
+
 Our feelings and emotions tell us whether to hold steady in our current state or to make a change. They help us decide the best course of action. Neurologists have discovered that when emotions and feelings are impaired, we actually lose the ability to make decisions. We have no signal of what to pursue and what to avoid. As the neuroscientist Antonio Damasio explains, “It is emotion that allows you to mark things as good, bad, or indifferent.”
+
+- 神经学家们已经发现，当情绪和感受受损时，我们实际上失去了做出决策的能力。我们没有追求和避免的信号。
 
 To summarize, the specific cravings you feel and habits you perform are really an attempt to address your fundamental underlying motives. Whenever a habit successfully addresses a motive, you develop a craving to do it again. In time, you learn to predict that checking social media will help you feel loved or that watching YouTube will allow you to forget your fears. Habits are attractive when we associate them with positive feelings, and we can use this insight to our advantage rather than to our detriment.
 
+- **Word**: Detriment
+  - **Lemma**: Detriment
+  - **Pronunciation**: /ˈdetrɪmənt/
+  - **POS**: Noun
+  - **Definition**: The state of being harmed or damaged.
+  - **Translation**: 损害
+  - **Context**: We can use this insight to our advantage rather than to our detriment.
+  - **Context_translation**: 我们可以利用这一洞察为我们带来优势，而不是损害。
 ### HOW TO REPROGRAM YOUR BRAIN TO ENJOY HARD HABITS
 
 You can make hard habits more attractive if you can learn to associate them with a positive experience. Sometimes, all you need is a slight mind-set shift. For instance, we often talk about everything we have to do in a given day. You have to wake up early for work. You have to make another sales call for your business. You have to cook dinner for your family.
