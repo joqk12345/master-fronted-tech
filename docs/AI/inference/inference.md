@@ -434,4 +434,76 @@ In practice, the MQA/GQA architecture has been notably implemented by Google Res
 | PaLM-62B   | 64       | 32      | 1          | 256    | 8192    | MQA       |
 | PaLM-540B  | 118      | 48      | 1          | 384    | 18432   | MQA       |
 
+### What about the hidden dimension of attention heads?
+
+Once again, there is nothing much to gain here if you are not ready to opt for another model. Depending on the model family, the head hidden dimension can be constant across model sizes (e.g. Llama-2, Falcon) so going for a smaller variant from the same family won’t help.
+
+### What about using less bytes per parameter?
+
+Quantizing the KV cache is indeed a great way to drastically reduce its size. However, weight-only quantization algorithms like AWQ [15] or GPTQ [16] won’t help by definition. Only algorithms that quantize both weights and “activations” (i.e. anything that is not a weight) such as LLM.int8()[17] or SmoothQuant [18] would produce a quantized KV cache.
+    - 量化KV缓存确实是大幅减少其大小的好方法。然而，AWQ[15]或GPTQ[16]等仅限权重的量化算法从定义上来说并没有帮助。只有量化权重和“激活”(即任何不是权重的东西)的算法，如LLM.int8()[17]或SmoothQuant[18]，才能产生量化的KV缓存。
+
+Notice that one of the intent of quantization algorithms that work on both weights and activations is to perform the compute-intensive matrix multiplications in lower precision. This gives a performance boost if compute bound like during training but as we will see in the next posts, the autoregressive phase of inference is actually memory-bandwidth bound so being able to compute faster does not bring much value. Since inference is memory-bandwidth bound, we are actually only interested in the reduction of the memory footprint since it means less data transfer.
+    - 注意，同时处理权重和激活的量化算法的目的之一是以较低的精度执行计算密集型矩阵乘法。
+    - 如果在训练期间计算受限，这将提高性能，但正如我们将在下一篇文章中看到的那样，推理的自回归阶段实际上是内存带宽受限的，因此能够更快地计算并没有带来太多价值。
+    - 由于推理受内存带宽限制，我们实际上只对减少内存占用感兴趣，因为这意味着更少的数据传输。
+From that perspective, quantization algorithms like LLM.int8() or SmoothQuant are a bit overkill: quantizing the cached tensors before moving them to GPU memory and dequantizing the same tensors after having fetched them from GPU memory (at the cost of additional overhead) should be enough.
+    - 从这个角度来看，像LLM.int8()或SmoothQuant这样的量化算法有点过头了:在将缓存的张量移动到GPU内存之前对它们进行量化，并在从GPU内存获取它们之后对相同的张量进行去量化(以额外的开销为代价)应该足够了。
+From that perspective, quantization algorithms like LLM.int8() or SmoothQuant are a bit overkill: quantizing the cached tensors before moving them to GPU memory and dequantizing the same tensors after having fetched them from GPU memory (at the cost of additional overhead) should be enough.
+
+A few LLM inference systems already include such a KV caching quantization feature. For example, FlexGen [19] quantizes and stores both the KV cache and the model weights in a 4-bit data format. NVIDIA TensorRT-LLM is capable of quantizing the KV cache in 8-bit data formats (INT8 or FP8). The popular vLLM framework has been supporting KV cache (FP8) quantization since version 0.3.0 as well. Since quantization is performed dynamically at each iteration, no calibration step is required.
+    - 一些LLM推理系统已经包含了这样的KV缓存量化特性。例如，FlexGen[19]将KV缓存和模型权重量化并以4位数据格式存储。NVIDIA TensorRT-LLM能够量化8位数据格式(INT8或FP8)的KV缓存。流行的vLLM框架也从0.3.0版本开始支持KV缓存(FP8)量化。由于量化在每次迭代中都是动态执行的，因此不需要校准步骤。
+
+### On the importance of efficient memory management
+
+Until now, we implicitly assumed that there is no waste in memory: all the reserved memory is used to store tokens and all the available memory can be reserved. In practice, naive memory management strategies can lead to significant part of the memory to be wasted (the PagedAttention paper [20] showed that actual effective memory utilization could be as low as 20%, i.e. 80% waste!):
+    * Since the total sequence length of a request is unknown in advance, we could reserve contiguous memory chunks capable to fit the maximum sequence length. Significant part of this allocation will surely never be used and since unavailable for other requests, wasted (internal memory fragmentation).
+    * Even if the sequence length is know in advance, since memory is consumed gradually but the memory chunks are reserved for the request’s lifetime, shorter requests cannot use still-unused memory chunks.
+    * If we use decoding strategies that produce multiple sequences per request like beam search, the multiple candidate sequences could actually partially share their KV cache. If we do not account for this scenario, we will inevitably waste memory by storing duplicate KV entries that could have been shared.
+
+These shortcomings are exactly what the now popular PagedAttention algorithm aims to solve. PagedAttention allocates fixed-size and relatively small memory chunks called blocks. Each block can contain a fixed number of tokens and if necessary be shared across different requests. On-demand allocation and the small block size alleviates internal memory fragmentation while same-size blocks eliminates external memory fragmentation.
+    - 些缺点正是目前流行的PagedAttention算法旨在解决的。PagedAttention分配固定大小和相对较小的内存块，称为块。每个块可以包含固定数量的令牌，并在必要时跨不同请求共享。按需分配和小块大小减轻了内部内存碎片，而相同大小的块消除了外部内存碎片。
+
+Overall, PagedAttention achieves a near-zero waste in KV cache memory (less than 4% [21]). The previously wasted memory can now be used to fit more requests and therefore to increase throughput. The throughput improvement figures from PagedAttention when it came out were as spectacular as the levels of memory waste were high at the time.
+     - 总的来说，PagedAttention在KV缓存内存中实现了接近零的浪费(小于4%[21])。以前浪费的内存现在可以用来适应更多的请求，从而提高吞吐量。当PagedAttention出现时，它的吞吐量改进数据与当时内存浪费的水平一样惊人。
+
+PagedAttention was first implemented by the vLLM inference system but is now supported by all the major inference frameworks (e.g. HuggingFace TGI, NVIDIA TensorRT-LLM, LMDeploy TurboMind, etc.).
+
+Another possible optimization not covered by PagedAttention is reusing the key-value cache across requests. This would apply when the prompts share a common prefix, which commonly occurs in multi-round use cases like chat and agents or when using prompt templates (Figure 4).
+
+![Image 9: a diagram showing the different stages of a process](https://miro.medium.com/v2/resize:fit:569/1*C9PaYlOPDEg-5Rslyy3GYQ.png)
+
+Figure 4 — KV cache sharing example (multi-turn chat) from the SGLang paper totaling four generation requests. Blue boxes represent shareable prompt parts.
+
+Being able to reuse the KV cache across requests would enable significant latency (especially first token latency) and throughput (by greatly reducing the memory footprint of concurrent requests with a shared prefix) improvements.
+    - 能够跨请求重用KV缓存将显著提高延迟(特别是第一个令牌延迟)和吞吐量(通过使用共享前缀大大减少并发请求的内存占用)。
+
+Instead of discarding the KV cache after finishing a generation request, the RadixAttention algorithm keeps it in GPU memory and adds a new entry to a dedicated data structure (radix tree) that maps the sequence of tokens to their KV cache tensors. When a new request comes in, the scheduler uses the radix tree for prefix matching. If there is a cache hit, the scheduler reuses the cached KV tensors to fulfill the request.
+    - RadixAttention算法没有在完成生成请求后丢弃KV缓存，而是将其保存在GPU内存中，并将新条目添加到专用数据结构(基数树)中，该数据结构将令牌序列映射到它们的KV缓存张量。当有新请求进来时，调度器使用基数树进行前缀匹配。如果缓存命中，调度器重用缓存的KV张量来完成请求。
+
+Since GPU memory is limited, cached KV tensors cannot be retained forever. The RadixAttention algorithm therefore includes an eviction policy (e.g. least recently used (LRU) eviction policy). Optimal cache reuse may not be compatible with schedules such as first-come-first-serve. RadixAttention therefore comes with a modified scheduler which prioritizes requests that match cached prefixes (cache-aware scheduling).
+    — 由于GPU内存有限，缓存的KV张量不能永远保留。因此，RadixAttention算法包括一个驱逐策略(例如最近最少使用(LRU)驱逐策略)。最佳缓存重用可能与诸如先到先服务之类的调度不兼容。因此，RadixAttention附带了一个修改过的调度器，它对匹配缓存前缀的请求进行优先级排序(缓存感知调度)。
+
+Note: Naming for both PagedAttention and RadixAttention is a bit misleading since contrary to what one might think, they are not optimizations of the model’s attention layer (like FlashAttention) but operate at the model server level (they help the serving application to better manage the KV cache on the host).
+    - 注意:PagedAttention和RadixAttention的命名有点误导人，因为与人们所想的相反，它们不是模型注意力层的优化(如FlashAttention)，而是在模型服务器级别操作(它们帮助服务应用程序更好地管理主机上的KV缓存)。
+
+### If we are short on GPU memory, why not “just” using multiple GPUs? or offloading to CPU memory or even to disk?
+
+First about offloading to more abundant while slower storages (CPU memory and disk). Not all inference frameworks support this feature, let’s cite HuggingFace Accelerate, DeepSpeed-Inference and the more advanced FlexGen. Since it involves using much slower storages, offloading comes at the price of a strong latency hit so this option should obviously not be favored for latency sensitive use cases. Offloading systems are usually intended for throughput-oriented use cases like offline batch processing.
+
+Regarding using multiple GPUs (which cannot be avoided for larger models), sharding the model over multiple devices allows to release the memory pressure by benefiting from both aggregated memory capacity and memory bandwidth.
+
+If opting for pipeline parallelism [23], both the model and the KV cache are sharded across the layer dimension. If opting for tensor parallelism [24] (more common for inference), the KV cache is sharded across the heads dimension. Notice that MQA becomes quite inefficient in that setup: since we cannot shard a single head across multiple devices, the KV cache has to be replicated on all the devices therefore losing the benefits of MQA. An alternative for models implementing MQA is to shard the KV cache across the batch size dimension [25].
+
+In any case, all the cases above assume a single host, we are still bounded by the storage capacity of the largest multi-GPU instance we can put our hands on. To the best of my knowledge, no inference framework support multi-host model parallelism yet. If we were able to shard both the model and the KV cache on multiple hosts, the amount of available memory and the maximum sequence length we would be capable to process become virtually unlimited. This is the problem that the Infinite-LLM paper [26] aims to solve by both introducing a new distributed attention algorithm (DistAttention) and adapting the Ray framework to build a multi-host distributed KV cache management and scheduling system (DistKV-LLM).
+
+#### Summary
+
+In this post, we learned how opting for KV caching creates additional challenges. The KV cache of multi-head attention (MHA) models indeed consumes a lot of GPU memory, in the order of ~1MB/token, and can easily grow larger than the model weights.
+ - 在这篇文章中，我们了解了选择KV缓存如何带来额外的挑战。多头关注(MHA)模型的KV缓存确实消耗了大量GPU内存，大约为~1MB/令牌，并且很容易比模型权重大。
+Given how limited GPU memory is, the KV cache memory pressure induced a lot of initiatives in different directions: novel attention architectures (MQA, GQA, SWA), cache compression strategies (H2O, Scissorhands, FastGen), efficient memory management (PagedAttention, RadixAttention), quantization and storage capacity expansion (offloading systems, single- and multi-host model parallelism).
+    - 鉴于GPU内存有限，KV缓存压力在不同方向上引发了许多创新:新颖的注意力架构(MQA, GQA, SWA)，缓存压缩策略(H2O, Scissorhands, FastGen)，高效的内存管理(PagedAttention, RadixAttention)，量化和存储容量扩展(卸载系统，单主机和多主机模型并行)。
+As we will see in the following posts, reducing the KV cache size is key not only because of limited GPU memory but because the amount of data movement is actually the main contributor to the latency of each autoregressive step and therefore of the generation process as a whole.
+    — 正如我们将在以下文章中看到的那样，减少KV缓存大小是关键，不仅因为GPU内存有限，而且因为数据移动量实际上是每个自回归步骤延迟的主要贡献者，因此整个生成过程也是如此。
+
 
