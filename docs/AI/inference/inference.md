@@ -1,6 +1,6 @@
 # LLM inference
 
-## series 1. 介绍
+## 1. 介绍
 
 ###  先验知识
  -  I assume you already have basic knowledge of the Transformer architecture and of the scaled dot-product attention (SDPA) mechanism as introduced in the famous Attention Is All You Need paper.
@@ -64,7 +64,7 @@
     -  Model servers indeed play a key role in ensuring the best end-to-end performance by efficiently managing the incoming requests and hardware resources. 
     -  模型服务器确实在确保最佳端到端性能方面起着关键作用，它们通过有效管理传入的请求和硬件资源来实现这一点。
 
-##  The two-phase process behind LLMs’ responses
+## 2. The two-phase process behind LLMs’ responses
 
 The two-phase process  contains the initiation phase and the generation phase of text generation using Transformer-based decoders, as well as different decoding strategies such as greedy decoding, sampling decoding, and more complex heuristics like beam search.
 
@@ -317,14 +317,86 @@ Coming back to the two phases from [the previous post](https://medium.com/@plien
 
 We will  discusses KV caching as an optimization for the inference process of LLMs, explaining how it reduces compute requirements by storing key and value tensors in GPU memory. It also addresses the challenges of KV caching, such as the linear growth with batch size and total sequence length, and the strategies used to manage its memory requirements.
 
+KV caching is a compromise: we trade memory against compute. In this post, we will see how big the KV cache can grow, what challenges it creates and what are the most common strategies used to tackle them.
+    - KV缓存是一种折中：我们用内存来换取计算力。在这篇文章中，我们将看到KV缓存可以增长到多大，它带来了什么挑战，以及常用的解决这些挑战的策略是什么。
+
 ### how big can the KV Cache grow?
 
 This is quite simple: for each token of each sequence in the batch, we need to store two vector tensors (one key tensor and one value tensor) of size d_head for each attention head of each attention layer. The space required by each tensor parameter depends on the precision: 4 bytes/parameter in full-precision (FP32), 2 bytes/parameter in half-precision (BF16, FP16), 1 byte/parameter for 8-bit data types (INT8, FP8), etc.
     - 这很简单:对于批处理中每个序列的每个标记，我们需要为每个注意层的每个注意头存储两个大小为d_head的向量张量(一个键张量和一个值张量)。每个张量参数所需的空间取决于精度:全精度(FP32)时4字节/参数，半精度(BF16, FP16)时2字节/参数，8位数据类型(INT8, FP8)时1字节/参数，等等。
 
+Let be b the batch size, t the total sequence length (prompt + completion), n_layers the number of decoder blocks / attention layers, n_heads the number of attention heads per attention layer, d_head the hidden dimension of the attention layer, p_a the precision. The per-token memory consumption (in bytes) of the KV cache of a multi-head attention (MHA) model is:
+
+![Image 2: 2 mayers heads head pa](https://miro.medium.com/v2/resize:fit:244/1*Ekk1XV8AhGcD98YS9Se9yg.png)
+
+**Notice:** We remind that in MHA models, `n_heads.d_head=d_model` but we won’t use it to simplify the formula above.
+
+The total size of the KV cache (in bytes) is therefore:
+
+![Image 3: a black and white image with the words'two heads heads head' written on it](https://miro.medium.com/v2/resize:fit:265/1*x3UMm0rAKOf8EriN56c8pA.png)
+One of the first challenges of the KV cache appears: it grows linearly with the batch size and most importantly with the total sequence length. Since it grows with the total sequence length, the KV cache size is virtually not bounded while our GPU memory is obviously limited. Even worse, since the total sequence length cannot be known ahead of time, the KV cache memory requirements are therefore unknown making memory management particularly challenging.
+    - KV缓存的第一个挑战出现了:它随着批处理大小线性增长，最重要的是随着总序列长度线性增长。因为它随着总序列长度的增长而增长，所以KV缓存大小实际上是没有限制的，而我们的GPU内存显然是有限的。更糟糕的是，由于不能提前知道总序列长度，因此KV缓存内存需求是未知的，这使得内存管理特别具有挑战性。
+
+Let’s look at some numbers for popular MHA models (Table 1), namely Meta’s Llama-2 [1] and OPT [2], MosaicML’s MPT [3] and BigScience’s BLOOM [4]:
+
+| Model       | n_layers | n_heads | d_head | d_model |
+|-------------|----------|---------|--------|---------|
+| Llama-2-7B  | 32       | 32      | 128    | 4096    |
+| Llama-2-13B | 40       | 40      | 128    | 5120    |
+| MPT-7B      | 32       | 32      | 128    | 4096    |
+| MPT-30B     | 48       | 64      | 112    | 7168    |
+| OPT-7B      | 32       | 32      | 128    | 4096    |
+| OPT-13B     | 40       | 40      | 128    | 5120    |
+| OPT-30B     | 48       | 56      | 128    | 7168    |
+| OPT-66B     | 64       | 72      | 128    | 9216    |
+| OPT-175B    | 96       | 96      | 128    | 12288   |
+| BLOOM-176B  | 70       | 112     | 128    | 14336   |
+
+Let’s assume the parameters are stored in half precision (FP16, BF16) and pick a smaller model (Llama-2–7B) and a larger one (BLOOM-176B). For Llama-2–7B (resp. BLOOM-176B), KV cache memory consumption amounts ~0.5MB/token (resp. ~4MB/token).
+
+Let’s focus on Llama-2–7B. Using half precision, loading the model weights consumes ~14GB of memory, same as a caching keys and values for 28k tokens. 28k tokens could for example correspond to a batch of 56 sequences of length 512 which is not particularly extreme.
+
+We can see from the numbers above that the KV cache memory consumption can grow very large and even exceed the amount of memory required to load the model weights for large sequences.
+
+Now let’s compare these numbers to the memory capacity of common NVIDIA data center GPUs (Table 2):
+
+| GPU             | Memory (GB) | Memory bandwidth (GB/s) | FP16 Tensor Core (TFLOP/s) |
+|-----------------|-------------|--------------------------|----------------------------|
+| A10             | 24          | 600                      | 125                        |
+| A100 PCIe/SXM   | 80          | 1935/2039                | 312                        |
+| L4              | 24          | 300                      | 121                        |
+| L40S            | 48          | 864                      | 362                        |
+| H100 PCIe/SXM   | 80          | 2000/3350                | 756/989                    |
+| H200 SXM        | 141         | 4800                     | 989                        |
 
 
+Let’s pick the rather cost-efficient A10 GPU, stick to Llama-2–7B and compute the maximum KV cache capacity. Once the model weights have been loaded, 24–2x7=10 GB remain available for the KV cache, i.e. ~20k tokens total capacity, prompts included, which obviously does not allow to serve a lot of concurrent requests when processing or generating long sequences especially.
+    - 让我们选择相当经济高效的A10 GPU，坚持使用Llama-2-7B并计算最大KV缓存容量。一旦加载了模型权重，24-2x7 = 10gb仍可用于KV缓存，即~20k令牌总容量，包括提示，这显然不允许在处理或生成长序列时提供大量并发请求，特别是。
+We now understand that the KV cache prevents us from processing or generating very long sequences (i.e. obstacle long context windows) and/or from processing large batches and therefore from maximizing our hardware efficiency.
+    - 我们现在明白KV缓存阻止我们处理或生成非常长的序列(即障碍长上下文窗口)和/或处理大批量，因此无法最大化我们的硬件效率。
+In that perspective, maximizing our processing capacity means having as much room as possible for the KV cache which can be achieved by:
+    - Reducing the model weight memory footprint (weight quantization)
+    - Reducing the KV cache memory footprint
+    - Pooling memory from multiple devices by sharding our model over multiple GPUs at the cost of network communication (model parallelism) or using other kind of storage like CPU memory or disk (offloading)
 
+Since the model weights and the ever-growing KV cache have to be loaded on each forward pass, decoding steps involves very large data transfer and as we will see in the next posts, are actually memory-bandwidth bound, i.e. we actually spend more time moving data than doing useful work, i.e. compute. In such regime, latency can only be improved by either having more memory bandwidth (i.e. better hardware) or by transferring less data. Smaller model weights and KV cache free up memory for more sequence and therefore enable to increase throughput (and/or the maximum sequence length).
+    - 由于模型权重和不断增长的KV缓存必须在每次转发时加载，解码步骤涉及非常大的数据传输，并且正如我们将在下一篇文章中看到的那样，实际上是内存带宽限制，即我们实际上花费更多的时间移动数据而不是做有用的工作，即计算。在这种情况下，延迟只能通过拥有更多的内存带宽(即更好的硬件)或传输更少的数据来改善。较小的模型权重和KV缓存可以为更多序列释放内存，因此可以提高吞吐量(和/或最大序列长度)。
+In that regard, memory footprint reduction strategies are triply useful as they allow us to increase our hardware utilization and therefore cost efficiency while reducing latency and increasing throughput.
+
+### Digression - Why am I billed for my input tokens? 
+
+At this point you should get a feeling as to why you are billed for both input and output tokens. Once the input prompt has been processed, i.e. at the end of the prefill phase, we have already consumed both GPU memory (to store the key and the value tensors of each input token) and compute (to pass the prompt tokens through the model).
+
+| Model    | Input            | Output           |
+|----------|------------------|------------------|
+| gpt-4    | $0.03/1K tokens  | $0.06/1K tokens  |
+| gpt-4-32k| $0.03/1K tokens  | $0.12/1K tokens  |
+
+Let’s have a look at some real numbers. Assuming the total FLOPs count of the forward pass of a P parameters model is approximately 2.P FLOPs/token [5], processing a prompt using Llama-2-7B consumes ~0.5 MB/token of GPU memory (cf. above) and ~14 GFLOPs/token of GPU compute. For a 1000 token prompt (a bit less than a two-pager), thats ~500MB of memory and 14 TFLOPs of compute and we have not generated anything yet.
+
+Now let’s have a look at all the ways we can reduce the memory footprint of the KV cache by taking the formula above and looking at each of its terms in turn:
+
+![Image 4: a black and white image with the words'two heads heads head' written on it](https://miro.medium.com/v2/resize:fit:265/1*x3UMm0rAKOf8EriN56c8pA.png)
 
 ### What about reducing the batch size?
 
