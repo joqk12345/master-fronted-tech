@@ -4581,23 +4581,150 @@ Now, imagine changing just one word: You don’t “have” to. You “get” to
 
 You get to wake up early for work. You get to make another sales call for your business. You get to cook dinner for your family. By simply changing one word, you shift the way you view each event. You transition from seeing these behaviors as burdens and turn them into opportunities.
 
+- **Word**: Burdens
+  - **Lemma**: Burden
+  - **Pronunciation**: /ˈbɜːrdənz/
+  - **POS**: Noun
+  - **Definition**: A load, especially a heavy one. The term is often used metaphorically to refer to a duty or misfortune that causes hardship or anxiety.
+  - **Translation**: 负担
+  - **Context**: You transition from seeing these behaviors as burdens and turn them into opportunities.
+  - **Context_translation**: 你从把这些行为看作负担转变为将它们视为机遇。
+
 The key point is that both versions of reality are true. You have to do those things, and you also get to do them. We can find evidence for whatever mind-set we choose.
 
 I once heard a story about a man who uses a wheelchair. When asked if it was difficult being confined, he responded, “I’m not confined to my wheelchair—I am liberated by it. If it wasn’t for my wheelchair, I would be bed-bound and never able to leave my house.” This shift in perspective completely transformed how he lived each day.
 
+- **Word**: Confined
+  - **Lemma**: Confine
+  - **Pronunciation**: /kənˈfaɪnd/
+  - **POS**: Verb
+  - **Definition**: Keep or restrict someone or something within certain limits of (space, scope, quantity, or time).
+  - **Translation**: 限制
+  - **Context**: When asked if it was difficult being confined, he responded I'm not confined to my wheelchair, I am liberated by it.
+  - **Context_translation**: 当被问及被限制是否困难时，他回答说我没有被我的轮椅限制，我是被它解放的。
+
 Reframing your habits to highlight their benefits rather than their drawbacks is a fast and lightweight way to reprogram your mind and make a habit seem more attractive.
 
 Exercise. Many people associate exercise with being a challenging task that drains energy and wears you down. You can just as easily view it as a way to develop skills and build you up. Instead of telling yourself “I need to go run in the morning,” say “It’s time to build endurance and get fast.”
-
+- **Word**: Drains
+  - **Lemma**: Drain
+  - **Pronunciation**: /dreɪnz/
+  - **POS**: Verb
+  - **Definition**: Cause the water or other liquid in (something) to run out, leaving it empty, dry, or drier.
+  - **Translation**: 消耗
+  - **Context**: Many people associate exercise with being a challenging task that drains energy and wears you down.
+  - **Context_translation**: 许多人将锻炼与一项挑战性任务联系在一起，这项任务会消耗能量并使你筋疲力尽。
 Finance. Saving money is often associated with sacrifice. However, you can associate it with freedom rather than limitation if you realize one simple truth: living below your current means increases your future means. The money you save this month increases your purchasing power next month.
+- - **Word**: Endurance
+  - **Lemma**: Endurance
+  - **Pronunciation**: /ɪnˈdjʊərəns/
+  - **POS**: Noun
+  - **Definition**: The ability to endure an unpleasant or difficult process or situation without giving way.
+  - **Translation**: 耐力
+  - **Context**: It’s time to build endurance and get fast.
+  - **Context_translation**: 现在是时候提高耐力并且变得更快了。
+- **Word**: Sacrifice
+  - **Lemma**: Sacrifice
+  - **Pronunciation**: /ˈsæk.rɪ.faɪs/
+  - **POS**: Noun
+  - **Definition**: The act of giving up something valued for the sake of something else regarded as more important or worthy.
+  - **Translation**: 牺牲
+  - **Context**: Saving money is often associated with sacrifice.
+  - **Context_translation**: 节省金钱通常与牺牲联系在一起。
+- **Word**: Purchasing
+  - **Lemma**: Purchase
+  - **Pronunciation**: /ˈpɜː.tʃə.sɪŋ/
+  - **POS**: Noun
+  - **Definition**: The act of buying something.
+  - **Translation**: 购买
+  - **Context**: The money you save this month increases your purchasing power next month.
+  - **Context_translation**: 你这个月节省的钱将增加你下个月的购买力。
+句子结构：
+- 主语: Living below your current means
+- 谓语: increases
+- 宾语: your future means
+
+翻译：
+以低于你当前收入的方式生活会增加你未来的财富。
+
+语法：
+这是一个简单的主谓宾结构的句子，主语是 "Living below your current means"，谓语是 "increases"，宾语是 "your future means"。
+
+词汇/短语：
+- Living below your means: 指的是花费低于你的收入，也就是生活节俭。
+- current means: 当前的收入或财富。
+- increases: 增加。
+- future means: 未来的财富。在这个上下文中，"means" 是指财富或收入。
 
 Meditation. Anyone who has tried meditation for more than three seconds knows how frustrating it can be when the next distraction inevitably pops into your mind. You can transform frustration into delight when you realize that each interruption gives you a chance to practice returning to your breath. Distraction is a good thing because you need distractions to practice meditation.
 
+句子结构：
+- 主语: Anyone
+- 定语: who has tried meditation for more than three seconds
+- 谓语: knows
+- 宾语: how frustrating it can be
+- 状语: when the next distraction inevitably pops into your mind
+
+翻译：
+任何尝试冥想超过三秒钟的人都知道，下一个分心的念头不可避免地冒出来时，这是多么令人沮丧。
+
+语法：
+这是一个复杂句。主句的主语是 "Anyone"，谓语是 "knows"，宾语是 "how frustrating it can be"。这里的 "how frustrating it can be" 是一个宾语从句，用来说明 "knows" 的内容。定语从句 "who has tried meditation for more than three seconds" 用来修饰 "Anyone"，提供额外信息。状语从句 "when the next distraction inevitably pops into your mind" 用来说明主句发生的时间和条件。
+
+词汇/短语：
+- tried meditation: 尝试冥想。
+- more than three seconds: 超过三秒钟。
+- frustrating: 令人沮丧的。
+- the next distraction: 下一个干扰或分心的事物。
+- inevitably pops into: 不可避免地冒出来。这里 "pop into" 意味着忽然出现在脑海中。
+
 Pregame jitters. Many people feel anxious before delivering a big presentation or competing in an important event. They experience quicker breathing, a faster heart rate, heightened arousal. If we interpret these feelings negatively, then we feel threatened and tense up. If we interpret these feelings positively, then we can respond with fluidity and grace. You can reframe “I am nervous” to “I am excited and I’m getting an adrenaline rush to help me concentrate.”
+
+- **Word**: Pregame jitters
+  - **Lemma**: Pregame jitter
+  - **Pronunciation**: /ˈpriːˌgeɪm ˈdʒɪtərz/
+  - **POS**: Phrase
+  - **Definition**: Nervous feelings experienced before the start of a game or event.
+  - **Translation**: 赛前紧张
+  - **Context**:
+  - **Context_translation**: 在比赛或活动开始前所经历的紧张感。
+- **Word**: Jitters
+  - **Lemma**: Jitter
+  - **Pronunciation**: /ˈdʒɪtər/
+  - **POS**: Noun
+  - **Definition**: Feelings of extreme nervousness.
+  - **Translation**: 紧张不安
+  - **Context**: Pregame jitters.
+  - **Context_translation**: 赛前的紧张不安。
+- **Word**: Grace
+  - **Lemma**: Grace
+  - **Pronunciation**: /ɡreɪs/
+  - **POS**: Noun
+  - **Definition**: Simple elegance or refinement of movement.
+  - **Translation**: 优雅
+  - **Context**: We can respond with fluidity and grace.
+  - **Context_translation**: 我们可以以流畅和优雅来回应。
+- **Word**: Adrenaline
+  - **Lemma**: Adrenaline
+  - **Pronunciation**: /əˈdren.ə.lɪn/
+  - **POS**: Noun
+  - **Definition**: A hormone secreted by the adrenal glands, especially in conditions of stress, increasing rates of blood circulation, breathing, and carbohydrate metabolism and preparing muscles for exertion.
+  - **Translation**: 肾上腺素
+  - **Context**: I’m getting an adrenaline rush to help me concentrate.
+  - **Context_translation**: 我正在获得肾上腺素激增来帮助我集中注意力。
 
 These little mind-set shifts aren’t magic, but they can help change the feelings you associate with a particular habit or situation.
 
 If you want to take it a step further, you can create a motivation ritual. You simply practice associating your habits with something you enjoy, then you can use that cue whenever you need a bit of motivation. For instance, if you always play the same song before having sex, then you’ll begin to link the music with the act. Whenever you want to get in the mood, just press play.
+
+- **Word**: Ritual
+  - **Lemma**: Ritual
+  - **Pronunciation**: /ˈrɪtʃ.u.əl/
+  - **POS**: Noun
+  - **Definition**: A religious or solemn ceremony consisting of a series of actions performed according to a prescribed order.
+  - **Translation**: 仪式，礼节
+  - **Context**: If you want to take it a step further, you can create a motivation ritual.
+  - **Context_translation**: 如果你想更进一步，你可以创建一个激励的仪式。
 
 Ed Latimore, a boxer and writer from Pittsburgh, benefited from a similar strategy without knowing it. “Odd realization,” he wrote. “My focus and concentration goes up just by putting my headphones [on] while writing. I don’t even have to play any music.” Without realizing it, he was conditioning himself. In the beginning, he put his headphones on, played some music he enjoyed, and did focused work. After doing it five, ten, twenty times, putting his headphones on became a cue that he automatically associated with increased focus. The craving followed naturally.
 
