@@ -313,3 +313,72 @@ Coming back to the two phases from [the previous post](https://medium.com/@plien
         - KV缓存消耗GPU内存，并且可以变得非常大。不幸的是，即使在必须加载相当小的llm时，GPU内存也是稀缺的。因此，当涉及到增加总序列长度(上下文窗口大小)或一次处理的序列数量(即吞吐量)，从而提高成本效率时，KV缓存是主要的技术障碍。
     - KV caching greatly reduces the amount of operations we perform during a single generation step compared to the amount of data we have to move from memory: we fetch big weight matrices and an ever growing KV cache only to perform meager matrix-to-vector operations. On modern hardware, we unfortunately end up spending more time loading the data than to actually crunching numbers which obviously results in the underutilization of the compute capacity of our GPUs. In other words, we achieve low GPU utilization and therefore a low cost efficiency.
     - 与我们必须从内存中移动的数据量相比，KV缓存大大减少了我们在单个生成步骤中执行的操作量:我们获取大权重矩阵和不断增长的KV缓存，只执行微薄的矩阵到向量操作。在现代硬件上，不幸的是，我们最终花更多的时间加载数据，而不是实际处理数字，这显然会导致gpu的计算能力利用率不足。换句话说，我们实现了低GPU利用率，因此成本效率很低。
+## 4. KV caching, a deeper look 
+
+We will  discusses KV caching as an optimization for the inference process of LLMs, explaining how it reduces compute requirements by storing key and value tensors in GPU memory. It also addresses the challenges of KV caching, such as the linear growth with batch size and total sequence length, and the strategies used to manage its memory requirements.
+
+### how big can the KV Cache grow?
+
+This is quite simple: for each token of each sequence in the batch, we need to store two vector tensors (one key tensor and one value tensor) of size d_head for each attention head of each attention layer. The space required by each tensor parameter depends on the precision: 4 bytes/parameter in full-precision (FP32), 2 bytes/parameter in half-precision (BF16, FP16), 1 byte/parameter for 8-bit data types (INT8, FP8), etc.
+    - 这很简单:对于批处理中每个序列的每个标记，我们需要为每个注意层的每个注意头存储两个大小为d_head的向量张量(一个键张量和一个值张量)。每个张量参数所需的空间取决于精度:全精度(FP32)时4字节/参数，半精度(BF16, FP16)时2字节/参数，8位数据类型(INT8, FP8)时1字节/参数，等等。
+
+
+
+
+
+### What about reducing the batch size?
+
+In most cases, we don’t want to decrease the batch size since while it helps with the KV cache memory footprint and hence with the latency, it decreases our hardware utilization and therefore our cost efficiency. In the following posts we will indeed see that on the contrary, we want to increase the batch size as much as we can.
+    - 在大多数情况下，我们并不希望减小批处理的大小，因为虽然它有助于减小KV缓存的内存占用，从而降低延迟，但它会降低我们的硬件利用率，从而降低我们的成本效益。
+
+### What about reducing the dependency to the total sequence length?
+
+One reason not to store the keys and the values for all the tokens in the sequence would be that we explicitly choose to recompute the missing ones on each iteration because it is worth spending the FLOPS instead of consuming GPU memory (for example because we are memory-bandwidth bound, which is the case during the auto-regressive phase). To the best of my knowledge, this is not something I know of in practice so we won’t dive deeper in that direction.
+    - 不存储序列中所有令牌的键和值的一个原因是，我们明确选择在每次迭代时重新计算缺失的部分，因为这样做花费的浮点运算次数(FLOPS)比起占用GPU内存来更值得。
+    - 例如，因为我们受到内存带宽的限制，这在自回归阶段是常见的情况。
+    - 据我所知，这不是我在实践中知道的东西，所以我们不会在这个方向上深入研究。
+Another perspective would be that we could not bother storing the keys and the values for tokens the model pays no or very little attention to. This could be the case by design for models trained to attend to only part of the sequence (for example with Mistral AI’s Mistral-7B) or as part of a compromise between memory consumption and model accuracy. Let me explain.
+    - 另一个观点是，我们可以不必存储模型对其几乎不关注或完全不关注的令牌的键和值。
+    - 这种情况可能是由于模型被训练为只关注序列的一部分(例如Mistral AI的Mistral- 7b)，或者作为内存消耗和模型准确性之间妥协的一部分。让我解释一下。
+Models like Mistral-7B [6] are trained not to pay attention to the whole sequence. Mistral-7B attention layers indeed build token representations by attending to the last (4096) neighboring tokens only. This variant of the attention mechanism is called sliding window attention (SWA) or local attention. By design, local attention guarantees that we will never store more tensor pairs per sequence in the KV cache than the window size (e.g. 4096).
+    - 像Mistral-7B[6]这样的模型被训练成不关注整个序列。Mistral-7B注意层确实通过只关注最后(4096)个相邻标记来构建标记表示。
+    - 这种注意机制的变体被称为滑动窗口注意(SWA)或局部注意。通过设计，局部关注保证我们在KV缓存中存储的每个序列的张量对永远不会超过窗口大小。
+Another approach consists in taking advantage of patterns in the way attention layers spread their attention over the tokens in the sequence. It is indeed known that attention modules disproportionately and consistently allocate more attention to a handful tokens in the sequence (Figure 1). By contrast, many tokens consistently contribute very little to the output so why bother storing their keys and values at all.
+    - 另一种方法是利用注意力层在序列中的令牌上分配注意力的模式。我们确实知道，注意力模块不成比例地、持续地将更多注意力分配给序列中的少数token(图1)。相比之下，许多token对输出的贡献一直很小，所以为什么要费心存储它们的键和值呢?
+
+![Image 5: an image of a pixel graph with a red, blue, and blue color](https://miro.medium.com/v2/resize:fit:700/1*Ng1yJGPx-PgM5qP54rkH3w.png)
+
+Figure 1 — Example of attention (heat)map from the StreamingLLM paper: A lot of attention is consistently allocated to the first token and to the last neighboring tokens (local attention)
+By discarding these tokens, we de facto set the corresponding attention scores to zero and approximate the attention matrix with a sparser one. A successful approximation would minimize the approximation error and therefore the impact on model accuracy (measured using perplexity for example).
+    - 通过丢弃这些标记，我们实际上将相应的注意力得分设置为零，并用一个更稀疏的注意力矩阵来近似注意力矩阵。成功的近似将使近似误差最小化，从而使对模型精度的影响最小化(例如使用困惑度来测量)。
+
+Let’s have a look at a few methods that emerged over the past few months and which are readily applicable without any retraining nor fine-tuning: the StreamingLLM framework, H2O (Heavy-Hitter Oracle), Scissorhands and FastGen. To the best of my knowledge however, none of them is yet supported by any popular LLM inference framework.
+    - 让我们看看过去几个月出现的一些方法，这些方法很容易适用，无需任何重新训练或微调:StreamingLLM框架，H2O(重量级Oracle)， Scissorhands和FastGen。然而，据我所知，它们都没有得到任何流行的LLM推理框架的支持。
+
+Targeting models trained with a finite length context window, the StreamingLLM framework [7] builds on the observation that the initial tokens collect a large amount of attention. The framework therefore builds a sliding window by only keeping the very first positional tokens (”sink tokens”) and the last neighboring tokens (local attention) in the cache. The StreamingLLM KV cache is therefore of fixed length with both a fixed part (typically 1 to 4 tokens) and a sliding part.
+    - 针对使用有限长度上下文窗口训练的模型，StreamingLLM框架[7]建立在观察到初始令牌收集大量注意力的基础上。因此，框架通过仅在缓存中保留第一个位置令牌(“接收令牌”)和最后一个相邻令牌(本地注意)来构建滑动窗口。因此，StreamingLLM KV缓存具有固定长度，具有固定部分(通常为1到4个令牌)和滑动部分。
+
+The similar H2O [8] and Scissorhands [9] methods explicitly aim at compressing the KV cache by setting a maximum number of cached tokens (budget) and by discarding tokens every time the cache budget has been reached. The H2O algorithm only discards one token at a time while Scissorhands drops as many tokens as required by a target compression ratio (e.g. 30% KV cache size reduction).
+    - 类似的H2O[8]和Scissorhands[9]方法明确旨在通过设置缓存令牌的最大数量(预算)和每次达到缓存预算时丢弃令牌来压缩KV缓存。H2O算法每次只丢弃一个令牌，而剪刀手丢弃目标压缩比所需的令牌(例如30% KV缓存大小减少)。
+
+Both approaches build on the observation that influent tokens at a given step (”pivotal tokens” or “heavy hitters”) remain influent at future steps (what the Scissorhands authors name the Persistence of Importance Hypothesis). In other words, we are ensured that the discarded low-influence tokens would have remained relatively ignored at future steps so they can be safely dropped.
+    - 这两种方法都基于这样的观察，即在给定步骤中的影响符号(“关键符号”或“重拳”)在未来的步骤中仍然具有影响力(剪刀手的作者将其命名为重要性持久性假设)。换句话说，我们可以确保丢弃的低影响力令牌在未来的步骤中相对被忽略，因此可以安全地丢弃它们。
+
+A key aspect of both algorithms is obviously the cache eviction policy. Scissorhands simply keeps the most recent tokens and the tokens with the highest attention scores within a history window. H2O discards the token with the lowest cumulated attention scores and therefore only keeps the tokens that consistently achieve high attention scores across iterations. Both author teams have shown that their algorithm achieve up to 80% KV cache size reduction with negligible model accuracy loss.
+    - 这两种算法的一个关键方面显然是缓存清除策略。剪刀手只是在历史窗口中保存最近的令牌和具有最高注意力分数的令牌。H2O丢弃累积注意力分数最低的令牌，因此只保留在迭代中始终获得高注意力分数的令牌。两个作者团队都表明，他们的算法在模型精度损失可以忽略不计的情况下实现了高达80% KV的缓存大小减少。
+
+The FastGen method  (not to be confused with the unrelated DeepSpeed-FastGen) still builds on attention patterns but takes another approach by not setting a cache budget but a maximum approximation error for the attention matrix hence focusing on model accuracy preservation.
+    -FastGen方法(不要与不相关的DeepSpeed-FastGen混淆)仍然建立在注意力模式的基础上，但采用了另一种方法，不设置缓存预算，而是设置注意力矩阵的最大近似误差，因此专注于模型精度保持。
+
+![Image 6: a bar chart with different types of animals](https://miro.medium.com/v2/resize:fit:700/1*iHTisJJMMU-tWnUhl_4SbQ.png)
+
+Figure 2 — Example of set of compression policies from the FastGen paper: Special tokens (green) + Punctuation tokens (orange) + Local attention (blue). Discarded tokens are colored in gray.
+
+FastGen is a two-step approach: first, the model’s attention layers are profiled at the end of the prefill phase to determine the set of compression policies that allow to meet the error target. Like the other methods, it assumes that the identified attention patterns will hold in future generation steps. Compression policies include: keep special tokens, keep punctuation tokens, keep last neighboring tokens (local attention), etc. (Figure 2). If the error target is too stringent and cannot be met, FastGen falls back to regular KV caching. Then, the chosen compression policies are applied to the KV cache at each generation step.
+     - FastGen是一种分两步的方法:首先，在预填充阶段结束时对模型的注意层进行分析，以确定允许满足错误目标的压缩策略集。与其他方法一样，它假设已识别的注意力模式将在未来的生成步骤中保持不变。压缩策略包括:保留特殊令牌、保留标点令牌、保留最后一个相邻令牌(局部注意)等(图2)。如果错误目标过于严格而无法满足，FastGen会退回到常规KV缓存。然后，将选择的压缩策略应用于KV缓存的每个生成步骤。
+
+Notice that contrary to other methods, FastGen builds a compression policy tailored to each prompt. The FastGen authors show that for a given KV cache compression ratio, they better preserve model accuracy than H2O and Scissorhands.
+    -  注意，与其他方法相反，FastGen为每个提示构建了定制的压缩策略。请注意，与其他方法相反，FastGen构建了针对每个提示的压缩策略。FastGen的作者表明，对于给定的KV缓存压缩比，他们比H2O和剪刀手更好地保持了模型的准确性。
+
+In any case, breaking the dependency to the unpredictable total sequence length is a relief since it allows to give each sequence a memory budget and therefore greatly ease memory management. Since data transfer is the main contributor to the latency, not having a KV cache that grows linearly with the sequence length can bring spectacular speedups for longer sequence lengths especially.
+    - 在任何情况下，打破对不可预测的总序列长度的依赖是一种解脱，因为它允许给每个序列一个内存预算，因此大大简化了内存管理。由于数据传输是延迟的主要原因，所以不使用随序列长度线性增长的KV缓存可以带来惊人的加速，特别是对于较长的序列长度。
