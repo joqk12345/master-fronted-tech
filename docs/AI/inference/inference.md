@@ -382,3 +382,56 @@ Notice that contrary to other methods, FastGen builds a compression policy tailo
 
 In any case, breaking the dependency to the unpredictable total sequence length is a relief since it allows to give each sequence a memory budget and therefore greatly ease memory management. Since data transfer is the main contributor to the latency, not having a KV cache that grows linearly with the sequence length can bring spectacular speedups for longer sequence lengths especially.
     - 在任何情况下，打破对不可预测的总序列长度的依赖是一种解脱，因为它允许给每个序列一个内存预算，因此大大简化了内存管理。由于数据传输是延迟的主要原因，所以不使用随序列长度线性增长的KV缓存可以带来惊人的加速，特别是对于较长的序列长度。
+
+### What about reducing the number of layers?
+
+There is not much to gain here. Smaller models usually have less layers (Table 4) so if a smaller model performs well on your use case, simply go for it.
+| Model      | n_layers | n_heads | d_model | d_qkv |
+|------------|----------|---------|---------|-------|
+| Llama-2-7B | 32       | 32      | 4096    | 128   |
+| Llama-2-13B| 40       | 40      | 5120    | 128   |
+| Llama-2-70B| 80       | 64      | 8192    | 128   |
+
+
+### What about reducing the number of attention heads?
+
+Since for a given model architecture, the model size is mainly controlled by the number of layers and the number of heads, reducing the number of heads can mean opting for a smaller model
+    - 鉴于对于给定的模型架构，模型大小主要由层数和头数控制，减少头数可能意味着选择一个更小的模型。
+However, if we take a closer look, we notice that we only need to reduce the number of key and value heads, the number of query heads does not impact the KV cache size. This is precisely the idea behind the multi-query attention (MQA) [11] and grouped-query attention (GQA) [12] architectures. The sole motivation of these variants of the multi-head attention (MHA) is KV cache size reduction.
+    - 然而，如果我们仔细观察，我们注意到我们只需要减少键和值头的数量，查询头的数量并不影响KV缓存大小。这正是多查询关注(MQA)[11]和分组查询关注(GQA)[12]架构背后的思想。这些多头注意(MHA)变体的唯一动机是KV缓存大小的减小。
+
+MQA was introduced first in 2019. In MQA, all query heads share the same single key and value heads. In other words, all query heads compute their attention scores using the same keys and all head outputs are computed using the same values (but not the same attention scores) 
+    - MQA于2019年首次推出。在MQA中，所有查询头共享相同的单个键和值头。换句话说，所有查询头都使用相同的键来计算它们的注意力分数，并且所有查询头输出都使用相同的值来计算(但不是相同的注意力分数)。
+
+![Image 7: two diagrams of a pnp system](https://miro.medium.com/v2/resize:fit:700/1*IMdGztuTYzayTfQ_k6q6Ug.png)
+Figure 3 — Multi-head attention (above) vs. Multi-query attention (below) (Two attention heads)
+
+Stripping all heads is however relatively more aggressive for larger models. For example, going from 64 heads down to 1 is comparatively a bigger cut in the model’s representation capacity than going from 32 heads down to 1. GQA solves the problem by providing a midway solution: instead of having all the query heads to share the same unique KV heads, we split them into groups of g query heads and query heads from the same group share the same unique KV heads. In other words, instead of downsizing from n_heads to 1 KV head, the number of KV heads is cut from n_heads down to 1<g<n_heads.
+    - 然而，对于较大的模型，剥离所有头部相对更具激进。
+    - 例如，与从32个头降低到1相比，从64个头降低到1对模型表示能力的影响更大。
+    - GQA通过提供一个中间解决方案来解决这个问题:我们不是让所有的查询头共享相同的唯一KV头，而是将它们分成g个查询头组，同一组的查询头共享相同的唯一KV头。
+    - 换句话说，不是从n_heads减少到1 KV head，而是从n_heads减少到1<g<n_heads。
+
+In that perspective, both MHA and MQA are particular cases of GQA (g=1 and g=n_heads respectively). QGA allows to navigate the model accuracy / KV cache size (which is connected to both latency and throughput) compromise more smoothly between two extreme cases, MHA and MQA.
+    - 从这个角度来看，MHA和MQA都是GQA的特殊情况(分别为g=1和g=n_heads)。QGA允许在两种极端情况(MHA和MQA)之间更顺利地导航模型精度/ KV缓存大小(与延迟和吞吐量相关)。
+
+Accounting for this new parameter g, the KV cache size formula becomes:
+
+![Image 8: a chemical formula with the words dp 2 dp 2 dp 2 dp 2 dp 2 dp](https://miro.medium.com/v2/resize:fit:266/1*gqAb8IK4WRz3fr1LLsswWw.png)
+
+In practice, the MQA/GQA architecture has been notably implemented by Google Research’s PaLM [13], TII’s Falcon [14] models, Meta’s Llama-2 [1] (70B only) and Mistral AI’s Mistral-7B [7] (Table 5).
+
+| Model      | n_layers | n_heads | n_KV_heads | d_head | d_model | Attention |
+|------------|----------|---------|------------|--------|---------|-----------|
+| Llama-2-7B | 32       | 32      | 32         | 128    | 4096    | MHA       |
+| Llama-2-13B| 40       | 40      | 40         | 128    | 5120    | MHA       |
+| Llama-2-70B| 80       | 64      | 8          | 128    | 8192    | GQA       |
+| Falcon-7B  | 32       | 71      | 1          | 64     | 4544    | MQA       |
+| Falcon-40B | 60       | 128     | 8          | 64     | 8192    | GQA       |
+| Falcon-180B| 80       | 232     | 8          | 64     | 14848   | GQA       |
+| Mistral-7B | 32       | 32      | 8          | 128    | 4096    | GQA       |
+| PaLM-8B    | 32       | 16      | 1          | 256    | 4096    | MQA       |
+| PaLM-62B   | 64       | 32      | 1          | 256    | 8192    | MQA       |
+| PaLM-540B  | 118      | 48      | 1          | 384    | 18432   | MQA       |
+
+
