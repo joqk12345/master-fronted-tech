@@ -578,4 +578,52 @@ Given how limited GPU memory is, the KV cache memory pressure induced a lot of i
 As we will see in the following posts, reducing the KV cache size is key not only because of limited GPU memory but because the amount of data movement is actually the main contributor to the latency of each autoregressive step and therefore of the generation process as a whole.
     — 正如我们将在以下文章中看到的那样，减少KV缓存大小是关键，不仅因为GPU内存有限，而且因为数据移动量实际上是每个自回归步骤延迟的主要贡献者，因此整个生成过程也是如此。
 
+## Dissecting model performance(解刨模型性能)
 
+This Section we will talk about different performance bottlenecks that can affect the speed of a machine learning model, focusing specifically on LLM inference setups. It identifies four main performance bottleneck categories, including compute bound, memory bandwidth bound, and communications bound processes, and emphasizes the importance of optimizing for the compute bound regime for cost efficiency.
+- 本节我们将讨论可能影响机器学习模型速度的不同性能瓶颈，特别关注LLM推理设置。它确定了四个主要的性能瓶颈类别，包括计算约束、内存带宽约束和通信约束进程，并强调了优化计算约束机制以提高成本效率的重要性。
+
+### The four kinds of performance bottlenecks
+
+If you are unhappy with your model’s performance and ready to invest time into improvements, the first step is identifying the bottleneck type. There are four main performance bottleneck categories — three related to hardware limitations and one tied to software.
+
+Let’s start by examining the hardware bottlenecks. Each of these corresponds to a specific operational regime:
+
+* Compute bound regime: Most of the processing time, i.e. latency, is spent performing arithmetic operations (Figure 1). Compared to the other regimes and since you are primarily paying for compute, the compute bound regime is the most cost efficient and therefore the one we should aim for.
+![Image 2: a diagram of a line with a arrow pointing in the direction of the line](https://miro.medium.com/v2/resize:fit:700/1*z3u3T2hpslUxpFgyQ1NhGQ.png)
+Figure 1 — A compute bound process with compute and data transfer time highlighted in yellow and blue respectively
+    - - **Word**: Regime
+        - **Lemma**: Regime
+        - **Pronunciation**: /rɪˈʒiːm/
+        - **Definition**: A system or planned way of doing things, especially one imposed from above.
+        - **Translation**: 制度
+        - **Context**: Compute bound regime.
+        - **Context_translation**: 计算约束制度。
+*  **Memory bandwidth bound:** Most of the processing time is spent moving data like weight matrices, intermediate computations, etc., between chip memory and processors (Figure 2).
+    - 大部分处理时间都花在在芯片存储器和处理器之间移动数据，如权重矩阵、中间计算等
+![Image 3: a diagram of a striped pattern with an arrow pointing in the direction of the striped pattern](https://miro.medium.com/v2/resize:fit:700/1*lyYiBpY0BxNY4FjLfwkPpg.png)
+Figure 2 — A memory bandwidth bound process with compute and data transfer time highlighted in yellow and blue respectively
+
+- Bandwidth costs are essentially the cost paid to move data from one place to another. This might be moving the data from CPU to GPU, from one node to another, or even from CUDA global memory to CUDA shared memory. This last one, in particular, is what we'll be focusing on here, and is typically referred to as "bandwidth cost" or "memory bandwidth cost".
+    - 带宽成本本质上是将数据从一个地方移动到另一个地方所支付的成本。这可能会将数据从 CPU 移动到 GPU、从一个节点移动到另一个节点，甚至从 CUDA 全局内存移动到 CUDA 共享内存。最后一项是我们在这里重点关注的，通常称为“带宽成本”或“内存带宽成本”。
+- data transfer costs: moving the data from CPU to GPU: 
+- from one node to another: network costs
+- from CUDA global memory to CUDA shared memory: bandwidth cost, memory bandwidth cost
+![Memory Hierarchy with Bandwidth & Memory Size](https://github.com/Dao-AILab/flash-attention/blob/main/assets/flashattn_banner.jpg)
+- GPU Compute is where we do the actual work, it's not suitable as a bulk storage unit. A large part of this is that since we're doing actual work here, all the storage is optimized for being fast to actually use (SRAM), instead of having a lot of it.
+    - GPU是我们进行实际工作的地方，但它不适合作为散装存储单元。其中很大一部分原因是，由于我们在这里进行实际工作，因此所有存储都经过优化，以便能够快速实际使用（SRAM），而不是拥有大量存储。
+- So, where do we store the actual results and materials? The typical approach is to have a warehouse, probably somewhere where land is cheap and we have a lot of space (DRAM). Then, we can ship supplies to and from our factories (memory bandwidth).
+    - 那么，我们将实际结果和材料存储在哪里呢？典型的方法是建立一个仓库，可能是在土地便宜且有大量空间（DRAM）的地方。然后，我们可以将物资运送到我们的工厂或从我们的工厂运送物资（内存带宽）。
+![Bandwith Cost](https://horace.io/img/perf_intro/factory_bandwidth.png)
+- This cost of moving stuff to and from our compute units is what's called the "memory bandwidth" cost. As an aside, your GPU's DRAM is what shows up in nvidia-smi, and is the primary quantity responsible for your lovely "CUDA Out of Memory' errors.
+    - 将数据移入和移出计算单元的成本就是所谓的“内存带宽”成本。顺便说一句，您的 GPU 的 DRAM 是 nvidia-smi 中显示的内容，并且是导致可爱的“CUDA Out of Memory”错误的主要数量。
+- One thing to note is that every single time we perform a GPU kernel, we need to move our data from and back to our GPU's DRAM (i.e. our warehouse).
+    - 需要注意的一件事是，每次执行 GPU 内核时，我们都需要将数据从 GPU 的 DRAM（即我们的仓库）移出或移回。
+- Now, imagine what happens when we perform an unary operation like torch.cos. We need to ship our data from our storage to the warehouse, then perform a tiny bit of computation for each piece of data, and then ship that storage back. Shipping things around is quite expensive. As a result, nearly all of our time here is spent shipping data around, and not on the actual computation itself.
+    - 现在，想象一下当我们执行像 torch.cos 这样的一元操作时会发生什么。我们需要将数据从存储发送到仓库，然后对每条数据执行少量计算，然后将该存储发送回。运送东西的费用相当昂贵。因此，我们几乎所有的时间都花在了传输数据上，而不是实际的计算本身。
+- Since we're spending all of our time on memory-bandwidth, such an operation is called a memory-bound operation, and it means that we're not spending a lot of time on compute.
+    - 由于我们将所有时间都花在内存带宽上，因此此类操作称为内存限制操作，这意味着我们不会在计算上花费大量时间。
+- Communications bound (not covered by [1]): Only applies when computations and data are distributed across multiple chips. Most of the processing time is taken up by networking data transfer between chips (Figure 3).
+![Image 4: a diagram of a striped pattern with a arrow pointing in the direction of the striped pattern](https://miro.medium.com/v2/resize:fit:700/1*JqBF7jrc2H75VIUKiIYDnA.png)
+Frgure 3 — A communications bound process with compute, data transfer and network communications time highlighted in yellow, blue and green respectively
+**Notice:** I use the word “chip” since these concepts apply to any kind of chip: CPUs, GPUs, custom silicon (Google TPUs, AWS Neuron Cores, etc.), etc.
