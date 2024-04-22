@@ -627,3 +627,68 @@ Figure 2 — A memory bandwidth bound process with compute and data transfer tim
 ![Image 4: a diagram of a striped pattern with a arrow pointing in the direction of the striped pattern](https://miro.medium.com/v2/resize:fit:700/1*JqBF7jrc2H75VIUKiIYDnA.png)
 Frgure 3 — A communications bound process with compute, data transfer and network communications time highlighted in yellow, blue and green respectively
 **Notice:** I use the word “chip” since these concepts apply to any kind of chip: CPUs, GPUs, custom silicon (Google TPUs, AWS Neuron Cores, etc.), etc.
+- Note that modern hardware and frameworks are highly optimized and compute and data transfer tasks usually partially overlap (Figure 4). For simplicity, we will keep assuming they occur sequentially in this post.
+![Image 5: a diagram showing the process of running a program](https://miro.medium.com/v2/resize:fit:700/1*YTS_VgjNkdKFVbws8i2-vw.png)
+Figure 4 — A communications bound process with overlapping data transfer
+
+- The last regime is called overhead bound and relates to software-induced limitations. In this regime, most of the processing time is spent scheduling work and submitting it to the hardware — essentially, we spend more time figuring out what to do than performing actual operations on the hardware (Figure 5). Being overhead bound is more likely when using very flexible languages (e.g. Python) or frameworks (e.g. PyTorch) that don’t require explicitly specifying all information needed at runtime (like tensor data types, target device, kernels to invoke, etc.). This missing information must be inferred at runtime, with the corresponding CPU cycles called overhead. Accelerated hardware is now so fast compared to CPUs that situations in which overhead impacts the hardware utilisation and therefore cost efficiency are likely — essentially there are times when the hardware remains idle, waiting for the software to submit the next work item.
+    - 最后一种情况被称为开销限制，并与软件引起的限制相关。在这种情况下，大部分的处理时间用于调度工作并将其提交给硬件——基本上，我们花费更多的时间来确定要做什么，而不是在硬件上执行实际操作（图5）。当使用非常灵活的语言（例如Python）或框架（例如PyTorch）时，更容易出现开销限制，因为这些语言或框架不需要在运行时显式地指定所有所需的信息（如张量数据类型、目标设备、需要调用的内核等）。这些缺失的信息必须在运行时推断，相应的CPU周期被称为开销。与CPU相比，加速硬件现在非常快，以至于开销影响硬件利用率和成本效益的情况很可能发生，基本上就是硬件在等待软件提交下一个工作项时保持空闲。
+
+![Image 6: a diagram of a striped pattern with a arrow pointing in the direction of the striped pattern](https://miro.medium.com/v2/resize:fit:700/1*v5gYw8th0X1hPVtZKOyXSQ.png)
+
+Figure 5 — An overhead bound process with compute, data transfer and software overhead time highlighted in yellow, blue and purple respectively
+
+- Executing a model backward or forward pass involves running multiple kernel executions (~ GPU function calls). It is unlikely that all kernels operate in the same regime. What matters is identifying the regime where most of the execution time is being spent. The priority then becomes optimizing for that primary bottleneck, pinpointing the next most significant one, and so on.
+    - 执行模型向后或向前传递涉及运行多个内核执行(~ GPU函数调用)。
+    - 不可能所有的内核都在相同的机制下运行。
+    - 重要的是确定将大部分执行时间花在哪个制度上。
+    - 然后优先级变为针对主要瓶颈进行优化，确定下一个最重要的瓶颈，依此类推。
+- Being right at identifying the type of bottleneck is critical. Each issue requires different solutions. If you get your diagnosis wrong, you may waste your time implementing an optimization that disappoints if it helps at all.
+
+### Diagnosing the limiting factor
+
+- We won’t delve into extensive detail here, but [1] highlights that when overhead bound, runtime does not scale proportionally with increased compute or data transfer. In other words, if you double your compute or data transfer capacity but runtime fails to increase accordingly, your program is likely overhead bound. Otherwise you are hardware bound, but distinguishing between bottlenecks like compute versus memory bandwidth requires access to metrics like FLOP count and data transfer volume, i.e. to use a profiler.
+
+- Bringing LLMs back into frame, keep in mind that training and inference pre-fill phase are usually compute bound while inference decoding phase is usually memory bandwidth bound on most hardwares. Optimizations primarily intended for training (e.g. lower-precision matrix multiplications) may therefore not be as helpful if applied to reduce total inference latency which is dominated by the decoding latency.
+
+### Optimizing for lower latency based on bottleneck type
+
+In you are in the compute bound regime, you can:
+ - Upgrade to a more powerful and more expensive chip with higher peak FLOPS.
+ - For particular operations like matrix multiplications, leverage specialized, faster cores like NVIDIA Tensor Cores. For example the NVIDIA H100 PCIe [2] has 51 TFLOPS peak compute using general-purpose CUDA cores vs. 378 TFLOPS with specialized Tensor Cores (in full precision).
+ - Reduce the number of required operations. More concretely with ML models, this could mean using less parameters to achieve the same outcome. Techniques like pruning or knowledge distillation can help.
+ - Use lower precision and faster data types for computations. For example for the same NVIDIA H100 PCIe, 8-bit Tensor Cores peak FLOPS (1 513 TFLOPS) is twice 16-bit peak FLOPS (756 TFLOPS) which is twice 32-bit peak FLOPS (378 TFLOPS). This requires quantizing all inputs however (e.g. both the weight matrices and the activations, see for example the LLM.int8() [3] or SmoothQuant [4] quantization algorithms) and using dedicated lower precision kernels.
+ 
+If you are in the memory bandwidth bound regime, you can:
+- Upgrade to a more powerful and more expensive chip with higher memory bandwidth.
+- Reduce the size of the data you move using for example model compression techniques like quantization or the not-as-popular pruning and knowledge distillation. Regarding LLMs, the data size issue is mostly tackled using weight-only quantization techniques (see for example the GTPQ [5] and AWQ [6] quantization algorithms) plus KV-cache quantization.
+- Reduce the number of memory operations. Running tasks on GPUs boils down to the execution of a directed graph of kernels (~ GPU function calls). For each kernel, inputs must be fetched from memory and outputs written to it. Fusing kernels, i.e. performing operations initially scattered across multiple kernels as a single kernel call, allows to reduce the number of memory operations. Operator fusion (Figure 6) can either be performed automatically by a compiler or manually by writing your own kernels (which is harder but necessary for complex fusions).
+    - 在GPU上运行计算任务的本质是执行一系列的并行程序（内核），这些程序按照他们之间的数据依赖关系（形成的有向图）进行组织和执行。
+    - “内核”是指在GPU上执行的小的并行程序。这些内核可以组合在一起，形成一个“有向图”，其中的每个节点代表一个内核，每个边代表数据依赖关系。这意味着一些内核（或任务）的执行可能依赖于其他内核的结果。执行这个有向图就是按照这些依赖关系，以正确的顺序执行内核。
+    ![Image 7: a diagram showing the structure of a database](https://miro.medium.com/v2/resize:fit:700/1*nxEuwsXRGrS_XmlG-4GwfA.png)
+    Figure 6 — Example of both horizontal and vertical layer (operation) fusion applied to a CNN, inital state (above) & final state (below) \[8\]
+- In the case of Transformer models, the development of highly efficient fused kernels for the attention layer remains an active field. Many optimized kernels are based on the popular FlashAttention algorithm [7]. Transformer fused kernels libraries include FlashAttention, Meta’s xFormers and the now deprecated NVIDIA FasterTransformer (merged into NVIDIA TensorRT-LLM).
+    - 对于Transformer模型来说，对于注意力层高效融合核的开发仍然是一个活跃的研究领域。许多优化的核都是基于流行的FlashAttention算法[7]。Transformer融合核库包括FlashAttention、Meta的xFormers以及现已废弃的NVIDIA FasterTransformer（现已合并到NVIDIA TensorRT-LLM中）。 
+    - Transformer融合的内核库包括FlashAttention, Meta的xFormers和现在已弃用的NVIDIA FasterTransformer(合并到NVIDIA TensorRT-LLM中)。
+
+If you are in the communications bound regime, you can:
+- Upgrade to a more powerful and more expensive chip with higher network bandwidth.
+- Reduce the communication volume by opting for a more efficient partitioning and collective communication strategy. For example, [9] expands the popular tensor parallelism layout for Transformer models from [10] by introducing new tensor parallel strategies that allows communication times to better scale (i.e. prevent them from becoming a bottleneck) for large chip count and/or batch sizes.
+    -  通过选择更高效的分区和集体通信策略来减少通信量。例如，[9]通过引入新的张量并行策略，扩展了Transformer模型的流行张量并行布局[10]，这些策略允许通信时间更好地扩展（即防止它们成为大规模芯片数量和/或批处理大小的瓶颈）。
+    - For example, the tensor parallelism layout in [10] keeps the weights shards stationary while the activation shards are moved between the chips. At the pre-fill stage and for batches of very large sequences for example, [9] notes that activations can outsize the weights. So from a communications perspective, it becomes more efficient to keep activations stationary and move weight shards instead as in their “weight-gathered” partitioning strategy.
+    - 例如，[10]中的张量并行布局使权重分片保持静止，而激活分片在芯片之间移动。例如，在预填充阶段和批量非常大的序列中，[9]注意到激活可以使权重过大。因此，从通信的角度来看，保持激活静止并移动权重碎片变得更有效，而不是像“权重收集”分区策略那样。
+
+If you are in the overhead bound regime, you can:
+
+- Trade flexibility for less overhead by using a less flexible but more efficient language like C++.
+- Submit kernels in groups to amortize submission overhead across multiple kernels instead of paying it per kernel. This is especially beneficial when you need to submit the same group of short-lived kernels multiple times (e.g. in iterative workloads). CUDA Graphs (integrated to PyTorch since release 1.10 [11]) serve this purpose by providing utilities to capture all GPU activities induced by a code block into a directed graph of kernel launches for one-time submission.
+    - 
+- Extract the compute graph ahead of time (AOT) into a deployable artifact (model tracing). For example, PyTorch torch.jit.trace traces a PyTorch program and package it into a deployable TorchScript program.
+    - CUDA图表（自PyTorch 1.10版本发布以来已集成）通过提供将由代码块引起的所有GPU活动捕获到一个内核启动的有向图中，为一次性提交提供了这个目的。
+    In any case, you once again trade flexibility for less overhead since tracing/compilation requires parameters like tensors sizes, types, etc. to be static and therefore to remain the same at runtime. Control flow structures, like if-else, are also usually lost in the process.
+    For cases requiring flexibility incompatible with AOT compilation (e.g. dynamic tensor shapes, control flow, etc.), just-in-time (JIT) compilers come to the rescue by dynamically optimizing your model’s code right before it is executed (not as thoroughly as an AOT compiler though). For example, PyTorch 2.x features a JIT compiler named TorchDynamo. Since you don’t need to modify your PyTorch program to use it, you get the reduced overhead of using a JIT compiler while keeping the usability of the Python development experience.
+
+### Bottleneck = f(Hardware, Arithmetic intensity)
+
+
+
