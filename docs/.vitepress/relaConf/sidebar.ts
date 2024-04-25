@@ -605,6 +605,10 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text:"0505-人们不喜欢的工作",
                     link:"/content/English/2024/20240505.md",
                 },
+                {
+                    text:"0506-russule quotes",
+                    link:"/content/English/2024/20240506.md",
+                },
             ],
         },
         {
