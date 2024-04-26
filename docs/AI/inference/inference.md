@@ -679,16 +679,21 @@ If you are in the communications bound regime, you can:
     - 例如，[10]中的张量并行布局使权重分片保持静止，而激活分片在芯片之间移动。例如，在预填充阶段和批量非常大的序列中，[9]注意到激活可以使权重过大。因此，从通信的角度来看，保持激活静止并移动权重碎片变得更有效，而不是像“权重收集”分区策略那样。
 
 If you are in the overhead bound regime, you can:
-
-- Trade flexibility for less overhead by using a less flexible but more efficient language like C++.
-- Submit kernels in groups to amortize submission overhead across multiple kernels instead of paying it per kernel. This is especially beneficial when you need to submit the same group of short-lived kernels multiple times (e.g. in iterative workloads). CUDA Graphs (integrated to PyTorch since release 1.10 [11]) serve this purpose by providing utilities to capture all GPU activities induced by a code block into a directed graph of kernel launches for one-time submission.
-    - 
-- Extract the compute graph ahead of time (AOT) into a deployable artifact (model tracing). For example, PyTorch torch.jit.trace traces a PyTorch program and package it into a deployable TorchScript program.
+    - Trade flexibility for less overhead by using a less flexible but more efficient language like C++.
+    - Submit kernels in groups to amortize submission overhead across multiple kernels instead of paying it per kernel. This is especially beneficial when you need to submit the same group of short-lived kernels multiple times (e.g. in iterative workloads). CUDA Graphs (integrated to PyTorch since release 1.10 [11]) serve this purpose by providing utilities to capture all GPU activities induced by a code block into a directed graph of kernel launches for one-time submission.
+    - Extract the compute graph ahead of time (AOT) into a deployable artifact (model tracing). For example, PyTorch torch.jit.trace traces a PyTorch program and package it into a deployable TorchScript program.
     - CUDA图表（自PyTorch 1.10版本发布以来已集成）通过提供将由代码块引起的所有GPU活动捕获到一个内核启动的有向图中，为一次性提交提供了这个目的。
     In any case, you once again trade flexibility for less overhead since tracing/compilation requires parameters like tensors sizes, types, etc. to be static and therefore to remain the same at runtime. Control flow structures, like if-else, are also usually lost in the process.
     For cases requiring flexibility incompatible with AOT compilation (e.g. dynamic tensor shapes, control flow, etc.), just-in-time (JIT) compilers come to the rescue by dynamically optimizing your model’s code right before it is executed (not as thoroughly as an AOT compiler though). For example, PyTorch 2.x features a JIT compiler named TorchDynamo. Since you don’t need to modify your PyTorch program to use it, you get the reduced overhead of using a JIT compiler while keeping the usability of the Python development experience.
 
 ### Bottleneck = f(Hardware, Arithmetic intensity)
+
+- Interestingly, the same algorithm processing identical inputs can be either compute bound or memory bandwidth bound, depending on the hardware used. The applicable regime is determined by the algorithm’s arithmetic intensity — the number of arithmetic operations performed per byte of memory accessed.
+    - 有趣的是，处理相同输入的相同算法可能受到计算限制，也可能受到内存带宽限制，这取决于所使用的硬件。适用的制度是由算法的算术强度决定的——即访问内存的每个字节所执行的算术操作的数量。
+- We want intensity values that place us in or closer to the more cost-efficient compute bound regime. As we will see, higher intensity correlates with better throughput and cost efficiency. However, some intensity drivers can degrade latency. A tradeoff between latency and throughput is nearly inevitable.
+    - 我们希望强度值能够使我们处于或更接近更具成本效益的计算范围。正如我们将看到的，更高的强度与更好的吞吐量和成本效率相关。但是，某些强度驱动程序可能会降低延迟。延迟和吞吐量之间的权衡几乎是不可避免的。
+- Let b be the number of bytes of data transferred to/from memory per run, and let p be the number of FLOPs (floating point operations) performed per run. Let BW_mem (in TB/s) be the hardware's memory bandwidth, and let BW_math (in TFLOPS) be the math bandwidth, also called peak FLOPS. Let t_mem be the time spent moving data bytes, and let t_math be the time spent on arithmetic operations.
+    - 令 b 为每次运行传入/传出内存的数据字节数， p 为每次运行执行的 FLOP（浮点运算）数。令 BW_mem （以 TB/s 为单位）为硬件的内存带宽，并让 BW_math （以 TFLOPS 为单位）为数学带宽，也称为峰值 FLOPS。令 t_mem 为移动数据字节所花费的时间，让 t_math 为算术运算所花费的时间。
 
 
 
