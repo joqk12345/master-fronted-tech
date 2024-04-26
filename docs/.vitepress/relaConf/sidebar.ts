@@ -609,6 +609,10 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text:"0506-russule quotes",
                     link:"/content/English/2024/20240506.md",
                 },
+                {
+                    text:"0507-比较这一决策工具",
+                    link:"/content/English/2024/20240507.md",
+                },
             ],
         },
         {
