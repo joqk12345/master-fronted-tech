@@ -693,7 +693,65 @@ If you are in the overhead bound regime, you can:
 - We want intensity values that place us in or closer to the more cost-efficient compute bound regime. As we will see, higher intensity correlates with better throughput and cost efficiency. However, some intensity drivers can degrade latency. A tradeoff between latency and throughput is nearly inevitable.
     - 我们希望强度值能够使我们处于或更接近更具成本效益的计算范围。正如我们将看到的，更高的强度与更好的吞吐量和成本效率相关。但是，某些强度驱动程序可能会降低延迟。延迟和吞吐量之间的权衡几乎是不可避免的。
 - Let b be the number of bytes of data transferred to/from memory per run, and let p be the number of FLOPs (floating point operations) performed per run. Let BW_mem (in TB/s) be the hardware's memory bandwidth, and let BW_math (in TFLOPS) be the math bandwidth, also called peak FLOPS. Let t_mem be the time spent moving data bytes, and let t_math be the time spent on arithmetic operations.
-    - 令 b 为每次运行传入/传出内存的数据字节数， p 为每次运行执行的 FLOP（浮点运算）数。令 BW_mem （以 TB/s 为单位）为硬件的内存带宽，并让 BW_math （以 TFLOPS 为单位）为数学带宽，也称为峰值 FLOPS。令 t_mem 为移动数据字节所花费的时间，让 t_math 为算术运算所花费的时间。
+- Being compute bound simply means spending more time on arithmetic operations than transferring data (Figure 7).
+- ![Image 8: a diagram showing the difference between a memory board and a compute board](https://miro.medium.com/v2/resize:fit:700/1*SKC41r0SZyBq6-GeCmxZ0g.png)
+Figure 7 — Compute vs. memory bandwidth bound regimes. Computation and data transfer times are highlighted in yellow and blue respectively.
+So, we are compute bound when:
+
+![Image 9: a diagram showing the structure of a chemical compound](https://miro.medium.com/v2/resize:fit:573/1*l-Y9jHFZP7X6ZWeh2_ROLw.png)
+
+`A` **is the algorithm’s arithmetic intensity**, its dimension is FLOP per byte. The more arithmetic operations for each byte of transferred data, the higher the arithmetic intensity.
+
+As seen in the equation, for an algorithm to be compute bound, its arithmetic intensity must exceed a hardware-dependent ratio of peak FLOPS to memory bandwidth. Conversely, being memory bandwidth bound means operating at an intensity below that same bandwidths ratio (Figure 8).
+
+![Image 10: a picture of a board with the words memory and board](https://miro.medium.com/v2/resize:fit:700/1*fDaWpZSBijhMtIOAdPOVzg.png)
+
+Figure 8 — The memory bandwidth / compute bound frontier
+
+Let’s look at some real numbers for half-precision matrix multiplications (i.e. using Tensor Cores) on NVIDIA hardware (Table 1):
+
+Table 1 — Specifications of NVIDIA data center GPUs commonly used for training and/or serving LLMs
+
+What does that mean? Taking the NVIDIA A10 as an example, a bandwidths ratio of 208 means moving one byte of data on that particular hardware is as fast as performing 208 FLOPs. Therefore, if an algorithm running on a NVIDIA A10 does not perform at least 208 FLOPs per byte transferred (or equivalently 416 FLOPs per half-precision number transferred), it inevitably spends more time moving data than on computations, i.e. it is memory bandwidth bound. In other words, algorithms with an arithmetic intensity below the hardware bandwidths ratio are memory bandwidth bound. QED.
+
+Knowing that the decoding phase of the LLM inference process has low arithmetic intensity (detailed in the next blog post), it becomes memory bandwidth bound on most hardware. The NVIDIA H200 features a more favorable bandwidth ratio for such low-intensity workloads compared to the NVIDIA H100. This explains NVIDIA marketing the H200 as “supercharging generative AI inference,” as its hardware design targets this memory boundedness.
+
+Now let’s connect the arithmetic intensity with latency and throughput:
+
+![Image 11: a diagram showing the formula for bw and bw](https://miro.medium.com/v2/resize:fit:641/1*emMYOUrnqwwZP5_iBFgnBA.png)
+
+**Notice:** Throughput is is expressed here in TFLOPS rather than requests per second, but both are directly proportional. Also, the fact that throughput is expressed in TFLOPS highlights its link to hardware utilization and therefore to cost efficiency. To make the link more obvious, throughput is more precisely the number of requests per chip-second, the lower the number of chip-seconds per request, i.e. the higher the throughput, the greater the cost efficiency (cf. \[9\] section 4). If we plot arithmetic intensity on the x-axis and the (maximum achievable) throughput as the dependent variable on the y-axis, we get what is known as the (naive) **_roofline model_** \[12\](Figure9).
+
+![Image 12: a diagram showing the volume of a volume of a volume of a volume of a volume of a volume of a volume](https://miro.medium.com/v2/resize:fit:700/1*ZLtYeP-MBmf6lk2GnPywAw.png)
+
+Figure 9 — The roofline model
+
+Let’s do a little thought experiment to better grasp why the throughput values on this plot are maximum achievable levels. In the compute bound regime, it is obvious: nothing prevents us from utilizing the full compute capacity, we are only bounded by the hardware’s peak capacity. In the memory bandwidth bound regime, the maximum amount of data that we can fetch in 1s is fixed by the hardware’s memory bandwidth `BW_mem`. Considering an algorithm of arithmetic intensity `A`, the maximum amount of FLOPs we can achieve in 1s is therefore `BW_mem.A`. CED.
+
+What is the impact of increasing an algorithm’s arithmetic intensity? We can examine three scenarios (Figure 10):
+
+![Image 13: a diagram showing the direction of a magnetic field](https://miro.medium.com/v2/resize:fit:700/1*8Czywt_8KeXcEE1tNX9ICg.png)
+
+Figure 10 — Three scenarios of arithmetic intensity increase
+
+*   **Scenario 1:** The increase in arithmetic intensity is too small to escape the memory bandwidth bound regime but involves a proportional increase in throughput. The system remains memory bandwidth bound, so the effect on latency depends on how more intensity affects data transfer for that particular algorithm.
+*   **Scenario 2:** The increase in arithmetic intensity switches the system to the compute bound regime. Throughput rises to hardware peak throughput. Now compute bound, latency impact depends on how higher intensity changes total operations for that algorithm.
+*   **Scenario 3:** Since already compute bound and at peak throughput, increased intensity provides no throughput gain. Latency impact still depends on how more intensity affects total computations for that algorithm.
+
+How do we concretely increase arithmetic intensity? This depends entirely on the algorithm specifics. In the next post, we’ll examine the key parameters governing the arithmetic intensity of Transformer decoder blocks. We’ll see how raising batch size, for instance, can heighten arithmetic intensity for certain operations.
+
+Some optimizations already discussed also boost arithmetic intensity, improving throughput and resource utilization. For Transformer models (whose decoding phase is memory bandwidth bound), arithmetic intensity is mostly improved by reducing both the number and size of data transfers via operation fusion and data (weight matrices, KV cache) quantization.
+
+**Until now, we made the crucial assumption that the algorithm implementation optimally utilizes hardware resources.** For example when transferring data, the algorithm’s implementation is assumed to use 100% of the hardware’s theoretical memory bandwidth. This is obviously not the case in practice (though some implementations achieve near-optimal ressource use) so how does sub-optimal resource use impact the analysis?
+
+It is quite simple: the bandwidth numbers above must be replaced by the actually achieved figures. The sub-optimal system lives on its own roofline curve somewhere below the optimal roofline curve (Figure 11). There are now two degrees of freedom to improve throughput: increase arithmetic intensity and/or enhance the algorithm’s implementation to better use hardware resources.
+
+![Image 14: a diagram showing the difference between a horizontal and vertical axis](https://miro.medium.com/v2/resize:fit:700/1*3MmUB9vcspln2So0EhBMIA.png)
+
+Figure 11 — Roofline model with sub-optimal resource utilization
+
+Let’s conclude by providing a real-world example of an implementation improvement. Prior to [version 2.2](https://github.com/Dao-AILab/flash-attention?tab=readme-ov-file#22-optimize-for-inference), the implementation of the FlashAttention kernel could become highly sub-optimal when applied to the decoding phase of inference. The previous data loading implementation made the kernel inherently less efficient at leveraging memory bandwidth in the decoding phase. Worse yet, bandwidth utilization actually further decreased with larger batch sizes; thus, performance suffered the most for longer sequences which require smaller batches due to memory limitations. The FlashAttention team addressed this issue (primarily by parallelizing data loading across the KV cache sequence length dimension) and released an optimized decoding phase kernel named FlashDecoding which achieved dramatic latency improvements for long sequence lengths \[13\].
+
 
 
 
