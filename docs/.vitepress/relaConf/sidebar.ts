@@ -613,6 +613,10 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text:"0507-比较这一决策工具",
                     link:"/content/English/2024/20240507.md",
                 },
+                {
+                    text:"0508-新质生产力",
+                    link:"/content/English/2024/20240508.md",
+                },
             ],
         },
         {
