@@ -617,6 +617,10 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text:"0508-新质生产力",
                     link:"/content/English/2024/20240508.md",
                 },
+                {
+                    text:"0509-法国访问",
+                    link:"/content/English/2024/20240509.md",
+                },
             ],
         },
         {
