@@ -454,7 +454,7 @@ export const sidebar: DefaultTheme.Sidebar = {
         },
         {
             text: '2024-04',
-            collapsed:false,
+            collapsed:true,
             items:[
                 {
                     text:"0401-销售新解",
@@ -583,7 +583,7 @@ export const sidebar: DefaultTheme.Sidebar = {
         },
         {
             text: '2024-05',
-            collapsed: true,
+            collapsed: false,
             items: [
                 {
                     text:"0501-生产",
