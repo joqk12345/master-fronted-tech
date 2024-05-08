@@ -621,6 +621,34 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text:"0509-法国访问",
                     link:"/content/English/2024/20240509.md",
                 },
+                {
+                    text:"0510-家庭建设中什么最重要",
+                    link:"/content/English/2024/20240510.md",
+                },
+                {
+                    text:"0511-夫妻关系质量影响子女的成长与未来",
+                    link:"/content/English/2024/20240511.md",
+                },
+                {
+                    text:"0512-长期亲密关系中的最重要的是信誉的积累",
+                    link:"/content/English/2024/20240512.md",
+                },
+                {
+                    text:"0513-承诺的重要性",
+                    link:"/content/English/2024/20240513.md",
+                },
+                {
+                    text:"0514-家庭建设的持久性和深远性",
+                    link:"/content/English/2024/20240514.md",
+                },
+                {
+                    text:"0515-家庭建设中共同成长的重要性",
+                    link:"/content/English/2024/20240515.md",
+                },
+                {
+                    text:"0516-"什么才是家庭建设,
+                    link:"/content/English/2024/20240516.md",
+                },
             ],
         },
         {
