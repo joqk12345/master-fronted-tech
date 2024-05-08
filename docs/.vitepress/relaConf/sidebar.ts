@@ -646,7 +646,7 @@ export const sidebar: DefaultTheme.Sidebar = {
                     link:"/content/English/2024/20240515.md",
                 },
                 {
-                    text:"0516-"什么才是家庭建设,
+                    text:"0516-什么才是家庭建设",
                     link:"/content/English/2024/20240516.md",
                 },
             ],
