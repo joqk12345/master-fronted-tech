@@ -14,6 +14,10 @@ export const nav: DefaultTheme.NavItem[] = [
         link: '/AI/inference/inference', // 对应docs/blockchain/ETH/index.md
       },
       {
+        text: 'Soft2.0',
+        link: '/AI/LLM&Soft2.0.md', //
+      },
+      {
         text: 'LLVM',
         link: '#', //
       },
@@ -50,6 +54,10 @@ export const nav: DefaultTheme.NavItem[] = [
       {
         text: 'Learn Vim',
         link: '/content/Vim/',
+      },
+      {
+        text: 'Learn Python',
+        link: '/content/python/python_retry.md',
       },
     ],
   },
