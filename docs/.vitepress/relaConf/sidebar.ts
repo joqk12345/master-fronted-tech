@@ -649,6 +649,27 @@ export const sidebar: DefaultTheme.Sidebar = {
                     text:"0516-什么才是家庭建设",
                     link:"/content/English/2024/20240516.md",
                 },
+
+                {
+                    text:"0517-简单原则",
+                    link:"/content/English/2024/20240517.md",
+                },
+                {
+                    text:"0518-简单原则的好处",
+                    link:"/content/English/2024/20240518.md",
+                },
+                {
+                    text:"0519-简单原则在生活方面的重要性",
+                    link:"/content/English/2024/20240519.md",
+                },
+                {
+                    text:"0520-简单原则的应用",
+                    link:"/content/English/2024/20240520.md",
+                },
+                {
+                    text:"0521-简单原则的发散",
+                    link:"/content/English/2024/20240521.md",
+                },
             ],
         },
         {
