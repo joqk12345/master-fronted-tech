@@ -697,6 +697,18 @@ export const sidebar: DefaultTheme.Sidebar = {
           text: '0528-如何培养专注力',
           link: '/content/English/2024/20240528.md',
         },
+        {
+          text: '0529-家庭教育的核心理念和方法',
+          link: '/content/English/2024/20240529.md',
+        },
+        {
+          text: '0530-PBL',
+          link: '/content/English/2024/20240530.md',
+        },
+        {
+          text: '0531-现代教育体系剖析',
+          link: '/content/English/2024/20240531.md',
+        },
       ],
     },
     {
