@@ -712,9 +712,14 @@ export const sidebar: DefaultTheme.Sidebar = {
       ],
     },
     {
-      text: 'topic',
+      text: '2024-06',
       collapsed: true,
-      items: [],
+      items: [
+        {
+          text: '0601-学习习惯和社交能力',
+          link: '/content/English/2024/20240601.md',
+        },
+      ],
     },
     {
       text: 'topic',
