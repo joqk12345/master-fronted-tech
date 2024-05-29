@@ -719,6 +719,30 @@ export const sidebar: DefaultTheme.Sidebar = {
           text: '0601-学习习惯和社交能力',
           link: '/content/English/2024/20240601.md',
         },
+        {
+          text: '0602-什么是有用的人',
+          link: '/content/English/2024/20240602.md',
+        },
+        {
+          text: '0603-现代教育体系的目标',
+          link: '/content/English/2024/20240603.md',
+        },
+        {
+          text: '0604-学习的本质',
+          link: '/content/English/2024/20240604.md',
+        },
+        {
+          text: '0605-大脑的潜能与后天发展的重要性',
+          link: '/content/English/2024/20240605.md',
+        },
+        {
+          text: '0606-人脑发展的先天与后天因素',
+          link: '/content/English/2024/20240606.md',
+        },
+        {
+          text: '0607-大脑皮层在人类生活中的重要性',
+          link: '/content/English/2024/20240607.md',
+        },
       ],
     },
     {
