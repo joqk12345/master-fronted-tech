@@ -582,7 +582,7 @@ export const sidebar: DefaultTheme.Sidebar = {
     },
     {
       text: '2024-05',
-      collapsed: false,
+      collapsed: true,
       items: [
         {
           text: '0501-生产',
@@ -713,7 +713,7 @@ export const sidebar: DefaultTheme.Sidebar = {
     },
     {
       text: '2024-06',
-      collapsed: true,
+      collapsed: false,
       items: [
         {
           text: '0601-学习习惯和社交能力',
@@ -742,6 +742,54 @@ export const sidebar: DefaultTheme.Sidebar = {
         {
           text: '0607-大脑皮层在人类生活中的重要性',
           link: '/content/English/2024/20240607.md',
+        },
+        {
+          text: '0608-阅读说明书',
+          link: '/content/English/2024/20240608.md',
+        },
+        {
+          text: '0609-了解和应用知识的基本构件',
+          link: '/content/English/2024/20240609.md',
+        },
+        {
+          text: '0610-学习的重点应该是掌握“how”，即如何使用知识',
+          link: '/content/English/2024/20240610.md',
+        },
+        {
+          text: '0611-人类与其他哺乳动物的区别',
+          link: '/content/English/2024/20240611.md',
+        },
+        {
+          text: '0612-人类语言的基本构成要素',
+          link: '/content/English/2024/20240612.md',
+        },
+        {
+          text: '0613-人工语言的概念',
+          link: '/content/English/2024/20240613.md',
+        },
+        {
+          text: '0614-学习的本质',
+          link: '/content/English/2024/20240614.md',
+        },
+        {
+          text: '0615-语言学习的复杂性',
+          link: '/content/English/2024/20240615.md',
+        },
+        {
+          text: '0616-自学能力的培养',
+          link: '/content/English/2024/20240616.md',
+        },
+        {
+          text: '0617-符号系统的学习和应用',
+          link: '/content/English/2024/20240617.md',
+        },
+        {
+          text: '0618-关于符号系统学习的难点',
+          link: '/content/English/2024/20240618.md',
+        },
+        {
+          text: '0619-成年人的学习障碍',
+          link: '/content/English/2024/20240619.md',
         },
       ],
     },
