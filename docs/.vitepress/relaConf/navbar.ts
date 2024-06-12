@@ -18,6 +18,10 @@ export const nav: DefaultTheme.NavItem[] = [
         link: '/AI/LLM&Soft2.0.md', //
       },
       {
+        text: 'tts',
+        link: '/AI/tts/chat_tts.md', //
+      },
+      {
         text: 'LLVM',
         link: '#', //
       },
