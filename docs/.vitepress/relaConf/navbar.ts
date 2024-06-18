@@ -22,6 +22,10 @@ export const nav: DefaultTheme.NavItem[] = [
         link: '/AI/tts/chat_tts.md', //
       },
       {
+        text: 'get_start_calculus',
+        link: '/AI/calculus/get_start_calculus.md', //
+      },
+      {
         text: 'LLVM',
         link: '#', //
       },
