@@ -42,3 +42,10 @@
 - 让我们开始探索微积分的奇妙世界，深入理解函数和极限这两个关键概念。
   Let's embark on the journey to explore the fascinating world of calculus and deeply understand these two key concepts: functions and limits.
 
+## 什么是函数
+
+### function
+
+- 生活是复杂的。这种复杂性部分源自于许多看似独立事件之间存在的关系。我们借助数学来理解这个世界，因此我们需要工具来讨论这些关系。函数是一种对象集合之间的关系，可以被看作是“数学机器”。这意味着对于每一个输入，都有一个确切的输出。让我们明确这一点。
+
+- 字典这样简单的东西可以被看作是一种关系，因为它将单词与定义联系起来。然而，字典并不是一个函数，因为有的单词有多种定义。另一方面，如果每个单词只有一个定义，那么它就成为了一个函数。
