@@ -791,12 +791,61 @@ export const sidebar: DefaultTheme.Sidebar = {
           text: '0619-成年人的学习障碍',
           link: '/content/English/2024/20240619.md',
         },
+        {
+          text: '0620-探索儿童潜能与成长',
+          link: '/content/English/2024/20240620.md',
+        },
+        {
+          text: '0621-贝叶斯推理与儿童学习',
+          link: '/content/English/2024/20240621.md',
+        },
+        {
+          text: '0622-好好说话与朗读的力量',
+          link: '/content/English/2024/20240622.md',
+        },
+        {
+          text: '0623-朗读、复述与好好说话的力量',
+          link: '/content/English/2024/20240623.md',
+        },
+        {
+          text: '0624-大脑的节能倾向与学习意愿的激发',
+          link: '/content/English/2024/20240624.md',
+        },
+        {
+          text: '0625-超额学习的重要性',
+          link: '/content/English/2024/20240625.md',
+        },
+        {
+          text: '0626-大脑的网络效应：多才多艺与学习的真相',
+          link: '/content/English/2024/20240626.md',
+        },
+        {
+          text: '0627- 用者无疆：大脑皮层的潜能与科技的双刃剑',
+          link: '/content/English/2024/20240627.md',
+        },
+        {
+          text: '0628-抽象模型与人类认知：独立思考的力量',
+          link: '/content/English/2024/20240628.md',
+        },
+        {
+          text: '0629-大脑中的模型构建与抽象思维：科学与日常认知的辨析',
+          link: '/content/English/2024/20240629.md',
+        },
+        {
+          text: '0630-抽象知识与学习模型：构建与应用',
+          link: '/content/English/2024/20240630.md',
+        },
       ],
     },
     {
-      text: 'topic',
+      text: '07',
       collapsed: true,
-      items: [],
+      items: [
+        {
+          text: '0701-学习模型的构建与创新：主动学习与综合技能的重要性',
+          link: '/content/English/2024/20240701.md',
+        },
+      ],
     },
     {
       text: 'topic',
