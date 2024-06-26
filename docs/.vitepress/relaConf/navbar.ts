@@ -26,6 +26,10 @@ export const nav: DefaultTheme.NavItem[] = [
         link: '/AI/calculus/get_start_calculus.md', //
       },
       {
+        text: 'mathematics-topics',
+        link: '/AI/math-topic/index.md', //
+      },
+      {
         text: 'LLVM',
         link: '#', //
       },

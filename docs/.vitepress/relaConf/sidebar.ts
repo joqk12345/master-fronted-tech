@@ -13,6 +13,30 @@ export const sidebar: DefaultTheme.Sidebar = {
       ],
     },
   ],
+  'AI/math-topic': [
+    {
+      text: '基础知识',
+      collapsed: true,
+      items: [
+        {
+          text: 'flatten',
+          link: '/AI/math-topic/flatten_logits.md',
+        },
+        {
+          text: 'log_application',
+          link: '/AI/math-topic/log_application.md',
+        },
+        {
+          text: 'dim-维度',
+          link: '/AI/math-topic/dim.md',
+        },
+        {
+          text: 'Squeeze与Unsqueeze：深度学习中的张量维度操作',
+          link: '/AI/math-topic/squeeze_unsqueeze.md',
+        },
+      ],
+    },
+  ],
   // column/Algothm/表示对这个文件夹下的所有md文件做侧边栏配置
   'column/Algorithm/': [
     // 第一部分
