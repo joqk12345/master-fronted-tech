@@ -6,8 +6,8 @@ import footnote from 'markdown-it-footnote'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     lang: 'cn-ZH',
-    title: '学习计算机科学',
-    description: '从零掌握编程技术',
+    title: 'Gizmo的内容空间',
+    description: '掌握各种技术以及原理',
     base: '/master-fronted-tech/',
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
@@ -37,6 +37,7 @@ export default defineConfig({
     },
     markdown: {
         theme: 'material-theme-palenight',
+        math:true,
         //lineNumbers: true,
         anchor: {
             // permalink: markdownItAnchor.permalink.headerLink()
@@ -47,7 +48,7 @@ export default defineConfig({
         toc:{level:[2,3,4]},
         config: (md) => {
             // use more markdown-it plugins!
-            md.use(footnote)
+            md.use(footnote);
         }
     },
 })
