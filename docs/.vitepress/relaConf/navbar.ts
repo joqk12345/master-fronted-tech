@@ -85,6 +85,7 @@ export const nav: DefaultTheme.NavItem[] = [
         link: '/content/creation/index.md', // 表示docs/column/Growing/index.md
       },
       { text: 'WebExt', link: 'guide/webExt/webExt' },
+      { text: 'science-topic', link: '/content/science_topic/index.md' },
       { text: 'writing', link: '/content/writing/homework/index.md' },
       {
         text: 'Bilibili',

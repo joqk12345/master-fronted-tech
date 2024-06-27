@@ -919,6 +919,22 @@ export const sidebar: DefaultTheme.Sidebar = {
       ],
     },
   ],
+  'content/science_topic': [
+    {
+      text: '日常思考',
+      collapsed: true,
+      items: [
+        {
+          text: '云与大气层：天空中的舞者',
+          link: 'content/science_topic/climate.md',
+        },
+        {
+          text: '青铜时代气候崩溃：一场未解之谜',
+          link: 'content/science_topic/Bronze_Age_climate_collapse.md',
+        },
+      ],
+    },
+  ],
   'guide/javascript/': [
     {
       text: 'Javascript',
