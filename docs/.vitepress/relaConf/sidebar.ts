@@ -34,6 +34,18 @@ export const sidebar: DefaultTheme.Sidebar = {
           text: 'Squeeze与Unsqueeze：深度学习中的张量维度操作',
           link: '/AI/math-topic/squeeze_unsqueeze.md',
         },
+        {
+          text: '下三角矩阵及其应用场景',
+          link: '/AI/math-topic/Lower_triangular_matrix.md',
+        },
+        {
+          text: '矩阵与行列式：理解它们的本质和应用',
+          link: '/AI/math-topic/matrices_and_determinants.md',
+        },
+        {
+          text: '线性时不变系统',
+          link: '/AI/math-topic/lit_sys.md',
+        },
       ],
     },
   ],
