@@ -16,7 +16,7 @@ export const sidebar: DefaultTheme.Sidebar = {
   'AI/math-topic': [
     {
       text: '基础知识',
-      collapsed: true,
+      collapsed: false,
       items: [
         {
           text: 'flatten',
@@ -44,7 +44,15 @@ export const sidebar: DefaultTheme.Sidebar = {
         },
         {
           text: '线性时不变系统',
-          link: '/AI/math-topic/lit_sys.md',
+          link: '/AI/math-topic/lti_sys.md',
+        },
+        {
+          text: '数学的历史',
+          link: '/AI/math-topic/math-history.md',
+        },
+        {
+          text: '数学的书籍',
+          link: '/AI/math-topic/rmd_book.md',
         },
       ],
     },
