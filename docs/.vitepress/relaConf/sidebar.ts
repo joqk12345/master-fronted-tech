@@ -54,6 +54,14 @@ export const sidebar: DefaultTheme.Sidebar = {
           text: '数学的书籍',
           link: '/AI/math-topic/rmd_book.md',
         },
+        {
+          text: '指数分布与幂律分布',
+          link: '/AI/math-topic/exponential_power_law_distribution.md.md',
+        },
+        {
+          text: '数学的基础概念',
+          link: '/AI/math-topic/basic_concepts_of_higher_mathematics.md',
+        },
       ],
     },
   ],
