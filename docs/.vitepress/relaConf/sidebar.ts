@@ -56,7 +56,7 @@ export const sidebar: DefaultTheme.Sidebar = {
         },
         {
           text: '指数分布与幂律分布',
-          link: '/AI/math-topic/exponential_power_law_distribution.md.md',
+          link: '/AI/math-topic/exponential_power_law_distribution.md',
         },
         {
           text: '数学的基础概念',
