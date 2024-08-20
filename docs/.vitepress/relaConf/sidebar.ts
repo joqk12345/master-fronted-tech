@@ -900,6 +900,48 @@ export const sidebar: DefaultTheme.Sidebar = {
       ],
     },
     {
+      text: '08',
+      collapsed: true,
+      items: [
+        {
+          text: '火星上的成长：一个虚构情境引发的思考',
+          link: '/content/English/2024/20240819.md',
+        },
+        {
+          text: '科技发展的双刃剑：科技公司对儿童的影响与监管反思',
+          link: '/content/English/2024/20240820.md',
+        },
+        {
+          text: '科技发展的两面性：科技公司对儿童的影响与法律监管',
+          link: '/content/English/2024/20240821.md',
+        },
+        {
+          text: '童年的转变：从玩耍到手机',
+          link: '/content/English/2024/20240822.md',
+        },
+        {
+          text: '关于“现实世界”与“虚拟世界”术语的几点说明',
+          link: '/content/English/2024/20240823.md',
+        },
+        {
+          text: '一本书的结构与内容概述',
+          link: '/content/English/2024/20240824.md',
+        },
+        {
+          text: '一位社会心理学家对青少年心理健康研究的历程',
+          link: '/content/English/2024/20240825.md',
+        },
+        {
+          text: '保护儿童：现实与虚拟世界的权衡与改革建议',
+          link: '/content/English/2024/20240826.md',
+        },
+        {
+          text: '找回人类生活的本真：从古人智慧中汲取力量',
+          link: '/content/English/2024/20240827.md',
+        },
+      ],
+    },
+    {
       text: 'topic',
       collapsed: true,
       items: [
