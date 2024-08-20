@@ -904,6 +904,10 @@ export const sidebar: DefaultTheme.Sidebar = {
       collapsed: true,
       items: [
         {
+          text: '从预测到变革',
+          link: '/content/English/2024/20240818.md',
+        },
+        {
           text: '火星上的成长：一个虚构情境引发的思考',
           link: '/content/English/2024/20240819.md',
         },
