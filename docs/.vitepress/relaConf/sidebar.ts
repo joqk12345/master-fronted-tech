@@ -943,6 +943,14 @@ export const sidebar: DefaultTheme.Sidebar = {
           text: '找回人类生活的本真：从古人智慧中汲取力量',
           link: '/content/English/2024/20240827.md',
         },
+        {
+          text: '数字洪流的挣扎',
+          link: '/content/English/2024/20240828.md',
+        },
+        {
+          text: '从游戏到挑战：一位少年玩家的心理转变',
+          link: '/content/English/2024/20240829.md',
+        },
       ],
     },
     {
