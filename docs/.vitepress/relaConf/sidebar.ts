@@ -1000,6 +1000,14 @@ export const sidebar: DefaultTheme.Sidebar = {
         { text: '08', link: '/content/writing/homework/08.md' },
       ],
     },
+    {
+       text:'llm',
+       items:[
+        {
+           text:'what the furture of 50 years later', link:'/content/writing/1210_the_furture_after_50_years.md'
+        }
+       ]
+    }
   ],
   'content/science_topic': [
     {
