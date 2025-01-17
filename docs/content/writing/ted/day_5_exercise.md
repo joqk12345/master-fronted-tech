@@ -144,7 +144,7 @@ Here are the key takeaways regarding American English and British English from t
 
 The speaker's insights encourage learners to approach the differences between American and British English with an awareness of both pronunciation variations and the historical factors that have shaped these distinctions.
 
-## ## concepts
+## Concepts
 
 The passage discusses the following concepts related to pronunciation and English language learning:
 
@@ -257,3 +257,52 @@ By dissecting the speaker's pronunciation guidance and language insights, a cohe
 
 By applying these principles of logic – defining, categorizing, comparing, understanding cause and effect, and embracing a scientific approach – learners can transform the individual pronunciation tips and vocabulary insights from the source into a robust framework for achieving English fluency and cultural awareness.
 
+## Other Technique
+
+### Effective Speech Delivery Techniques
+
+The sources mention several **techniques for delivering engaging and effective speeches**. The speaker highlights these techniques while analyzing a recorded speech about the importance of listening.
+
+Here are the techniques mentioned:
+
+- **Humor**:  Using humor, such as telling jokes or sharing funny anecdotes, is an effective way to capture the audience's attention from the start and make the speech more enjoyable.
+
+  > “Yesterday, we talked about humor, that is, telling jokes is a skill for opening a speech, and today.  He uses this, this intimidation to induce fear. Technique, and this kind of technique is long in addition to the examples he uses, there is also a kind of fear that is also just fear. It is particularly eye-catching to cause panic, let everyone take a look, today I I The homework I received, the words left by this student to me.  That’s why you guys should be able to understand, that is to say, how much attention can be aroused by causing panic in others?  I immediately corrected his homework that he handed in today. So this is a very good skill, this is what we talk about, this is the second skill for opening a speech."
+
+- **Fear/Creating a Sense of Urgency**: The speaker refers to this as "intimidation" and explains that evoking fear or a sense of urgency in the audience can be a powerful way to grab their attention and emphasize the importance of the topic. The example given in the speech is the statement, "We are losing our hearing," which aims to startle listeners and make them pay attention to the issue of declining listening skills in modern society.
+
+  > "So this is a very good skill, this is what we talk about, this is the second skill for opening a speech."
+
+- **Strong Opening:** The speaker emphasizes the importance of a strong opening to a speech, highlighting that a captivating start can set the tone for the entire presentation and make the audience more receptive to the message.
+
+- **Storytelling**:  The speaker praises the analyzed speech for its effective use of storytelling, specifically in how the speaker uses their voice and tone to create a narrative that draws the audience in.
+
+  > "...and then he.  He speaks relatively slowly, and because he is talking about listening, he actually has a lot of speeches about sound on it, so in fact.  He is very good at using sound to tell stories to everyone. To give this speech, so I think he has a lot to learn from.  Uh, so.  We will start.  Let’s talk about it.  The first thing is, he came up and told everyone about this *we are losing our hearing*.  We are losing our ability to listen, here, the word *listening* means listening, everyone knows it, and I want to talk about it now.  That is *listening* and *hearing*. The difference, these two Chinese words.  It’s all listening. It’s possible that if you look up the dictionary and don’t check it carefully, you won’t know the difference between them.  Then let’s look at Example 1.  Example 1 is this.  That is the graduation song *sound of silence* There is a sentence in it, he said *people hearing without listening*. People should but don't listen to what is called *hearing without listening*, that is, *hearing*, that is, the left ear enters, and the right ear exits, that is, the left ear enters, and the right ear exits.  This feeling.  And then it’s just that you *hear* it, and *listening* is listening carefully.  So when you ask someone, you two are chatting.  Then he suddenly lost his mind, you think he is, and then you will say *are you listening*, right?  That is, you will ask him, are you listening to me?  You won't say *are you hearing*, right?  So pay attention to the difference between these small words.  Open, and then we and then?  I’m going to tell you about this, ah, I’ll tell you about it, he uses a special, that is, another uh, opening speech technique. We talked about it the day before yesterday, that is, humor, telling jokes is a skill to start a speech, and today.  What he uses is this, this intimidation, which is a kind of triggering fear. Technique, and this kind of technique is long in addition to the examples he uses, there is also a kind of fear, which is also just fear.  To cause panic, this kind of thing is particularly eye-catching.  Let everyone take a look, today I I received this homework, the words left by this student to me.  That’s why you guys should be able to understand, that is to say, how much attention can be aroused by causing panic in others?  I immediately corrected his homework that he handed in today. So this is a very good skill, this is what we talk about, this is the second skill for opening a speech.”
+
+- **Relatability**: Making the speech relatable to the audience's lives and experiences can help them connect with the message on a personal level and make it more impactful.
+
+  > "And then I'm uh. I’m telling everyone here that he used a very special one, that is, another uh, speech opening technique.  The day before yesterday, we talked about, that is, humor, telling jokes is a technique to start a speech, and then today.  He uses this, this intimidation to cause fear.  Technique, and this technique is long In addition to the examples he uses, there is also a kind that is also just a fear.  This kind of fear that originally caused panic is particularly eye-catching.  Let everyone take a look at the homework I received today, I This student left me this sentence.  That’s why you guys should be particularly able to understand, that is to say, how much attention can be aroused by causing panic in others, and I immediately corrected him for the homework he handed in today.  So this is a particularly good technique, this is what we talk about, this is the second technique for opening a speech."
+
+The speaker encourages listeners to incorporate these techniques into their own presentations and communication to make their messages more engaging and memorable.
+
+### Boosting Memory Through Active Learning
+
+The sources discuss various approaches to enhance memory and retention, emphasizing active engagement and making connections to existing knowledge. Here are the key methods mentioned:
+
+- **Note-Taking**: Writing down key points during lectures or while listening helps release the burden on the brain's memory and allows for absorbing more information.
+
+  > "...why I ask everyone to write notes for our lectures every day is because your brain is really useless, and then, hurry up and write down what the teacher said. These things, after releasing the memory area of your brain, then load more. Things."
+
+- **Extraction Practice**: Regularly using newly learned vocabulary and concepts in different contexts reinforces memory and integrates knowledge into one's own understanding. The act of actively recalling and applying information strengthens neural connections.
+
+  > "...when you guys hand in your homework every day. Be sure to use the words from the day before, ah, the things you said.  Actually this is an extraction exercise. Doing more extraction exercises can deepen your memory and really put um, that is, the content you learned a few days ago, turn what the teacher taught you into your own.  Knowledge, so everyone must practice this *extraction* well, practice their own extraction."
+
+- **Engaging Multiple Senses**: Incorporating visual and auditory elements into learning experiences, such as looking at images, watching videos, and listening to audio, can make information more memorable and accessible than relying solely on text.
+
+  > "Images and sounds are very intuitive.  It is much more intuitive than reading text. So, when we learn, we don’t just use our brains.  In fact, it calls on all your senses."
+
+- **Relating New Information to Existing Knowledge**: Connecting new words, concepts, or pronunciations to familiar ones creates meaningful associations that aid in recall.  The speaker illustrates this with examples like using known words like "fun" and "sun" to understand the pronunciation of "mun" in "mundane."
+
+  > "We must give ourselves in learning. Create these moments that make yourself very happy and surprised.  It will let you clearly learn how to use this method, and you will be very happy and excited."
+
+These techniques encourage learners to move beyond passive learning and actively engage with material, thus enhancing memory and understanding.
