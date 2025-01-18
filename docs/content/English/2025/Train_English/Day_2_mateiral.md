@@ -8,8 +8,6 @@
 
 English material
 
-
-
 ### Utilize Online Resources
 
 - **Quora (American equivalent of Zhihu):** Explore diverse viewpoints on a wide range of topics.  Pay attention to how users express their opinions and structure their arguments.  This helps you learn conversational phrases and observe real-world discussion dynamics.
@@ -18,4 +16,6 @@ English material
 
 [IMDB]: https://www.imdb.com/title/tt0816692/?ref_=chttp_t_19
 [Quora]: https://www.quora.com/
+
+[口语]: https://github.com/ZuodaoTech/everyone-can-use-english/blob/main/book/chapter2.md
 
