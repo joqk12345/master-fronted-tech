@@ -83,8 +83,6 @@ Here's a breakdown of the concepts and their connections:
 
 By understanding these interconnected concepts, you can develop a more effective approach to improving your English speaking skills.
 
-
-
 ## Prepare engaging conversation materials and content
 
 The sources provide several practical tips on how to prepare engaging conversation materials and content for spoken English practice:
