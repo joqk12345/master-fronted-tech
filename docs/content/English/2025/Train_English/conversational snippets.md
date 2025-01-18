@@ -30,7 +30,7 @@ By collecting and practicing with these snippets, you can:
 
 Your personalized "spoken English book" can serve as a repository for these valuable conversational snippets.
 
-# Conversational Snippets from clude3.5
+# Conversational Snippets from 
 
 Conversational snippets are pre-written pieces of text or code that help streamline conversations or interactions, typically used in:
 
