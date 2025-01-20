@@ -6,3 +6,5 @@ docs/.vitepress/public/*
 
 
 docs/guide/chrome-ext/*
+.DS_Store
+.git-message
