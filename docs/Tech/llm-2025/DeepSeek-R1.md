@@ -1,42 +1,6 @@
 # DeepSeek-R1: Reinforcement Learning for Reasoning
 
-## Concept
-
-Here's a breakdown of the key noun concepts discussed in the sources, including those related to DeepSeek-R1 and its training process:
-
-- Models:
-  - **DeepSeek-R1-Zero**: The initial model trained via reinforcement learning (RL) without supervised fine-tuning (SFT), exhibiting strong reasoning abilities.
-  - **DeepSeek-R1**: An enhanced model that incorporates multi-stage training and cold-start data prior to RL to improve reasoning performance and address limitations of DeepSeek-R1-Zero.
-  - **DeepSeek-V3-Base**: The base model used for training DeepSeek-R1-Zero.
-  - **Qwen and Llama**: Base models used to distill dense models from DeepSeek-R1.
-  - **Dense Models**: Six models (1.5B, 7B, 8B, 14B, 32B, 70B) distilled from DeepSeek-R1, based on Qwen and Llama.
-- Training Processes & Techniques:
-  - **Reinforcement Learning (RL)**: A core method for training both DeepSeek-R1-Zero and DeepSeek-R1, enabling the models to develop reasoning abilities.
-  - **Supervised Fine-Tuning (SFT)**: A training step that DeepSeek-R1 uses before RL, unlike DeepSeek-R1-Zero.
-  - **Group Relative Policy Optimization (GRPO)**: The RL framework used for training, which avoids the need for an additional value model by using average reward within a group as a baseline.
-  - **Cold-Start Data**: A small amount of high-quality data (long Chain-of-Thought examples) used to fine-tune the model before RL, intended to improve reasoning and convergence.
-  - **Chain-of-Thought (CoT)**: A reasoning approach where the model generates a series of intermediate thoughts before arriving at a final answer.
-  - **Rejection Sampling**: A method used to improve data quality by filtering out undesirable outputs such as mixed languages and long paragraphs.
-- Evaluation Metrics & Concepts:
-  - **Accuracy Reward**: A type of reward used during training, it evaluates whether an answer is correct.
-  - **Format Reward**: A reward model that encourages the model to place its thinking process between "<思考>" and "</思考>" tags.
-  - **Language Consistency Reward**: A reward based on the proportion of target language words within the CoT, enhancing readability.
-  - **AIME**: A benchmark used to evaluate the model's performance, with a specific reference to the "pass@1" score.
-- RL Concepts:
-  - **On Policy**: A type of RL where training is based on the model's own generated data, using a "critic" to provide feedback.
-  - **Off Policy**: A type of RL that analyzes existing labeled data, but it can have mismatch problems between training samples and the model.
-  - **Proximal Policy Optimization (PPO)**: An on-policy RL algorithm that DeepSeek-R1 does not use; it requires a value model and can be computationally burdensome.
-  - **Value Model**: An additional model used in PPO, which approximates value function, but is avoided by GRPO.
-- Other Key Concepts:
-  - **Reasoning**: The ability of the model to solve problems and make inferences.
-  - **Supervision Data**: Labeled data used to train a model, which DeepSeek-R1-Zero aims to avoid, instead focusing on self-evolution.
-  - **Reward Model**: A system that provides a signal to determine the direction of RL optimization.
-  - **KL Divergence**: A method used by GRPO that measures the difference between two probability distributions.
-  - **Actor**: In RL context, this refers to the model or agent that learns to take actions.
-  - **Critic**: In RL context, this refers to a component that assesses the actions of the Actor.
-  - **Baseline**: GRPO uses the average reward as the baseline to measure relative performance.
-
-## concepts&interactions
+**DeepSeek-R1 involved a complex multi-stage approach**, and the use of GRPO, and a refinement of training data, to improve reasoning capabilities and address initial limitations. Furthermore, it illustrates how **different RL approaches** like PPO and GRPO differ in their use of value models and how their reward functions are designed.
 
 **Model Development and Training**
 
@@ -62,13 +26,9 @@ Here's a breakdown of the key noun concepts discussed in the sources, including 
 
 - **AIME Score = Pass@1**: This indicates that the AIME score, specifically the "pass@1" score, is a metric used to evaluate the performance of the model on the AIME benchmark.
 
-**In Summary**
+## DeepSeek-R1 and its training process
 
-These equations and logical connections demonstrate the relationships between the models, training processes, and evaluation metrics discussed in the sources. They highlight that the development of **DeepSeek-R1 involved a complex multi-stage approach**, and the use of GRPO, and a refinement of training data, to improve reasoning capabilities and address initial limitations. Furthermore, it illustrates how **different RL approaches** like PPO and GRPO differ in their use of value models and how their reward functions are designed.
-
-##  concepts related to DeepSeek-R1 and its training process
-
- let's use the Chain-of-Thought (CoT) method to logically connect the concepts related to DeepSeek-R1 and its training process. This will involve defining, classifying, comparing, and establishing cause-and-effect relationships, while also considering the scientific methodology employed in its development.
+The development of DeepSeek-R1 is a process that highlights the interplay between different models, training techniques, and scientific inquiry. The initial model, DeepSeek-R1-Zero, was a pure RL experiment demonstrating emergent reasoning abilities. By addressing the identified limitations of DeepSeek-R1-Zero through the introduction of cold-start data, supervised fine-tuning, and an improved reward system, DeepSeek-R1 achieved enhanced performance in reasoning tasks. The use of GRPO as the RL algorithm allowed for more efficient training by eliminating the need for a separate value model and by aligning reward computation with the model's purpose.
 
 **1. Definition & Classification:**
 
@@ -93,9 +53,7 @@ These equations and logical connections demonstrate the relationships between th
   - **Cold-Start Data:** A small, high-quality dataset used to "kickstart" the training of DeepSeek-R1 and address issues with DeepSeek-R1-Zero.
   - **Group Relative Policy Optimization (GRPO)**: A specific RL algorithm used for both DeepSeek-R1-Zero and DeepSeek-R1.
 
-- Evaluation Metrics
-
-  : Metrics used to measure model performance.
+- Evaluation Metrics: Metrics used to measure model performance.
 
   - **Accuracy**: A reward used to measure the correctness of answers.
   - **Language Consistency**: A reward used to measure the alignment of language in the generated text with a target language.
@@ -132,8 +90,41 @@ These equations and logical connections demonstrate the relationships between th
 - **Analysis**: They evaluated the models using specific metrics such as the AIME test, accuracy, and language consistency rewards.
 - **Refinement:** Based on the results, the process of developing DeepSeek-R1 incorporated new data, training methods, and reward systems to improve performance. The distilled models based on Qwen and Llama are also a product of this analysis and refinement.
 
-**In Summary:**
+## glossary
 
-The development of DeepSeek-R1 is a process that highlights the interplay between different models, training techniques, and scientific inquiry. The initial model, DeepSeek-R1-Zero, was a pure RL experiment demonstrating emergent reasoning abilities. By addressing the identified limitations of DeepSeek-R1-Zero through the introduction of cold-start data, supervised fine-tuning, and an improved reward system, DeepSeek-R1 achieved enhanced performance in reasoning tasks. The use of GRPO as the RL algorithm allowed for more efficient training by eliminating the need for a separate value model and by aligning reward computation with the model's purpose.
+- Models:
+  - **DeepSeek-R1-Zero**: The initial model trained via reinforcement learning (RL) without supervised fine-tuning (SFT), exhibiting strong reasoning abilities.
+  - **DeepSeek-R1**: An enhanced model that incorporates multi-stage training and cold-start data prior to RL to improve reasoning performance and address limitations of DeepSeek-R1-Zero.
+  - **DeepSeek-V3-Base**: The base model used for training DeepSeek-R1-Zero.
+  - **Qwen and Llama**: Base models used to distill dense models from DeepSeek-R1.
+  - **Dense Models**: Six models (1.5B, 7B, 8B, 14B, 32B, 70B) distilled from DeepSeek-R1, based on Qwen and Llama.
+- Training Processes & Techniques:
+  - **Reinforcement Learning (RL)**: A core method for training both DeepSeek-R1-Zero and DeepSeek-R1, enabling the models to develop reasoning abilities.
+  - **Supervised Fine-Tuning (SFT)**: A training step that DeepSeek-R1 uses before RL, unlike DeepSeek-R1-Zero.
+  - **Group Relative Policy Optimization (GRPO)**: The RL framework used for training, which avoids the need for an additional value model by using average reward within a group as a baseline.
+  - **Cold-Start Data**: A small amount of high-quality data (long Chain-of-Thought examples) used to fine-tune the model before RL, intended to improve reasoning and convergence.
+  - **Chain-of-Thought (CoT)**: A reasoning approach where the model generates a series of intermediate thoughts before arriving at a final answer.
+  - **Rejection Sampling**: A method used to improve data quality by filtering out undesirable outputs such as mixed languages and long paragraphs.
+- Evaluation Metrics & Concepts:
+  - **Accuracy Reward**: A type of reward used during training, it evaluates whether an answer is correct.
+  - **Format Reward**: A reward model that encourages the model to place its thinking process between "<思考>" and "</思考>" tags.
+  - **Language Consistency Reward**: A reward based on the proportion of target language words within the CoT, enhancing readability.
+  - **AIME**: A benchmark used to evaluate the model's performance, with a specific reference to the "pass@1" score.
+- RL Concepts:
+  - **On Policy**: A type of RL where training is based on the model's own generated data, using a "critic" to provide feedback.
+  - **Off Policy**: A type of RL that analyzes existing labeled data, but it can have mismatch problems between training samples and the model.
+  - **Proximal Policy Optimization (PPO)**: An on-policy RL algorithm that DeepSeek-R1 does not use; it requires a value model and can be computationally burdensome.
+  - **Value Model**: An additional model used in PPO, which approximates value function, but is avoided by GRPO.
+- Other Key Concepts:
+  - **Reasoning**: The ability of the model to solve problems and make inferences.
+  - **Supervision Data**: Labeled data used to train a model, which DeepSeek-R1-Zero aims to avoid, instead focusing on self-evolution.
+  - **Reward Model**: A system that provides a signal to determine the direction of RL optimization.
+  - **KL Divergence**: A method used by GRPO that measures the difference between two probability distributions.
+  - **Actor**: In RL context, this refers to the model or agent that learns to take actions.
+  - **Critic**: In RL context, this refers to a component that assesses the actions of the Actor.
+  - **Baseline**: GRPO uses the average reward as the baseline to measure relative performance.
 
-The overall approach showcases a careful and iterative process of observation, hypothesis formation, experimentation, analysis, and refinement. The process is geared toward developing AI systems that not only solve problems effectively but are also user-friendly and interpretable.
+## Reference
+
+[1]: https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf	"DeepSeek_R1"
+
