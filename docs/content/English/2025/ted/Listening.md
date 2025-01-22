@@ -4,8 +4,6 @@
 
 **"Hearing" refers to the physiological process of perceiving sounds, while "listening" implies actively paying attention to and processing those sounds.** For example, you might hear traffic noise but not be actively listening to it.
 
-
-
 Let's define listening as making meaning from sound.
 
 It's a mental process, and it's a process of extraction. 
