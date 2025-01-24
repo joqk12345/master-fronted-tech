@@ -10,6 +10,8 @@ Cursor是VS Code的一个克隆或分支，拥有VS Code的所有扩展，并在
 
 AI赋能的代码完成和生成能力（AI-powered Code Completion and Generation）、自然语言的代码编写（Natural language code editing）、基于代码库感知的聊天助手（Codebase-aware chat assistant）、多文件编辑（Multi-file editing）。能够预测开发者的自然使用需求。
 
+在深入思考一下Cursor的本质：就是「模型 + 交互」**，还有高效的 RAG （检索增强）和联网补充。因此，完全可以把原始文档当作「知识库」，借助工具搭载的 LLM 来萃取
+
 ### 为什么要使用Curosr
 
 1. Increased Productivity
@@ -140,4 +142,31 @@ AI赋能的代码完成和生成能力（AI-powered Code Completion and Generati
 
 ​	you only live once
 
-## 6 - Best Practices for AI Code Generation
+### Checkpoints
+
+Every time you generate code, Composer creates a checkpoint. You can return to any previous version by clicking on `checkout` near that checkpoint. This is handy if you don’t like the current changes and want to revert to an earlier state.
+
+[checkpoints][https://docs.cursor.com/composer/overview#checkpoints]
+
+## 6.Features
+
+### Exploring Cursor Notepads
+
+Notepads are powerful context-sharing tools in Cursor that bridge the gap between composers and chat interactions. Think of them as enhanced reference documents that go beyond the capabilities of `.cursorrules`, allowing you to create reusable contexts for your development workflow.
+
+[Notepads][https://docs.cursor.com/features/beta/notepads]
+
+### Generate Commit Message
+
+1. Stage the files you want to commit
+2. Open the Git tab in the sidebar
+3. Look for the sparkle (✨) icon next to the commit message input field
+4. Click the sparkle icon to generate a commit message based on your staged changes
+
+[commit-message][https://docs.cursor.com/features/generate-commit-message]
+
+## x - Best Practices for AI Code Generation
+
+
+
+### 1. Cursor copywriting optimization workflow
