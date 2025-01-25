@@ -139,10 +139,6 @@ The sources offer practical guidance on how to effectively use pauses in your En
 
 The sources stress that mastering pauses, like any aspect of pronunciation, takes time and effort. However, the payoff is significant.  By incorporating well-placed pauses into your speech, you'll improve clarity, rhythm, and overall fluency, making your English communication more impactful.
 
-
-
-
-
 ## Divide syllables
 
 ### 音节划分的好处
@@ -215,8 +211,6 @@ Here's what the sources imply about phonics:
 - **Phonics is often contrasted with the phonetic alphabet approach.** The source mentions a school principal who believed that relying too heavily on the phonetic alphabet could hinder a student's ability to read independently. This suggests that phonics aims to equip learners with strategies to decode words without always needing to refer to phonetic symbols.
 
 While the sources don't explicitly define phonics, the author's experience and the principal's perspective suggest that it's a method focused on **directly connecting letters and sounds to build reading and spelling skills**.
-
-
 
 ### 音标是什么
 
