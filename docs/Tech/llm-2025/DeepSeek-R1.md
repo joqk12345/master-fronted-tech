@@ -2,6 +2,98 @@
 
 **DeepSeek-R1 involved a complex multi-stage approach**, and the use of GRPO, and a refinement of training data, to improve reasoning capabilities and address initial limitations. Furthermore, it illustrates how **different RL approaches** like PPO and GRPO differ in their use of value models and how their reward functions are designed.
 
+## Visualization
+
+### Model Evolution Flow
+
+```mermaid
+flowchart LR
+    V3[DeepSeek-V3-Base]
+    R0[DeepSeek-R1-Zero]
+    R1[DeepSeek-R1]
+    Dense[Dense Models]
+    
+    V3 -->|GRPO| R0
+    R0 -->|"Cold-Start Data\nSFT + RL\nRejection Sampling"| R1
+    R1 -->|Distillation| Dense
+    
+    subgraph Dense Models
+        direction TB
+        M1[1.5B]
+        M2[7B]
+        M3[8B]
+        M4[14B]
+        M5[32B]
+        M6[70B]
+    end
+```
+
+### Training Components
+```mermaid
+mindmap
+    root((DeepSeek-R1))
+        Training Methods
+            RL
+                GRPO
+                On-Policy
+            SFT
+            Rejection Sampling
+        Data Sources
+            Cold-Start Data
+                Long CoT Examples
+                Detailed Answers
+                Refined R1-Zero Outputs
+            Training Data
+                Filtered Languages
+                Selected Correct Answers
+        Reward System
+            Accuracy Reward
+            Language Consistency
+            Format Reward
+```
+
+### GRPO vs PPO Comparison
+```mermaid
+graph TB
+    subgraph PPO
+        P1[Policy Network]
+        P2[Value Model]
+        P3[Reward Model]
+        P4[KL Penalty]
+        
+        P1 --> P2
+        P1 --> P3
+        P1 --> P4
+    end
+    
+    subgraph GRPO
+        G1[Policy Network]
+        G2[Group Reward Baseline]
+        G3[KL Divergence in Loss]
+        
+        G1 --> G2
+        G1 --> G3
+    end
+```
+
+### Training Process Sequence
+```mermaid
+sequenceDiagram
+    participant Base as DeepSeek-V3-Base
+    participant R0 as R1-Zero
+    participant R1 as DeepSeek-R1
+    participant Dense as Dense Models
+    
+    Base->>R0: Apply GRPO
+    Note over R0: Initial Reasoning Capabilities
+    R0->>R1: Add Cold-Start Data
+    R1->>R1: Apply SFT
+    R1->>R1: Apply RL
+    R1->>R1: Rejection Sampling
+    R1->>Dense: Model Distillation
+    Note over Dense: Multiple Size Variants
+```
+
 **Model Development and Training**
 
 - **DeepSeek-V3-Base + GRPO = DeepSeek-R1-Zero**: This equation illustrates that the DeepSeek-R1-Zero model is a result of applying the Group Relative Policy Optimization (GRPO) algorithm to the DeepSeek-V3-Base model. This foundational step is **crucial for understanding the origin of the model's initial capabilities**.
@@ -126,5 +218,5 @@ The development of DeepSeek-R1 is a process that highlights the interplay betwee
 
 ## Reference
 
-[1]: https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf	"DeepSeek_R1"
+* [DeepSeek_R1][https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf]
 
