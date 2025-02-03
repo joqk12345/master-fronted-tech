@@ -1,4 +1,4 @@
-# your elusive creative genius （难以琢磨的创造力）
+# Your elusive creative genius （难以琢磨的创造力）
 
 
 
@@ -98,6 +98,6 @@ Thank you.
 
 
 
-
+* [transcript][https://singjupost.com/elizabeth-gilbert-on-your-elusive-creative-genius-full-transcript/?singlepage=1]
 
 * [伊丽莎白.吉尔伯特谈呵护创造力及减轻创作压力][https://www.youtube.com/watch?v=86x-u-tz0MA]
