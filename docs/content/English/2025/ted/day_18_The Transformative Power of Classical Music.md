@@ -2,7 +2,7 @@
 
 >  ***Benjamin Zander – English conductor\*** 大师级的造诣，演讲中充满了打消大家tone-leaf的认知、
 >
-> 音符、音调、如何欣赏音乐、音乐的意义、成功的定义、以及正确的沟通方式，非常有启发意义。
+> 音符、音调、情节、如何欣赏音乐、音乐的意义、领导力、成功的定义、以及正确的沟通方式，非常有启发意义。
 >
 > 多年前看过一次，只能听懂第一层次，这次可以多看出了6层的含义，实在是高。
 >
@@ -46,7 +46,7 @@ If you were tone-deaf, you couldn’t change the gears on your car, in a stick s
 
 But I tell you what. It doesn’t work for me to go on with this thing, with such a wide gulf between those who understand, love and are passionate about classical music, and those who have no relationship to it at all. The tone-deaf people, they’re no longer here. But even between those three categories, it’s too wide a gulf. So I’m not going to go on until every single person in this room, downstairs and in Aspen, and everybody else looking, will come to love and understand classical music. So that’s what we’re going to do.
 
-Now, you notice that there is not the slightest doubt in my mind that this is going to work, if you look at my face, right? It’s one of the characteristics of a leader that he not doubt for one moment the capacity of the people he’s leading to realize whatever he’s dreaming. Imagine if Martin Luther King had said, “I have a dream. Of course, I’m not sure they’ll be up to it.”
+Now, you notice that there is not the slightest doubt in my mind that this is going to work, if you look at my face, right? **It’s one of the characteristics of a leader that he not doubt for one moment the capacity of the people he’s leading to realize whatever he’s dreaming.** Imagine if Martin Luther King had said, “I have a dream. Of course, I’m not sure they’ll be up to it.”
 
 All right. So I’m going to take a piece of Chopin. This is a beautiful prelude by Chopin. Some of you will know it. (Music) Do you know what I think probably happened here? When I started, you thought, “How beautiful that sounds. I don’t think we should go to the same place for our summer holidays next year.” It’s funny, isn’t it? It’s funny how those thoughts kind of waft into your head. And of course — Of course, if the piece is long and you’ve had a long day, you might actually drift off.
 
