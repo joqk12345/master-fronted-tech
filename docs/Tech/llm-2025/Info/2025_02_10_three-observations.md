@@ -28,6 +28,8 @@ We continue to see rapid progress with AI development. Here are three observatio
 
 1. **The socioeconomic value of linearly increasing intelligence is super-exponential in nature.** A consequence of this is that we see no reason for exponentially increasing investment to stop in the near future.
 
+   ![image-20250210223606298](assets/image-20250210223606298.png)
+
 If these three observations continue to hold true, the impacts on society will be significant.
 
 We are now starting to roll out AI agents, which will eventually feel like virtual co-workers.
