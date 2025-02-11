@@ -28,9 +28,9 @@ This means **OPM uplift is approximately the combined effect of CTR uplift and C
 ### **Approximation**
 
 For small uplifts, you can approximate:
-
-OPM Uplift≈CTR Uplift+CR Uplift\text{OPM Uplift} \approx \text{CTR Uplift} + \text{CR Uplift}
-
+$$
+\text{OPM Uplift} \approx \text{CTR Uplift} + \text{CR Uplift}
+$$
 But for larger uplifts, the correct formula is:
 $$
 OPM Uplift= \text{CTR Uplift} + \text{CR Uplift} + (\text{CTR Uplift} \times \text{CR Uplift})
