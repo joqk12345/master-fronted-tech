@@ -18,17 +18,17 @@ In a decade, perhaps everyone on earth will be capable of accomplishing more tha
 
 We continue to see rapid progress with AI development. Here are three observations about the economics of AI:
 
-1. **The intelligence of an AI model roughly equals the log of the resources used to train and run it.** These resources are chiefly training compute, data, and inference compute. It appears that you can spend arbitrary amounts of money and get continuous and predictable gains; the scaling laws that predict this are accurate over many orders of magnitude.
+* **The intelligence of an AI model roughly equals the log of the resources used to train and run it.** These resources are chiefly training compute, data, and inference compute. It appears that you can spend arbitrary amounts of money and get continuous and predictable gains; the scaling laws that predict this are accurate over many orders of magnitude.
 
 ​	![image-20250210175012944](assets/image-20250210175012944.png)
 
-1. **The cost to use a given level of AI falls about 10x every 12 months, and lower prices lead to much more use.** You can see this in the token cost from GPT-4 in early 2023 to GPT-4o in mid-2024, where the price per token dropped about 150x in that time period. Moore’s law changed the world at 2x every 18 months; this is unbelievably stronger. 
+* **The cost to use a given level of AI falls about 10x every 12 months, and lower prices lead to much more use.** You can see this in the token cost from GPT-4 in early 2023 to GPT-4o in mid-2024, where the price per token dropped about 150x in that time period. Moore’s law changed the world at 2x every 18 months; this is unbelievably stronger. 
 
 ​	![image-20250210175208538](assets/image-20250210175208538.png)
 
-1. **The socioeconomic value of linearly increasing intelligence is super-exponential in nature.** A consequence of this is that we see no reason for exponentially increasing investment to stop in the near future.
+* **The socioeconomic value of linearly increasing intelligence is super-exponential in nature.** A consequence of this is that we see no reason for exponentially increasing investment to stop in the near future.
 
-   ![image-20250210223606298](assets/image-20250210223606298.png)
+![image-20250210223606298](assets/image-20250210223606298.png)
 
 If these three observations continue to hold true, the impacts on society will be significant.
 
