@@ -320,4 +320,5 @@ sequenceDiagram
 
 
 1. [deepsearch-for-A Little History of the United States][https://chatgpt.com/share/67a6a51e-b85c-8007-b194-107847660a7b]
+1. [美国小史][[https://views-repeat-sng.craft.me/WAkvABsKi3geZB]
 
