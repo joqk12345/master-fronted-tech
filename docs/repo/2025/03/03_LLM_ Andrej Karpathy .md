@@ -2,16 +2,23 @@
 
 
 
-# 文档标题：大型语言模型（LLMs）实用指南与高级应用
+# 大型语言模型（LLMs）实用指南与高级应用
 
 ## 引言
 
 本简报旨在介绍大型语言模型（LLMs）的实际应用，并通过具体案例讲解如何有效利用这些工具来提升工作效率和解决实际问题。 本文件基于实际操作演示和经验总结，旨在为读者提供一个全面而深入的LLM使用指南。
 
+## TOC
+- [1. LLM生态系统概述](#1-llm生态系统概述)
+- [2. 与LLM的基本交互方式](#2-与llm的基本交互方式)
+- [3. LLM的内部运作机制](#3-llm的内部运作机制)
+- [4. LLM使用技巧](#4-llm使用技巧)
+- [5. 思考型模型](#5-思考型模型)
+- [6. 工具使用](#6-工具使用)
+
 ### 1. LLM生态系统概述
 
-发展历程：
-ChatGPT 是由 OpenAI 在 2022 年推出的，首次允许用户通过文本界面与 LLM 进行交互，并迅速在互联网上走红。“chpt it was developed by openai and deployed in 2022 so this was the first time that people could actually just kind of like talk to a large language model through a text interface and this went viral”。
+发展历程：ChatGPT 是由 OpenAI 在 2022 年推出的，首次允许用户通过文本界面与 LLM 进行交互，并迅速在互联网上走红。“chpt it was developed by openai and deployed in 2022 so this was the first time that people could actually just kind of like talk to a large language model through a text interface and this went viral”。
 当前生态系统日益丰富，涌现出许多类似 ChatGPT 的应用，尽管 ChatGPT 仍是功能最丰富且最受欢迎的。
 主要参与者：
 大型科技公司：Google (Gemini), Meta (co-pilot), Microsoft (co-pilot)。
@@ -591,7 +598,6 @@ flowchart TD
     style E fill:#FFF9C4,stroke:#FDD835
     style G fill:#FFCCBC,stroke:#FF5722
 ```
-
 
 记忆功能
 让GPT记住你的一些喜好，从而进行个性化反馈。
